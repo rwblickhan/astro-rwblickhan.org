@@ -1,0 +1,88 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import { Image } from "@astrojs/image/components";
+
+const { title, description } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} />
+  </head>
+  <body>
+    <Header />
+    <article>
+      <div class="pt-32 px-4 mb-8 md:max-w-7xl md:mx-auto">
+        <div
+          class="mb-4 prose dark:prose-invert dark:prose-headings:text-rwb-text-dark"
+        >
+          <h1>Gallery</h1>
+        </div>
+        <div class="grid gap-4 grid-cols-1 md:grid-cols-2 grid-rows-none">
+          <Image
+            src={import("../assets/gallery/1.jpg")}
+            alt="A view of Mission Bay during day"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/2.jpg")}
+            alt="A view of Mission Bay at night"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/3.jpg")}
+            alt="Market Street at dusk"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/4.jpg")}
+            alt="Rooibos enjoying a walk"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/5.jpg")}
+            alt="Columbus Cafe's iconic neon sign"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/6.jpg")}
+            alt="A cross hanging over a Korean church in Oakland"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/7.jpg")}
+            alt="A building along 3rd St"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/8.jpg")}
+            alt="A view down 18th St"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/9.jpg")}
+            alt="A view out an airplane window at dusk"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/10.jpg")}
+            alt="A dark alley in Soma"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/11.jpg")}
+            alt="A TTC mural in Toronto"
+            format="webp"
+          />
+          <Image
+            src={import("../assets/gallery/12.jpg")}
+            alt="The sun setting over Waikiki Beach"
+            format="webp"
+          />
+        </div>
+      </div>
+    </article>
+  </body>
+</html>

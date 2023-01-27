@@ -8,10 +8,26 @@ import remarkCollapse from "remark-collapse";
 import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
+import image from "@astrojs/image";
+
+// https://astro.build/config
 export default defineConfig({
   site: "https://rwblickhan.org",
-  integrations: [mdx(), sitemap(), tailwind()],
+  integrations: [
+    mdx(),
+    sitemap(),
+    tailwind(),
+    image({ serviceEntryPoint: "@astrojs/image/sharp" }),
+  ],
   markdown: {
-    remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of Contents" }]],
+    remarkPlugins: [
+      remarkToc,
+      [
+        remarkCollapse,
+        {
+          test: "Table of Contents",
+        },
+      ],
+    ],
   },
 });
