@@ -1,0 +1,12 @@
+---
+title: Books of 2023
+date: 2023-01-01
+---
+
+1. *The Hearing Trumpet*, Leonora Carrington
+2. *The Sandman Vol. 7: Brief Lives*, Neil Gaiman
+3. *How the World Really Works: The Science Behind How We Got Here and Where We're Going*, Vaclav Smil
+4. *Shuna's Journey*, Hayao Miyazaki (trans. Alex Dudok de Wit)
+5. *I'm Glad My Mom Died*, Jennette McCurdy
+6. *Sex Criminals Vol. 1: One Weird Trick*, Matt Fraction & Chip Zdarsky
+7. *Kill 6 Billion Demons Book 1*, Tom Parkinson-Morgan

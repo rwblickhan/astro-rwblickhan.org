@@ -36,7 +36,6 @@ const technical = defineCollection({
 const logs = defineCollection({
   schema: z.object({
     title: z.string(),
-    description: z.string(),
     date: z
       .string()
       .or(z.date())
@@ -44,10 +43,9 @@ const logs = defineCollection({
   }),
 });
 
-const miscellaneous = defineCollection({
+const misc = defineCollection({
   schema: z.object({
     title: z.string(),
-    description: z.string(),
     date: z
       .string()
       .or(z.date())
@@ -55,22 +53,30 @@ const miscellaneous = defineCollection({
   }),
 });
 
-const gallery = defineCollection({
+const recipes = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z
-      .string()
-      .or(z.date())
-      .transform((val) => new Date(val)),
   }),
 });
+
+// const gallery = defineCollection({
+//   schema: z.object({
+//     title: z.string(),
+//     description: z.string(),
+//     date: z
+//       .string()
+//       .or(z.date())
+//       .transform((val) => new Date(val)),
+//   }),
+// });
 
 export const collections = {
   fiction,
   essays,
   technical,
   logs,
-  miscellaneous,
-  gallery,
+  misc,
+  recipes,
+  // gallery,
 };

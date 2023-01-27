@@ -1,0 +1,21 @@
+---
+import { CollectionEntry, getCollection } from "astro:content";
+import Generic from "../../layouts/Generic.astro";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("technical");
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: post,
+  }));
+}
+type Props = CollectionEntry<"technical">;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<Generic {...post.data}>
+  <h1>{post.data.title}</h1>
+  <Content />
+</Generic>

@@ -12,12 +12,11 @@ const { title, description } = Astro.props;
   </head>
   <body>
     <Header />
-    <article>
-      <div
-        class="pt-32 px-4 mb-8 md:max-w-3xl md:mx-auto prose dark:prose-invert dark:prose-headings:text-rwb-text-dark prose-a:text-rwb-link-light dark:prose-a:text-rwb-link-dark prose-a:no-underline hover:prose-a:underline"
-      >
-        <slot />
-      </div>
-    </article>
+    <div
+      class="pt-32 px-4 mb-8 md:max-w-5xl mx-auto prose dark:prose-invert dark:prose-headings:text-rwb-text-dark prose-a:text-rwb-link-light dark:prose-a:text-rwb-link-dark prose-a:no-underline hover:prose-a:underline"
+    >
+      <h1>{title}</h1>
+      <slot />
+    </div>
   </body>
 </html>
