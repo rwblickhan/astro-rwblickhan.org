@@ -1,25 +1,76 @@
 ---
-import HeaderLink from './HeaderLink.astro';
-import { SITE_TITLE } from '../consts';
+const sections = ["fiction", "nonfiction"];
 ---
 
-<header>
-	<h2>
-		{SITE_TITLE}
-	</h2>
-	<nav>
-		<HeaderLink href="/">Home</HeaderLink>
-		<HeaderLink href="/blog">Blog</HeaderLink>
-		<HeaderLink href="/about">About</HeaderLink>
-		<HeaderLink href="https://twitter.com/astrodotbuild" target="_blank">Twitter</HeaderLink>
-		<HeaderLink href="https://github.com/withastro/astro" target="_blank">GitHub</HeaderLink>
-	</nav>
+<header class="flex flex-col absolute md:fixed top-0 inset-x-0 z-0">
+  <input id="menu-toggle" class="peer hidden" type="checkbox" />
+  <div
+    class="px-4 lg:px-12 bg-black h-24 w-full flex items-center justify-between"
+  >
+    <a
+      class="text-white dark:text-rwb-text-dark text-3xl lg:text-4xl no-underline hover:underline"
+      href="/index.html"
+    >
+      rwblickhan.org
+    </a>
+    <div class="flex flex-row items-center">
+      <a href="/search" class="mx-4 lg:mx-12" aria-label="Search">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          stroke="currentColor"
+          class="w-6 h-6 lg:w-10 lg:h-10 stroke-white"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
+          ></path>
+        </svg>
+      </a>
+      <label class="cursor-pointer" for="menu-toggle">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          stroke="currentColor"
+          class="w-8 h-8 lg:w-12 lg:h-12 stroke-white"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+        </svg>
+      </label>
+    </div>
+  </div>
+  {
+    sections.map((section) => {
+      <div class="pl-4 lg:pl-12 pr-4 lg:pr-10 bg-black h-16 flex items-center justify-between hidden peer-checked:block">
+        <a
+          class="text-white dark:text-rwb-text-dark text-2xl no-underline hover:underline"
+          href="/{{ section.slug }}"
+        >
+          {section}
+        </a>
+      </div>;
+    })
+  }
 </header>
-<style>
-	header {
-		margin: 0em 0 2em;
-	}
-	h2 {
-		margin: 0.5em 0;
-	}
-</style>
+
+<!-- <header>
+  <nav>
+    <HeaderLink href="/">Home</HeaderLink>
+    <HeaderLink href="/blog">Blog</HeaderLink>
+    <HeaderLink href="/about">About</HeaderLink>
+    <HeaderLink href="https://twitter.com/astrodotbuild" target="_blank">
+      Twitter
+    </HeaderLink>
+    <HeaderLink href="https://github.com/withastro/astro" target="_blank">
+      GitHub
+    </HeaderLink>
+  </nav>
+</header> -->
