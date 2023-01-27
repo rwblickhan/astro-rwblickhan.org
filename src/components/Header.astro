@@ -1,5 +1,11 @@
 ---
-const sections = ["fiction", "nonfiction"];
+const collections = [
+  ["Fiction", "fiction"],
+  ["Essays", "essays"],
+  ["Technical", "technical"],
+  ["Logs", "logs"],
+  ["Miscellaneous", "misc"],
+];
 ---
 
 <header class="flex flex-col absolute md:fixed top-0 inset-x-0 z-0">
@@ -48,15 +54,15 @@ const sections = ["fiction", "nonfiction"];
     </div>
   </div>
   {
-    sections.map((section) => {
+    collections.map(([collection, slug]) => (
       <div class="pl-4 lg:pl-12 pr-4 lg:pr-10 bg-black h-16 flex items-center justify-between hidden peer-checked:block">
         <a
           class="text-white dark:text-rwb-text-dark text-2xl no-underline hover:underline"
-          href="/{{ section.slug }}"
+          href={`/${slug}`}
         >
-          {section}
+          {collection}
         </a>
-      </div>;
-    })
+      </div>
+    ))
   }
 </header>
