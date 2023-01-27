@@ -1,20 +1,24 @@
 import { defineCollection, z } from "astro:content";
 
-const blog = defineCollection({
-  // Type-check frontmatter using a schema
+const fiction = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    // Transform string to Date object
-    pubDate: z
+    date: z
       .string()
       .or(z.date())
       .transform((val) => new Date(val)),
-    updatedDate: z
+  }),
+});
+
+const essays = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
       .string()
-      .optional()
-      .transform((str) => (str ? new Date(str) : undefined)),
-    heroImage: z.string().optional(),
+      .or(z.date())
+      .transform((val) => new Date(val)),
   }),
 });
 
@@ -22,7 +26,51 @@ const technical = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
+    date: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val)),
   }),
 });
 
-export const collections = { blog, technical };
+const logs = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val)),
+  }),
+});
+
+const miscellaneous = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val)),
+  }),
+});
+
+const gallery = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val)),
+  }),
+});
+
+export const collections = {
+  fiction,
+  essays,
+  technical,
+  logs,
+  miscellaneous,
+  gallery,
+};
