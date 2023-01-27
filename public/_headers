@@ -1,0 +1,8 @@
+/*
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    X-Frame-Options: DENY
+    X-Content-Type-Options: nosniff
+    Referrer-Policy: no-referrer
+    Permissions-Policy: document-domain=()
+    Content-Security-Policy: script-src 'self' 'nonce-2726c7f26c' 'nonce-3836d8f37d' 'unsafe-eval'; object-src 'self'; frame-ancestors 'none';
