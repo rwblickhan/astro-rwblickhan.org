@@ -35,3 +35,5 @@ date: 2023-01-01
 30. *Instrumental Tourist*, Tim Hecker & Daniel Lopatin
 31. *Pop*, Gas
 32. *The Expanding Universe*, Laurie Spiegel
+33. *Why Make Sense?*, Hot Chip
+34. *Made in the Dark*, Hot Chip
