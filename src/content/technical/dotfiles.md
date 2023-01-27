@@ -37,7 +37,7 @@ Finally, there's `git oops`. I'm not a stickler for commit history cleanliness -
 
 ### delta
 
-![git diff with delta in action](/images/technical/delta.png)
+![git diff with delta in action](/technical/delta.png)
 
 Don't you wish your command-line `git diff` was as pretty as GitHub? Well, now it can be! [`delta`](https://github.com/dandavison/delta) makes `git diff` output much prettier, with word-level highlighting, line numbers, and an optional side-by-side mode. It can even be used as a replacement for `diff` in general!
 
@@ -47,17 +47,17 @@ Don't you wish your command-line `git diff` was as pretty as GitHub? Well, now i
 
 ### tig
 
-![tig in action](/images/technical/tig.png)
+![tig in action](/technical/tig.png)
 
 [`tig`](https://jonas.github.io/tig/) provides a nicer commit viewer for git. I use it for browsing `git log` and `git stash`, since it shows the log and commit next to each other.
 
 ## fzf
 
-![An image of fzf in action](/images/technical/fzf-ctrlr.png)
+![An image of fzf in action](/technical/fzf-ctrlr.png)
 
 [`fzf`](https://github.com/junegunn/fzf) is a command-line fuzzy finder; given some input, `fzf` lets you search through the input with a fuzzy matching search term. One use I find for this is my custom `git` alias for a fancy branch switcher, `git b`, which lets me fuzzy-search for branch names when I want to switch branches.
 
-![An image of fzf in action via git b](/images/technical/fzf.png)
+![An image of fzf in action via git b](/technical/fzf.png)
 
 It's also useful on its own! It can helpfully install a replacement for your terminal's Ctrl+R to fuzzy-search previous commands, as well as a Ctrl+T command to fuzzy-search files in the current directory (although, to be honest, I usually find this option less than effective).
 
@@ -89,7 +89,7 @@ Notably, some of this behavior is also provided by `fzf`, but I usually find `fd
 
 ## tldr
 
-![An image of tldr in action](/images/technical/tldr.png)
+![An image of tldr in action](/technical/tldr.png)
 
 `tldr` is a utility that provides community-maintained help pages for command-line tools, meant to complement traditional [man pages](https://en.wikipedia.org/wiki/Man_page), which are typically verbose. Instead, `tldr` provides a quick cheat-sheet for common use cases. I use the [tealdeer](https://github.com/dbrgn/tealdeer) implementation of `tldr`.
 
@@ -107,7 +107,7 @@ zoxide also has an interactive mode that uses `fzf` to fuzzy-find recent directo
 [2]: https://the.exa.website
 [3]: https://the.exa.website/features/colours
 
-[image-1]: /images/technical/bat.png
-[image-2]: /images/technical/exa.png
-[image-3]: /images/technical/rg.png
-[image-4]: /images/technical/fd.png
+[image-1]: /technical/bat.png
+[image-2]: /technical/exa.png
+[image-3]: /technical/rg.png
+[image-4]: /technical/fd.png

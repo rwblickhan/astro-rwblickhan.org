@@ -15,7 +15,7 @@ const posts = (await getCollection("technical")).sort(
     {
       posts.map((post) => (
         <a
-          href={`/technical/${post.data.title}`}
+          href={`/technical/${post.slug}`}
           class="not-prose border-2 rounded-lg border-black dark:border-gray-300 hover:border-rwb-link-light hover:dark:border-rwb-link-dark"
         >
           <div class="flex flex-col items-baseline justify-between p-4 text-black dark:text-gray-300 hover:text-rwb-link-light hover:dark:text-rwb-link-dark">
