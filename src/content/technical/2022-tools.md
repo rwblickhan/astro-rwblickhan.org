@@ -7,13 +7,13 @@ description: "Tools I'm using in early 2022."
 
 Hey folks, in the spirit of “what’s in your bag,” I wanted to do a quick (and by quick I apparently mean 2,600+ word) overview of the tools I use every day outside of work. Most of these are (surprise, surprise) iOS apps.
 
-![A monk being annoyed by his lacking tools... and also a mouse!](/images/tools/2022/C4773199-F12A-4B38-8859-7AD487D3A9FA.jpeg)
+![A monk being annoyed by his lacking tools... and also a mouse!](/tools/2022/C4773199-F12A-4B38-8859-7AD487D3A9FA.jpeg)
 
 ## Notes
 
 I have become a full-on member of the [**Obsidian**](https://obsidian.md/) cult. (Shout out to Rob and Susie!) I switched to it late last year when I learned they had introduced a fast mobile app, which moreover has good offline support and syncs via iCloud, the lack of which made me fairly lukewarm on Notion, Zettlr, and other popular note-taking apps. I’ve since also discovered the wonderful world of Obsidian plugins; although I only use a few of them, I use them fairly heavily (see below), which prevents me from adopting the mobile-native Craft, which I would otherwise be very interested in.
 
-![An example of a tagged note with a source](/images/tools/2022/D507AB2C-1AAA-4B56-BD84-B6E564C20C0A.png)
+![An example of a tagged note with a source](/tools/2022/D507AB2C-1AAA-4B56-BD84-B6E564C20C0A.png)
 
 I primarily use a core Notes vault, where I throw almost anything I want to remember; typically, that includes notes on articles or books I’ve read, links to resources or tools that look useful, or stray thoughts I want to remember. I don’t bother with folders and I only use backlinking very sparingly, usually when one note directly reminds me of another note or I want to make a “series” of notes; however, I do use tags fairly heavily, with various categories like story ideas or iOS engineering, which I just append to the bottom of a note. I also often import images, particularly diagrams or pictures that are important to the note, which is particularly easy on iPad, since Obsidian integrates with photo library. A very few notes also use the built-in MathJax support for mathematical notation, too.
 
@@ -21,8 +21,8 @@ For notes related to a website, article, or book, I like to keep a “sources”
 
 I also installed the [Excalidraw plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) that lets you use Excalidraw to draw diagrams. I haven’t used this much yet, but it seems useful for programming and worldbuilding diagrams.
 
-![One line of dataview code…](/images/tools/2022/E78C1A6D-E13D-4389-9A70-DFDDC4D8EF85.png)
-![… becomes a nicely-formatted table!](/images/tools/2022/16650094-31BD-4347-9FAF-68A02A1F12E6.png)
+![One line of dataview code…](/tools/2022/E78C1A6D-E13D-4389-9A70-DFDDC4D8EF85.png)
+![… becomes a nicely-formatted table!](/tools/2022/16650094-31BD-4347-9FAF-68A02A1F12E6.png)
 
 I also set up a Yearly Goals vault, where I ported the yearly goals I had previously kept in Notion. In this vault, I use [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) to generate tables out of metadata-annotated notes, in much the same way as Notion’s tables work. I give each goal its own note, with “type” and “status” tags as metadata; then I have a “goal table” note that merely presents a dataview over that year’s notes, as well as providing a list of “other notables” that weren’t part of the goals.
 
@@ -36,7 +36,7 @@ I very occasionally throw notes into the bog-standard Notes app on iOS, just bec
 
 ## Task Management
 
-![Look at all the stuff I have to take notes on 😱](/images/tools/2022/25C75B95-23A1-46D2-B073-E2124FD62F11.png)
+![Look at all the stuff I have to take notes on 😱](/tools/2022/25C75B95-23A1-46D2-B073-E2124FD62F11.png)
 
 I use [**Things**](https://culturedcode.com/things/) as my task manager. It’s somewhat pricey at $10 (and much more, if you want the iPad or Mac apps), but given how heavily I rely on it, it’s a price I would happily pay again. Things is produced with such care and refinement that I can’t imagine switching to a competing system; it is possibly the only software where I have encountered _zero_ bugs, and I have only wanted one minor quality-of-life improvement, which was soon after addressed in an update.
 
@@ -48,7 +48,7 @@ I do have a few projects set up in Things, which I use to “tag” certain cate
 
 ## Writing
 
-![This very article being written!](/images/tools/2022/351C5D92-3010-409A-8703-A0048F4A95CB.png)
+![This very article being written!](/tools/2022/351C5D92-3010-409A-8703-A0048F4A95CB.png)
 
 Most of my “heavier” writing, like this newsletter or novels, is done in [**Ulysses**](https://ulysses.app/). Ulysses feels very your-mileage-may-vary; there are certainly other tools, like iA Writer or Scrivener, playing in the same space — hypothetically even Obsidian could work for this purpose — and Ulysses (in)famously has a subscription fee.
 
@@ -62,7 +62,7 @@ That said, on Mac specifically, I do like to use the newly-launched [**Mimestrea
 
 ## RSS
 
-![Yes, I still read Marginal Revolution; yes, I still feel weird about their posts sometimes.](/images/tools/2022/4C4B8297-E481-4D84-B8E4-0B94C84739F9.png)
+![Yes, I still read Marginal Revolution; yes, I still feel weird about their posts sometimes.](/tools/2022/4C4B8297-E481-4D84-B8E4-0B94C84739F9.png)
 
 Yep, I’m that nerd that never let go of Google Reader. I switched to Feedly, but I never really _loved_ it. Last year, I finally switched over to the free-and-open-source [**NetNewsWire**](https://netnewswire.com/) and never looked back. It is, yep, yet another Apple-platform-native, Just Works™️ solution that syncs over iCloud (are you noticing a theme yet?).
 
@@ -70,7 +70,7 @@ I mostly follow various tech and tech-adjacent blogs, as well as a few academics
 
 ## Link Saving/Read-It-Later
 
-![An article in the process of being read, supposedly.](/images/tools/2022/D0FA504A-5CD4-4CC1-AE50-B5F353A9144D.png)
+![An article in the process of being read, supposedly.](/tools/2022/D0FA504A-5CD4-4CC1-AE50-B5F353A9144D.png)
 
 I was a hardcore Instapaper user back in the day — so hardcore, in fact, that I switched back to iOS after a stint on Android specifically because Android did not have an Instapaper client, which is in fact why I am an iOS user and thus iOS developer today. Unfortunately, Instapaper development stagnated after Marco Arment sold it, and I eventually switched to Pocket, where I was apparently in the top 0.1% of readers. I was never really happy with Pocket, though, especially after the iOS app started crashing regularly.
 
@@ -82,7 +82,7 @@ Now, however, I only put things that I eventually want to give my full, undivide
 
 ## Spaced Repetition
 
-![Whee, let’s learn Chinese!](/images/tools/2022/CF05F888-5D0B-4B04-92CB-B11D20A17D8D.png)
+![Whee, let’s learn Chinese!](/tools/2022/CF05F888-5D0B-4B04-92CB-B11D20A17D8D.png)
 
 I use [**Anki**](https://apps.ankiweb.net/) for spaced-repetition memorization, mostly to force-feed myself Chinese audio as a cheaper alternative to the (ridiculously overpriced) [Glossika](https://ai.glossika.com/).
 
@@ -92,7 +92,7 @@ I also adore **Tsurukame**, a native iOS client for the paid WaniKani kanji-lear
 
 ## Podcasts
 
-![I swear I don’t have a problem!](/images/tools/2022/C7D874A8-4825-4520-A820-CE4B1A3292A3.png)
+![I swear I don’t have a problem!](/tools/2022/C7D874A8-4825-4520-A820-CE4B1A3292A3.png)
 
 I listen to a _lot_ of podcasts, mostly while walking the dog. If you have read this far you will probably not be surprised to learn I use [**Overcast**](https://overcast.fm/), which to me is pretty obviously the best podcast client on iOS. It will probably also not surprise you that I listen to virtually everything at 2x speed with Smart Speed turned on... because I have something like 200 podcast subscriptions. (I don’t have a problem, I swear!)
 
