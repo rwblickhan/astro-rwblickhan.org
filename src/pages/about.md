@@ -1,5 +1,5 @@
 ---
-layout: "../layouts/BlogPost.astro"
+layout: "../layouts/Generic.astro"
 title: "About Me"
 description: "Lorem ipsum dolor sit amet"
 ---
