@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 
 import IndexLayout from "../../layouts/IndexLayout.astro";
+import LinkBox from "../../components/LinkBox.astro";
 
 const posts = (await getCollection("technical")).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
@@ -14,15 +15,11 @@ const posts = (await getCollection("technical")).sort(
   >
     {
       posts.map((post) => (
-        <a
+        <LinkBox
+          title={post.data.title}
           href={`/technical/${post.slug}`}
-          class="not-prose border-2 rounded-lg border-black dark:border-gray-300 hover:border-rwb-link-light hover:dark:border-rwb-link-dark"
-        >
-          <div class="flex flex-col items-baseline justify-between p-4 text-black dark:text-gray-300 hover:text-rwb-link-light hover:dark:text-rwb-link-dark">
-            <h2 class="text-2xl my-4">{post.data.title}</h2>
-            <p>{post.data.description}</p>
-          </div>
-        </a>
+          description={post.data.description}
+        />
       ))
     }
   </div>
