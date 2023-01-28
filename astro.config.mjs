@@ -13,7 +13,12 @@ import image from "@astrojs/image";
 // https://astro.build/config
 export default defineConfig({
   site: "https://rwblickhan.org",
-  integrations: [mdx(), sitemap(), tailwind(), image()],
+  integrations: [
+    mdx(),
+    sitemap(),
+    tailwind(),
+    image({ serviceEntryPoint: "@astrojs/image/sharp" }),
+  ],
   markdown: {
     remarkPlugins: [
       remarkToc,
