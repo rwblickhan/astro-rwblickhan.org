@@ -1,9 +1,9 @@
 ---
-import Generic from "../layouts/Generic.astro";
+import ContentLayout from "../layouts/ContentLayout.astro";
 import "../assets/stork.css";
 ---
 
-<Generic title="Search">
+<ContentLayout title="Search">
   <h1>Search</h1>
 
   <div class="stork-wrapper">
@@ -16,4 +16,4 @@ import "../assets/stork.css";
     stork.initialize("/stork.wasm");
     stork.register("index", "/index.st");
   </script>
-</Generic>
+</ContentLayout>

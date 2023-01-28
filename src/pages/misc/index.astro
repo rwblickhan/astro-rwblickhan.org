@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 
-import Index from "../../layouts/Index.astro";
+import IndexLayout from "../../layouts/IndexLayout.astro";
 
 const posts = (await getCollection("misc")).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
@@ -10,7 +10,7 @@ const posts = (await getCollection("misc")).sort(
 const recipes = await getCollection("recipes");
 ---
 
-<Index title="Miscellaneous" description="Miscellaneous index page">
+<IndexLayout title="Miscellaneous" description="Miscellaneous index page">
   <div
     class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
   >
@@ -46,4 +46,4 @@ const recipes = await getCollection("recipes");
       ))
     }
   </div>
-</Index>
+</IndexLayout>

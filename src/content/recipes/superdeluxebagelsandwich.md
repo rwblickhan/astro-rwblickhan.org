@@ -1,5 +1,4 @@
 ---
-tags: recipe
 title: Super-Deluxe Bagel Sandwich
 description: "A horrible monstrosity I once made."
 ---

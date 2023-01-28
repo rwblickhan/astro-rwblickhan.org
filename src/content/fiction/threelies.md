@@ -1,5 +1,4 @@
 ---
-tags: fiction
 title: Three Lies
 date: 2022-10-21
 description: "You are allowed only three lies in your life."

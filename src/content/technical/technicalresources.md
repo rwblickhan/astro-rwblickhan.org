@@ -1,5 +1,4 @@
 ---
-tags: nonfiction
 title: Technical Resources
 date: 2020-03-04
 description: "Technical resources I like."

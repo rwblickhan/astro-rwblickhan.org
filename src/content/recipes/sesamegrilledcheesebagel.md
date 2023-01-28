@@ -1,5 +1,4 @@
 ---
-tags: recipe
 title: Sesame Grilled Cheese Bagel
 description: "My typical lunch."
 ---

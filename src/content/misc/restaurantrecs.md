@@ -1,5 +1,4 @@
 ---
-tags: misc
 title: Restaurant Recommendations
 date: 2022-11-14
 ---
