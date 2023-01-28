@@ -15,7 +15,7 @@ const posts = (await getCollection("logs")).sort(
   >
     {
       posts.map((post) => (
-        <LinkBox title={post.data.title} href={`/essays/${post.slug}`} />
+        <LinkBox title={post.data.title} href={`/logs/${post.slug}`} />
       ))
     }
   </div>
