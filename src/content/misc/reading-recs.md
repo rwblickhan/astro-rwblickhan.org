@@ -1,5 +1,4 @@
 ---
-tags: misc
 title: "Reading Recommendations"
 date: 2022-09-31
 ---

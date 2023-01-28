@@ -1,7 +1,8 @@
 ---
 import { getCollection } from "astro:content";
 
-import Index from "../../layouts/Index.astro";
+import IndexLayout from "../../layouts/IndexLayout.astro";
+import LinkBox from "../../components/LinkBox.astro";
 
 const posts = (await getCollection("misc")).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
@@ -10,20 +11,13 @@ const posts = (await getCollection("misc")).sort(
 const recipes = await getCollection("recipes");
 ---
 
-<Index title="Miscellaneous" description="Miscellaneous index page">
+<IndexLayout title="Miscellaneous" description="Miscellaneous index page">
   <div
     class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
   >
     {
       posts.map((post) => (
-        <a
-          href={`/misc/${post.slug}`}
-          class="not-prose border-2 rounded-lg border-black dark:border-gray-300 hover:border-rwb-link-light hover:dark:border-rwb-link-dark"
-        >
-          <div class="flex flex-col items-baseline justify-between p-4 text-black dark:text-gray-300 hover:text-rwb-link-light hover:dark:text-rwb-link-dark">
-            <h2 class="text-2xl my-4">{post.data.title}</h2>
-          </div>
-        </a>
+        <LinkBox title={post.data.title} href={`/misc/${post.slug}`} />
       ))
     }
   </div>
@@ -34,16 +28,9 @@ const recipes = await getCollection("recipes");
     class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
   >
     {
-      recipes.map((recipe) => (
-        <a
-          href={`/misc/recipes/${recipe.slug}`}
-          class="not-prose border-2 rounded-lg border-black dark:border-gray-300 hover:border-rwb-link-light hover:dark:border-rwb-link-dark"
-        >
-          <div class="flex flex-col items-baseline justify-between p-4 text-black dark:text-gray-300 hover:text-rwb-link-light hover:dark:text-rwb-link-dark">
-            <h2 class="text-2xl my-4">{recipe.data.title}</h2>
-          </div>
-        </a>
+      posts.map((post) => (
+        <LinkBox title={post.data.title} href={`/misc/recipes/${post.slug}`} />
       ))
     }
   </div>
-</Index>
+</IndexLayout>

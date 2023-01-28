@@ -1,28 +1,22 @@
 ---
 import { getCollection } from "astro:content";
 
-import Index from "../../layouts/Index.astro";
+import IndexLayout from "../../layouts/IndexLayout.astro";
+import LinkBox from "../../components/LinkBox.astro";
 
 const posts = (await getCollection("logs")).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
 );
 ---
 
-<Index title="Essays" description="Essays index page">
+<IndexLayout title="Essays" description="Essays index page">
   <div
     class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
   >
     {
       posts.map((post) => (
-        <a
-          href={`/logs/${post.data.title}`}
-          class="not-prose border-2 rounded-lg border-black dark:border-gray-300 hover:border-rwb-link-light hover:dark:border-rwb-link-dark"
-        >
-          <div class="flex flex-col items-baseline justify-between p-4 text-black dark:text-gray-300 hover:text-rwb-link-light hover:dark:text-rwb-link-dark">
-            <h2 class="text-2xl my-4">{post.data.title}</h2>
-          </div>
-        </a>
+        <LinkBox title={post.data.title} href={`/essays/${post.slug}`} />
       ))
     }
   </div>
-</Index>
+</IndexLayout>

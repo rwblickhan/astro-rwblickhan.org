@@ -1,5 +1,4 @@
 ---
-tags: fiction
 title: The Bridge
 date: 2020-03-04
 description: "There is a bridge with no end…"
