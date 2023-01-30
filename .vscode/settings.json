@@ -1,4 +1,5 @@
 {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "astro-build.astro-vscode"
+    "editor.defaultFormatter": "astro-build.astro-vscode",
+    "editor.fontFamily": "'FuraMono Nerd Font', Menlo, Monaco, 'Courier New', monospace"
 }
