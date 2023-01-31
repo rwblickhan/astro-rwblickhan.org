@@ -28,8 +28,11 @@ const recipes = await getCollection("recipes");
     class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
   >
     {
-      posts.map((post) => (
-        <LinkBox title={post.data.title} href={`/misc/recipes/${post.slug}`} />
+      recipes.map((recipe) => (
+        <LinkBox
+          title={recipe.data.title}
+          href={`/misc/recipes/${recipe.slug}`}
+        />
       ))
     }
   </div>
