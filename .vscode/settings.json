@@ -1,5 +1,6 @@
 {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "astro-build.astro-vscode",
-    "editor.fontFamily": "'FuraMono Nerd Font', Menlo, Monaco, 'Courier New', monospace"
+    "editor.fontFamily": "'FuraMono Nerd Font', Menlo, Monaco, 'Courier New', monospace",
+    "vim.vimrc.enable": true
 }

@@ -5,7 +5,7 @@ date: 2022-09-31
 
 ## Non-Technical
 
-- [A Collection of Unmitigated Pedantry][1] (Bret Deveraux): Roman / medieval historian, often focused on warfare via a pop culture lens; much more interesting than it sounds and one of my primary intellectal influences
+- [A Collection of Unmitigated Pedantry][1] (Bret Devereaux): Roman / medieval historian, often focused on warfare via a pop culture lens; much more interesting than it sounds and one of my primary intellectal influences
 - [The Whippet][2]: Fun facts and trivia with a strong voice
 - [Robin Sloan][3]: Bay Area-based writer (*Mr Penumbra's 24-Hour Bookstore*, *Sourdough*) whose newsletter are always full of insight; *Year of the Meteor* was the direct inspiration for my newsletter
 - [Craig Mod][4]: Tokyo-based photographer known for long walks around Tokyo

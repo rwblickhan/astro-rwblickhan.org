@@ -8,6 +8,8 @@ Hey folks, in the spirit of “what’s in your bag,” I wanted to do a quick (
 
 ![A monk being annoyed by his lacking tools... and also a mouse!](/tools/2022/C4773199-F12A-4B38-8859-7AD487D3A9FA.jpeg)
 
+## Table of Contents
+
 ## Notes
 
 I have become a full-on member of the [**Obsidian**](https://obsidian.md/) cult. (Shout out to Rob and Susie!) I switched to it late last year when I learned they had introduced a fast mobile app, which moreover has good offline support and syncs via iCloud, the lack of which made me fairly lukewarm on Notion, Zettlr, and other popular note-taking apps. I’ve since also discovered the wonderful world of Obsidian plugins; although I only use a few of them, I use them fairly heavily (see below), which prevents me from adopting the mobile-native Craft, which I would otherwise be very interested in.

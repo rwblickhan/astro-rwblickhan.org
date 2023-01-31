@@ -4,6 +4,8 @@ date: 2022-10-03
 description: Non-fiction I recommend!
 ---
 
+## Table of Contents
+
 ## Articles / Essays
 
 - ["The Crying of Lot 55: The Unsolved Mysteries and Alternate Realities of Andrew W.K."](https://www.stereogum.com/2015589/andrew-wk-steev-mike/columns/sounding-board/): Andrew W.K. makes (very good) hard rock about partying, but if you scratch below the surface, you uncover a Lynchian nightmare of misdirection. This pairs well with the video essay ["What IS Nathan Fielder?"](https://www.youtube.com/watch?v=iavoSO6lOLQ), which plumbs the depths of persona and personal identity from the perspective of surreal comedian Nathan Fielder.
