@@ -38,3 +38,4 @@ date: 2023-01-01
 33. *Why Make Sense?*, Hot Chip
 34. *Made in the Dark*, Hot Chip
 35. *Actual Life 3 (January 1 - September 9 2022)*, Fred again..
+36. *The Library Album*, Ikonika
