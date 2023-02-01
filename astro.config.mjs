@@ -21,8 +21,10 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [
+      // Generate a table of contents if we see a "Table of Contents" header
       remarkToc,
       [
+        // Collapse the generated table of contents into a <details> tag
         remarkCollapse,
         {
           test: "Table of Contents",
