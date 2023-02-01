@@ -12,6 +12,7 @@ Here are some folks working in the broader tools-for-thought / human-computer in
 - [Linus Lee](https://thesephist.com) (thesephist.com)
 - [Hillel Wayne](https://www.hillelwayne.com)
 - [Andy Matuschak](https://andymatuschak.org)
+- [Robin Sloan’s lab newsletter](https://www.robinsloan.com/lab/)
 - [Stephen Ango](https://stephanango.com) ([@kepano](https://twitter.com/kepano) from Obsidian)
 - [Simon Willison](https://simonwillison.net) (Datasette)
 - [*Metamuse*](https://museapp.com/podcast/) (podcast from Muse)
