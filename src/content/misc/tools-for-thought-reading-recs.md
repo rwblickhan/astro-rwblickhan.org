@@ -14,6 +14,7 @@ Here are some folks working in the broader tools-for-thought / human-computer in
 - [Andy Matuschak](https://andymatuschak.org)
 - [Robin Sloan’s lab newsletter](https://www.robinsloan.com/lab/)
 - [Stephen Ango](https://stephanango.com) ([@kepano](https://twitter.com/kepano) from Obsidian)
+- [Alexander Obenauer](https://alexanderobenauer.com) (WonderOS)
 - [Simon Willison](https://simonwillison.net) (Datasette)
 - [*Metamuse*](https://museapp.com/podcast/) (podcast from Muse)
 - [*Tools & Craft*](https://podcasts.apple.com/us/podcast/tools-craft-podcast/id1422389039) (podcast from Notion)
