@@ -16,6 +16,7 @@
     "@astrojs/rss": "^2.1.0",
     "@astrojs/sitemap": "^1.0.0",
     "@astrojs/tailwind": "^3.0.0",
+    "@fontsource/fira-mono": "^4.5.10",
     "@fontsource/vollkorn": "^4.5.14",
     "@tailwindcss/typography": "^0.5.9",
     "astro": "^2.0.2",

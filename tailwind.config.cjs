@@ -6,6 +6,7 @@ module.exports = {
     fontFamily: {
       sans: ["Vollkorn", ...defaultTheme.fontFamily.sans],
       serif: ["Vollkorn", ...defaultTheme.fontFamily.serif],
+      mono: ["Fira Mono", ...defaultTheme.fontFamily.mono],
     },
     extend: {
       colors: {
