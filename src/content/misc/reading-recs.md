@@ -14,8 +14,6 @@ date: 2022-09-31
 - [Waxy.org][7] (Andy Baio): Classic blog
 - [The Untranslated][8]: Blog reviewing major literary works not yet available in English translation
 - [Robin Rendle][9]: Writer and designer known for gorgeous photo essays like ["In Praise of Shadows"][10]
-- [Maggie Appleton][11]: Programmer and independent researcher that brings an anthropological perspective to the discipline
-- [thesephist][12] (Linus Lee): Independent researcher focusing on "tools for thought"
 - [maya.land][13]: Classic personal website with a variety of "evergreen" and blog content.
 - [Granola Shotgun][14]: Bay Area urbanist / landlord with an interesting perspective
 - [Restricted Data][15] (Alex Wellerstein): Historian exploring the development of the nuclear bomb; known for creating NUKEMAP
@@ -26,8 +24,6 @@ date: 2022-09-31
 
 For each of these I dropped the description but included a link to a representative post for each. Many of these have a blog *and* newsletter with slightly different content.
 
-- *Computer Stuff* (Hillel Wayne):
-  - ["Mystery Knowledge"][18]
 - Julia Evans
   - [“What happens when you press a key in your terminal?”][19]
 - Aphyr:
@@ -51,14 +47,11 @@ For each of these I dropped the description but included a link to a representat
 [8]: https://theuntranslated.wordpress.com/
 [9]: https://www.robinrendle.com/
 [10]: https://www.robinrendle.com/essays/in-praise-of-shadows/
-[11]: https://maggieappleton.com/
-[12]: https://thesephist.com/
 [13]: https://maya.land/
 [14]: https://www.granolashotgun.com/
 [15]: http://blog.nuclearsecrecy.com/
 [16]: https://astralcodexten.substack.com/
 [17]: https://marginalrevolution.com/
-[18]: https://buttondown.email/hillelwayne/archive/mystery-knowledge-worskshop-discount/
 [19]: https://jvns.ca/blog/2022/07/20/pseudoterminals/
 [20]: https://aphyr.com/posts/341-hexing-the-technical-interview
 [21]: https://apenwarr.ca/log/20201227
