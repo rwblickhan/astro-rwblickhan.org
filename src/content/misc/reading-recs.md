@@ -1,6 +1,6 @@
 ---
 title: "Reading Recommendations"
-date: 2022-09-31
+lastUpdatedDate: 2022-09-31
 ---
 
 ## Non-Technical

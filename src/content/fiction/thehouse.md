@@ -1,6 +1,6 @@
 ---
 title: The House
-date: 2020-12-20
+lastUpdatedDate: 2020-12-20
 description: "A man buys a house that is larger on the inside than the outside."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The Structure
-date: 2021-02-20
+lastUpdatedDate: 2021-02-20
 description: "The crew of a generation ship find a mysterious structure floating on the solar winds of a distant star."
 ---
 

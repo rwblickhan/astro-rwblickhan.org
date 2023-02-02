@@ -1,6 +1,6 @@
 ---
 title: Tools for 2022
-date: 2022-01-16
+lastUpdatedDate: 2022-01-16
 description: "Tools I'm using in early 2022."
 ---
 

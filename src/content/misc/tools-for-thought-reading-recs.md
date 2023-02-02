@@ -1,6 +1,6 @@
 ---
 title: Tools for Thought Reading Recommendations
-date: 2023-01-31
+lastUpdatedDate: 2023-01-31
 ---
 
 Here are some folks working in the broader tools-for-thought / human-computer interaction / novel computing space that I like reading:

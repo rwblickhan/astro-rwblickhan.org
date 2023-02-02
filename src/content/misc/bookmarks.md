@@ -1,6 +1,6 @@
 ---
 title: Bookmarks
-date: 2022-10-03
+lastUpdatedDate: 2022-10-03
 description: Non-fiction I recommend!
 ---
 

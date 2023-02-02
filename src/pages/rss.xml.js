@@ -13,14 +13,14 @@ export async function get(context) {
     items: fictionPosts
       .map((post) => ({
         title: post.data.title,
-        pubDate: post.data.date,
+        pubDate: post.data.lastUpdatedDate,
         description: post.data.description,
         link: `/fiction/${post.slug}/`,
       }))
       .concat(
         essaysPosts.map((post) => ({
           title: post.data.title,
-          pubDate: post.data.date,
+          pubDate: post.data.lastUpdatedDate,
           description: post.data.description,
           link: `/essays/${post.slug}/`,
         }))
@@ -28,7 +28,7 @@ export async function get(context) {
       .concat(
         technicalPosts.map((post) => ({
           title: post.data.title,
-          pubDate: post.data.date,
+          pubDate: post.data.lastUpdatedDate,
           description: post.data.description,
           link: `/technical/${post.slug}/`,
         }))

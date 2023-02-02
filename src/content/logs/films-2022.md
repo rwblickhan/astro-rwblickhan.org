@@ -1,6 +1,6 @@
 ---
 title: Films of 2022
-date: 2022-01-01
+lastUpdatedDate: 2022-01-01
 ---
 
 1. 🔁 *Kiki's Delivery Service* (1989) (... twice)

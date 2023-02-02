@@ -1,6 +1,6 @@
 ---
 title: The Factory
-date: 2020-08-23
+lastUpdatedDate: 2020-08-23
 description: "A linguist studies an alien inscription in a mysterious facility."
 ---
 

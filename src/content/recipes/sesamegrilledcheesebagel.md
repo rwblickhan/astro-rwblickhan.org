@@ -1,6 +1,7 @@
 ---
 title: Sesame Grilled Cheese Bagel
 description: "My typical lunch."
+lastUpdatedDate: 2022-07-01
 ---
 
 ## Ingredients

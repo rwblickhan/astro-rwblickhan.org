@@ -1,7 +1,7 @@
 ---
 title: Chili-Lime Salmon
 description: "Salmon seared with cayenne and lime."
-date: 2022-08-08
+lastUpdatedDate: 2022-08-08
 ---
 
 ## Ingredients

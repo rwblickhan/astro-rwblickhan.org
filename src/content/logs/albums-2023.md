@@ -1,6 +1,6 @@
 ---
 title: Albums of 2023
-date: 2023-01-01
+lastUpdatedDate: 2023-01-01
 ---
 
 1. *Blue Rev*, Alvvays

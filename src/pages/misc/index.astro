@@ -5,7 +5,7 @@ import IndexLayout from "../../layouts/IndexLayout.astro";
 import LinkBox from "../../components/LinkBox.astro";
 
 const posts = (await getCollection("misc")).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+  (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
 
 const recipes = await getCollection("recipes");
@@ -17,7 +17,11 @@ const recipes = await getCollection("recipes");
   >
     {
       posts.map((post) => (
-        <LinkBox title={post.data.title} href={`/misc/${post.slug}`} />
+        <LinkBox
+          title={post.data.title}
+          href={`/misc/${post.slug}`}
+          lastUpdatedDate={post.data.lastUpdatedDate}
+        />
       ))
     }
   </div>
@@ -32,6 +36,7 @@ const recipes = await getCollection("recipes");
         <LinkBox
           title={recipe.data.title}
           href={`/misc/recipes/${recipe.slug}`}
+          lastUpdatedDate={recipe.data.lastUpdatedDate}
         />
       ))
     }

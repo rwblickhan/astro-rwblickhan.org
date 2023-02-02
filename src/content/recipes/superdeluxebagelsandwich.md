@@ -1,6 +1,7 @@
 ---
 title: Super-Deluxe Bagel Sandwich
 description: "A horrible monstrosity I once made."
+lastUpdatedDate: 2022-07-01
 ---
 
 ## Ingredients[^1]

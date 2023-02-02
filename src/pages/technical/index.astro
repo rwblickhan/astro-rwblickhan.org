@@ -5,7 +5,7 @@ import IndexLayout from "../../layouts/IndexLayout.astro";
 import LinkBox from "../../components/LinkBox.astro";
 
 const posts = (await getCollection("technical")).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+  (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
 ---
 
@@ -19,6 +19,7 @@ const posts = (await getCollection("technical")).sort(
           title={post.data.title}
           href={`/technical/${post.slug}`}
           description={post.data.description}
+          lastUpdatedDate={post.data.lastUpdatedDate}
         />
       ))
     }

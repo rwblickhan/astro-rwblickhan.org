@@ -1,6 +1,6 @@
 ---
 title: Books of 2020
-date: 2020-01-01
+lastUpdatedDate: 2020-01-01
 ---
 
 2020 was, of course, a very strange year. In the first few months of the year, I was still going to the [SFPL Main](https://sfpl.org/locations/main-library) on a weekly basis for books and I typically picked up a random assortment of non-fiction that caught my eye. With the start of the pandemic, the Main closed and my non-fiction reading dried up. Instead, inspired by [Literature and History](https://literatureandhistory.com), I embarked on a still-ongoing journey through the "classics", many of which I bought on then-new [Bookshop.org](https://bookshop.org). Later in the year, the Main reopened, causing me to shift to more literary fiction and fantasy, notably deciding to read the entirey of *The Chronicles of Narnia*.

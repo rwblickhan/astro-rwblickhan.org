@@ -1,6 +1,6 @@
 ---
 title: Dotfiles
-date: 2022-06-20
+lastUpdatedDate: 2022-06-20
 description: "An overview of my dotfiles and command line tools I like."
 ---
 

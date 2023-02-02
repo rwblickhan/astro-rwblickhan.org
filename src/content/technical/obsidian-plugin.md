@@ -1,6 +1,6 @@
 ---
 title: "Building an Obsidian Plugin"
-date: 2023-01-30
+lastUpdatedDate: 2023-01-30
 description: "An overview of how I built an Obsidian plugin."
 ---
 

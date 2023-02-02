@@ -1,6 +1,7 @@
 ---
 title: Basic Pancakes
 description: "Exactly what it says on the tin."
+lastUpdatedDate: 2022-07-01
 ---
 
 ## Ingredients

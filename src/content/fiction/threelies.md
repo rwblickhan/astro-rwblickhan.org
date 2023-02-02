@@ -1,6 +1,6 @@
 ---
 title: Three Lies
-date: 2022-10-21
+lastUpdatedDate: 2022-10-21
 description: "You are allowed only three lies in your life."
 ---
 
