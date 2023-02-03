@@ -40,3 +40,4 @@ lastUpdatedDate: 2023-01-01
 35. *Actual Life 3 (January 1 - September 9 2022)*, Fred again..
 36. *The Library Album*, Ikonika
 37. *Freakout / Release*, Hot Chip
+38. *Designer*, Aldous Harding
