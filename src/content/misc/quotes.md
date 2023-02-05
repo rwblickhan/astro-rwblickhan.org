@@ -40,16 +40,16 @@ lastUpdatedDate: 2022-10-02
 - David Moldawer, ["bring the candles"](https://mavengame.com/2020/10/bring-the-candles/), *The Maven Game*
 
 > Death, no matter our desires\
-Can't be distracted. We know this much is true,\
-And it's true for all souls: each of us will one day\
-Find the feast finished and, fattened or famished,\
-Step slowly backward into their own dark hall\
-For that final night of sleep.
+> Can't be distracted. We know this much is true,\
+> And it's true for all souls: each of us will one day\
+> Find the feast finished and, fattened or famished,\
+> Step slowly backward into their own dark hall\
+> For that final night of sleep.
 
 – anonymous (trans. Maria Dahvana Headley), *Beowulf*
 
 > I'd rather die deceived by dreams than give\
-My heart to home and trade and never live.
+> My heart to home and trade and never live.
 
 - Farid Attar (trans. Dick Davis), *Conference of the Birds*, pg. 94
 
