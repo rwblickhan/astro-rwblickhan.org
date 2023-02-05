@@ -71,7 +71,7 @@ My heart to home and trade and never live.
 
 > To his venerable master A., greeting. This is to inform you that I am studying at Oxford with great diligence, but the matter of money stands greatly in the way of my promotion, as it is now two months since I spent the last of what you sent me. The city is expensive and makes many demands. I have to rent lodgings, buy necessaries, and provide for many other things which I cannot now specify. Wherefore I respectfully beg your paternity that by the promptings of divine pity you may assist me, so that I may be able to complete what I have well begun.
 
-– From a circa 1220 form letter provided by Oxford University to students seeking money from patrons (via [*Futility Closet*]((https://www.futilitycloset.com/2021/01/15/student-debt/)))
+– From a circa 1220 form letter provided by Oxford University to students seeking money from patrons (via [*Futility Closet*](https://www.futilitycloset.com/2021/01/15/student-debt/))
 
 > He remembers those vanished years. As though looking through a dusty window pane, the past is something he could see, but not touch. And everything he sees is blurred and indistinct.
 
@@ -158,5 +158,9 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 > Unearthly and eternal there is mine.
 
 - Nezami Ganjavi (trans. Dick Davis), *Layli and Majnun*, pg. 199
+
+> Sam used to say that Marx was the most fortunate person he had ever met - he was lucky with lovers, in business, in looks, in life. But the longer Sadie knew Marx, the more she thought Sam hadn't truly understood the nature of Marx's good fortune. Marx was fortunate because he saw everything as if it were a fortuitous bounty. It was impossible to know - were persimmons his favorite fruit, or had they just now become his favorite fruit because there they were, growing in his own backyard? He had certainly never mentioned persimmons before.
+
+- *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin, pg. 266
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
