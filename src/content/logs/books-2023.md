@@ -12,3 +12,4 @@ lastUpdatedDate: 2023-01-01
 7. *Kill 6 Billion Demons Book 1*, Tom Parkinson-Morgan
 8. *Epicureanism: A Very Short Introduction*, Catherine Wilson
 9. *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
+10. *Kill 6 Billion Demons Book 2: Wielder of Names*, Tom Parkinson-Morgan
