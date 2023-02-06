@@ -163,4 +163,22 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin, pg. 266
 
+> 'I knew your mother so well I could play her part. The same with my own mother and grandmother and my childhood best friend, Euna, who drowned in the lake by her cousin's house. There are no ghosts, but up here' - she gestured toward her head - 'it's a haunted house.'
+
+- *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
+
+> 'And what is love, in the end?' Alabaster said. 'Except the irrational desire to put evolutionary competitiveness aside in order to ease someone else's journey through life?'
+
+- *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
+
+> She had once read in a book about consciousness that over the years, the human brain makes an AI version of your loved ones. The brain collects data, and within your brain, you host a virtual version of that person. Upon the person's death, your brain still believes the virtual person exists, because, in a sense, the person still does. After a while, though, the memory fades, and each year, you are left with an increasingly diminished version of the AI you had made when the person was still alive.
+>
+> She could feel herself forgetting all the details of Marx - the sound of his voice, the feeling of his fingers and the way they gestured, his precise temperature, his scent on clothing, the way he looked walking away, or running up a flight of stairs. Eventually, Sadie imagined that Marx would be reduced to a single image: just a man standing under a distant torii gate, holding his hat in his hands, waiting for her.
+
+- *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
+
+> What makes a person want to shiver in a train station for nothing more than the promise of a secret image? But then, what makes a person drive down an unmarked road in the middle of the night? Maybe it was the willingness to play that hinted at a tender, eternally newborn part in all humans. Maybe it was the willingness to play that kept one from despair.
+
+- *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
