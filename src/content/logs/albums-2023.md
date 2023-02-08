@@ -1,6 +1,6 @@
 ---
 title: Albums of 2023
-lastUpdatedDate: 2023-01-01
+lastUpdatedDate: 2023-02-08
 ---
 
 1. *Blue Rev*, Alvvays
@@ -42,3 +42,4 @@ lastUpdatedDate: 2023-01-01
 37. *Freakout / Release*, Hot Chip
 38. *Designer*, Aldous Harding
 39. *Sibelius: Violin Concerto Op. 47, Serenades, Humoresque*, Anne-Sophie Mutter
+40. *Special*, Lizzo
