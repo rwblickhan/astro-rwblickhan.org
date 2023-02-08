@@ -43,3 +43,4 @@ lastUpdatedDate: 2023-02-08
 38. *Designer*, Aldous Harding
 39. *Sibelius: Violin Concerto Op. 47, Serenades, Humoresque*, Anne-Sophie Mutter
 40. *Special*, Lizzo
+41. *The Juice, Vol. 1*, Emotional Oranges
