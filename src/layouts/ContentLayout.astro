@@ -1,7 +1,10 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 
-const { title, description } = Astro.props;
+const {
+  title = "R. W. Blickhan",
+  description = "The personal site of R. W. Blickhan",
+} = Astro.props;
 ---
 
 <BaseLayout title={title} description={description}>
