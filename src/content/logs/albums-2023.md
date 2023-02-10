@@ -46,3 +46,4 @@ lastUpdatedDate: 2023-02-09
 41. *The Juice, Vol. 1*, Emotional Oranges
 42. *The Juice, Vol. 2*, Emotional Oranges
 43. *The Juice, Vol. 3*, Emotional Oranges
+44. *Made in Lagos*, Wizkid
