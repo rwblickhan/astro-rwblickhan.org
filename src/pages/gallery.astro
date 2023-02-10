@@ -3,7 +3,10 @@ import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import { Image } from "@astrojs/image/components";
 
-const { title, description } = Astro.props;
+const {
+  title = "Gallery",
+  description = "Photography gallery from R. W. Blickhan",
+} = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -25,71 +28,85 @@ const { title, description } = Astro.props;
             src={import("../assets/gallery/1.jpg")}
             alt="A view of Mission Bay during day"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/2.jpg")}
             alt="A view of Mission Bay at night"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/3.jpg")}
             alt="Market Street at dusk"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/4.jpg")}
             alt="Rooibos enjoying a walk"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/5.jpg")}
             alt="Columbus Cafe's iconic neon sign"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/6.jpg")}
             alt="A cross hanging over a Korean church in Oakland"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/7.jpg")}
             alt="A building along 3rd St"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/8.jpg")}
             alt="A view down 18th St"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/9.jpg")}
             alt="A view out an airplane window at dusk"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/10.jpg")}
             alt="A dark alley in Soma"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/11.jpg")}
             alt="A TTC mural in Toronto"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/12.jpg")}
             alt="The sun setting over Waikiki Beach"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/13.jpg")}
             alt="A Muni train waiting in the rain"
             format="webp"
+            width={1920}
           />
           <Image
             src={import("../assets/gallery/14.jpg")}
             alt="A suburban street covered by snow"
             format="webp"
+            width={1920}
           />
         </div>
       </div>
