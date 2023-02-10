@@ -1,6 +1,6 @@
 ---
 title: Albums of 2023
-lastUpdatedDate: 2023-02-08
+lastUpdatedDate: 2023-02-09
 ---
 
 1. *Blue Rev*, Alvvays
@@ -45,3 +45,4 @@ lastUpdatedDate: 2023-02-08
 40. *Special*, Lizzo
 41. *The Juice, Vol. 1*, Emotional Oranges
 42. *The Juice, Vol. 2*, Emotional Oranges
+43. *The Juice, Vol. 3*, Emotional Oranges
