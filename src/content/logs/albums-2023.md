@@ -50,3 +50,4 @@ lastUpdatedDate: 2023-02-09
 45. *World Psychedelic Classics 5: Who is William Onyeabor?*, William Onyeabor
 46. *What?!*, William Onyeabor
 47. *No Man Stop Me*, Brushy One-String
+48. *The King of One String*, Brushy One-String
