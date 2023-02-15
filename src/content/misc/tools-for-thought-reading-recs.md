@@ -14,6 +14,7 @@ Here are some folks working in the broader tools-for-thought / human-computer in
 - [Andy Matuschak](https://andymatuschak.org)
 - [Fernando Borretti](https://borretti.me/article/)
 - [Robin Sloan’s lab newsletter](https://www.robinsloan.com/lab/)
+- [Michael Nielsen](https://michaelnotebook.com/tag/tft.html)
 - [Stephen Ango](https://stephanango.com) ([@kepano](https://twitter.com/kepano) from Obsidian)
 - [Alexander Obenauer](https://alexanderobenauer.com) (WonderOS)
 - [Simon Willison](https://simonwillison.net) (Datasette)
@@ -32,6 +33,7 @@ And some essays I find particularly rich:
 - ["Tools for Thought as Cultural Practices, not Computational Objects"](https://maggieappleton.com/tools-for-thought), Maggie Appleton
 - ["Notational intelligence"](https://thesephist.com/posts/notation), Linus Lee
 - ["Always bet on text"](https://graydon2.dreamwidth.org/193447.html), Graydon Hoare / ["Against 'text'](https://futuretextpublishing.com/2022/04/12/1-2/), Omar Rizwan[^1]
+- ["How can we develop transformative tools for thought?"](https://numinous.productions/ttft/), Andy Matuschak and Michael Nielsen
 - ["Giving Names to Things"](https://buttondown.email/hillelwayne/archive/giving-names-to-things/), Hillel Wayne
 - ["Large Language Models as a Cultural Technology"](https://www.youtube.com/live/k7rPtFLH6yw?feature=share), Alison Gopnik / ["ChatGPT Is a Blurry JPEG of the Web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web), Ted Chiang / ["Reverse Outlining with Language Models"](https://maggieappleton.com/reverse-outline), Maggie Appleton
 - ["Basic HTML Competency Is the New Punk Folk Explosion!"](https://coolguy.website/basic-html-competency-is-the-new-punk-folk-explosion/), Zach Mandeville
