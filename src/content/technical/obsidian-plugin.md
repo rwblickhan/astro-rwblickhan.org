@@ -1,6 +1,6 @@
 ---
 title: "Building an Obsidian Plugin"
-lastUpdatedDate: 2023-01-30
+lastUpdatedDate: 2023-02-14
 description: "An overview of how I built an Obsidian plugin."
 ---
 
@@ -47,7 +47,7 @@ One interesting thing here is that `FuzzySuggestModal` is [generic](https://basa
 In this case, I'm searching for tags, which are just simple `string`s.
 
 The other interesting thing here is the reference to `Search`.
-I wanted to open the search panel with the results for the selected tag, but the search panel isn't exposed by the Obsidian API;
+I want to read and write to the global search panel to append the selected tag, but the search panel isn't exposed by the Obsidian API;
 it's actually another plugin, albeit a core plugin maintained by the Obsidian team.
 As a result, I have to be a bit sneaky to get a reference to it, as we'll see below.
 I didn't want to couple that to my business logic, so instead I pass it in as an [interface](https://basarat.gitbook.io/typescript/type-system/interfaces) that exposes the function I need:
@@ -55,14 +55,15 @@ I didn't want to couple that to my business logic, so instead I pass it in as an
 ```typescript
 interface Search {
     openGlobalSearch(_: string): void;
+    getGlobalSearchQuery(): string;
 }
 ```
 
-The rest of the logic is fairly straightforward:
+The logic for displaying the items is fairly straightforward:
 
 ```typescript
 getItems(): string[] {
-    const files = app.vault.getAllLoadedFiles();
+    const files = app.vault.getMarkdownFiles();
     const itemSet = new Set<string>();
     for (const file of files) {
         const cache = app.metadataCache.getCache(file.path);
@@ -79,18 +80,78 @@ getItems(): string[] {
 getItemText(item: string): string {
     return item;
 }
+```
 
+`getItems` is responsible for loading all the items I want to fuzzy-find over and `getItemText` is responsible for providing the text I display in the results.
+In this case, I'm fuzzy-finding strings, so `getItemText` can just return the tag text directly.
+
+`getItems` is more interesting.
+First, I load _all_ the Markdown (non-settings) files in the vault (Obsidian's term for a directory of notes).
+I then load the metadata for each file, which includes the tags, then use the built-in `getAllTags` to retrieve the tags from the metadata.
+Finally, I throw all the tags into a `Set` to deduplicate them, before converting that back to an `Array` to respect the return type.
+
+Once the user has found the tag they're looking for, they can click or press Enter to select it.
+However, there's some extra logic here:
+
+- By default, the search for the new tag will replace whatever's currently in the global search bar.
+- If the user presses Shift, the tag search will be negated, searching for notes that _don't_ contain that tag.
+- If the user presses Command or Control, the tag will either be appended to the search, if not already present, and removed, if already present.
+- Negation and appending can be combined, by pressing Shift _and_ Command or Control.
+
+`onChooseItem` handles that logic:
+
+```typescript
 onChooseItem(item: string, evt: MouseEvent | KeyboardEvent): void {
-    this.search.openGlobalSearch(`tag:${item}`);
+    const toggle = evt.ctrlKey || evt.metaKey;
+    const negate = evt.shiftKey;
+
+    const defaultTagSearchString = `tag:${item}`;
+    const negatedTagSearchString = `-tag:${item}`;
+    const tagSearchString = negate
+        ? negatedTagSearchString
+        : defaultTagSearchString;
+
+    if (toggle) {
+        let query = this.search.getGlobalSearchQuery();
+        let needsNewTagSearchString = false;
+
+        if (negate && !query.includes(negatedTagSearchString)) {
+            needsNewTagSearchString = true;
+        }
+        query = query.replaceAll(negatedTagSearchString, "");
+
+        if (!negate && !query.includes(defaultTagSearchString)) {
+            needsNewTagSearchString = true;
+        }
+        query = query.replaceAll(defaultTagSearchString, "");
+
+        if (needsNewTagSearchString) {
+            this.search.openGlobalSearch(
+                query.concat(query.length === 0 ? "" : " ", tagSearchString)
+            );
+        } else {
+            this.search.openGlobalSearch(query);
+        }
+    } else {
+        this.search.openGlobalSearch(tagSearchString);
+    }
 }
 ```
 
-`getItems` is responsible for loading all the items I want to fuzzy-find over, `getItemText` is responsible for providing the text we display in the results, and `onChooseItem` is responsible for handling selection. In this case, I'm fuzzy-finding strings, so `getItemText` can just return the tag text directly. Similarly, `onChooseItem` just takes the selected tag string and opens the global search, using the `tag:` prefix, to display all the notes with that tag.
+Luckily, the `FuzzySuggestModal` provides `evt`, representing the mouse or keyboard event, which lets me check if Shift, Command, or Control is pressed.
 
-`getItems` is more interesting.
-First, I load _all_ the files in the vault (Obsidian's term for a directory of notes).
-I then load the metadata for each file, which includes the tags, then use the built-in `getAllTags` to retrieve the tags from the metadata.
-Finally, I throw all the tags into a `Set` to deduplicate them, before converting that back to an `Array` to respect the return type.
+The important part here is calling `openGlobalSearch`, passing the tag with a `tag:` prefix (or `-tag:` in the negated case), to display all notes with that tag.
+That's basically all I do in the non-toggle case.
+
+The toggle case is a bit more complicated.
+I have to keep track of `needsNewTagSearchString` so that I can append the tag if it's not already present.
+An additional complication is that the non-negated search string (`tag:...`) is a substring of the negated version (`-tag:...`), so I can't check them independently.
+
+Instead, what I do first is check if there's any instances of the negated string, so I can set `needsNewTagSearchString` for the negated case.
+I can then remove any instances of the negated search string, since all other cases should remove it.
+Then, with the negated search string removed, I can check for instances of the regular search string to set `needsNewTagSearchString` for the default case,
+before removing any instances of the regular search string.
+Finally, I can reopen the query, appending the new search string if necessary.
 
 Now that I have a fuzzy-find modal that can open search, I need some way to open the modal, and I still need to pass a `Search` reference to the modal as well.
 That's all done from our core `Plugin`:
@@ -112,7 +173,7 @@ export default class TagSearchPlugin extends Plugin {
                 if (searchPlugin && searchPlugin.instance) {
                     new TagSearchModal(this.app, search).open();
                 } else {
-                    new UnsupportedTagSearchModel(this.app).open();
+                    new Notice("Please enable the search core plugin!");
                 }
             }, 
         });
@@ -124,7 +185,7 @@ I only override `onload`, which lets me set up the plugin when it's loaded.
 For now, I've only added it as a command (via `addCommand`), accessible through the Cmd-P command modal or a user-defined hotkey.
 In particular, when the `open-tag-search` command is run, I find the `searchPlugin` by explicitly providing its ID, then unwrap it and pass it to a new instance of my `TagSearchModal`, which I immediately `open`.
 
-I also provide a very simple `UnsupportedTagSearchModel` if the user doesn't have the global search core plugin enabled.
+If the global search core plugin isn't enabled, I just show a basic `Notice` provided by Obsidian.
 The `eslint-disable` line is there to avoid getting yelled at by the linter for casting to `any`, which I need to do to get `this.app` to typecheck, since `internalPlugins` isn't publicly exposed on the `App` type in the API.
 
 And that's... about it!
