@@ -51,3 +51,4 @@ lastUpdatedDate: 2023-02-09
 46. *What?!*, William Onyeabor
 47. *No Man Stop Me*, Brushy One-String
 48. *The King of One String*, Brushy One-String
+49. *Journey Through the Secret Life of Plants*, Stevie Wonder
