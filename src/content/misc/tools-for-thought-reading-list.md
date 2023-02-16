@@ -1,5 +1,5 @@
 ---
-title: Tools for Thought Reading Recommendations
+title: Tools for Thought Reading List
 lastUpdatedDate: 2023-02-12
 ---
 
