@@ -1,6 +1,6 @@
 ---
 title: "Building an Obsidian Plugin"
-lastUpdatedDate: 2023-02-14
+lastUpdatedDate: 2023-02-18
 description: "An overview of how I built an Obsidian plugin."
 ---
 
@@ -29,6 +29,14 @@ class TagSearchModal extends FuzzySuggestModal<string> {
         this.search = search;
     }
 
+    onOpen(): void {
+        // See below!
+    }
+
+    onClose(): void {
+        // See below!
+    }
+
     getItems(): string[] {
         // See below!
     }
@@ -38,6 +46,10 @@ class TagSearchModal extends FuzzySuggestModal<string> {
     }
 
     onChooseItem(item: string, evt: MouseEvent | KeyboardEvent): void {
+        // See below!
+    }
+
+    private maybeChooseFirstSuggestion(evt: KeyboardEvent) {
         // See below!
     }
 }
@@ -152,6 +164,48 @@ I can then remove any instances of the negated search string, since all other ca
 Then, with the negated search string removed, I can check for instances of the regular search string to set `needsNewTagSearchString` for the default case,
 before removing any instances of the regular search string.
 Finally, I can reopen the query, appending the new search string if necessary.
+
+That all works fine for clicking, but `onChooseItem` will _only_ be called if the user presses Enter with no modifiers, which isn't the behavior I want.
+To get around that, I hook into the `"keydown"` event on the input element provided by the modal's parent class:
+
+```typescript
+    onOpen(): void {
+        super.onOpen();
+        this.inputEl.addEventListener("keydown", (ev: KeyboardEvent) => {
+            this.maybeChooseFirstSuggestion(ev);
+        });
+    }
+
+    onClose(): void {
+        super.onClose();
+        this.inputEl.removeEventListener("keydown", (ev: KeyboardEvent) => {});
+    }
+```
+
+Notably, I'm careful to remove the event listener again when the fuzzy suggest modal is closed.
+
+The event listener calls into a new helper:
+
+```typescript
+    private maybeChooseFirstSuggestion(evt: KeyboardEvent) {
+        const toggle = evt.ctrlKey || evt.metaKey;
+        const negate = evt.shiftKey;
+        // "Enter"-only case is handled by FuzzySuggestModal already
+        if (evt.key === "Enter" && (toggle || negate)) {
+            const suggestions = this.getSuggestions(this.inputEl.value);
+            const choice = suggestions.first()?.item;
+            if (choice != null) {
+                this.close();
+                this.onChooseItem(choice, evt);
+            }
+        }
+    }
+```
+
+Now, because the Enter-only case is already handled by `onChooseItem` and I don't want double-selection, I only add extra logic if the user had actually pressed a modifier key as well.
+In that case, I use `getSuggestions` - provided by `FuzzySuggestModal` - and pick the first, top suggestion, just like pressing Enter alone would do.
+If there's acutally a suggestion, I call `onChooseItem` manually, making sure to also `close` the modal itself, which is handled for me in the normal case.
+Now we get all the same behavior for clicking and pressing Enter!
 
 Now that I have a fuzzy-find modal that can open search, I need some way to open the modal, and I still need to pass a `Search` reference to the modal as well.
 That's all done from our core `Plugin`:
