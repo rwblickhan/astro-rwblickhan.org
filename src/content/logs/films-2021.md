@@ -24,7 +24,7 @@ lastUpdatedDate: 2021-01-01
 19. *The Adventures of Buckaroo Banzai Across the 8th Dimension* (1984)
 20. *American Psycho* (2000)
 21. *Roman Holiday* (1953)
-22. *Sanjay's Super Team* (2015) 
+22. *Sanjay's Super Team* (2015)
 23. *Bao* (2018)
 24. *Beyond the Visible: Hilma af Klint* (2019)
 25. *The Secret of NIMH* (1982)
