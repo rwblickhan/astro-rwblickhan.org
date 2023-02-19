@@ -169,17 +169,17 @@ That all works fine for clicking, but `onChooseItem` will _only_ be called if th
 To get around that, I hook into the `"keydown"` event on the input element provided by the modal's parent class:
 
 ```typescript
-    onOpen(): void {
-        super.onOpen();
-        this.inputEl.addEventListener("keydown", (ev: KeyboardEvent) => {
-            this.maybeChooseFirstSuggestion(ev);
-        });
-    }
+onOpen(): void {
+    super.onOpen();
+    this.inputEl.addEventListener("keydown", (ev: KeyboardEvent) => {
+        this.maybeChooseFirstSuggestion(ev);
+    });
+}
 
-    onClose(): void {
-        super.onClose();
-        this.inputEl.removeEventListener("keydown", (ev: KeyboardEvent) => {});
-    }
+onClose(): void {
+    super.onClose();
+    this.inputEl.removeEventListener("keydown", (ev: KeyboardEvent) => {});
+}
 ```
 
 Notably, I'm careful to remove the event listener again when the fuzzy suggest modal is closed.
@@ -187,24 +187,31 @@ Notably, I'm careful to remove the event listener again when the fuzzy suggest m
 The event listener calls into a new helper:
 
 ```typescript
-    private maybeChooseFirstSuggestion(evt: KeyboardEvent) {
-        const toggle = evt.ctrlKey || evt.metaKey;
-        const negate = evt.shiftKey;
-        // "Enter"-only case is handled by FuzzySuggestModal already
-        if (evt.key === "Enter" && (toggle || negate)) {
-            const suggestions = this.getSuggestions(this.inputEl.value);
-            const choice = suggestions.first()?.item;
-            if (choice != null) {
-                this.close();
-                this.onChooseItem(choice, evt);
-            }
+private maybeChooseFirstSuggestion(evt: KeyboardEvent) {
+    const toggle = evt.ctrlKey || evt.metaKey;
+    const negate = evt.shiftKey;
+    // "Enter"-only case is handled by FuzzySuggestModal already
+    if (evt.key === "Enter" && (toggle || negate)) {
+        const choice =
+            this.resultContainerEl
+                .getElementsByClassName("is-selected")
+                .item(0)?.textContent ?? null;
+        if (choice != null) {
+            this.close();
+            this.onChooseItem(choice, evt);
         }
     }
+}
 ```
 
 Now, because the Enter-only case is already handled by `onChooseItem` and I don't want double-selection, I only add extra logic if the user had actually pressed a modifier key as well.
-In that case, I use `getSuggestions` - provided by `FuzzySuggestModal` - and pick the first, top suggestion, just like pressing Enter alone would do.
-If there's acutally a suggestion, I call `onChooseItem` manually, making sure to also `close` the modal itself, which is handled for me in the normal case.
+
+The complicated part here is that I don't want to select the first suggestion - I want the suggestion the user actually has selected.
+Unfortunately, as far as I can tell, there's no way to do this with the API provided by Obsidian.
+Instead, I take the `resultContainerEl` provided by the modal parent class, which holds the entire selection page, then find the element with the `is-selected` CSS class, which is only applied to the selected item.
+I figured out that last part with the Obsidian developer tools, which can be opened from Obsidian with Cmd-Opt-I.
+
+If there's actually a suggestion, I call `onChooseItem` manually, making sure to also `close` the modal itself, which is handled for me in the normal case.
 Now we get all the same behavior for clicking and pressing Enter!
 
 Now that I have a fuzzy-find modal that can open search, I need some way to open the modal, and I still need to pass a `Search` reference to the modal as well.
