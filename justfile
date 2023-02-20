@@ -1,5 +1,5 @@
-alias r := run
 alias p := push
+alias r := run
 alias b := build
 alias c := clean
 
