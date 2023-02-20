@@ -53,3 +53,4 @@ lastUpdatedDate: 2023-02-09
 48. *The King of One String*, Brushy One-String
 49. *Journey Through the Secret Life of Plants*, Stevie Wonder
 50. *Your Mother Should Know*, Brad Mehldau
+51. *Klaus Nomi*, Klaus Nomi
