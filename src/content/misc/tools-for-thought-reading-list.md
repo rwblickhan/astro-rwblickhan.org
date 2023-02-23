@@ -15,6 +15,7 @@ Here are some folks working in the broader tools-for-thought / human-computer in
 - [Fernando Borretti](https://borretti.me/article/)
 - [Robin Sloan’s lab newsletter](https://www.robinsloan.com/lab/)
 - [Michael Nielsen](https://michaelnotebook.com/tag/tft.html)
+- [Spencer Chang](https://www.spencerchang.me/)
 - [Stephen Ango](https://stephanango.com) ([@kepano](https://twitter.com/kepano) from Obsidian)
 - [Alexander Obenauer](https://alexanderobenauer.com) (WonderOS)
 - [Simon Willison](https://simonwillison.net) (Datasette)
