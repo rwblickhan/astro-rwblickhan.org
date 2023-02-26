@@ -1,6 +1,6 @@
 ---
 title: Quotes
-lastUpdatedDate: 2022-10-02
+lastUpdatedDate: 2023-02-25
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -180,5 +180,9 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 > What makes a person want to shiver in a train station for nothing more than the promise of a secret image? But then, what makes a person drive down an unmarked road in the middle of the night? Maybe it was the willingness to play that hinted at a tender, eternally newborn part in all humans. Maybe it was the willingness to play that kept one from despair.
 
 - *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
+
+> **Art Matters.** It matters that this \[the generative AI revolution\] is happening art-first, poetry-first. I don’t think that was just an accident, I think it was inevitable, and I think that tells us something about learning, language, and the world. It matters that the first staticky voices we’ve dialed in with our massive, multi-billion-parameter arrays are dreamers, confabulators, and improvisers. It matters that Chess and Go, the sites where we first encountered their older, more serious siblings, are artworks. Artworks carved out of instrumental reason. Artworks that, long before computers existed, were spinning beautiful webs of logic and attention. Art is not a precious treasure in need of protection. Art is a fearsome wellspring of human power from which we will draw the weapons we need to storm the gates of the reality studio and secure the future.
+
+- ["Well, Here We Are"](https://franklantz.substack.com/p/well-here-we-are), *Donkeyspace*, Frank Lantz
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
