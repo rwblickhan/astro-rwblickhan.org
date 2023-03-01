@@ -56,3 +56,4 @@ lastUpdatedDate: 2023-02-09
 51. *Klaus Nomi*, Klaus Nomi
 52. *This Is Why*, Paramore
 53. *Everything I Know About Love*, Laufey
+54. *Typical of Me EP*, Laufey
