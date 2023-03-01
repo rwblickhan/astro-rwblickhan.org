@@ -55,3 +55,4 @@ lastUpdatedDate: 2023-02-09
 50. *Your Mother Should Know*, Brad Mehldau
 51. *Klaus Nomi*, Klaus Nomi
 52. *This Is Why*, Paramore
+53. *Everything I Know About Love*, Laufey
