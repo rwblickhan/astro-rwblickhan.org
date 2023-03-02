@@ -8,7 +8,9 @@ const posts = (await getCollection("misc")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
 
-const recipes = await getCollection("recipes");
+const recipes = (await getCollection("recipes")).sort(
+  (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
+);
 ---
 
 <IndexLayout title="Miscellaneous" description="Miscellaneous index page">
