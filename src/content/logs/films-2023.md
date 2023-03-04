@@ -8,4 +8,4 @@ lastUpdatedDate: 2023-01-01
 3. *Ant-Man and the Wasp: Quantumania* (2023)
 4. 🔁 *In the Mood for Love* (2000)
 5. *Pussy* (2016)
-6. *The Last Black Man in San Francisco*
+6. *The Last Black Man in San Francisco* (2019)
