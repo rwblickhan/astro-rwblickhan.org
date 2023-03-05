@@ -14,6 +14,7 @@ lastUpdatedDate: 2023-01-01
 9. *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
 10. *Kill 6 Billion Demons Book 2: Wielder of Names*, Tom Parkinson-Morgan
 11. 🔁 *The Bloody Chamber*, Angela Carter
+12. *The Incal*, Alejandro Jodorowsky & Moebius
 
 ## Skimmed
 
