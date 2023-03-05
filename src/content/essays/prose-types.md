@@ -1,10 +1,10 @@
 ---
 title: "Types of Prose in Fiction"
-lastUpdatedDate: 2023-03-01
+lastUpdatedDate: 2023-03-05
 description: "A theory of prose categorization"
 ---
 
-I was recently thinking about what various authors are comparatively good at, and I realized most types of English prose in fiction can probably fit into a small number of categories. Here’s the broad categorization I came up with.
+I was recently thinking about what various authors are comparatively good at, and I realized most types of English prose in fiction can probably fit into a small number of categories. Here’s the broad categorization I came up with, with a running example.
 
 ## Dialogue
 
@@ -74,23 +74,17 @@ Action looks like:
 
 ## Exposition
 
-Exposition is the statement of facts, usually from a narrator’s perspective, but sometimes from a character’s perspective as well, where it will often be blended into the other types of prose above.
+Exposition is the statement of facts, usually from a narrator’s perspective, but sometimes from a character’s perspective as well, where it will often be blended into the other types of prose above and may or may not be factually accurate from an "objective" perspective.
 
 Exposition looks like:
 
 > That was the beginning of the Great Time War, which would rage for another three decades or a few centuries, depending on how you count.
 
-In some cases, especially with unreliable or non-omniscient narrators, exposition will not state facts or will be adorned with extra rhetorical content. For instance, in _Orlando_, the narrator becomes increasingly flustered when trying to describe how Orlando suddenly turned into a woman:
-
-> Orlando had become a woman—there is no denying it. But in every other respect, Orlando remained precisely as he had been. The change of sex, though it altered their future, did nothing whatever to alter their identity. Their faces remained, as their portraits prove, practically the same.
-
-Still, this serves to state the fact that Orlando had become a woman and so is still exposition.
-
 ## Metafiction
 
 This category is cheating somewhat, but there’s a broad set of techniques that play on readers’ expectations of prose. For instance, _House of Leaves_ uses irregular typesetting and a plethora of rambling footnotes to disorient the reader.
 
-In our running example, this would look like a footnote citing a non-existing scholarly account of the Great Time War.
+In our running example, this would look like a footnote citing a non-existing scholarly account of the Great Time War.[^2]
 
 ## Composition
 
@@ -109,3 +103,4 @@ The other use of this categorization is to compare different writers, which is w
 This relates to Andy Matuschak’s concept of [deliberate and implicit practice](https://andymatuschak.org/sight-reading/). Just like pianists practice sight reading new pieces regularly as a form of deliberate practice, should fiction writers be deliberately practicing different kinds of prose? Perhaps writers should assemble a series of “piano scales” for different prose types.
 
 [^1]: I’ve always found it interesting that the modern novel arose across the world more-or-less independently around the same time — _Don Quixote_ was published in Europe between 1605 and 1615, while _Jin Ping Mei_ was first printed in China in 1610. An interesting topic for a different essay, perhaps.
+[^2]: For more examples of metafiction, c.f. James, William, _A Brief History of the Great Time War_ (Belknap Press: An Imprint of Harvard University Press, 2070).
