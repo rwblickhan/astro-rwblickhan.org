@@ -13,6 +13,7 @@ lastUpdatedDate: 2022-11-14
 - Saigon Sandwich: Cash-only $4 banh mi, so you _know_ it's good.
 - [Boichik Bagels](https://boichikbagels.com): Ten seconds after putting a Boichik bagel in my mouth, I declared it the best thing I had ever tasted - Boichik is the clear winner of the Bay Area bagel game, though Schlok's is a close second. Unfortunately, they're currently only open in Berkeley and Palo Alto, so I've only ever had it when someone brings it to the office.
 - [Schlok's Bagels & Lox](https://www.schloks.com): Yes, the bagels are $3 a piece, but they're worth it. I typically get the egg & cheese sandwich with ham on an untoasted plain bagel, alongside an everything bagel with cream cheese. It's also convenient to bike to, sitting at one end of [the Wiggle](https://en.wikipedia.org/wiki/The_Wiggle) and a block away from [the Panhandle](https://en.wikipedia.org/wiki/Panhandle_(San_Francisco)).
+- [Señor Sisig](https://www.senorsisig.com): Some would say this Filipino fusion food truck is overrated - peak hype was in 2018 - but it's still a solid only-in-San-Francisco experience and probably the restaurant I've been to the most, thanks to its proximity to my apartment. Most swear by the French-fry-filled California Sisig Burrito, but I prefer the Tosilog Burrito with its side of peppered vinegar.
 
 ## Vancouver
 
