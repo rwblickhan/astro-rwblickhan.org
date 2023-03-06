@@ -7,7 +7,7 @@ lastUpdatedDate: 2022-11-14
 
 ## San Francisco
 
-- [Saap Ver](https://www.saapver.com): Country-style Thai street food that's arguably my favorite restaurant in San Francisco. Their specialities include variants of papaya salad and extremely spicy sausage, but I'm personally fond of their crispy pork belly fried rice and duck curry.
+- [Saap Ver](https://www.saapver.com): Country-style Thai street food that's arguably my favorite restaurant in San Francisco and possibly the world. Their specialities include variants of papaya salad and extremely spicy sausage, but I'm personally fond of their crispy pork belly fried rice and duck curry.
 - [Kin Khao](https://www.kinkhao.com): Michelin-starred contemporary Thai in a tiny corner of a downtown Hilton by local-culinary-hero Chef Pim Techamuanvivit. For a Michelin-starred restaurant, it's not too crowded (you _can_ get 8pm reservations on two days notice), not too pricey (usually in the $50-$70-per-person range), and has a reasonable range of vegetarian plates (about a third of the menu). They're famous for the rabbit green curry, where an entire rabbit leg is dipped in mild green curry, but the real standout is the mushroom hor mok, where you ladle mushroom-curry-in-a-jar over crispy rice cakes.
 - Delah Coffee: Yemeni coffee shop that stays open until 10pm (in San Francisco!). Trying a pot of the spiced coffee is a must, but I go back for the wide variety of pastries, especially the hot pink rose petal cake.
 - Saigon Sandwich: Cash-only $4 banh mi, so you _know_ it's good.
