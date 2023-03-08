@@ -57,4 +57,4 @@ lastUpdatedDate: 2023-02-09
 52. *This Is Why*, Paramore
 53. *Everything I Know About Love*, Laufey
 54. *Typical of Me EP*, Laufey
-55 *Take Me to Your Leader*, King Geedorah
+55. *Take Me to Your Leader*, King Geedorah
