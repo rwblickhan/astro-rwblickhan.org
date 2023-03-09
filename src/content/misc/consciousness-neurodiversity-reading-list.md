@@ -21,5 +21,6 @@ Here's some works, fiction and non-fiction, related to consciousness and neurodi
 
 ### Fiction
 
-- *The Kiss Quotient*, Helen Hoang
 - *Everything Everywhere All At Once*
+- *The Kiss Quotient*, Helen Hoang
+- *The Haunting of Hill House*, Shirley Jackson
