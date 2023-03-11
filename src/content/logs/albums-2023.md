@@ -58,3 +58,4 @@ lastUpdatedDate: 2023-02-09
 53. *Everything I Know About Love*, Laufey
 54. *Typical of Me EP*, Laufey
 55. *Take Me to Your Leader*, King Geedorah
+56. *PAINLESS*, Nilüfer Yanya
