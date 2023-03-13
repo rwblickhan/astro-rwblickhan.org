@@ -25,9 +25,7 @@ Here are some folks working in the broader tools-for-thought / human-computer in
 And some essays I find particularly rich:
 
 - ["A Rant About 'Technology'"](http://www.ursulakleguinarchive.com/Note-Technology.html), Ursula K. Le Guin
-- ["An app can be a home-cooked meal"](https://www.robinsloan.com/notes/home-cooked-app/), Robin Sloan
-- ["A year of new avenues"](https://www.robinsloan.com/lab/new-avenues/), Robin Sloan
-- ["The slab and the permacomputer"](https://www.robinsloan.com/lab/slab/), Robin Sloan
+- ["An app can be a home-cooked meal"](https://www.robinsloan.com/notes/home-cooked-app/) / ["A year of new avenues"](https://www.robinsloan.com/lab/new-avenues/) / ["The slab and the permacomputer"](https://www.robinsloan.com/lab/slab/), Robin Sloan
 - ["The Magic of Small Databases"](https://tomcritchlow.com/2023/01/27/small-databases/), Tom Critchlow
 - ["Dunbar’s number and how speaking is 2.8x better than picking fleas"](https://interconnected.org/home/2022/04/05/dunbar), Matt Webb
 - ["Clues for software design in how we sketch maps of cities"](https://interconnected.org/home/2021/03/31/maps), Matt Webb (particularly the section "Your memory resets when you walk through a door")
@@ -36,10 +34,12 @@ And some essays I find particularly rich:
 - ["Always bet on text"](https://graydon2.dreamwidth.org/193447.html), Graydon Hoare / ["Against 'text'](https://futuretextpublishing.com/2022/04/12/1-2/), Omar Rizwan[^1]
 - ["How can we develop transformative tools for thought?"](https://numinous.productions/ttft/), Andy Matuschak and Michael Nielsen
 - ["Giving Names to Things"](https://buttondown.email/hillelwayne/archive/giving-names-to-things/), Hillel Wayne
+- ["How to make memory systems widespread?"](https://michaelnotebook.com/mmsw/), Michael Nielsen
 - ["Large Language Models as a Cultural Technology"](https://www.youtube.com/live/k7rPtFLH6yw?feature=share), Alison Gopnik / ["ChatGPT Is a Blurry JPEG of the Web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web), Ted Chiang / ["Reverse Outlining with Language Models"](https://maggieappleton.com/reverse-outline), Maggie Appleton / ["New thing! Browse the BBC In Our Time archive by Dewey decimal code"](https://interconnected.org/home/2023/02/07/braggoscope), Matt Webb / ["Phase Change"](https://www.robinsloan.com/lab/phase-change/), Robin Sloan
 - ["Basic HTML Competency Is the New Punk Folk Explosion!"](https://coolguy.website/basic-html-competency-is-the-new-punk-folk-explosion/), Zach Mandeville
 - ["Datasette is my data hammer"](https://www.jeremiak.com/blog/datasette-the-data-hammer/), Jeremia K
 - ["Homoiconic spreadsheets: What, How & Why"](https://youtu.be/U9uZlEqUQw0), Eli Parra
+- ["Stop Writing Dead Programs"](https://youtu.be/8Ab3ArE8W3s), Jack Rusher / ["What a good debugger can do"](https://werat.dev/blog/what-a-good-debugger-can-do/), Andy Hippo
 - ["Cursed Problems in Game Design"](https://youtu.be/8uE6-vIi1rQ), Alex Jaffe
 
 [^1]: There's no anchor links in Future Text Publishing, so you'll have to search for find Omar's essay.
