@@ -1,14 +1,14 @@
 ---
 title: Restaurant Recommendations
-lastUpdatedDate: 2022-11-14
+lastUpdatedDate: 2023-03-15
 ---
 
 ## Table of Contents
 
 ## San Francisco
 
-- [Saap Ver](https://www.saapver.com): Country-style Thai street food that's arguably my favorite restaurant in San Francisco and possibly the world. Their specialities include variants of papaya salad and extremely spicy sausage, but I'm personally fond of their crispy pork belly fried rice and duck curry.
-- [Kin Khao](https://www.kinkhao.com): Michelin-starred contemporary Thai in a tiny corner of a downtown Hilton by local-culinary-hero Chef Pim Techamuanvivit. For a Michelin-starred restaurant, it's not too crowded (you _can_ get 8pm reservations on two days notice), not too pricey (usually in the $50-$70-per-person range), and has a reasonable range of vegetarian plates (about a third of the menu). They're famous for the rabbit green curry, where an entire rabbit leg is dipped in mild green curry, but the real standout is the mushroom hor mok, where you ladle mushroom-curry-in-a-jar over crispy rice cakes.
+- [Saap Ver](https://www.saapver.com): Country-style Thai street food that's arguably my favorite restaurant in San Francisco and possibly the world. Their specialities include variants of papaya salad and extremely spicy sausage, but I'm personally fond of their crispy pork belly fried rice and duck curry - make sure to get the latter with some sticky rice.
+- [Kin Khao](https://www.kinkhao.com): Michelin-starred contemporary Thai in a tiny corner of a downtown Hilton by local-culinary-hero Chef Pim Techamuanvivit. For a Michelin-starred restaurant, it's not too crowded (you _can_ get 8pm reservations on two days notice), not too pricey (usually in the $40-60 per person range), and has a reasonable range of vegetarian plates (about a third of the menu). They're famous for the rabbit green curry, where an entire rabbit leg is dipped in mild green curry, but the real standout is the mushroom hor mok, where you ladle mushroom-curry-in-a-jar over crispy rice cakes.
 - Delah Coffee: Yemeni coffee shop that stays open until 10pm (in San Francisco!). Trying a pot of the spiced coffee is a must, but I go back for the wide variety of pastries, especially the hot pink rose-petal milk cake.
 - Saigon Sandwich: Cash-only $4 banh mi in the Tenderloin, so you _know_ it's good.
 - [Boichik Bagels](https://boichikbagels.com): Ten seconds after putting a Boichik bagel in my mouth, I declared it the best thing I had ever tasted - Boichik is the clear winner of the Bay Area bagel game, though Schlok's is a close second. Unfortunately, they're currently only open in Berkeley and Palo Alto, so I've only ever had it when someone brings it to the office.
