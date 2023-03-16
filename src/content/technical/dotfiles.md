@@ -19,19 +19,19 @@ Well, duh. Where would we even be as software engineers without `git`?
 
 That said, I like to set a lot of aliases in my `.gitconfig`, like:
 
-- `git bd`: **b**ranch **d**elete, searching for branches with `fzf`
-- `git c`: **c**heckout branch, searching for branches with `fzf`
-- `git cam`: **c**ommit **a**ll with **m**essage
-- `git camp`: **c**ommit **a**ll with **m**essage and **p**ush
-- `git d`: **d**iff with better behavior (showing staged and unstaged changes)
-- `git df`: **d**iff with another branch by **f**inding with `fzf`
-- `git dfn`: **d**iff with another branch by **f**inding with `fzf`, showing **n**ame-only
-- `git l`: show the **l**og with one-line format
-- `git lf`: show the **l**og and **f**ind a commit with `fzf`
-- `git lfc`: show the **l**og, **f**ind a commit with `fzf`, and **c**opy to keyboard
-- `git m`: **m**erge branch, searching for branches with `fzf`
-- `git p`: **p**ush
-- `git s`: show **s**tatus
+- `git bd`: *b*ranch *d*elete, searching for branches with `fzf`
+- `git c`: *c*heckout branch, searching for branches with `fzf`
+- `git cam`: *c*ommit *a*ll with *m*essage
+- `git camp`: *c*ommit *a*ll with *m*essage and *p*ush
+- `git d`: *d*iff with better behavior (showing staged and unstaged changes)
+- `git df`: *d*iff with another branch by *f*inding with `fzf`
+- `git dfn`: *d*iff with another branch by *f*inding with `fzf`, showing *n*ame-only
+- `git l`: show the *l*og with one-line format
+- `git lf`: show the *l*og and *f*ind a commit with `fzf`
+- `git lfc`: show the *l*og, *f*ind a commit with `fzf`, and *c*opy to keyboard
+- `git m`: *m*erge branch, searching for branches with `fzf`
+- `git p`: *p*ush
+- `git s`: show *s*tatus
 - `git unstage`: unstage the listed files
 - `git oops`: squash changes with the last commit, because I committed too early
 
@@ -83,7 +83,7 @@ I use a few standard Unix utilies that I've aliased to more modern versions.
 - `sd` (for `sed`): I often do search-and-replace through an IDE, but sometimes it's nice to do it from the command line and just check `git diff` for changes. Unfortunately `sed` makes absolutely no sense to me. `sd` is a simple alternative with a better interface for the common case.
 - `fd` (for `find`): `fd` works almost identically to `find`, but it's a bit faster and, like `rg`, respects `.gitignore` files by default. In particular, I have `fzf`'s Ctrl-T hotkey set up to use `fd` by default.
 - HTTPie: This is a straightforward replacement for good ol' curl or wget for making basic HTTP requests, but I prefer it to curl because the command-line interface makes a lot more sense.
--`dust` (for `du`): Every so often I need to check why a directory is so big, and in those instances I turn to `dust`, a modern replacement for `du` with prettier output.
+- `dust` (for `du`): Every so often I need to check why a directory is so big, and in those instances I turn to `dust`, a modern replacement for `du` with prettier output.
 
 ## Situationally Useful
 
