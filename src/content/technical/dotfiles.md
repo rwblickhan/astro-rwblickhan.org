@@ -1,114 +1,98 @@
 ---
 title: Dotfiles
-lastUpdatedDate: 2022-06-20
-description: "An overview of my dotfiles and command line tools I like."
+lastUpdatedDate: 2023-03-15
+description: "An overview of command line tools I like."
 ---
 
 ## Table of Contents
 
-Despite being primarily an iOS developer, I use the command line quite a bit - I guess old habits from my time as an embedded software intern die hard. That said, I like a number of modern command line tools, many written in Rust, which are typically blazing fast and have better command-line interfaces than traditional Unix tools.
+I like to use the command line, perhaps because I ["always bet on text"](https://graydon2.dreamwidth.org/193447.html).
+Here are a few of the command line tools I use the most heavily.
 
-If you like this list, you might also like Julia Evan's [more comprehensive list](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)!
+## Essentials
 
-## neovim
+There are a few command-line tools I use so heavily that I'm genuinely not sure how I would be productive without them.
 
-I have a noted love for vim, but when I'm not using an IDE with a vim mode, I'm actually typically using [neovim](https://neovim.io), alias `nvim`, which is a modern reimplementation of vim with much less technical debt, a scripting engine based on Lua instead of notoriously-idiosyncratic vimscript, and reasonable defaults like syntax highlighting enabled by default. It also has a full implementation of the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/), which enables it to have very rich, Visual Studio Code-esque plugins.
+### git
 
-## git
+Well, duh. Where would we even be as software engineers without `git`?
 
-### .gitconfig
+That said, I like to set a lot of aliases in my `.gitconfig`, like:
 
-I've set up a number of "cute" aliases in my `.gitconfig`:
+- `git bd`: **b**ranch **d**elete, searching for branches with `fzf`
+- `git c`: **c**heckout branch, searching for branches with `fzf`
+- `git cam`: **c**ommit **a**ll with **m**essage
+- `git camp`: **c**ommit **a**ll with **m**essage and **p**ush
+- `git d`: **d**iff with better behavior (showing staged and unstaged changes)
+- `git df`: **d**iff with another branch by **f**inding with `fzf`
+- `git dfn`: **d**iff with another branch by **f**inding with `fzf`, showing **n**ame-only
+- `git l`: show the **l**og with one-line format
+- `git lf`: show the **l**og and **f**ind a commit with `fzf`
+- `git lfc`: show the **l**og, **f**ind a commit with `fzf`, and **c**opy to keyboard
+- `git m`: **m**erge branch, searching for branches with `fzf`
+- `git p`: **p**ush
+- `git s`: show **s**tatus
+- `git unstage`: unstage the listed files
+- `git oops`: squash changes with the last commit, because I committed too early
 
-```bash
-[alias]
-    b = "!f() { git checkout $(git for-each-ref --color=always --sort=-committerdate refs/heads/ --format='%(color:bold)%(HEAD)%(color:reset) %(color:blue)%(refname:short)%(color:reset) (%(color:green)%(committerdate:relative)%(color:reset)) %(contents:subject)' | fzf --ansi --preview=\"echo {} | cut -c 3- | cut -d ' ' -f1 | xargs git log --color=always\" | cut -c 3- | cut -d ' ' -f 1);  }; f"
-    c = "!f() { git diff $(git for-each-ref --color=always --sort=-committerdate refs/heads/ --format='%(color:bold)%(HEAD)%(color:reset) %(color:blue)%(refname:short)%(color:reset) (%(color:green)%(committerdate:relative)%(color:reset)) %(contents:subject)' | fzf --ansi --preview=\"echo {} | cut -c 3- | cut -d ' ' -f1 | xargs git log --color=always\" | cut -c 3- | cut -d ' ' -f 1) HEAD;  }; f"
-    cn = "!f() { git diff $(git for-each-ref --color=always --sort=-committerdate refs/heads/ --format='%(color:bold)%(HEAD)%(color:reset) %(color:blue)%(refname:short)%(color:reset) (%(color:green)%(committerdate:relative)%(color:reset)) %(contents:subject)' | fzf --ansi --preview=\"echo {} | cut -c 3- | cut -d ' ' -f1 | xargs git log --color=always\" | cut -c 3- | cut -d ' ' -f 1) HEAD --name-only;  }; f"
-    l="log --oneline --decorate"
-    m = "!f() { git merge $(git for-each-ref --color=always --sort=-committerdate refs/heads/ --format='%(color:bold)%(HEAD)%(color:reset) %(color:blue)%(refname:short)%(color:reset) (%(color:green)%(committerdate:relative)%(color:reset)) %(contents:subject)' | fzf --ansi --preview=\"echo {} | cut -c 3- | cut -d ' ' -f1 | xargs git log --color=always\" | cut -c 3- | cut -d ' ' -f 1);  }; f"
-    oops = "commit -a --no-edit --amend"
-```
+### fzf
 
-These are a little hard to read, but `git b`, `git c`, and `git m` provide replacements for `git checkout`, `git diff`, and `git merge` that use `fzf` to fuzzy-find the target branch, which is useful if you have a lot of branches. Why don't the letters match the actual commands? They're my own mnemonics - **b**ranch, **c**hanges, and **m**erge. `git cn` is identical to `git c`, but lists only filenames. I stole these aliases from a coworker, though unfortunately I don't remember who exactly.
+`fzf` is up there with `git` as one of the miracles of command-line productivity. You throw it lines of text - usually piped in from somewhere else - and it presents a fancy, and highly customizable, fuzzy-find interface. As you can see above, that's extremely useful when writing little shell scripts.
 
-`git l` is an alias for the cleaner one-line `git log` output.
+However, what I use it for most often is actually its Ctrl-R / Ctrl-T functionality. By default, Ctrl-R replaces the shell's built-in search, using `fzf` to fuzzy-find previous commands, even from days or weeks ago. Ctrl-T, meanwhile, performs a recursive fuzzy-find of filenames in the current directory and subdirectories, which is perfect to quickly pull up files by name regardless of the exact path.
 
-Finally, there's `git oops`. I'm not a stickler for commit history cleanliness - I typically combine related commits into a PR and squash-merge the result - but occasionally it is nice to squash a change into the last commit, usually when something got missed (hence "oops").
+### rg
 
-### delta
+`rg` is my all-purpose, cross-repo search tool. Throw a regex at `rg` and it'll chew through files looking for it, even respecting `.gitignore` files!
+I end up using it instead of my IDE's search tool almost always - it's just much more effective at actually finding what I'm looking for, and even works in plaintext situations, like if I need to search an Obsidian vault.
 
-![git diff with delta in action](/technical/delta.png)
+### tmux
 
-Don't you wish your command-line `git diff` was as pretty as GitHub? Well, now it can be! [`delta`](https://github.com/dandavison/delta) makes `git diff` output much prettier, with word-level highlighting, line numbers, and an optional side-by-side mode. It can even be used as a replacement for `diff` in general!
+One of these days I'll get around to writing up why I adopted tmux, but suffice to say I found my ~week of investment in learning tmux worthwhile, not least because I can operate a terminal without lifting my hands from the keyboard at all. When I'm running a terminal these days, I'm almost always running tmux.
+Among the benefits it offers:
 
-### gh
+- tmux can split the window with a simple hotkey, regardless of where it's being run.
+- Since tmux works on a client-server model, the shell keeps running even if you close the window.
+- There's a lot of utility just in having a pretty large scrollback buffer that you can save and search.
 
-[`gh`](https://cli.github.com) is the GitHub command-line interface. `gh` has access to most GitHub features, like issues and releases, but since I don't run a major open-source project community, I don't find those too useful. However, for most projects, I like to separate features into branches and make a PR, which is slightly more convenient with `gh pr`.
+I also use a few plugins:
 
-### tig
+- `tmux-resurrect`/`tmux-continuum`: Together, these plugins will automatically save the state of the tmux session and automatically restore it when you restart.
+- `tmux-open`: Just press "o" while a file or URL is highlighted in tmux to open it. That combines particular well with...
+- `tmux-copycat`: Use regexes to search the scrollback buffer! It also has predefined hotkeys for some regex patterns, so for instance I can press Ctrl-\ then Ctrl-u to highlight the latest URL, then "o" to open it, or run `git status` then repeatedly press Ctrl-\ then Ctrl-g to iterate over the files in the status prompt.
+- `tmux-yank`: This makes the copying behavior work a little better, notably while opening tmux via a VS Code terminal.
+- `vim-tmux-navigator`: This lets me use Ctrl-h/Ctrl-j/Ctrl-k/Ctrl-l to navigate around tmux splits and Neovim sessions.
 
-![tig in action](/technical/tig.png)
+## Preferred
 
-[`tig`](https://jonas.github.io/tig/) provides a nicer commit viewer for git. I use it for browsing `git log` and `git stash`, since it shows the log and commit next to each other.
+These are command-line tools I've been using a lot later that I would find inconvenient to switch away from.
 
-## fzf
+- `fish`: I'm not convinced that fish, the "friendly interactive shell", is radically better than, say, zsh with oh-my-zsh, but it does start up much faster, has nicer autocompletions by default, and has a much less confusing shell scripting language.
+- `neovim`: These days I use VS Code for most code editing - making Neovim work like an IDE is just too painful - but when I just need to quickly open and edit a file, I still fall back on it. I use a handful of plugins - notably `vim-tmux-navigator` to make it play nicer with tmux - but otherwise I try to keep its configuration pretty minimal.
+- `delta`: This little utility makes git diff output _much_ prettier, with word-level highlighting, line numbers, and an optional side-by-side mode. It can even be used outside a git context as a replacement for `diff` in general!
+`zoxide`: This is one of a couple different tools that remembers which directories you've previously visited, so you can `cd` to them without typing out the full path. For instance, I can just go `z dot` and I'll jump to `~/Developer/dotfiles`. I actually have this aliased directly to `cd` - going back to `cd` would be really annoying.
+- `just`: I used to write little Makefiles encapsulating various useful commands for a project. Unfortunately, thanks to its history as a build tool, `make` has many well-known rough edges, like the requirement for `.PHONY` rules. `just` is a tool that basically provides Makefiles without the build system. That may not sound useful, and Hacker News types mock it every time it's posted, but I still like to make one for almost every repo. A great example where it's useful is with `hledger`, a plain-text accounting system with a, uh, _convoluted_ CLI - I can turn a command like `hledger is -D -p "from 7 days ago"  -f 2023.journal` into `just daily`, and it's helpfully documented directly in the `justfile`.
+- `cheat`/`tldr`: These are similar tools for sharing command-line cheatsheets. `cheat` allows you to manage your own cheatsheets, while I've found `tldr`'s community-contributed cheatsheets to be high quality. I use both.
 
-![An image of fzf in action](/technical/fzf-ctrlr.png)
+## Modernized Unix Tools
 
-[`fzf`](https://github.com/junegunn/fzf) is a command-line fuzzy finder; given some input, `fzf` lets you search through the input with a fuzzy matching search term. One use I find for this is my custom `git` alias for a fancy branch switcher, `git b`, which lets me fuzzy-search for branch names when I want to switch branches.
+I use a few standard Unix utilies that I've aliased to more modern versions.
 
-![An image of fzf in action via git b](/technical/fzf.png)
+- `bat` (for `cat`): A few of the other tools like to send output through `cat`, and every so often it's useful to splat a file to the command line. In those instances I use `bat` instead of `cat`, because its output is a bit nicer and it automatically pipes to a pager like `less` if the output is too long.
+- `exa` (for `ls`): It's `ls` with pretty colors and icons! Frankly I don't have a strong reason to prefer this over bog-standard `ls`, but the colors are nice.
+- `sd` (for `sed`): I often do search-and-replace through an IDE, but sometimes it's nice to do it from the command line and just check `git diff` for changes. Unfortunately `sed` makes absolutely no sense to me. `sd` is a simple alternative with a better interface for the common case.
+- `fd` (for `find`): `fd` works almost identically to `find`, but it's a bit faster and, like `rg`, respects `.gitignore` files by default. In particular, I have `fzf`'s Ctrl-T hotkey set up to use `fd` by default.
+- HTTPie: This is a straightforward replacement for good ol' curl or wget for making basic HTTP requests, but I prefer it to curl because the command-line interface makes a lot more sense.
+-`dust` (for `du`): Every so often I need to check why a directory is so big, and in those instances I turn to `dust`, a modern replacement for `du` with prettier output.
 
-It's also useful on its own! It can helpfully install a replacement for your terminal's Ctrl+R to fuzzy-search previous commands, as well as a Ctrl+T command to fuzzy-search files in the current directory (although, to be honest, I usually find this option less than effective).
+## Situationally Useful
 
-## bat
+I don't use this often, but they're helpful when I do need them.
 
-![An image of bat in action][image-1]
-
-[`bat`][1] is described as a "`cat(1)` clone with wings". `cat` is technically supposed to be for concatenating text, but more often it’s simply used to print a file to the command line. `bat` leans into that usage by automatically piping large files into a pager, as well as adding syntax highlighting and `git` integration. I have `cat` aliased to `bat`.
-
-## exa
-
-![An image of exa in action][image-2]
-
-[exa][2] is a modern replacement for `ls`. Although I do think it has more reasonable defaults than `ls`, I really only use it for one reason: the [pretty colours][3]! I have `ls` aliased to `exa`.
-
-## rg
-
-![An image of rg in action][image-3]
-
-[ripgrep](https://github.com/BurntSushi/ripgrep), aka `rg`, is a grep tool; it allows you to efficiently search the full text of all files in a directory using regular expressions. Admittedly, it's often more convenient to use a real IDE's search function, but `rg` works everywhere and is _blazingly_ fast.
-
-## fd
-
-![An image of fd in action][image-4]
-
-[`fd`](https://github.com/sharkdp/fd) is a modern replacement for `find`. Unlike `rg`, which searches the full text of files, `fd` just searches filenames. This is useful in large codebases where you know roughly what a file is named but don't know what directory it lives in. `fd` has a more intuitive command-line interface than `find` and even ignores files in your `.gitignore` by default! I have `find` aliased to `fd`.
-
-Notably, some of this behavior is also provided by `fzf`, but I usually find `fd` much more effective in actually finding what I want.
-
-## tldr
-
-![An image of tldr in action](/technical/tldr.png)
-
-`tldr` is a utility that provides community-maintained help pages for command-line tools, meant to complement traditional [man pages](https://en.wikipedia.org/wiki/Man_page), which are typically verbose. Instead, `tldr` provides a quick cheat-sheet for common use cases. I use the [tealdeer](https://github.com/dbrgn/tealdeer) implementation of `tldr`.
-
-## zoxide
-
-zoxide is a replacement for `cd` that lets you jump around quickly. At a basic level, it can completely emulate the behavior of typical `cd`. However, you can also give it a fuzzy search term, and it will use a "frecency" algorithm to determine which directory, anywhere on your system, to jump to. I have `cd` aliased to `z`, the binary for zoxide.
-
-zoxide also has an interactive mode that uses `fzf` to fuzzy-find recent directory paths. I have that functionality aliased to `cdi`, though I haven't gotten in the habit of using it yet.
-
-## httpie
-
-[HTTPie](https://httpie.io/cli) is a recent discovery. I don't need to use `curl` very often to make HTTP requests, but when I do, it's always a bit painful to remember the syntax. HTTPie has a much more obvious command-line interface and also built-in support for making HTTPS requests.
-
-[1]: https://github.com/sharkdp/bat
-[2]: https://the.exa.website
-[3]: https://the.exa.website/features/colours
-
-[image-1]: /technical/bat.png
-[image-2]: /technical/exa.png
-[image-3]: /technical/rg.png
-[image-4]: /technical/fd.png
+- `gh`: Did you know GitHub has a fully-featured CLI that can access basically any GitHub API? That said, in practice, I rarely need many of the features `gh` provides, but it does do a couple cool things:
+  - `gh repo create --source .` will create a new repo on GitHub from the current directory, assuming it's a git repository. That's especially useful if I create a new project locally and then decide I want to push it to GitHub.
+  - `gh pr view -w` opens the PR for the current branch, if any, in the web browser.
+- `tig:` This is a pretty git viewer, but I mainly use it for `tig stash`, which lets me interactively explore my git stash.
+- `jq`: I know a lot of folks love `jq` for working with JSON, but frankly I find it a pain to work with - its filter syntax is so idiosyncratic that I feel lost every time I pull it up. That said, when I _do_ need to work with JSON, `jq` is the obvious place to go; even just piping JSON output through `jq` for pretty printing is useful.
+- `terminal-notifier`: I don't often need to trigger desktop push notifications from a shell script, but when I do, `terminal-notifier` is the place to go.
+- `watchexec`: This is a cute little Rust tool that watches a file and reruns a command any time the watched file changes. I don't realistically have a use for that, but if I ever do, `watchexec` is where I'll turn first.
