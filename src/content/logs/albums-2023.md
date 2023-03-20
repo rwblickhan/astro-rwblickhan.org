@@ -67,3 +67,4 @@ lastUpdatedDate: 2023-02-09
 62. *Future Stride*, Emmet Cohen
 63. *Matahari*, L'Impératrice
 64. *damnshestamil*, Priya Ragu
+65. *La Vita Nuova*, Christine and the Queens
