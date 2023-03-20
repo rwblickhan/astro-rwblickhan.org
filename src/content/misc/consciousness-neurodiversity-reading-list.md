@@ -9,6 +9,8 @@ Here's some works, fiction and non-fiction, related to consciousness and neurodi
 
 - ["If Materialism Is True, the United States Is Probably Conscious"](http://faculty.ucr.edu/~eschwitz/SchwitzAbs/USAconscious.htm), Eric Schwitzgebel
 - ["Illusionism as a Theory of Consciousness"](https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf), Keith Frankish
+- *The Mountain in the Sea*, Ray Nayler
+- "Exhalation", Ted Chiang
 
 ## Neurodiversity
 
@@ -22,5 +24,6 @@ Here's some works, fiction and non-fiction, related to consciousness and neurodi
 ### Fiction
 
 - *Everything Everywhere All At Once*
+- *The Devil and Daniel Johnston*
 - *The Kiss Quotient*, Helen Hoang
 - *The Haunting of Hill House*, Shirley Jackson
