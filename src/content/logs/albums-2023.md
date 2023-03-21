@@ -69,3 +69,4 @@ lastUpdatedDate: 2023-02-09
 64. *damnshestamil*, Priya Ragu
 65. *La vita nuova*, Christine and the Queens
 66. *Chaleur humaine*, Christine and the Queens
+67. *Lanterns*, Son Lux
