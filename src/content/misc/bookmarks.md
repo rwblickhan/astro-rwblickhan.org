@@ -8,16 +8,13 @@ description: Non-fiction I recommend!
 
 ## Articles / Essays
 
-- ["The Crying of Lot 55: The Unsolved Mysteries and Alternate Realities of Andrew W.K."](https://www.stereogum.com/2015589/andrew-wk-steev-mike/columns/sounding-board/): Andrew W.K. makes (very good) hard rock about partying, but if you scratch below the surface, you uncover a Lynchian nightmare of misdirection. This pairs well with the video essay ["What IS Nathan Fielder?"](https://www.youtube.com/watch?v=iavoSO6lOLQ), which plumbs the depths of persona and personal identity from the perspective of surreal comedian Nathan Fielder.
 - ["On Thud and Blunder"](https://www.sfwa.org/2005/01/04/on-thud-and-blunder/): Poul Anderson, a major name in early fantasy fiction, complains at length about the many inaccuracies in genre fiction. Some of his historical assertions are outdated, but the general point that many fantasy novelists don't even seem to bother with common sense still holds up. This pairs nicely with the historical-critical essays on [*A Collection of Unmitigated Pedantry](https://acoup.blog).
 - [“The MIT License, Line by Line”](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html): A lawyer-cum-software engineer explains the iconic MIT License line-by-line in a legal sense.
-- ["always bet on text"](https://graydon2.dreamwidth.org/193447.html): Graydon Hoare (of Rust fame) argues that "text is the most powerful, useful, effective communication technology ever, period." For a counterpoint, see [Omar Rizwan's "Against 'text'"](https://futuretextpublishing.com/2022/04/12/1-2/).
 
 ## Talks / Presentations / Classes
 
 - [“What We Can Learn From Software History”](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history): Hillel Wayne explores the historical method by trying to answer a seemingly-simple question: why do so many software engineering interviews ask “reverse a linked list”?
 - ["Coordination Headwind: How Organizations Are Like Slime Molds"](https://komoroske.com/slime-mold/): This simplified model of how organizations fail to meet their goals introduces the concept of "coordination headwinds" and explores how organizations can avoid them. See also [Venkatesh Rao's commentary](https://studio.ribbonfarm.com/p/coordination-headwinds).
-- ["Large Language Models as Cultural Technologies"](https://www.youtube.com/watch?v=k7rPtFLH6yw): Cultural psychology professor Alison Gopnik discusses large language models like GPT-3 and how they might fit in the context of other "cultural technologies"... like libraries!
 
 ## Video Essays
 

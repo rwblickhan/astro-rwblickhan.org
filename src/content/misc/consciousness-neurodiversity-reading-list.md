@@ -1,6 +1,6 @@
 ---
 title: Consciousness, Identity, & Neurodiversity Reading List
-lastUpdatedDate: 2023-03-20
+lastUpdatedDate: 2023-03-22
 ---
 
 Here's some works, fiction and non-fiction, related to consciousness, identity, and neurodiversity that I particularly appreciate.
@@ -13,6 +13,8 @@ Here's some works, fiction and non-fiction, related to consciousness, identity, 
 - ["Mental illness, attention deficit disorder, and suffering"](https://blog.plover.com/brain/add.html), Mark Dominus
 - ["We Still Don’t Know How to Talk About Kanye"](https://www.thecut.com/2022/02/kanye-west-bipolar-disorder.html), Erica Schwiegershausen
 - ["Accidentally Autistic: The Queen’s Gambit"](https://valneil.com/2020/10/30/accidentally-autistic-the-queens-gambit/), Val Neil
+- ["The Crying of Lot 55: The Unsolved Mysteries and Alternate Realities of Andrew W.K."](https://www.stereogum.com/2015589/andrew-wk-steev-mike/columns/sounding-board/), Michael Nelson
+- *The Rehearsal* / ["What IS Nathan Fielder?"](https://www.youtube.com/watch?v=iavoSO6lOLQ), Super Eyepatch Wolf
 
 ## Fiction
 
