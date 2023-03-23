@@ -11,6 +11,7 @@ export async function get(context) {
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
     site: context.site,
+    stylesheet: "pretty-feed-v3.xsl",
     items: fictionPosts
       .map((post) => ({
         title: post.data.title,
