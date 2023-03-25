@@ -4,11 +4,13 @@ import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 
-// https://astro.build/config
 import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 import image from "@astrojs/image";
+
+// https://astro.build/config
+import preact from "@astrojs/preact";
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,7 +19,10 @@ export default defineConfig({
     mdx(),
     sitemap(),
     tailwind(),
-    image({ serviceEntryPoint: "@astrojs/image/sharp" }),
+    image({
+      serviceEntryPoint: "@astrojs/image/sharp",
+    }),
+    preact(),
   ],
   markdown: {
     remarkPlugins: [
