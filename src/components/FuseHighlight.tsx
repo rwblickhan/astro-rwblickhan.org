@@ -1,4 +1,4 @@
-import Fuse from "fuse.js";
+import type Fuse from "fuse.js";
 
 const CONTEXT_RANGE = 20;
 
