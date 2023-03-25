@@ -36,13 +36,16 @@ export default function Search() {
 
   return (
     <>
-      <label>Search</label>
-      <input
-        type="text"
-        value={query}
-        onChange={handleOnSearch}
-        placeholder="Search content"
-      />
+      <div class="bg-rwb-slate-light dark:bg-neutral-800 my-4 px-5 pt-4 pb-1.5 max-w-3xl mx-auto rounded">
+        <label>Search:</label>
+        <input
+          type="text"
+          value={query}
+          placeholder="Search content"
+          onInput={handleOnSearch}
+          class="block mb-4 px-4 py-3 w-full bg-white dark:bg-neutral-900 border border-slate-400 rounded"
+        />
+      </div>
       {query.length > 1 && (
         <p>
           Found {results.length} {results.length === 1 ? "result" : "results"}{" "}
