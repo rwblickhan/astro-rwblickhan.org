@@ -2,6 +2,7 @@
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Search from "../components/Search.jsx";
+import ContentLayout from "../layouts/ContentLayout.astro";
 
 const { title = "Search", description = "Search for rwblickhan.org" } =
   Astro.props;
@@ -13,16 +14,10 @@ const { title = "Search", description = "Search for rwblickhan.org" } =
     <BaseHead title={title} description={description} />
   </head>
   <body class="bg-white dark:bg-rwb-background-dark">
+    <ContentLayout>
+      <h1>Search</h1>
+      <Search client:only="preact" />
+    </ContentLayout>
     <Header />
-    <article>
-      <div class="pt-32 px-4 mb-8 md:max-w-7xl md:mx-auto">
-        <div
-          class="mb-4 prose dark:prose-invert dark:prose-headings:text-rwb-text-dark"
-        >
-          <h1>Search</h1>
-          <Search client:only="preact" />
-        </div>
-      </div>
-    </article>
   </body>
 </html>
