@@ -3,8 +3,11 @@ import { useState, useEffect } from "preact/hooks";
 import type { IndexEntry } from "../consts";
 import FuseHighlight from "./FuseHighlight";
 
-export default function Search() {
-  const [index, setIndex] = useState<IndexEntry[]>([]);
+export interface Props {
+  index: IndexEntry[];
+}
+
+export default function Search({ index }: Props) {
   const [fuse, setFuse] = useState<Fuse<IndexEntry>>();
   const [query, setQuery] = useState("");
   const [rawResults, setRawResults] = useState<Fuse.FuseResult<IndexEntry>[]>(
@@ -13,12 +16,8 @@ export default function Search() {
   const [loading, setLoading] = useState(false);
   useEffect(() => {
     async function runEffect() {
-      const loadedIndex = await fetch("index.json").then((response) =>
-        response.json()
-      );
-      setIndex(loadedIndex);
       setFuse(
-        new Fuse(loadedIndex, {
+        new Fuse(index, {
           keys: ["body"],
           includeMatches: true,
           includeScore: true,
