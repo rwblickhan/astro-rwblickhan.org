@@ -23,6 +23,7 @@ That said, I like to set a lot of aliases in my `.gitconfig`, like:
 - `git c`: *c*heckout branch, searching for branches with `fzf`
 - `git cam`: *c*ommit *a*ll with *m*essage
 - `git camp`: *c*ommit *a*ll with *m*essage and *p*ush
+- `git ci`: *c*heckout *i*nteractively; pick-and-choose files to `git checkout` with `fzf -m`
 - `git d`: *d*iff with better behavior (showing staged and unstaged changes)
 - `git df`: *d*iff with another branch by *f*inding with `fzf`
 - `git dfn`: *d*iff with another branch by *f*inding with `fzf`, showing *n*ame-only
@@ -59,7 +60,6 @@ I also use a few plugins:
 
 - `tmux-resurrect`/`tmux-continuum`: Together, these plugins will automatically save the state of the tmux session and automatically restore it when you restart.
 - `tmux-open`: Just press "o" while a file or URL is highlighted in tmux to open it. That combines particular well with...
-- `tmux-copycat`: Use regexes to search the scrollback buffer! It also has predefined hotkeys for some regex patterns, so for instance I can press Ctrl-\ then Ctrl-u to highlight the latest URL, then "o" to open it, or run `git status` then repeatedly press Ctrl-\ then Ctrl-g to iterate over the files in the status prompt.
 - `tmux-yank`: This makes the copying behavior work a little better, notably while opening tmux via a VS Code terminal.
 - `vim-tmux-navigator`: This lets me use Ctrl-h/Ctrl-j/Ctrl-k/Ctrl-l to navigate around tmux splits and Neovim sessions.
 
