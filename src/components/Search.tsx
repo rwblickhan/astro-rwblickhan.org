@@ -13,7 +13,7 @@ export default function Search() {
   const [loading, setLoading] = useState(false);
   useEffect(() => {
     async function runEffect() {
-      const loadedIndex = await fetch("./index.json").then((response) =>
+      const loadedIndex = await fetch("index.json").then((response) =>
         response.json()
       );
       setIndex(loadedIndex);
