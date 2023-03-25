@@ -1,21 +1,25 @@
 import Fuse from "fuse.js";
 import { useState, useEffect } from "preact/hooks";
 import type { IndexEntry } from "../consts";
+import FuseHighlight from "./FuseHighlight";
 
 export default function Search() {
+  const [index, setIndex] = useState<IndexEntry[]>([]);
   const [fuse, setFuse] = useState<Fuse<IndexEntry>>();
   const [query, setQuery] = useState("");
   useEffect(() => {
     async function runEffect() {
-      const index = await fetch("./index.json").then((response) =>
+      const loadedIndex = await fetch("./index.json").then((response) =>
         response.json()
       );
+      setIndex(loadedIndex);
       setFuse(
-        new Fuse(index, {
-          keys: ["slug", "title", "body"],
+        new Fuse(loadedIndex, {
+          keys: ["body"],
           includeMatches: true,
-          minMatchCharLength: 2,
-          threshold: 0.5,
+          includeScore: true,
+          ignoreLocation: true,
+          useExtendedSearch: true,
         })
       );
     }
@@ -28,10 +32,7 @@ export default function Search() {
   }
 
   const results: Fuse.FuseResult<IndexEntry>[] =
-    fuse
-      ?.search(query)
-      .map((result) => result)
-      .slice(0, 5) ?? [];
+    query.length === 0 ? [] : fuse?.search("'" + query) ?? [];
 
   return (
     <>
@@ -52,8 +53,10 @@ export default function Search() {
         {results &&
           results.map((result) => (
             <li>
-              <a href={`${result.item.slug}`}>{result.item.title}</a>
-              {result.item.body}
+              <a href={`${index[result.refIndex].slug}`}>
+                {index[result.refIndex].title}
+              </a>
+              <FuseHighlight body={result.item.body} matches={result.matches} />
             </li>
           ))}
       </ul>
