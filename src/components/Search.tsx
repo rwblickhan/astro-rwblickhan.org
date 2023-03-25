@@ -27,10 +27,10 @@ export default function Search() {
     setQuery(value);
   }
 
-  const indexEntries: IndexEntry[] =
+  const results: Fuse.FuseResult<IndexEntry>[] =
     fuse
       ?.search(query)
-      .map((result) => result.item)
+      .map((result) => result)
       .slice(0, 5) ?? [];
 
   return (
@@ -44,16 +44,16 @@ export default function Search() {
       />
       {query.length > 1 && (
         <p>
-          Found {indexEntries.length}{" "}
-          {indexEntries.length === 1 ? "result" : "results"} for '{query}'
+          Found {results.length} {results.length === 1 ? "result" : "results"}{" "}
+          for '{query}'
         </p>
       )}
       <ul>
-        {indexEntries &&
-          indexEntries.map((indexEntry) => (
+        {results &&
+          results.map((result) => (
             <li>
-              <a href={`${indexEntry.slug}`}>{indexEntry.title}</a>
-              {indexEntry.body}
+              <a href={`${result.item.slug}`}>{result.item.title}</a>
+              {result.item.body}
             </li>
           ))}
       </ul>
