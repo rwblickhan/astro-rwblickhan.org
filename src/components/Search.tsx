@@ -30,10 +30,12 @@ export default function Search({ index }: Props) {
   }, []);
 
   useEffect(() => {
-    setLoading(true);
+    setLoading(query.length > 0);
     const getResults = setTimeout(() => {
       setLoading(false);
-      setRawResults(fuse?.search("'" + query) ?? []);
+      if (query.length > 0) {
+        setRawResults(fuse?.search("'" + query) ?? []);
+      }
     }, 500);
 
     return () => clearTimeout(getResults);
