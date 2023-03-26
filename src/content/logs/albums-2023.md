@@ -74,3 +74,4 @@ lastUpdatedDate: 2023-02-09
 69. *Tomorrows II*, Son Lux
 70. *Tomorrows III*, Son Lux
 71. *If I Can't Have Love, I Want Power*, Halsey
+72. *Quest for Fire*, Skrillex
