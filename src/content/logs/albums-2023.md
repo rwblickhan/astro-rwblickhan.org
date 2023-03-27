@@ -75,3 +75,4 @@ lastUpdatedDate: 2023-02-09
 70. *Tomorrows III*, Son Lux
 71. *If I Can't Have Love, I Want Power*, Halsey
 72. *Quest for Fire*, Skrillex
+73. *Don't Get Too Close*, Skrillex
