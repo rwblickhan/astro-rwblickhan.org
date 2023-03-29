@@ -4,10 +4,11 @@ import type { IndexEntry } from "../consts";
 import FuseHighlight from "./FuseHighlight";
 
 export interface Props {
-  index: IndexEntry[];
+  indexEntries: IndexEntry[];
+  index: Fuse.FuseIndex<IndexEntry>;
 }
 
-export default function Search({ index }: Props) {
+export default function Search({ indexEntries, index }: Props) {
   const [fuse, setFuse] = useState<Fuse<IndexEntry>>();
   const [query, setQuery] = useState("");
   const [rawResults, setRawResults] = useState<Fuse.FuseResult<IndexEntry>[]>(
@@ -17,13 +18,17 @@ export default function Search({ index }: Props) {
   useEffect(() => {
     async function runEffect() {
       setFuse(
-        new Fuse(index, {
-          keys: ["body"],
-          includeMatches: true,
-          includeScore: true,
-          ignoreLocation: true,
-          useExtendedSearch: true,
-        })
+        new Fuse(
+          indexEntries,
+          {
+            keys: ["body"],
+            includeMatches: true,
+            includeScore: true,
+            ignoreLocation: true,
+            useExtendedSearch: true,
+          },
+          index
+        )
       );
     }
     runEffect();
