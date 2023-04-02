@@ -15,6 +15,7 @@ Here's some works, fiction and non-fiction, related to consciousness, identity, 
 - ["Accidentally Autistic: The Queen’s Gambit"](https://valneil.com/2020/10/30/accidentally-autistic-the-queens-gambit/), Val Neil
 - ["The Crying of Lot 55: The Unsolved Mysteries and Alternate Realities of Andrew W.K."](https://www.stereogum.com/2015589/andrew-wk-steev-mike/columns/sounding-board/), Michael Nelson
 - *The Rehearsal* / ["What IS Nathan Fielder?"](https://www.youtube.com/watch?v=iavoSO6lOLQ), Super Eyepatch Wolf
+- *Nanette*
 
 ## Fiction
 
