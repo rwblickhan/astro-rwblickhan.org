@@ -81,3 +81,4 @@ lastUpdatedDate: 2023-02-09
 76. *Everything Ecstatic*, Four Tet
 77. *1996*, Ryuichi Sakamoto
 78. */05*, Ryuichi Sakamoto
+79. *async*, Ryuichi Sakamoto
