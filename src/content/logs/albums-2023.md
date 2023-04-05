@@ -79,3 +79,5 @@ lastUpdatedDate: 2023-02-09
 74. *There Is Love In You*, Four Tet
 75. *Rounds*, Four Tet
 76. *Everything Ecstatic*, Four Tet
+77. *1996*, Ryuichi Sakamoto
+78. */05*, Ryuichi Sakamoto
