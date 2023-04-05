@@ -82,3 +82,4 @@ lastUpdatedDate: 2023-02-09
 77. *1996*, Ryuichi Sakamoto
 78. */05*, Ryuichi Sakamoto
 79. *async*, Ryuichi Sakamoto
+80. *FLCL Season 1 Vol. 1 OST*, the pillows
