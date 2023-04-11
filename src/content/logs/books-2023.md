@@ -19,6 +19,7 @@ lastUpdatedDate: 2023-01-01
 14. 🔁 *What Can A Body Do?: How We Meet The Build World*, Sara Hendren
 15. *Lud-in-the-Mist*, Hope Mirrlees
 16. *How to Be Perfect: The Correct Answer to Every Moral Question*, Michael Schur
+17. *A Court of Thorns and Roses*, Sarah J. Maas
 
 ## Skimmed
 
