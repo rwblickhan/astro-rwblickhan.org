@@ -6,15 +6,31 @@ const {
   title = "Gallery",
   description = "Photography gallery from R. W. Blickhan",
 } = Astro.props;
+
+interface GalleryImage {
+  id: string;
+  alt: string;
+}
+
+const galleryImages: GalleryImage[] = [
+  {
+    id: "1",
+    alt: "A view of Mission Bay during day",
+  },
+];
 ---
 
 <GalleryLayout title={title} description={description}>
-  <Image
-    src={import("../assets/gallery/1.jpg")}
-    alt="A view of Mission Bay during day"
-    format="webp"
-    width={1920}
-  />
+  {
+    galleryImages.map((galleryImage) => (
+      <Image
+        src={import(`../assets/gallery/${galleryImage.id}.jpg`)}
+        alt={galleryImage.alt}
+        format="webp"
+        width={1920}
+      />
+    ))
+  }
   <Image
     src={import("../assets/gallery/2.jpg")}
     alt="A view of Mission Bay at night"
