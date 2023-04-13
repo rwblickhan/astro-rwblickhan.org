@@ -4,9 +4,14 @@ module.exports = {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
     fontFamily: {
-      sans: ["Vollkorn", ...defaultTheme.fontFamily.sans],
-      serif: ["Vollkorn", ...defaultTheme.fontFamily.serif],
-      mono: ["Fira Mono", ...defaultTheme.fontFamily.mono],
+      // https://github.com/system-fonts/modern-font-stacks#transitional
+      serif: [
+        "Charter",
+        "'Bitstream Charter'",
+        "'Sitka Text'",
+        "Cambria",
+        ...defaultTheme.fontFamily.serif,
+      ],
     },
     extend: {
       colors: {
