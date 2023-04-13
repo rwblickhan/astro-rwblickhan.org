@@ -1,0 +1,18 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { title, description } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="pt-32 px-4 mb-8 md:max-w-7xl md:mx-auto">
+    <div
+      class="mb-4 prose dark:prose-invert dark:prose-headings:text-rwb-text-dark"
+    >
+      <h1>Gallery</h1>
+    </div>
+    <div class="grid gap-4 grid-cols-1 md:grid-cols-2 grid-rows-none">
+      <slot />
+    </div>
+  </div>
+</BaseLayout>

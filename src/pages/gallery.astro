@@ -1,6 +1,6 @@
 ---
 import { Image } from "@astrojs/image/components";
-import BaseLayout from "../layouts/BaseLayout.astro";
+import GalleryLayout from "../layouts/GalleryLayout.astro";
 
 const {
   title = "Gallery",
@@ -8,158 +8,149 @@ const {
 } = Astro.props;
 ---
 
-<BaseLayout title={title} description={description}>
-  <div class="pt-32 px-4 mb-8 md:max-w-7xl md:mx-auto">
-    <div
-      class="mb-4 prose dark:prose-invert dark:prose-headings:text-rwb-text-dark"
-    >
-      <h1>Gallery</h1>
-    </div>
-    <div class="grid gap-4 grid-cols-1 md:grid-cols-2 grid-rows-none">
-      <Image
-        src={import("../assets/gallery/1.jpg")}
-        alt="A view of Mission Bay during day"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/2.jpg")}
-        alt="A view of Mission Bay at night"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/3.jpg")}
-        alt="Market Street at dusk"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/4.jpg")}
-        alt="Rooibos enjoying a walk"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/5.jpg")}
-        alt="Columbus Cafe's iconic neon sign"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/6.jpg")}
-        alt="A cross hanging over a Korean church in Oakland"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/7.jpg")}
-        alt="A building along 3rd St"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/8.jpg")}
-        alt="A view down 18th St"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/9.jpg")}
-        alt="A view out an airplane window at dusk"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/10.jpg")}
-        alt="A dark alley in Soma"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/11.jpg")}
-        alt="A TTC mural in Toronto"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/12.jpg")}
-        alt="The sun setting over Waikiki Beach"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/13.jpg")}
-        alt="A Muni train waiting in the rain"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/14.jpg")}
-        alt="A suburban street covered by snow"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/15.jpg")}
-        alt="Two residential towers in Toronto disappearing into fog"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/16.jpg")}
-        alt="The sign for the Roxie Theater at dusk"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/17.jpg")}
-        alt="An alley in Soma"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/18.jpg")}
-        alt="Brannan Station in Rincon Hill"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/19.jpg")}
-        alt="Many doorways open outwards, but few doorways open inwards"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/20.jpg")}
-        alt="A view into a private yard in San Francisco"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/21.jpg")}
-        alt="A view of the roof of the Ferry Building along the Embarcadero in San Francisco"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/22.jpg")}
-        alt="The houseboats of Mission Bay"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/23.jpg")}
-        alt="The sign for the Roxie Theater at dusk"
-        format="webp"
-        width={1920}
-      />
-      <Image
-        src={import("../assets/gallery/24.jpg")}
-        alt="Electrical lighting in Mission Bay"
-        format="webp"
-        width={1920}
-      />
-    </div>
-  </div>
-</BaseLayout>
+<GalleryLayout title={title} description={description}>
+  <Image
+    src={import("../assets/gallery/1.jpg")}
+    alt="A view of Mission Bay during day"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/2.jpg")}
+    alt="A view of Mission Bay at night"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/3.jpg")}
+    alt="Market Street at dusk"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/4.jpg")}
+    alt="Rooibos enjoying a walk"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/5.jpg")}
+    alt="Columbus Cafe's iconic neon sign"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/6.jpg")}
+    alt="A cross hanging over a Korean church in Oakland"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/7.jpg")}
+    alt="A building along 3rd St"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/8.jpg")}
+    alt="A view down 18th St"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/9.jpg")}
+    alt="A view out an airplane window at dusk"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/10.jpg")}
+    alt="A dark alley in Soma"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/11.jpg")}
+    alt="A TTC mural in Toronto"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/12.jpg")}
+    alt="The sun setting over Waikiki Beach"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/13.jpg")}
+    alt="A Muni train waiting in the rain"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/14.jpg")}
+    alt="A suburban street covered by snow"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/15.jpg")}
+    alt="Two residential towers in Toronto disappearing into fog"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/16.jpg")}
+    alt="The sign for the Roxie Theater at dusk"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/17.jpg")}
+    alt="An alley in Soma"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/18.jpg")}
+    alt="Brannan Station in Rincon Hill"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/19.jpg")}
+    alt="Many doorways open outwards, but few doorways open inwards"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/20.jpg")}
+    alt="A view into a private yard in San Francisco"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/21.jpg")}
+    alt="A view of the roof of the Ferry Building along the Embarcadero in San Francisco"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/22.jpg")}
+    alt="The houseboats of Mission Bay"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/23.jpg")}
+    alt="The sign for the Roxie Theater at dusk"
+    format="webp"
+    width={1920}
+  />
+  <Image
+    src={import("../assets/gallery/24.jpg")}
+    alt="Electrical lighting in Mission Bay"
+    format="webp"
+    width={1920}
+  />
+</GalleryLayout>
