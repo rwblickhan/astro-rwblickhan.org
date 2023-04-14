@@ -91,3 +91,4 @@ lastUpdatedDate: 2023-02-09
 86. *A Love Supreme*, John Coltrane
 87. *The Last Black Man in San Francisco OST*, Emile Mosseri
 88. *3 Feet High and Rising*, De La Soul
+89. *De La Soul Is Dead*, De La Soul
