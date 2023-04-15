@@ -12,6 +12,7 @@ const fictionPosts = await getCollection("fiction");
 const essaysPosts = await getCollection("essays");
 const technicalPosts = await getCollection("technical");
 const miscPosts = await getCollection("misc");
+const tilPosts = await getCollection("til");
 const logPosts = await getCollection("logs");
 const recipePosts = await getCollection("recipes");
 
@@ -45,6 +46,15 @@ const indexEntries: IndexEntry[] = fictionPosts
     miscPosts.map((post) => {
       return {
         slug: `/misc/${post.slug}`,
+        title: post.data.title,
+        body: post.body,
+      };
+    })
+  )
+  .concat(
+    tilPosts.map((post) => {
+      return {
+        slug: `/til/${post.slug}`,
         title: post.data.title,
         body: post.body,
       };

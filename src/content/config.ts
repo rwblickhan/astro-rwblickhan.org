@@ -43,6 +43,17 @@ const logs = defineCollection({
   }),
 });
 
+const til = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    tags: z.array(z.string()),
+    lastUpdatedDate: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val)),
+  }),
+});
+
 const misc = defineCollection({
   schema: z.object({
     title: z.string(),
@@ -69,6 +80,7 @@ export const collections = {
   essays,
   technical,
   logs,
+  til,
   misc,
   recipes,
 };

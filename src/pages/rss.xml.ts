@@ -6,6 +6,7 @@ export async function get(context: any) {
   const fictionPosts = await getCollection("fiction");
   const essaysPosts = await getCollection("essays");
   const technicalPosts = await getCollection("technical");
+  const tilPosts = await getCollection("til");
   const miscPosts = await getCollection("misc");
   return rss({
     title: SITE_TITLE,
@@ -32,6 +33,14 @@ export async function get(context: any) {
           pubDate: post.data.lastUpdatedDate,
           description: post.data.description,
           link: `/technical/${post.slug}/`,
+        }))
+      )
+      .concat(
+        tilPosts.map((post) => ({
+          title: post.data.title,
+          pubDate: post.data.lastUpdatedDate,
+          description: `TIL for ${post.data.lastUpdatedDate}`,
+          link: `/til/${post.slug}/`,
         }))
       )
       .concat(

@@ -1,0 +1,31 @@
+---
+import { getCollection } from "astro:content";
+
+import IndexLayout from "../../layouts/IndexLayout.astro";
+import LinkBox from "../../components/LinkBox.astro";
+
+const posts = (await getCollection("til")).sort(
+  (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
+);
+---
+
+<IndexLayout title="Today I Learned" description="TIL index page">
+  <p>
+    This is my list of TIL (Today I Learned) posts, inspired by <a
+      href="https://til.simonwillison.net">Simon Willison's TIL</a
+    > page.
+  </p>
+  <div
+    class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
+  >
+    {
+      posts.map((post) => (
+        <LinkBox
+          title={post.data.title}
+          href={`/til/${post.slug}`}
+          lastUpdatedDate={post.data.lastUpdatedDate}
+        />
+      ))
+    }
+  </div>
+</IndexLayout>
