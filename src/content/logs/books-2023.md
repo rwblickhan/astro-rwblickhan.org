@@ -21,6 +21,7 @@ lastUpdatedDate: 2023-01-01
 16. *How to Be Perfect: The Correct Answer to Every Moral Question*, Michael Schur
 17. *A Court of Thorns and Roses*, Sarah J. Maas
 18. *Something To Do With Paying Attention*, David Foster Wallace
+19. *Contested Will: Who Wrote Shakespeare?*, James Shapiro 
 
 ## Skimmed
 
