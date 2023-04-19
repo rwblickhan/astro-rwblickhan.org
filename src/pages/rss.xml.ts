@@ -39,7 +39,7 @@ export async function get(context: any) {
         tilPosts.map((post) => ({
           title: post.data.title,
           pubDate: post.data.lastUpdatedDate,
-          description: `TIL for ${post.data.lastUpdatedDate}`,
+          description: `TIL for ${post.data.lastUpdatedDate.toDateString()}`,
           link: `/til/${post.slug}/`,
         }))
       )
