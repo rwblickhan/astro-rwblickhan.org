@@ -17,9 +17,11 @@ const collections = [
 
 <script>
   const collectionElements = document.querySelectorAll("#collection");
+  const searchButton = document.querySelector("#searchButton");
   const expandButton = document.querySelector("#expandButton");
   const collapseButton = document.querySelector("#collapseButton");
 
+  searchButton?.classList.remove("hidden");
   expandButton?.classList.remove("hidden");
 
   expandButton?.addEventListener("click", () => {
@@ -51,7 +53,7 @@ const collections = [
       rwblickhan.org
     </a>
     <div class="flex flex-row items-center">
-      <SearchLink />
+      <SearchLink id="searchButton" />
       <ExpandButton id="expandButton" />
       <CollapseButton id="collapseButton" />
     </div>

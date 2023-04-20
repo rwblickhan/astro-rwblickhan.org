@@ -1,4 +1,12 @@
-<a href="/search" class="mx-4 lg:mx-12" aria-label="Search">
+---
+export interface Props {
+  id: string;
+}
+
+const { id } = Astro.props;
+---
+
+<a id={id} href="/search" class="mx-4 lg:mx-12 hidden" aria-label="Search">
   <svg
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
