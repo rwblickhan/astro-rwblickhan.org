@@ -1,0 +1,18 @@
+---
+export interface Props {
+  id: string;
+  slug: string;
+  title: string;
+}
+
+const { id, slug, title } = Astro.props;
+---
+
+<div id={id} class="px-4 lg:px-12 bg-black h-16 hidden">
+  <a
+    class="text-white dark:text-rwb-text-dark text-2xl no-underline hover:underline"
+    href={`/${slug}`}
+  >
+    {title}
+  </a>
+</div>
