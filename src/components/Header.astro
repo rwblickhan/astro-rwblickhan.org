@@ -20,6 +20,8 @@ const collections = [
   const expandButton = document.querySelector("#expandButton");
   const collapseButton = document.querySelector("#collapseButton");
 
+  expandButton?.classList.remove("hidden");
+
   expandButton?.addEventListener("click", () => {
     collectionElements.forEach((el) => {
       el.classList.remove("hidden");
