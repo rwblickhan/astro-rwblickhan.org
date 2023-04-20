@@ -51,6 +51,13 @@ const collections = [
 
   for (const anchorLink of anchorLinks) {
     anchorLink.addEventListener("click", function (event) {
+      if (
+        window.getComputedStyle(header).getPropertyValue("position") !==
+        "sticky"
+      ) {
+        return;
+      }
+
       event.preventDefault();
 
       const targetId = anchorLink.getAttribute("href") ?? "";
@@ -66,10 +73,13 @@ const collections = [
   }
 
   function scrollToAnchor() {
+    if (
+      window.getComputedStyle(header).getPropertyValue("position") !== "sticky"
+    ) {
+      return;
+    }
+
     var targetId = location.hash.slice(1);
-    var headerHeight =
-      (document.querySelector("#header") as HTMLElement)?.offsetHeight || 0;
-    console.log(`headerHeight: ${headerHeight}`);
     if (targetId) {
       var targetElement = document.getElementById(targetId);
       if (targetElement) {
