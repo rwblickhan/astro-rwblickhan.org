@@ -46,59 +46,6 @@ const collections = [
   });
 </script>
 
-<script>
-  // Scroll to anchor links, taking into account header
-  const header = document.querySelector("#header") as HTMLElement;
-  const headerHeight = header?.offsetHeight ?? 0;
-  const anchorLinks = document.querySelectorAll("a[href^='#']");
-
-  for (const anchorLink of anchorLinks) {
-    anchorLink.addEventListener("click", function (event) {
-      if (
-        window.getComputedStyle(header).getPropertyValue("position") !==
-        "sticky"
-      ) {
-        return;
-      }
-
-      event.preventDefault();
-
-      const targetId = anchorLink.getAttribute("href") ?? "";
-      const targetPosition = (document.querySelector(targetId) as HTMLElement)
-        ?.offsetTop;
-
-      window.scrollTo({
-        top: targetPosition - headerHeight,
-        behavior: "smooth",
-      });
-      window.history.pushState(null, "", targetId);
-    });
-  }
-
-  function scrollToAnchor() {
-    if (
-      window.getComputedStyle(header).getPropertyValue("position") !== "sticky"
-    ) {
-      return;
-    }
-
-    var targetId = location.hash.slice(1);
-    if (targetId) {
-      var targetElement = document.getElementById(targetId);
-      if (targetElement) {
-        var targetOffset = targetElement.offsetTop - headerHeight;
-        window.scrollTo({
-          top: targetOffset,
-          behavior: "smooth",
-        });
-      }
-    }
-  }
-
-  window.addEventListener("hashchange", scrollToAnchor);
-  window.addEventListener("load", scrollToAnchor);
-</script>
-
 <nav
   id="header"
   class="flex flex-col md:sticky top-0 inset-x-0 z-0"
