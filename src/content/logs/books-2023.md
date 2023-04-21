@@ -27,3 +27,4 @@ lastUpdatedDate: 2023-01-01
 ## Skimmed
 
 - *Ways of Being - Animals, Plants, Machines: The Search for a Planetary Intelligence*, James Bridle
+- *Mating in Captivity: Unlocking Erotic Intelligence*, Esther Perel
