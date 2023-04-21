@@ -8,7 +8,7 @@ For larger devices, I wanted the header of this website to be sticky - it should
 I used to handle that manually, but it turns out that all you need is [`position: sticky`](https://developer.mozilla.org/en-US/docs/Web/CSS/position#values) in your CSS to get that behavior for free!
 
 Unfortunately, that messes with scrolling - if you click an anchor link on the page, it will scroll that header to the very top of the page, underneath the sticky header.
-I couldn't find a way around this using just CSS, so I asked ChatGPT how to fix it. After a bit of back and forth with the LLM, this is what I ended up with:
+I couldn't find a way around this using just CSS, so I asked ChatGPT how to fix it. (**Update**: I have since learned about [`scroll-padding`](20230421-scroll-padding), which solves this nicely!) After a bit of back and forth with the LLM, this is what I ended up with:
 
 ```javascript
 // Scroll to anchor links, taking into account header

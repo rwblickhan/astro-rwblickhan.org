@@ -6,14 +6,15 @@ const { title, description } = Astro.props;
 ---
 
 <!DOCTYPE html>
-<html lang="en" class="md:scroll-pt-24">
+<html
+  lang="en"
+  class="md:scroll-pt-24 bg-white dark:bg-rwb-background-dark font-serif"
+>
   <head>
     <BaseHead title={title} description={description} />
   </head>
-  <body class="bg-white dark:bg-rwb-background-dark font-serif">
-    <Header />
-    <article>
-      <slot />
-    </article>
-  </body>
+  <Header />
+  <article>
+    <slot />
+  </article>
 </html>
