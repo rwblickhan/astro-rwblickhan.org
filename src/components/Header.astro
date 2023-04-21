@@ -17,6 +17,7 @@ const collections = [
 
 <script>
   // Show or hide expanded state
+  const header = document.querySelector("#header") as HTMLElement;
   const collectionElements = document.querySelectorAll("#collection");
   const searchButton = document.querySelector("#searchButton");
   const expandButton = document.querySelector("#expandButton");
@@ -32,6 +33,7 @@ const collections = [
     console.log(`collapseButton: ${collapseButton}`);
     expandButton.classList.add("hidden");
     collapseButton?.classList.remove("hidden");
+    header.setAttribute("aria-expanded", "true");
   });
 
   collapseButton?.addEventListener("click", () => {
@@ -40,6 +42,7 @@ const collections = [
     });
     expandButton?.classList.remove("hidden");
     collapseButton.classList.add("hidden");
+    header.setAttribute("aria-expanded", "false");
   });
 </script>
 
@@ -96,7 +99,11 @@ const collections = [
   window.addEventListener("load", scrollToAnchor);
 </script>
 
-<nav id="header" class="flex flex-col md:sticky top-0 inset-x-0 z-0">
+<nav
+  id="header"
+  class="flex flex-col md:sticky top-0 inset-x-0 z-0"
+  aria-expanded="false"
+>
   <div
     class="px-4 lg:px-12 bg-black h-24 w-full flex items-center justify-between"
   >
