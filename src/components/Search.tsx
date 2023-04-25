@@ -34,6 +34,7 @@ export default function Search({ index }: Props) {
     const getResults = setTimeout(() => {
       setLoading(false);
       if (query.length > 0) {
+        /// Prepend `'` for an exact search
         setRawResults(fuse?.search("'" + query) ?? []);
       }
     }, 500);
@@ -72,7 +73,7 @@ export default function Search({ index }: Props) {
       {!loading && query.length > 1 && (
         <p>
           Found {results.length} {results.length === 1 ? "result" : "results"}{" "}
-          for '{query}'
+          for '{query}':
         </p>
       )}
       <ul>
