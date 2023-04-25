@@ -101,3 +101,8 @@ lastUpdatedDate: 2023-02-09
 96. *Memento Mori*, Depeche Mode
 97. *4 Hands*, Roedelius & Tim Story
 98. *Honey Bones*, Dope Lemon
+99. *Deluxe*, Harmonia
+100. *Musik von Harmonia*, Harmonia
+101. *Sowiesoso*, Cluster
+102. *Zuckerzeit*, Cluster
+103. *Cluster II*, Cluster
