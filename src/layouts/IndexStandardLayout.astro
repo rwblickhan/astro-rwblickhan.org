@@ -1,6 +1,6 @@
 ---
 import IndexLayout from "./IndexLayout.astro";
-import IndexGridLayout from "./IndexGridLayout.astro";
+import IndexGrid from "../components/IndexGrid.astro";
 import LinkBox from "../components/LinkBox.astro";
 
 export interface Post {
@@ -19,7 +19,7 @@ const { title, description, posts, makeHref } = Astro.props;
 ---
 
 <IndexLayout title={title} description={description}>
-  <IndexGridLayout>
+  <IndexGrid>
     {
       posts.map((post) => (
         <LinkBox
@@ -30,5 +30,5 @@ const { title, description, posts, makeHref } = Astro.props;
         />
       ))
     }
-  </IndexGridLayout>
+  </IndexGrid>
 </IndexLayout>

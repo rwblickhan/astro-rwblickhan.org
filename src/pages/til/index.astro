@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 
 import IndexLayout from "../../layouts/IndexLayout.astro";
 import LinkBox from "../../components/LinkBox.astro";
-import IndexGridLayout from "../../layouts/IndexGridLayout.astro";
+import IndexGrid from "../../components/IndexGrid.astro";
 
 const posts = (await getCollection("til")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
@@ -16,7 +16,7 @@ const posts = (await getCollection("til")).sort(
       href="https://til.simonwillison.net">Simon Willison's TIL</a
     > page.
   </p>
-  <IndexGridLayout>
+  <IndexGrid>
     {
       posts.map((post) => (
         <LinkBox
@@ -26,5 +26,5 @@ const posts = (await getCollection("til")).sort(
         />
       ))
     }
-  </IndexGridLayout>
+  </IndexGrid>
 </IndexLayout>
