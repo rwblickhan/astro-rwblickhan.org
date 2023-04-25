@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 
 import IndexLayout from "../../layouts/IndexLayout.astro";
 import LinkBox from "../../components/LinkBox.astro";
+import IndexGridLayout from "../../layouts/IndexGridLayout.astro";
 
 const posts = (await getCollection("misc")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
@@ -14,9 +15,7 @@ const recipes = (await getCollection("recipes")).sort(
 ---
 
 <IndexLayout title="Miscellaneous" description="Miscellaneous index page">
-  <div
-    class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
-  >
+  <IndexGridLayout>
     {
       posts.map((post) => (
         <LinkBox
@@ -26,13 +25,11 @@ const recipes = (await getCollection("recipes")).sort(
         />
       ))
     }
-  </div>
+  </IndexGridLayout>
 
   <h2>Recipes</h2>
 
-  <div
-    class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
-  >
+  <IndexGridLayout>
     {
       recipes.map((recipe) => (
         <LinkBox
@@ -42,5 +39,5 @@ const recipes = (await getCollection("recipes")).sort(
         />
       ))
     }
-  </div>
+  </IndexGridLayout>
 </IndexLayout>

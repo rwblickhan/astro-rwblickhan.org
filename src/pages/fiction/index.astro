@@ -1,27 +1,16 @@
 ---
 import { getCollection } from "astro:content";
-import LinkBox from "../../components/LinkBox.astro";
 
-import IndexLayout from "../../layouts/IndexLayout.astro";
+import IndexStandardLayout from "../../layouts/IndexStandardLayout.astro";
 
 const posts = (await getCollection("fiction")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
 ---
 
-<IndexLayout title="Fiction" description="Fiction index page">
-  <div
-    class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
-  >
-    {
-      posts.map((post) => (
-        <LinkBox
-          title={post.data.title}
-          href={`/fiction/${post.slug}`}
-          description={post.data.description}
-          lastUpdatedDate={post.data.lastUpdatedDate}
-        />
-      ))
-    }
-  </div>
-</IndexLayout>
+<IndexStandardLayout
+  title="Fiction"
+  description="Fiction index page"
+  posts={posts}
+  makeHref={(slug) => `/fiction/${slug}`}
+/>

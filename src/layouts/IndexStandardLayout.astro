@@ -1,0 +1,34 @@
+---
+import IndexLayout from "./IndexLayout.astro";
+import IndexGridLayout from "./IndexGridLayout.astro";
+import LinkBox from "../components/LinkBox.astro";
+
+export interface Post {
+  data: { title: string; description?: string; lastUpdatedDate: Date };
+  slug: string;
+}
+
+export interface Props {
+  title: string;
+  description: string;
+  posts: Post[];
+  makeHref: (slug: string) => string;
+}
+
+const { title, description, posts, makeHref } = Astro.props;
+---
+
+<IndexLayout title={title} description={description}>
+  <IndexGridLayout>
+    {
+      posts.map((post) => (
+        <LinkBox
+          title={post.data.title}
+          href={makeHref(post.slug)}
+          description={post.data.description}
+          lastUpdatedDate={post.data.lastUpdatedDate}
+        />
+      ))
+    }
+  </IndexGridLayout>
+</IndexLayout>
