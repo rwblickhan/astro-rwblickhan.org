@@ -1,16 +1,46 @@
 ---
 import { getCollection } from "astro:content";
-
-import IndexStandardLayout from "../../layouts/IndexStandardLayout.astro";
-
+import IndexLayout from "../../layouts/IndexLayout.astro";
+import LinkBox from "../../components/LinkBox.astro";
+import IndexGrid from "../../components/IndexGrid.astro";
 const posts = (await getCollection("technical")).sort(
+  (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
+);
+const tilPosts = (await getCollection("til")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
 ---
 
-<IndexStandardLayout
-  title="Technical"
-  description="Technical writing index page"
-  posts={posts}
-  makeHref={(slug) => `/technical/${slug}`}
-/>
+<IndexLayout title="Technical" description="Technical writing index page">
+  <IndexGrid>
+    {
+      posts.map((post) => (
+        <LinkBox
+          title={post.data.title}
+          href={`/technical/${post.slug}`}
+          lastUpdatedDate={post.data.lastUpdatedDate}
+        />
+      ))
+    }
+  </IndexGrid>
+
+  <h2>TIL</h2>
+
+  <p>
+    This is my list of TIL (Today I Learned) posts, inspired by <a
+      href="https://til.simonwillison.net">Simon Willison's TIL</a
+    > page.
+  </p>
+
+  <IndexGrid>
+    {
+      tilPosts.map((til) => (
+        <LinkBox
+          title={til.data.title}
+          href={`/technical/til/${til.slug}`}
+          lastUpdatedDate={til.data.lastUpdatedDate}
+        />
+      ))
+    }
+  </IndexGrid>
+</IndexLayout>

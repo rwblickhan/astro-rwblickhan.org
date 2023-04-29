@@ -40,7 +40,7 @@ export async function get(context: any) {
           title: post.data.title,
           pubDate: post.data.lastUpdatedDate,
           description: `TIL for ${post.data.lastUpdatedDate.toDateString()}`,
-          link: `/til/${post.slug}/`,
+          link: `/technical/til/${post.slug}/`,
         }))
       )
       .concat(
