@@ -53,6 +53,7 @@ const galleryImages: GalleryImage[] = [
     galleryImages.map((galleryImage) => (
       <Image
         src={import(`../assets/gallery/${galleryImage.id}.jpg`)}
+        title={galleryImage.alt}
         alt={galleryImage.alt}
         format="webp"
         width={1920}
