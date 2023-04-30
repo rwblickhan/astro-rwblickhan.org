@@ -17,6 +17,6 @@ In vim, in addition to basic directional commands like `h`,`j`,`k`,`l` and word 
 
 Each of these also take a count, so for instance you can do `2{` to jump backwards by 2 paragraphs.
 
-## Sources
+## References
 
 - ["Text object motions"](https://vimhelp.org/motion.txt.html#object-motions)

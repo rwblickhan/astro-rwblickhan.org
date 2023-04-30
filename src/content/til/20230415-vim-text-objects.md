@@ -24,7 +24,7 @@ Two plugins supported by [`VSCodeVim](https://github.com/VSCodeVim/Vim) implemen
 - [surround.vim](https://github.com/tpope/vim-surround): Adds options for changing surrounding delimiters in addition to the contents inside.
 - [targets.vim](https://github.com/wellle/targets.vim): Adds smarter quote selection and separators like `*` (only partially supported by `VSCodeVim`).
 
-## Sources
+## References
 
 - ["Vim Text Objects: The Definitive Guide"](https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/)
 - ["Text object selection"](https://vimhelp.org/motion.txt.html#object-select)
