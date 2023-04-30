@@ -1,6 +1,6 @@
-import Fuse from "fuse.js";
+import type Fuse from "fuse.js";
 import { useState, useEffect } from "preact/hooks";
-import type { IndexEntry } from "../consts";
+import type { IndexEntry, SearchWorkerMessage } from "../consts";
 import FuseHighlight from "./FuseHighlight";
 
 export interface Props {
@@ -8,36 +8,39 @@ export interface Props {
 }
 
 export default function Search({ index }: Props) {
-  const [fuse, setFuse] = useState<Fuse<IndexEntry>>();
+  const [worker, setWorker] = useState<Worker | null>(null);
   const [query, setQuery] = useState("");
   const [rawResults, setRawResults] = useState<Fuse.FuseResult<IndexEntry>[]>(
     []
   );
   const [loading, setLoading] = useState(false);
   useEffect(() => {
-    async function runEffect() {
-      setFuse(
-        new Fuse(index, {
-          keys: ["body"],
-          includeMatches: true,
-          includeScore: true,
-          ignoreLocation: true,
-          useExtendedSearch: true,
-        })
-      );
-    }
-    runEffect();
+    const worker =
+      // https://vitejs.dev/guide/features.html#web-workers
+      new Worker(new URL("../search-worker", import.meta.url), {
+        type: "module",
+      });
+    worker.onmessage = (e) => {
+      setRawResults(e.data);
+    };
+    setWorker(worker);
   }, []);
+
+  useEffect(() => {
+    worker?.postMessage({ type: "init", index: index } as SearchWorkerMessage);
+  }, [worker]);
 
   useEffect(() => {
     setLoading(query.length > 0);
     const getResults = setTimeout(() => {
       setLoading(false);
       if (query.length > 0) {
-        /// Prepend `'` for an exact search
-        setRawResults(fuse?.search("'" + query) ?? []);
+        worker?.postMessage({
+          type: "query",
+          query: query,
+        } as SearchWorkerMessage);
       }
-    }, 500);
+    }, 250);
 
     return () => clearTimeout(getResults);
   }, [query]);

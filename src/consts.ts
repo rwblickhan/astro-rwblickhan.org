@@ -6,3 +6,15 @@ export interface IndexEntry {
   title: string;
   body: string;
 }
+
+export type SearchWorkerMessageType = "init" | "query";
+
+export type SearchWorkerMessage =
+  | {
+      type: "init";
+      index: IndexEntry[];
+    }
+  | {
+      type: "query";
+      query: string;
+    };
