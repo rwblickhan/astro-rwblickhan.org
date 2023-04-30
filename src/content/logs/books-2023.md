@@ -23,6 +23,7 @@ lastUpdatedDate: 2023-01-01
 18. *Something To Do With Paying Attention*, David Foster Wallace
 19. *Contested Will: Who Wrote Shakespeare?*, James Shapiro
 20. *The Sandman Vol. 8: Worlds' End*, Neil Gaiman
+21. *The Tatami Galaxy*, Tomihiko Morimi (trans. Emily Balistrieri)
 
 ## Skimmed
 
