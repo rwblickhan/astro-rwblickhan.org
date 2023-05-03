@@ -109,3 +109,4 @@ lastUpdatedDate: 2023-02-09
 104. *10,000 gecs*, 100 gecs
 105. *The Greatest Remaining Hits*, The Cotton Modules
 106. *SPEED RUN*, Frost Children
+107. *Buhloone Mindstate*, De La Soul
