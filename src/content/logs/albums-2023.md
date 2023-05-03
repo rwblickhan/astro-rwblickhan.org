@@ -110,3 +110,4 @@ lastUpdatedDate: 2023-02-09
 105. *The Greatest Remaining Hits*, The Cotton Modules
 106. *SPEED RUN*, Frost Children
 107. *Buhloone Mindstate*, De La Soul
+108. *Stakes Is High*, De La Soul
