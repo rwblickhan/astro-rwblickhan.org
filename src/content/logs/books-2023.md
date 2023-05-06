@@ -24,6 +24,7 @@ lastUpdatedDate: 2023-01-01
 19. *Contested Will: Who Wrote Shakespeare?*, James Shapiro
 20. *The Sandman Vol. 8: Worlds' End*, Neil Gaiman
 21. *The Tatami Galaxy*, Tomihiko Morimi (trans. Emily Balistrieri)
+22. *Ducks: Two Years in the Oil Sands*, Kate Beaton
 
 ## Skimmed
 
