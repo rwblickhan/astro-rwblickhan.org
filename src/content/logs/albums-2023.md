@@ -114,3 +114,4 @@ lastUpdatedDate: 2023-02-09
 109. *On Top Of The Covers*, T-Pain
 110. *Axia*, Yuki Saito
 111. *Scream Saver EP*, Subtronics
+112. *SAWAYAMA*, Rina Sawayama
