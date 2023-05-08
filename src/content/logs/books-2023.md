@@ -25,6 +25,7 @@ lastUpdatedDate: 2023-01-01
 20. *The Sandman Vol. 8: Worlds' End*, Neil Gaiman
 21. *The Tatami Galaxy*, Tomihiko Morimi (trans. Emily Balistrieri)
 22. *Ducks: Two Years in the Oil Sands*, Kate Beaton
+23. *Sex Criminals Vol. 2: Two Worlds, One Cop*, Matt Fraction & Chip Zdarsky
 
 ## Skimmed
 
