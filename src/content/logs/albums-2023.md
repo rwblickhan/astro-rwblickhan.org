@@ -115,3 +115,4 @@ lastUpdatedDate: 2023-02-09
 110. *Axia*, Yuki Saito
 111. *Scream Saver EP*, Subtronics
 112. *SAWAYAMA*, Rina Sawayama
+113. *Hold The Girl*, Rina Sawayama
