@@ -120,3 +120,5 @@ lastUpdatedDate: 2023-02-09
 115. *Heights*, Metric System 1981
 116. *Currents EP*, Metric System 1981
 117. *Thank You For Attending EP*, Deb Never
+118. *Hybrid Theory*, Linkin Park
+119. *Meteora*, Linkin Park
