@@ -53,7 +53,7 @@ const indexEntries: IndexEntry[] = fictionPosts
   .concat(
     tilPosts.map((post) => {
       return {
-        slug: `/til/${post.slug}`,
+        slug: `/technical/til/${post.slug}`,
         title: post.data.title,
         body: post.body,
       };
