@@ -123,3 +123,4 @@ lastUpdatedDate: 2023-02-09
 118. *Hybrid Theory*, Linkin Park
 119. *Meteora*, Linkin Park
 120. *Blood Sacrifice Shaman*, Tengger Cavalry
+121. *Sunesu Cavalry*, Tengger Cavalry
