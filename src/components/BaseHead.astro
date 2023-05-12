@@ -31,7 +31,10 @@ const { title, description, image = "/placeholder-social.jpg" } = Astro.props;
 <meta property="og:image" content={new URL(image, Astro.url)} />
 
 <!-- Favicon -->
-<link rel="shortcut icon" href="/favicon.png" type="image/png" />
+<!-- https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
 <!-- RSS -->
 <link
