@@ -124,3 +124,4 @@ lastUpdatedDate: 2023-02-09
 119. *Meteora*, Linkin Park
 120. *Blood Sacrifice Shaman*, Tengger Cavalry
 121. *Sunesu Cavalry*, Tengger Cavalry
+122. *Luxendarc Daikikou*, Linked Horizon
