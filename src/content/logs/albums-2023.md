@@ -125,3 +125,4 @@ lastUpdatedDate: 2023-02-09
 120. *Blood Sacrifice Shaman*, Tengger Cavalry
 121. *Sunesu Cavalry*, Tengger Cavalry
 122. *Luxendarc Daikikou*, Linked Horizon
+123. *Shingeki no Kiseki*, Linked Horizon
