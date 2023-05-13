@@ -26,6 +26,7 @@ lastUpdatedDate: 2023-01-01
 21. *The Tatami Galaxy*, Tomihiko Morimi (trans. Emily Balistrieri)
 22. *Ducks: Two Years in the Oil Sands*, Kate Beaton
 23. *Sex Criminals Vol. 2: Two Worlds, One Cop*, Matt Fraction & Chip Zdarsky
+24. *The Fabric of Civilization: How Textiles Made The World*, Virginia Postrel
 
 ## Skimmed
 
