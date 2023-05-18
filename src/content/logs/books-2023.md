@@ -12,7 +12,7 @@ lastUpdatedDate: 2023-01-01
 7. *Kill 6 Billion Demons Book 1*, Tom Parkinson-Morgan
 8. *Epicureanism: A Very Short Introduction*, Catherine Wilson
 9. *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
-10. *Kill 6 Billion Demons Book 2: Wielder of Names*, Tom Parkinson-Morgan
+10. *Kill 6 Billion Demons Book 2: Wielder of Names*, Tom Parkinson-MorgaGn
 11. 🔁 *The Bloody Chamber*, Angela Carter
 12. *The Incal*, Alejandro Jodorowsky & Moebius
 13. *The Mountain in the Sea*, Ray Nayler
@@ -28,6 +28,7 @@ lastUpdatedDate: 2023-01-01
 23. *Sex Criminals Vol. 2: Two Worlds, One Cop*, Matt Fraction & Chip Zdarsky
 24. *The Fabric of Civilization: How Textiles Made The World*, Virginia Postrel
 25. *The Last Samurai Reread*, Lee Konstantinou
+26. *The Literary Conference*, César Aira (trans. Katherine Silver)
 
 ## Skimmed
 
