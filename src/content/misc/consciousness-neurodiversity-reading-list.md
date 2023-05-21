@@ -22,9 +22,9 @@ Here's some works, fiction and non-fiction, related to consciousness, identity, 
 
 ## Fiction
 
+- *Perfect Blue*
 - *Everything Everywhere All At Once*
 - *The Devil and Daniel Johnston*
-- *Perfect Blue*
 - *The Mountain in the Sea*, Ray Nayler
 - *The Lathe of Heaven*, Ursula K. Le Guin
 - *The Kiss Quotient*, Helen Hoang

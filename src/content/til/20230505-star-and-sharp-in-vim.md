@@ -1,6 +1,6 @@
 ---
 title: "* and # in vim"
-lastUpdatedDate: 2023-05-03
+lastUpdatedDate: 2023-05-05
 tags: [command-line, vim]
 ---
 
