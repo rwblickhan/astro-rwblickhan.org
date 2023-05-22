@@ -16,7 +16,7 @@ lastUpdatedDate: 2023-01-01
 11. 🔁 *The Bloody Chamber*, Angela Carter
 12. *The Incal*, Alejandro Jodorowsky & Moebius
 13. *The Mountain in the Sea*, Ray Nayler
-14. 🔁 *What Can A Body Do?: How We Meet The Build World*, Sara Hendren
+14. 🔁 *What Can A Body Do?: How We Meet The Built World*, Sara Hendren
 15. *Lud-in-the-Mist*, Hope Mirrlees
 16. *How to Be Perfect: The Correct Answer to Every Moral Question*, Michael Schur
 17. *A Court of Thorns and Roses*, Sarah J. Maas
@@ -28,7 +28,7 @@ lastUpdatedDate: 2023-01-01
 23. *Sex Criminals Vol. 2: Two Worlds, One Cop*, Matt Fraction & Chip Zdarsky
 24. *The Fabric of Civilization: How Textiles Made The World*, Virginia Postrel
 25. *The Last Samurai Reread*, Lee Konstantinou
-26. The Literary Conference*, César Aira (trans. Katherine Silver)
+26. *The Literary Conference*, César Aira (trans. Katherine Silver)
 27. *The Sandman Vol. 9: The Kindly Ones*, Neil Gaiman
 28. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
 
