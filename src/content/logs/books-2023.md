@@ -30,6 +30,7 @@ lastUpdatedDate: 2023-01-01
 25. *The Last Samurai Reread*, Lee Konstantinou
 26. The Literary Conference*, César Aira (trans. Katherine Silver)
 27. *The Sandman Vol. 9: The Kindly Ones*, Neil Gaiman
+28. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
 
 ## Skimmed
 
