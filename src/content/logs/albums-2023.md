@@ -138,3 +138,4 @@ lastUpdatedDate: 2023-02-09
 133. *One of These Nights*, The Eagles
 134. *Led Zeppelin III*, Led Zeppelin
 135. *Kazakhstan EP*, Brian Eno
+136. *RUSH!*, Maneskin
