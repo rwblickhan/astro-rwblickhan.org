@@ -140,3 +140,4 @@ lastUpdatedDate: 2023-02-09
 135. *Kazakhstan EP*, Brian Eno
 136. *RUSH!*, Maneskin
 137. *Datarock Datarock*, Datarock
+138. *Il ballo della vita*, Maneskin
