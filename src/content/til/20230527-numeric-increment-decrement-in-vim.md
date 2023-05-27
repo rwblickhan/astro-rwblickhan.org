@@ -27,7 +27,6 @@ into:
 
 These also accept a count, which changes the increment or decrement on each line, so for instance `2g<C-a>` will change this:
 
-
 ```markdown
 1.
 1.
