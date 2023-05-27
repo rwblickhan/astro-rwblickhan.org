@@ -147,3 +147,4 @@ lastUpdatedDate: 2023-02-09
 142. *Enema of the State*, blink-182
 143. *First Band on the Moon*, The Cardigans
 144. *Aquarium Nightclub*, Space Ghost
+145. *Private Paradise*, Space Ghost
