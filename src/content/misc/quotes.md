@@ -185,4 +185,8 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - ["Well, Here We Are"](https://franklantz.substack.com/p/well-here-we-are), *Donkeyspace*, Frank Lantz
 
+> The space between two shores is the ocean... and being caught in between feels like drowning. And, really, what is the point of tears among so much salt water?
+
+- *The Magic Fish*, Trung Le Nguyen
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
