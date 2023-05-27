@@ -33,6 +33,7 @@ lastUpdatedDate: 2023-01-01
 28. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
 29. *Don't Panic: Douglas Adams & The Hitchhiker's Guide to the Galaxy*, Neil Gaima
 30. *The Original Hitch-Hiker's Radio Scripts: 10th Anniversary Edition*, Douglas Adams
+31. *The Magic Fish*, Trung Le Nguyen
 
 ## Skimmed
 
