@@ -149,3 +149,4 @@ lastUpdatedDate: 2023-02-09
 144. *Aquarium Nightclub*, Space Ghost
 145. *Private Paradise*, Space Ghost
 146. *Being Funny In A Foreign Language*, The 1975
+147. *Freak Out!*, The Mothers of Invention
