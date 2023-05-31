@@ -36,6 +36,7 @@ lastUpdatedDate: 2023-01-01
 31. *The Magic Fish*, Trung Le Nguyen
 32. *American Born Chinese*, Gene Luen Yang
 33. *The Sandman Vol. 10: The Wake*, Neil Gaiman
+34. *Sex Criminals Vol. 3: Three The Hard Way*, Matt Fraction & Chip Zdarsky
 
 ## Skimmed
 
