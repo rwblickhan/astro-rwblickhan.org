@@ -18,6 +18,7 @@ const tilPosts = (await getCollection("til")).sort(
         <LinkBox
           title={post.data.title}
           href={`/technical/${post.slug}`}
+          description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
         />
       ))
