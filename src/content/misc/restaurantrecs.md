@@ -23,3 +23,4 @@ lastUpdatedDate: 2023-03-15
 
 - [Raisu](https://raisu.ca): My usual anniversary spot. They're best known for their tonkatsu teishoku, where panko-breaded tonkatsu is served alongside a carefully-chosen set of sides. They also often have special set menus for holidays like Valentine's.
 - [Ramen Danbo](https://ramendanbo.com/): A Japanese chain specializing in Fukuoka-style hakata ramen with a handful of locations in North America. They’re my favourite purveyors of my favourite style of ramen; I once patiently waited in line at Danbo over an hour in the snow wearing only a hoody and didn't regret it for a moment.
+- [Miku](https://mikurestaurant.com): A waterfront restaurant specializing in blowtorched aburi sushi, making for a perfect date night location. They also have a sister restaurant, [Minami](https://minamirestaurant.com), serving similar fare.
