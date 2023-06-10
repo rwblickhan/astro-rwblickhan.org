@@ -1,6 +1,6 @@
 ---
 title: Films of 2023
-lastUpdatedDate: 2023-01-01
+lastUpdatedDate: 2025-06-10
 ---
 
 1. 🔁 *Tampopo* (1985)
@@ -22,3 +22,4 @@ lastUpdatedDate: 2023-01-01
 17. *Joyland* (2022)
 18. *Guardians of the Galaxy Vol. 3* (2023)
 19. *Spider-Man: Across the Spider-Verse* (2023)
+20. 🔁 *Jurassic Park* (1993)
