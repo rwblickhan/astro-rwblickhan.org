@@ -1,6 +1,6 @@
 ---
 title: Albums of 2023
-lastUpdatedDate: 2023-06-09
+lastUpdatedDate: 2023-06-10
 ---
 
 1. *Blue Rev*, Alvvays
@@ -156,3 +156,4 @@ lastUpdatedDate: 2023-06-09
 151. *OK Nintendo 64*, on4words
 152. *Yankee Hotel Foxtrot*, Wilco
 153. *The Age of Pleasure*, Janelle Monae
+154. *Orbvs Terrarvm*, The Orb
