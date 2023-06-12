@@ -38,6 +38,7 @@ lastUpdatedDate: 2023-01-01
 33. *The Sandman Vol. 10: The Wake*, Neil Gaiman
 34. *Sex Criminals Vol. 3: Three The Hard Way*, Matt Fraction & Chip Zdarsky
 35. *Nineteen Ways of Looking at Consciousness*, Patrick House
+36. *The Hitchhiker’s Guide to the Galaxy: Further Radio Scripts*, Douglas Adams & Dirk Maggs
 
 ## Skimmed
 
