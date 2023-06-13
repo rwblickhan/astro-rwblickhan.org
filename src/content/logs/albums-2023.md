@@ -1,6 +1,6 @@
 ---
 title: Albums of 2023
-lastUpdatedDate: 2023-06-10
+lastUpdatedDate: 2023-06-12
 ---
 
 1. *Blue Rev*, Alvvays
@@ -158,3 +158,4 @@ lastUpdatedDate: 2023-06-10
 153. *The Age of Pleasure*, Janelle Monae
 154. *Orbvs Terrarvm*, The Orb
 155. *The Orb's Adventures Beyond the Ultraworld*, The Orb
+156. *Leather Terror*, Carpenter Brut
