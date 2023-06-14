@@ -1,6 +1,6 @@
 ---
 title: Books of 2023
-lastUpdatedDate: 2023-01-01
+lastUpdatedDate: 2023-06-14
 ---
 
 1. *The Hearing Trumpet*, Leonora Carrington
