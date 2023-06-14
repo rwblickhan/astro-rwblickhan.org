@@ -39,6 +39,7 @@ lastUpdatedDate: 2023-01-01
 34. *Sex Criminals Vol. 3: Three The Hard Way*, Matt Fraction & Chip Zdarsky
 35. *Nineteen Ways of Looking at Consciousness*, Patrick House
 36. *The Hitchhiker’s Guide to the Galaxy: Further Radio Scripts*, Douglas Adams & Dirk Maggs
+37. *A Wizard of Earthsea*, Ursula K. Le Guin
 
 ## Skimmed
 
