@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio Code Plugins"
-lastUpdatedDate: 2023-07-31
+lastUpdatedDate: 2023-05-31
 description: "An evergreen list of VS Code plugins I use."
 ---
 
@@ -20,6 +20,7 @@ In VS Code, I used to use the (very popular and very polished) [VSCodeVim](https
 
 [VSCode Neovim](https://github.com/vscode-neovim/vscode-neovim) takes a different approach, connecting VS Code to a normal Neovim instance, complete with .vimrc support.
 Notably, that means I can use the exact same vim plugins between Neovim and VS Code, including [targets.vim](https://github.com/wellle/targets.vim), [commentary.vim](https://github.com/tpope/vim-commentary), and [surround.vim](https://github.com/tpope/vim-surround), without relying on support from VSCodeVim!
+For more on the plugins I use, see my [Vim Plugins list](/technical/vim-plugins).
 
 The only disadvantage to VSCode Neovim is that it doesn't translate VS Code selections into Neovim visual mode and vice versa.
 That can be a minor inconvenience on the rare occasion I do want to use a mouse for selection.
