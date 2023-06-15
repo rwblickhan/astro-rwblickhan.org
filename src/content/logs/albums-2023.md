@@ -1,6 +1,6 @@
 ---
 title: Albums of 2023
-lastUpdatedDate: 2023-06-12
+lastUpdatedDate: 2023-06-15
 ---
 
 1. *Blue Rev*, Alvvays
@@ -159,3 +159,5 @@ lastUpdatedDate: 2023-06-12
 154. *Orbvs Terrarvm*, The Orb
 155. *The Orb's Adventures Beyond the Ultraworld*, The Orb
 156. *Leather Terror*, Carpenter Brut
+157. *Yogyakarta: Gamelan of the Kraton - Celestial Harmonies*, Gamelan of the Yogayakarta Royal Palace
+158. *Pitamaha: Music from Bali*, Various Artists
