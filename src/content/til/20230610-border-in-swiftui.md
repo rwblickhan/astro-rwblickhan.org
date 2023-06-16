@@ -18,7 +18,7 @@ var body: some View {
 ```
 
 That does not work, because the corner radius will mask the border, so the border will simply be cut off at the edges.
-Also, apparently `.cornerRadius` is deprecated.
+Also, apparently `.cornerRadius` is deprecated as of iOS 17.
 
 Instead, the best way seems to be to use the [`.overlay`](https://developer.apple.com/documentation/swiftui/view/overlay(alignment:content:)) view modifier:
 
