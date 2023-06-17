@@ -1,6 +1,6 @@
 ---
 title: Quotes
-lastUpdatedDate: 2023-02-25
+lastUpdatedDate: 2023-06-17
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
