@@ -24,3 +24,4 @@ lastUpdatedDate: 2025-06-16
 19. *Spider-Man: Across the Spider-Verse* (2023)
 20. 🔁 *Jurassic Park* (1993)
 21. *Past Lives* (2023)
+22. *The Wind Rises* (2013)
