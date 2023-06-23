@@ -193,4 +193,16 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - *A Wizard of Earthsea*, Ursula K. Le Guin
 
+> "Do you think things always have an explanation?"
+>
+> "Yes. I believe that they do. But I think that with our human limitations we're not always able to understand the explanations. But you see, Meg, just because we don't understand doesn't mean that the explanation doesn't exist."
+
+- *A Wrinkle in Time*, Madeleine L'Engle
+
+> "Nobody suffers here," Charles intoned. "Nobody is ever unhappy."
+>
+> "But nobody's ever happy, either," Meg said earnestly. "Maybe if you aren't unhappy sometimes, you don't know how to be happy."
+
+- *A Wrinkle in Time*, Madeleine L'Engle
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
