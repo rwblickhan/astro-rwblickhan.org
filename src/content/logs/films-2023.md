@@ -26,3 +26,4 @@ lastUpdatedDate: 2025-06-16
 21. *Past Lives* (2023)
 22. *The Wind Rises* (2013)
 23. *Synecdoche, New York* (2008)
+24. *Asteroid City* (2023)
