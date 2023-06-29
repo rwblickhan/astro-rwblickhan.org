@@ -43,6 +43,7 @@ lastUpdatedDate: 2023-06-14
 38. *Ubik*, Philip K. Dick
 39. *The Tombs of Atuan*, Ursula K. Le Guin
 40. *A Wrinkle in Time*, Madeleine L'Engle
+41. *Mort*, Terry Pratchett
 
 ## Skimmed
 
