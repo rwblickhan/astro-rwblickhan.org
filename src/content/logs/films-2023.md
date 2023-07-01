@@ -27,3 +27,4 @@ lastUpdatedDate: 2025-06-16
 22. *The Wind Rises* (2013)
 23. *Synecdoche, New York* (2008)
 24. *Asteroid City* (2023)
+25. *Heathers* (1989)
