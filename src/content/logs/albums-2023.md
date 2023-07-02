@@ -1,6 +1,6 @@
 ---
 title: Albums of 2023
-lastUpdatedDate: 2023-06-16
+lastUpdatedDate: 2023-07-02
 ---
 
 1. *Blue Rev*, Alvvays
@@ -169,3 +169,4 @@ lastUpdatedDate: 2023-06-16
 164. *No Fun Mondays*, Billie Joe Armstrong
 165. *Kim Wilde*, Kim Wilde
 166. *Different Light*, The Bangles
+167. *July Flame*, Laura Veirs
