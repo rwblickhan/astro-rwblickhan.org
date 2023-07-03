@@ -44,6 +44,7 @@ lastUpdatedDate: 2023-06-14
 39. *The Tombs of Atuan*, Ursula K. Le Guin
 40. *A Wrinkle in Time*, Madeleine L'Engle
 41. *Mort*, Terry Pratchett
+42. *Fun Home: A Family Tragicomic*, Alison Bechdel
 
 ## Skimmed
 
