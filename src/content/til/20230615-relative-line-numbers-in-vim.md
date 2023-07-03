@@ -9,7 +9,7 @@ if you want to jump to the end of the current function, how many lines do you ne
 
 Luckily, vim provides a better way. You can use relative line numbers to display a count of how far each line is from the current line.
 In particular, if you enable the "hybrid" mode, by setting both `number` and `relativenumber` at the same time,
-the current line will still show the absolute line number, which can still be useful.
+the current line will still show the absolute line number, which can be useful.
 This makes it trivial to jump wherever you want on screen.
 
 ```vimscript
