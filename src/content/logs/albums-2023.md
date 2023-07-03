@@ -170,3 +170,4 @@ lastUpdatedDate: 2023-07-02
 165. *Kim Wilde*, Kim Wilde
 166. *Different Light*, The Bangles
 167. *July Flame*, Laura Veirs
+168. *Endless Summer*, Fennesz
