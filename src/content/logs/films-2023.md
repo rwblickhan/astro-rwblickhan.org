@@ -1,6 +1,6 @@
 ---
 title: Films of 2023
-lastUpdatedDate: 2025-06-16
+lastUpdatedDate: 2023-07-02
 ---
 
 1. 🔁 *Tampopo* (1985)
@@ -28,3 +28,4 @@ lastUpdatedDate: 2025-06-16
 23. *Synecdoche, New York* (2008)
 24. *Asteroid City* (2023)
 25. *Heathers* (1989)
+26. *The Seven Year Itch* (1955)
