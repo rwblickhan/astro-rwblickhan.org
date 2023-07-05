@@ -29,3 +29,4 @@ lastUpdatedDate: 2023-07-02
 24. *Asteroid City* (2023)
 25. *Heathers* (1989)
 26. *The Seven Year Itch* (1955)
+27. *Her* (2013)
