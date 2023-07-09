@@ -45,6 +45,7 @@ lastUpdatedDate: 2023-06-14
 40. *A Wrinkle in Time*, Madeleine L'Engle
 41. *Mort*, Terry Pratchett
 42. *Fun Home: A Family Tragicomic*, Alison Bechdel
+43. *There Is No Antimemetics Division*, qntm
 
 ## Skimmed
 
