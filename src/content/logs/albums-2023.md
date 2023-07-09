@@ -174,3 +174,4 @@ lastUpdatedDate: 2023-07-02
 169. *Make Room*, Destroy Boys
 170. *Night Time*, Killing Joke
 171. *Manhattan Research Inc.*, Raymond Scott
+172. *Cherish*, Kirinji
