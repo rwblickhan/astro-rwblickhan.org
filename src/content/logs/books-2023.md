@@ -47,6 +47,7 @@ lastUpdatedDate: 2023-06-14
 42. *Fun Home: A Family Tragicomic*, Alison Bechdel
 43. *There Is No Antimemetics Division*, qntm
 44. *Try Not To Be Strange: The Curious History of the Kingdom of Redonda*, Michael Hingston
+45. *Howl's Moving Castle*, Diana Wynne Jones
 
 ## Skimmed
 
