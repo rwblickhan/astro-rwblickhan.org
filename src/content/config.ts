@@ -75,6 +75,8 @@ const recipes = defineCollection({
   }),
 });
 
+const gallery = defineCollection({});
+
 const collections = {
   fiction,
   essays,
@@ -83,6 +85,7 @@ const collections = {
   logs,
   misc,
   recipes,
+  gallery,
 };
 
 export type Collection = keyof typeof collections;
@@ -90,15 +93,17 @@ export type Collection = keyof typeof collections;
 export interface CollectionMetadata {
   title: string;
   slug: string;
+  isTopLevel: boolean;
 }
 
 export const collectionMetadataMap: Map<Collection, CollectionMetadata> =
   new Map([
-    ["fiction", { title: "Fiction", slug: "/fiction" }],
-    ["essays", { title: "Essays", slug: "/essays" }],
-    ["technical", { title: "Technical", slug: "/technical" }],
-    ["til", { title: "TIL", slug: "/technical/til" }],
-    ["logs", { title: "Logs", slug: "/logs" }],
-    ["misc", { title: "Misc", slug: "/misc" }],
-    ["recipes", { title: "Recipes", slug: "/misc/recipes" }],
+    ["fiction", { title: "Fiction", slug: "/fiction", isTopLevel: true }],
+    ["essays", { title: "Essays", slug: "/essays", isTopLevel: true }],
+    ["technical", { title: "Technical", slug: "/technical", isTopLevel: true }],
+    ["til", { title: "TIL", slug: "/technical/til", isTopLevel: false }],
+    ["logs", { title: "Logs", slug: "/logs", isTopLevel: true }],
+    ["misc", { title: "Misc", slug: "/misc", isTopLevel: true }],
+    ["recipes", { title: "Recipes", slug: "/misc/recipes", isTopLevel: false }],
+    ["gallery", { title: "Gallery", slug: "/gallery", isTopLevel: true }],
   ]);
