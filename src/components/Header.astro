@@ -8,11 +8,10 @@ import type { CollectionMetadata } from "../content/config";
 
 const collections: CollectionMetadata[] = [];
 for (const collectionMetadata of collectionMetadataMap.values()) {
-  collections.push(collectionMetadata);
+  if (collectionMetadata.isTopLevel) {
+    collections.push(collectionMetadata);
+  }
 }
-const topLevelCollections = collections.filter(
-  (collection) => collection.isTopLevel
-);
 ---
 
 <script>
@@ -67,7 +66,7 @@ const topLevelCollections = collections.filter(
     </div>
   </div>
   {
-    topLevelCollections.map((metadata) => (
+    collections.map((metadata) => (
       <CollectionLink
         id="collection"
         slug={metadata.slug}
@@ -78,7 +77,7 @@ const topLevelCollections = collections.filter(
   <noscript>
     <div class="p-4 bg-black flex flex-row items-center justify-around">
       {
-        topLevelCollections.map((metadata) => (
+        collections.map((metadata) => (
           <a
             class="text-white dark:text-rwb-text-dark text-2xl no-underline hover:underline"
             href={`/${metadata.slug}`}
