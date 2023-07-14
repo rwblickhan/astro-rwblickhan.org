@@ -75,12 +75,30 @@ const recipes = defineCollection({
   }),
 });
 
-export const collections = {
+const collections = {
   fiction,
   essays,
   technical,
-  logs,
   til,
+  logs,
   misc,
   recipes,
 };
+
+export type Collection = keyof typeof collections;
+
+export interface CollectionMetadata {
+  title: string;
+  slug: string;
+}
+
+export const collectionMetadataMap: Map<Collection, CollectionMetadata> =
+  new Map([
+    ["fiction", { title: "Fiction", slug: "/fiction" }],
+    ["essays", { title: "Essays", slug: "/essays" }],
+    ["technical", { title: "Technical", slug: "/technical" }],
+    ["til", { title: "TIL", slug: "/technical/til" }],
+    ["logs", { title: "Logs", slug: "/logs" }],
+    ["misc", { title: "Misc", slug: "/misc" }],
+    ["recipes", { title: "Recipes", slug: "/misc/recipes" }],
+  ]);

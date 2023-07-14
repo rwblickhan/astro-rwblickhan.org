@@ -15,7 +15,7 @@ const post = Astro.props;
 const { Content } = await post.render();
 ---
 
-<ContentLayout {...post.data}>
+<ContentLayout parentCollection="technical" {...post.data}>
   <h1>{post.data.title}</h1>
   <Content />
 </ContentLayout>
