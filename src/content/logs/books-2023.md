@@ -12,7 +12,7 @@ lastUpdatedDate: 2023-06-14
 7. *Kill 6 Billion Demons Book 1*, Tom Parkinson-Morgan
 8. *Epicureanism: A Very Short Introduction*, Catherine Wilson
 9. *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
-10. *Kill 6 Billion Demons Book 2: Wielder of Names*, Tom Parkinson-MorgaGn
+10. *Kill 6 Billion Demons Book 2: Wielder of Names*, Tom Parkinson-Morgan
 11. 🔁 *The Bloody Chamber*, Angela Carter
 12. *The Incal*, Alejandro Jodorowsky & Moebius
 13. *The Mountain in the Sea*, Ray Nayler
@@ -31,7 +31,7 @@ lastUpdatedDate: 2023-06-14
 26. *The Literary Conference*, César Aira (trans. Katherine Silver)
 27. *The Sandman Vol. 9: The Kindly Ones*, Neil Gaiman
 28. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
-29. *Don't Panic: Douglas Adams & The Hitchhiker's Guide to the Galaxy*, Neil Gaima
+29. *Don't Panic: Douglas Adams & The Hitchhiker's Guide to the Galaxy*, Neil Gaiman
 30. *The Original Hitch-Hiker's Radio Scripts: 10th Anniversary Edition*, Douglas Adams
 31. *The Magic Fish*, Trung Le Nguyen
 32. *American Born Chinese*, Gene Luen Yang
@@ -48,6 +48,7 @@ lastUpdatedDate: 2023-06-14
 43. *There Is No Antimemetics Division*, qntm
 44. *Try Not To Be Strange: The Curious History of the Kingdom of Redonda*, Michael Hingston
 45. *Howl's Moving Castle*, Diana Wynne Jones
+46. *Kill 6 Billion Demons Book 3: Seeker of Thrones*, Tom Parkinson-Morgan
 
 ## Skimmed
 
