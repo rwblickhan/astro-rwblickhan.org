@@ -49,6 +49,7 @@ lastUpdatedDate: 2023-06-14
 44. *Try Not To Be Strange: The Curious History of the Kingdom of Redonda*, Michael Hingston
 45. *Howl's Moving Castle*, Diana Wynne Jones
 46. *Kill 6 Billion Demons Book 3: Seeker of Thrones*, Tom Parkinson-Morgan
+47. *The Blazing World*, Margaret Cavendish
 
 ## Skimmed
 
