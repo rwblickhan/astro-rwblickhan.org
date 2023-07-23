@@ -31,3 +31,4 @@ lastUpdatedDate: 2023-07-02
 26. *The Seven Year Itch* (1955)
 27. *Her* (2013)
 28. *Dark Star* (1974)
+29. *Nimona* (2023)
