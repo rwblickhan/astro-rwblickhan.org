@@ -25,6 +25,19 @@ For more on the plugins I use, see my [Vim Plugins list](/technical/vim-plugins)
 The only disadvantage to VSCode Neovim is that it doesn't translate VS Code selections into Neovim visual mode and vice versa.
 That can be a minor inconvenience on the rare occasion I do want to use a mouse for selection.
 
+## Codeium
+
+I've been playing with [Codeium](https://codeium.com) recently, which is a free alternative to [GitHub Copilot](https://github.com/features/copilot/) - a useful service,
+but not one I was eager to pay $10 a month for, especially when Codeium is fairly competitive.
+I like to think of these plugins as "advanced autocomplete" - type a comment or start writing some code and you'll see an LLM-generated sugggestion, which are surprisingly useful,
+like filling out the rest of a complicated JSON object or taking a first pass at a minor algorithm.
+
+Am I concerned about the legal and ethical status of LLM-based code generation?
+A bit, but I'm exclusively using this for my own open-source projects and mostly focused on small-scale edits,
+which are either "obvious" but require some toil or would be a simple StackOverflow search away.
+
+There's also [Sourcegraph Cody](https://about.sourcegraph.com/cody), which is likewise free, but I found its suggestions slow and less useful than Codeium or GitHub Copilot.
+
 ## Markdown All in One
 
 [Markdown All in One](https://markdown-all-in-one.github.io/docs/guide/#features) adds a lot of handy Markdown editing features, like auto list continuation and standard hotkeys like Cmd-B for bold.
