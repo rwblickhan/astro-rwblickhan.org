@@ -32,3 +32,4 @@ lastUpdatedDate: 2023-07-02
 27. *Her* (2013)
 28. *Dark Star* (1974)
 29. *Nimona* (2023)
+30. *Barbie* (2023)
