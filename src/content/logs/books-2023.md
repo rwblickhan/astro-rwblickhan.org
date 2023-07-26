@@ -51,6 +51,7 @@ lastUpdatedDate: 2023-06-14
 46. *Kill 6 Billion Demons Book 3: Seeker of Thrones*, Tom Parkinson-Morgan
 47. *The Blazing World*, Margaret Cavendish
 48. *The Annotated Hunting of the Snark: The Definitive Edition*, Lewis Carroll (ed. Martin Gardner)
+49. *The Annotated Ancient Mariner*, Samuel Taylor Coleridge (ed. Martin Gardner)
 
 ## Skimmed
 
