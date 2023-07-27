@@ -57,7 +57,7 @@ Robin Dunbar is a fairly prominent anthropologist — I highly recommend his boo
 
 _”Scenes” are often more inventive than individuals._
 
-## References
+### References
 
 - [“Scenius, or Communal Genius”](https://kk.org/thetechnium/scenius-or-comm/)
 - [“How to Walk and Talk”](https://craigmod.com/ridgeline/043/)
