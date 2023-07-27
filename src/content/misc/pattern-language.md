@@ -11,7 +11,7 @@ These are various “patterns” that I tend to use and reuse in my thinking. Th
 
 _Humans are uniquely successful due to our social learning ability._
 
-
+### References
 
 - _The Secret of Our Success: How Culture is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter_, Joseph Henrich
 - [“A Rant About ‘Technology’”](https://web.archive.org/web/20230318100241/http://www.ursulakleguinarchive.com/Note-Technology.html), Ursula K. Le Guin
@@ -47,7 +47,7 @@ _Stable human social groups are limited to about 150 people._
 - [”Neocortex size as a constraint on group size in primates”](https://www.sciencedirect.com/science/article/abs/pii/004724849290081J?via%3Dihub)
 - [“Dunbar’s number and how speaking is 2.8x better than picking fleas”](https://interconnected.org/home/2022/04/05/dunbar)
 - [“Platoons - a natural unit size for a modern army”](https://youtu.be/a15gihWu1SM)
-- _ Friends: Understanding the Power of our Most Important Relationships_, Robin Dunbar
+- _Friends: Understanding the Power of our Most Important Relationships_, Robin Dunbar
 
 ### Details
 
