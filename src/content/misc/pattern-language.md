@@ -7,7 +7,7 @@ These are various “patterns” that I tend to use and reuse in my thinking. Th
 
 ## Cultural Niche
 
-_Humans are uniquely successful due to our social learning ability.
+_Humans are uniquely successful due to our social learning ability._
 
 ### References
 
@@ -31,6 +31,7 @@ _Culture is subject to evolutionary pressures._
 ### Details
 
 Culture, as described above, ends up subject to evolutionary pressures. Three important points:
+
 - Many cultural behaviors are (mal)adaptive to some problem in the environment, but the individuals engaging in the culture may have no understanding of _why_ they behave the way they do! Henrich uses the example of manioc, a tuber native to the Americas that contains cyanide, but is happily consumed by native peoples of the Amazon thanks to a convoluted multistep leaching process that nobody understood until the introduction of modern scientific instruments.
 - Additionally, different cultures are adapted to different environments in non-obvious ways. Henrich uses the example of the many European explorers who died in the Arctic, in contrast to the Inuit.
 - Culture is sensitive to interventions and broken chains of transmission. The Baffin Island Inuit lost kayaks as a technology and didn’t regain it until accidentally contacting other Inuit groups. Japan had a massive influx of firearms in the 16th century, but they were banned and mostly forgot about a century later.
