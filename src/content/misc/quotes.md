@@ -209,4 +209,8 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - *Asteroid City*
 
+> Random thought concerning personal AI ethics: it's rude to publish something that would take someone longer to read than it took you to write it
+
+- [Simon Willison on Mastodon](https://fedi.simonwillison.net/@simon/110793056983308781)
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
