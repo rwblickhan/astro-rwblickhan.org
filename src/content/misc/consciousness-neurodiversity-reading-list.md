@@ -1,6 +1,6 @@
 ---
 title: Consciousness, Identity, & Neurodiversity Reading List
-lastUpdatedDate: 2023-06-19
+lastUpdatedDate: 2023-10-28
 ---
 
 Here's some works, fiction and non-fiction, related to consciousness, identity, and neurodiversity that I particularly appreciate.
@@ -10,6 +10,7 @@ Here's some works, fiction and non-fiction, related to consciousness, identity, 
 - ["If Materialism Is True, the United States Is Probably Conscious"](http://faculty.ucr.edu/~eschwitz/SchwitzAbs/USAconscious.htm), Eric Schwitzgebel
 - ["Illusionism as a Theory of Consciousness"](https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf), Keith Frankish
 - ["The overfitted brain: Dreams evolved to assist generalization"](https://pubmed.ncbi.nlm.nih.gov/34036289/), Erik Hoel
+- ["Feedback is all you need... for agency to emerge"](https://subconscious.substack.com/p/feedback-is-all-you-need), Gordon Brander
 - *Nineteen Ways of Looking at Consciousness*, Patrick House
 - *The Lathe of Heaven*, Ursula K. Le Guin
 - *Ubik*, Philip K. Dick
