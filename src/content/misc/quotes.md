@@ -125,13 +125,13 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - Peter S. Beagle, *The Last Unicorn*, Ch. 12
 
-> When I was alive, I believed - as you do - that time was at least as real and solid as myself, and probably more so. I said 'one o'clock' as though I could see it, and 'Monday' as though I could find it on the map; and I let myself be hurried along from minute to minute, day to day, year to year, as though I were actually moving from one place to another. Like everyone else, I lived in a house bricked up with second and minutes, weekend and New Year's Days, and I never went outside until I died, because there was no other door. Now I know that I could have walked through the walls.
+> When I was alive, I believed - as you do - that time was at least as real and solid as myself, and probably more so. I said 'one o'clock' as though I could see it, and 'Monday' as though I could find it on the map; and I let myself be hurried along from minute to minute, day to day, year to year, as though I were actually moving from one place to another. Like everyone else, I lived in a house bricked up with seconds and minutes, weekend and New Year's Days, and I never went outside until I died, because there was no other door. Now I know that I could have walked through the walls.
 
 - Peter S. Beagle, *The Last Unicorn*, Ch. 12
 
 > 'It all seems a bit unfair, my lord, begging your pardon. What could we have done to save the unicorns? We were afraid of the Red Bull. What could we have done?'
 >
-> 'One word might have been enough,' King Lir replied. 'You'll never know now.'
+> 'One word might have been enough,' King Lír replied. 'You'll never know now.'
 
 - Peter S. Beagle, *The Last Unicorn*, Ch. 14
 
@@ -142,7 +142,7 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 > Look at yourself - what leaf, what tiny tree\
 > Are you in all the countryside we see?\
 > Look at how small you are, beneath the high\
-> And overarching vastness of the sky-\
+> And overarching vastness of the sky -\
 > Examine who are you, do it with care,\
 > Your own assessment says you're hardly there.\
 > You thought you were a great thing on the earth,\
