@@ -33,3 +33,4 @@ lastUpdatedDate: 2023-07-02
 28. *Dark Star* (1974)
 29. *Nimona* (2023)
 30. *Barbie* (2023)
+31. *Oppenheimer* (2023)
