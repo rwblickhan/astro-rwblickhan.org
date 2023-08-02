@@ -53,6 +53,7 @@ lastUpdatedDate: 2023-06-14
 48. *The Annotated Hunting of the Snark: The Definitive Edition*, Lewis Carroll (ed. Martin Gardner)
 49. *The Annotated Ancient Mariner*, Samuel Taylor Coleridge (ed. Martin Gardner)
 50. *Nimona*, N.D. Stevenson
+51. 🔁 *Macbeth*, William Shakespeare
 
 ## Skimmed
 
