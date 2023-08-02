@@ -54,6 +54,7 @@ lastUpdatedDate: 2023-06-14
 49. *The Annotated Ancient Mariner*, Samuel Taylor Coleridge (ed. Martin Gardner)
 50. *Nimona*, N.D. Stevenson
 51. 🔁 *Macbeth*, William Shakespeare
+52. *Excellent Advice for Living: Wisdom I Wish I'd Known Earlier*, Kevin Kelly
 
 ## Skimmed / DNF
 
