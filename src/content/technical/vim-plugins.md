@@ -1,14 +1,12 @@
 ---
 title: "Vim Plugins"
-lastUpdatedDate: 2023-06-14
+lastUpdatedDate: 2023-08-02
 description: "An evergreen list of vim plugins I use."
 ---
 
 I use quite a few vim plugins, but most of them are relatively simple editing plugins that introduce new text objects or commands.
 I shy away from more complicated plugins that try to turn vim into a fully-featured IDE.
 vim should be focused on text editing! If I want an IDE, I'll use an IDE... with the vim mode enabled 😉
-
-Since I use [VSCode Neovim](/technical/vscode-plugins#vscode-neovim), these arguably count as [VSCode plugins](/technical/vscode-plugins) as well.
 
 ## Table of Contents
 
@@ -85,17 +83,6 @@ which doesn't often come up but is a nice quality-of-life improvement when it do
 
 vim has `<C-a>` and `<C-x>` for [numeric increment and decrement](/technical/til/20230527-numeric-increment-decrement-in-vim), but they don't play well with dates formatted like YYYY-MM-DD;
 they interpret the months and days as negative numbers. [speeddating.vim](https://github.com/tpope/vim-speeddating) fixes them to respect date formatting.
-
-## splitjoin.vim
-
-I use `J` fairly heavily to join lines together, but it's sometimes annoying that that doesn't always respect the syntax of the programming language I'm working in,
-like how Rust often requires braces for multiline statements but not single-line statements.
-[splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) adds two new commands,  `gJ` to join and `gS` to split, that better respects the syntax of a long list of languages.
-
-## vim-easy-align
-
-[vim-easy-align](https://github.com/junegunn/vim-easy-align) is an alignment plugin, adding the `ga` command for aligning a visual selection of lines around some character like `=`.
-Fun fact: vim-easy-align was written by Junegunn Choi of [fzf](/technical/dotfiles#fzf) fame!
 
 ## repeat.vim
 

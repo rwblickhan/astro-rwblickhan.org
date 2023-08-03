@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio Code Plugins"
-lastUpdatedDate: 2023-05-31
+lastUpdatedDate: 2023-08-02
 description: "An evergreen list of VS Code plugins I use."
 ---
 
@@ -12,18 +12,20 @@ I use a number of plugins, which I've documented here.
 
 ## Table of Contents
 
-## VSCode Neovim
+## VSCodeVim
 
 I've used vim keybindings in pretty much everything - including Xcode and VS Code - for close to a decade now.
 
-In VS Code, I used to use the (very popular and very polished) [VSCodeVim](https://github.com/VSCodeVim/Vim) plugin to emulate vim's modal editing in VS Code. However, I've recently fallen in love with [text objects](/technical/til/20230415-vim-text-objects) and in particular I wanted to use [targets.vim](https://github.com/wellle/targets.vim) to add more. Unfortunately, since VSCodeVim emulates vim directly in VS Code, it only has partial support for a few plugins.
+In VS Code, I use the (very popular and polish) [VSCodeVim](https://github.com/VSCodeVim/Vim) plugin, which emulates vim's modal editing in VS Code.
+VSCodeVim has implemented a surprisingly large portion of vim's default functionality, including [smartcase](https://rwblickhan.org/technical/til/20230717-smartcase-in-vim/), [relative line numbers](https://rwblickhan.org/technical/til/20230615-relative-line-numbers-in-vim/), and highlighted yanks,
+as well as a number of plugins I rely on,
+including [commentary.vim](https://rwblickhan.org/technical/vim-plugins/#commentaryvim), [surround.vim](https://rwblickhan.org/technical/vim-plugins/#surroundvim), [CamelCaseMotion](https://rwblickhan.org/technical/vim-plugins/#camelcasemotion), and sending yanks to the clipboard.
+I've also started trying its [sneak.vim](https://github.com/justinmk/vim-sneak) mode, too!
+In fact, just about the only plugin I (very occasionally) miss is [vim-swap](https://rwblickhan.org/technical/vim-plugins/#vim-swap).
 
-[VSCode Neovim](https://github.com/vscode-neovim/vscode-neovim) takes a different approach, connecting VS Code to a normal Neovim instance, complete with .vimrc support.
-Notably, that means I can use the exact same vim plugins between Neovim and VS Code, including [targets.vim](https://github.com/wellle/targets.vim), [commentary.vim](https://github.com/tpope/vim-commentary), and [surround.vim](https://github.com/tpope/vim-surround), without relying on support from VSCodeVim!
-For more on the plugins I use, see my [Vim Plugins list](/technical/vim-plugins).
-
-The only disadvantage to VSCode Neovim is that it doesn't translate VS Code selections into Neovim visual mode and vice versa.
-That can be a minor inconvenience on the rare occasion I do want to use a mouse for selection.
+I previously used [VSCode Neovim](https://github.com/vscode-neovim/vscode-neovim), which connects VS Code to a real Neovim instance with full plugin support.
+However, there have always been a few annoying edge cases, like how Neovim visual selections aren't mapped to VS Code selections, and a recent VS Code update started causing wild issues,
+so I've switched back to the "safer" plugin for now.
 
 ## Codeium
 
