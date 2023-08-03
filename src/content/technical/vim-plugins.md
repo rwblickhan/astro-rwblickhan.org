@@ -54,7 +54,6 @@ augroup END
 ## commentary.vim
 
 [commentary.vim](https://github.com/tpope/vim-commentary) provides the `gc` action to comment or uncomment a line, supporting most common programming languages.
-I mostly use it because [VSCode Neovim](/technical/vscode-plugins#vscode-neovim) doesn't support VS Code's line comment feature with vim selections.
 
 ## surround.vim
 
@@ -91,7 +90,6 @@ they interpret the months and days as negative numbers. [speeddating.vim](https:
 ## supertab
 
 [supertab](https://github.com/ervandew/supertab) is a simple plugin that enables `<Tab>` for vim's built-in autocomplete instead of the default keybinding, which I never remember anyway.
-Notably, I don't bother installing this in a VS Code context, since VS Code already handles autocomplete.
 
 ## vim-tmux-navigator
 
