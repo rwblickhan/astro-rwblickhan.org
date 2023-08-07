@@ -188,4 +188,6 @@ lastUpdatedDate: 2023-07-02
 183. *Discreet Music*, Brian Eno
 184. *The Loveliest Time*, Carly Rae Jepsen
 185. *Playthroughs*, Keith Fullerton Whitman
-186. *Oppenheimer OST*, Ludwing Göransson
+186. *Oppenheimer OST*, Ludwig Göransson
+187. *Arrival*, ABBA
+188. *ABBA: The Album*, ABBA
