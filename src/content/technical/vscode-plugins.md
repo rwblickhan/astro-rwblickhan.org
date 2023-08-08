@@ -47,11 +47,6 @@ It makes VS Code almost as efficient as a real Markdown editor, though I still p
 
 Fair warning: this plugin does clobber a few standard VS Code hotkeys, like Cmd-B to open the side panel. I had to move around a few hotkeys as a result.
 
-## Bookmarks
-
-[Bookmarks](https://marketplace.visualstudio.com/items/alefragnani.Bookmarks) adds line-based bookmarks, similar to vim's [marks](https://vimhelp.org/motion.txt.html#mark), which make it easy to jump between locations in a codebase. They're even cached to a file and able to survive formatting a file, which is not true of, say, VSCodeVim's marks emulation. Typically, I show the bookmarks panel in the (otherwise-unused) right panel.
-I set up the Cmd-k/m chord to mark the current line as a bookmark and the Cmd-k/o chord to open the bookmarks fuzzy-finder.
-
 ## Auto Rename Tag
 
 [This extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) does exactly what it says on the tin - if you edit one half of an HTML or XML tag, it will automatically rename the paired tag. I think VS Code actually has this built-in now, but *only* for files with the HTML extension - Auto Rename Tag is perfectly happy operating on `.astro` or `.tsx` files as well.
