@@ -191,3 +191,4 @@ lastUpdatedDate: 2023-07-02
 186. *Oppenheimer OST*, Ludwig Göransson
 187. *Arrival*, ABBA
 188. *ABBA: The Album*, ABBA
+189. *Voulez-Vous*, ABBA
