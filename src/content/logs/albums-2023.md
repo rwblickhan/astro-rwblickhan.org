@@ -192,3 +192,8 @@ lastUpdatedDate: 2023-07-02
 187. *Arrival*, ABBA
 188. *ABBA: The Album*, ABBA
 189. *Voulez-Vous*, ABBA
+190. *Super Trouper*, ABBA
+191. *The Greng Jai Piece*, Phum Viphurit
+192. *Zephyr*, NIKI
+193. *MOONCHILD*, NIKI
+194. *Nicole*, NIKI
