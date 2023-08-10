@@ -197,3 +197,5 @@ lastUpdatedDate: 2023-07-02
 192. *Zephyr*, NIKI
 193. *MOONCHILD*, NIKI
 194. *Nicole*, NIKI
+195. *The Visitors*, ABBA
+196. *Sempiternal*, Bring Me The Horizon
