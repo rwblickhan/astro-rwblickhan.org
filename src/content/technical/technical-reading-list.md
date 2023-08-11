@@ -1,5 +1,5 @@
 ---
-title: Consciousness, Identity, & Neurodiversity Reading List
+title: Technical Reading List
 lastUpdatedDate: 2023-08-11
 description: "An evergreen list of technical books & papers I love."
 ---
