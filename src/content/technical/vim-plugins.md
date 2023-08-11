@@ -1,6 +1,6 @@
 ---
 title: "Vim Plugins"
-lastUpdatedDate: 2023-08-02
+lastUpdatedDate: 2023-08-10
 description: "An evergreen list of vim plugins I use."
 ---
 
@@ -62,11 +62,6 @@ augroup END
 
 This is useful when, for instance, I want to change a bare JavaScript string, surrounded by quotation marks, into an interpolated string, surrounded by backticks.
 It can also be useful to delete nested HTML tags with `dst`.
-
-## targets.vim
-
-I'm a big fan of [text objects](/technical/til/20230415-vim-text-objects), and [targets.vim](https://github.com/wellle/targets.vim) adds a whole bunch more.
-Notably, I like being able to use pairs of `*`s as a text object, particularly when [editing Markdown](/technical/vscode-plugins#markdown-all-in-one).
 
 ## CamelCaseMotion
 
