@@ -6,6 +6,15 @@ description: Non-fiction I recommend!
 
 ## Table of Contents
 
+## Newsletters / Blogs
+
+- [Robin Sloan](https://www.robinsloan.com/)
+- [The Whippet](https://thewhippet.org/)
+- [Craig Mod](https://craigmod.com/)
+- [Waxy.org](https://waxy.org/), Andy Baio
+- [Robin Rendle](https://www.robinrendle.com/)
+- [maya.land](https://maya.land/)
+
 ## Articles / Essays
 
 - ["On Thud and Blunder"](https://www.sfwa.org/2005/01/04/on-thud-and-blunder/): Poul Anderson, a major name in early fantasy fiction, complains at length about the many inaccuracies in genre fiction. Some of his historical assertions are outdated, but the general point that many fantasy novelists don't even seem to bother with common sense still holds up. This pairs nicely with the historical-critical essays on [*A Collection of Unmitigated Pedantry](https://acoup.blog).
@@ -14,7 +23,6 @@ description: Non-fiction I recommend!
 ## Talks / Presentations / Classes
 
 - [“What We Can Learn From Software History”](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history): Hillel Wayne explores the historical method by trying to answer a seemingly-simple question: why do so many software engineering interviews ask “reverse a linked list”?
-- ["Coordination Headwind: How Organizations Are Like Slime Molds"](https://komoroske.com/slime-mold/): This simplified model of how organizations fail to meet their goals introduces the concept of "coordination headwinds" and explores how organizations can avoid them. See also [Venkatesh Rao's commentary](https://studio.ribbonfarm.com/p/coordination-headwinds).
 
 ## Video Essays
 
