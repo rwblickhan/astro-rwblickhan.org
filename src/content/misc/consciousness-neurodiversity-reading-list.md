@@ -5,6 +5,8 @@ lastUpdatedDate: 2023-08-10
 
 Here's some works, fiction and non-fiction, related to consciousness, identity, and neurodiversity that I particularly appreciate.
 
+## Table of Contents
+
 ## Papers & Articles
 
 - ["If Materialism Is True, the United States Is Probably Conscious"](http://faculty.ucr.edu/~eschwitz/SchwitzAbs/USAconscious.htm), Eric Schwitzgebel
