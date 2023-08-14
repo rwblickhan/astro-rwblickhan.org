@@ -8,3 +8,4 @@ description: "An evergreen list of technical books & papers I love."
 - [*Crafting Interpreters*](https://www.craftinginterpreters.com), Robert Nystrom
 - [*Butterick's Practical Typography*](https://practicaltypography.com), Matthew Butterick
 - [jvns.ca](https://jvns.ca), Julia Evans
+- [*Hacking with Swift*](https://www.hackingwithswift.com), Paul Hudson
