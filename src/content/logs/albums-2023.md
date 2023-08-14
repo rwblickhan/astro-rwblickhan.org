@@ -200,3 +200,4 @@ lastUpdatedDate: 2023-07-02
 195. *The Visitors*, ABBA
 196. *Sempiternal*, Bring Me The Horizon
 197. *NOT TiGHT*, DOMi & DJ BECK
+198. *Petit Biscuit EP*, Petit Biscuit
