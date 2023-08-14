@@ -102,8 +102,8 @@ export const collectionMetadataMap: Map<Collection, CollectionMetadata> =
     ["essays", { title: "Essays", slug: "/essays", isTopLevel: true }],
     ["technical", { title: "Technical", slug: "/technical", isTopLevel: true }],
     ["til", { title: "TIL", slug: "/technical/til", isTopLevel: false }],
-    ["logs", { title: "Logs", slug: "/logs", isTopLevel: true }],
     ["misc", { title: "Misc", slug: "/misc", isTopLevel: true }],
+    ["logs", { title: "Logs", slug: "/logs", isTopLevel: true }],
     ["recipes", { title: "Recipes", slug: "/misc/recipes", isTopLevel: false }],
     ["gallery", { title: "Gallery", slug: "/gallery", isTopLevel: true }],
   ]);
