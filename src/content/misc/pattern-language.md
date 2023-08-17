@@ -3,6 +3,9 @@ title: Pattern Language
 lastUpdatedDate: 2023-07-26
 ---
 
+<!-- markdownlint-disable MD024 -->
+<!-- I intentionally want these to have the same header, since Astro handles them just fine. -->
+
 These are various “patterns” that I tend to use and reuse in my thinking. This page is inspired in no small part by Jacky Zhao’s [“A Pattern Language”](https://jzhao.xyz/thoughts/A-Pattern-Language/) and her [list of patterns](https://jzhao.xyz/tags/pattern/). Is this really accurate to Christopher Alexander’s [_A Pattern Language_](https://en.wikipedia.org/wiki/A_Pattern_Language)? No idea, but I find this useful.
 
 ## Table of Contents
