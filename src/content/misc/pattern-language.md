@@ -1,6 +1,6 @@
 ---
 title: Pattern Language
-lastUpdatedDate: 2023-07-26
+lastUpdatedDate: 2023-08-16
 ---
 
 <!-- markdownlint-disable no-duplicate-header -->
@@ -68,3 +68,15 @@ _”Scenes” are often more inventive than individuals._
 ### Details
 
 Scenius is a concept coined by Brian Eno to describe the fact that groups of creative individuals in the same time and place — a “scene”, if you will — are often much more inventive than the individuals themselves. This is arguably the “micro” version of cultural evolution as described above. There are many examples, from literary groups like the Inklings or the Bloomsbury Group, to the invention of modern climbing at Camp 4 in Yosemite, to the flow of conversation at a really good dinner party.
+
+### Rubber Duck Problem Solving
+
+_Talking through a problem in as much detail as possible can help solve it, even if you're just talking to a rubber ducky._
+
+### References
+
+- ["Rubber Duck Problem Solving"](https://blog.codinghorror.com/rubber-duck-problem-solving/)
+
+### Details
+
+One of the best problem-solving techniques from software engineering is to explain the problem and attempted solutions in as much detail as possible. It doesn't matter whether you're talking to another software engineer or even another person; you could even use a rubber ducky! The important part is to explain the problem in as much detail as possible, because it helps clarify your assumptions and will often reveal overlooked details.
