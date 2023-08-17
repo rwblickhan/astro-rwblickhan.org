@@ -4,6 +4,8 @@ lastUpdatedDate: 2020-12-20
 description: "A man buys a house that is larger on the inside than the outside."
 ---
 
+<!-- markdownlint-disable no-inline-html -->
+
 Let me tell you about a House.
 
 It was a House I had purchased — because, yes, in those days you could still buy a sizable house, even on the West Coast, after putting in a few years at a good firm, although the rather sizable life insurance payout after my parents’ unfortunately early demise helped too — and I had been eagerly looking forward to moving into it. You see, this was not just to be a *house* — not a mere investment property, as many of my coworkers of the time had purchased for themselves — but a *home*, a place I could live in, grow old in, and perhaps even die in. This House, I thought, might even be considered the love of my life, as I was (and still am) a lifelong bachelor, for reasons that aren’t important to our story here.
