@@ -213,4 +213,12 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - [Simon Willison on Mastodon](https://fedi.simonwillison.net/@simon/110793056983308781)
 
+> Our day-to-day life is bombarded with fortuities or, to be more precise, with the accidental meetings of people and events we call coincidences. "Co-incidence" means that two events unexpectedly happen at the same time, they meet: Tomas appears in the hotel restaurant at the same time the radio is playing Beethoven. We do not even notice the great majority of such coincidences. If the seat Tomas occupied had been occupied instead by the local butcher, Tereza never would have noticed that the radio was playing Beethoven (though the meeting of Beethoven and the butcher would also have been an interesting coincidence). But her nascent love inflamed her sense of beauty, and she would never forget that music. Whenever she heard it, she would be touched. Everything going on around her at that moment would be haloed by the music and take on its beauty. \[...\] Guided by his sense of beauty, an individual transforms a fortuitous occurrence \[...\] into a motif, which then assumes a permanent place in the composition of the individual's life. \[...\] Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress. It is wrong, then, to chide the novel for being fascinated by mysterious coincidences, \[...\] but it is right to chide man for being blind to such coincidences in his daily life. For he thereby deprives his life of a dimension of beauty.
+
+- "Soul and Body" 11, *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
+
+> Dog time cannot be plotted along a straight line; it does not move on and on, from one thing to the next. It moves in a circle like the hands of a clock, which - they, too, unwilling to dash madly ahead - turn round and round the face, day in and day out following the same path. In Prague, when Tomas and Tereza bought a new chair or moved a flower pot, Karenin would look on in displeasure. It disturbed his sense of time. It was as though they were trying to dupe the hands of the clock by changing the numbers on its face.
+
+- "Soul and Body" 27, *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
