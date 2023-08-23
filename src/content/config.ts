@@ -75,8 +75,6 @@ const recipes = defineCollection({
   }),
 });
 
-const gallery = defineCollection({});
-
 const collections = {
   fiction,
   essays,
@@ -85,7 +83,6 @@ const collections = {
   logs,
   misc,
   recipes,
-  gallery,
 };
 
 export type Collection = keyof typeof collections;
@@ -105,5 +102,4 @@ export const collectionMetadataMap: Map<Collection, CollectionMetadata> =
     ["misc", { title: "Misc", slug: "/misc", isTopLevel: true }],
     ["logs", { title: "Logs", slug: "/logs", isTopLevel: true }],
     ["recipes", { title: "Recipes", slug: "/misc/recipes", isTopLevel: false }],
-    ["gallery", { title: "Gallery", slug: "/gallery", isTopLevel: true }],
   ]);

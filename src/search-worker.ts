@@ -9,7 +9,7 @@ self.onmessage = (e) => {
   const message = e.data as SearchWorkerMessage;
   if (message.type === "init") {
     fuse = new Fuse(message.index, {
-      keys: ["body"],
+      keys: ["title", "slug"],
       includeMatches: true,
       includeScore: true,
       ignoreLocation: true,
