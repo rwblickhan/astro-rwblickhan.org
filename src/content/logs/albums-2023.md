@@ -210,3 +210,4 @@ lastUpdatedDate: 2023-07-02
 205. *Let's Throw a Party EP*, Sammy Rae & The Friends
 206. *Twilight*, Bôa
 207. *Victims of Love Propaganda*, Descartes A Kant
+208. *SOUR*, Olivia Rodrigo
