@@ -1,85 +1,26 @@
 ---
-import Search from "../components/Search.jsx";
+import SearchResults from "../components/SearchResults.jsx";
 import ContentLayout from "../layouts/ContentLayout.astro";
-import { getCollection } from "astro:content";
 import type { IndexEntry } from "../consts";
+import { collectionMetadataMap } from "../content/config";
+import { getCollection } from "astro:content";
 
 const { title = "Search", description = "Search for rwblickhan.org" } =
   Astro.props;
 
-const fictionPosts = await getCollection("fiction");
-const essaysPosts = await getCollection("essays");
-const technicalPosts = await getCollection("technical");
-const miscPosts = await getCollection("misc");
-const tilPosts = await getCollection("til");
-const logPosts = await getCollection("logs");
-const recipePosts = await getCollection("recipes");
-
-const indexEntries: IndexEntry[] = fictionPosts
-  .map((post) => {
-    return {
-      slug: `/fiction/${post.slug}`,
+const indexEntries: IndexEntry[] = [];
+for (const [collection, metadata] of collectionMetadataMap.entries()) {
+  const posts = await getCollection(collection);
+  for (const post of posts) {
+    indexEntries.push({
+      slug: `${metadata.slug}/${post.slug}`,
       title: post.data.title,
-      body: post.body,
-    };
-  })
-  .concat(
-    essaysPosts.map((post) => {
-      return {
-        slug: `/essays/${post.slug}`,
-        title: post.data.title,
-        body: post.body,
-      };
-    })
-  )
-  .concat(
-    technicalPosts.map((post) => {
-      return {
-        slug: `/technical/${post.slug}`,
-        title: post.data.title,
-        body: post.body,
-      };
-    })
-  )
-  .concat(
-    miscPosts.map((post) => {
-      return {
-        slug: `/misc/${post.slug}`,
-        title: post.data.title,
-        body: post.body,
-      };
-    })
-  )
-  .concat(
-    tilPosts.map((post) => {
-      return {
-        slug: `/technical/til/${post.slug}`,
-        title: post.data.title,
-        body: post.body,
-      };
-    })
-  )
-  .concat(
-    recipePosts.map((post) => {
-      return {
-        slug: `/misc/recipes/${post.slug}`,
-        title: post.data.title,
-        body: post.body,
-      };
-    })
-  )
-  .concat(
-    logPosts.map((post) => {
-      return {
-        slug: `/logs/${post.slug}`,
-        title: post.data.title,
-        body: post.body,
-      };
-    })
-  );
+    });
+  }
+}
 ---
 
 <ContentLayout title={title} description={description}>
   <h1>Search</h1>
-  <Search client:only index={indexEntries} />
+  <SearchResults client:only index={indexEntries} />
 </ContentLayout>

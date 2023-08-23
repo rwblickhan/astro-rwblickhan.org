@@ -1,13 +1,12 @@
 import type Fuse from "fuse.js";
 import { useState, useEffect } from "preact/hooks";
 import type { IndexEntry, SearchWorkerMessage } from "../consts";
-import FuseHighlight from "./FuseHighlight";
 
 export interface Props {
   index: IndexEntry[];
 }
 
-export default function Search({ index }: Props) {
+export default function SearchResults({ index }: Props) {
   const [worker, setWorker] = useState<Worker | null>(null);
   const [query, setQuery] = useState("");
   const [rawResults, setRawResults] = useState<Fuse.FuseResult<IndexEntry>[]>(
@@ -53,9 +52,10 @@ export default function Search({ index }: Props) {
   const results: Fuse.FuseResult<IndexEntry>[] = (
     query.length === 0 ? [] : rawResults ?? []
   ).sort((a, b) =>
-    (a.matches?.filter((match) => match.key === "body")[0]?.indices.length ??
+    (a.matches?.filter((match) => match.key === "title")[0]?.indices.length ??
       0) >
-    (b.matches?.filter((match) => match.key === "body")[0]?.indices.length ?? 0)
+    (b.matches?.filter((match) => match.key === "title")[0]?.indices.length ??
+      0)
       ? -1
       : 1
   );
@@ -67,7 +67,7 @@ export default function Search({ index }: Props) {
         <input
           type="text"
           value={query}
-          placeholder="Search content"
+          placeholder="Search titles"
           onInput={handleOnSearch}
           class="block mb-4 px-4 py-3 w-full bg-white dark:bg-neutral-900 border border-slate-400 rounded"
         />
@@ -84,10 +84,7 @@ export default function Search({ index }: Props) {
           results &&
           results.map((result) => (
             <li>
-              <a href={`${index[result.refIndex].slug}`}>
-                {index[result.refIndex].title}
-              </a>
-              <FuseHighlight body={result.item.body} matches={result.matches} />
+              <a href={`${index[result.refIndex].slug}`}>{result.item.title}</a>
             </li>
           ))}
       </ul>
