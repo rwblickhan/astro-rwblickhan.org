@@ -72,13 +72,14 @@ export default function SearchResults({ index }: Props) {
           class="block mb-4 px-4 py-3 w-full bg-white dark:bg-neutral-900 border border-slate-400 rounded"
         />
       </div>
-      {loading && "Loading..."}
-      {!loading && query.length > 1 && (
-        <p>
-          Found {results.length} {results.length === 1 ? "result" : "results"}{" "}
-          for '{query}':
-        </p>
-      )}
+      <p>
+        {loading && "Loading..."}
+        {!loading &&
+          query.length > 1 &&
+          `Found ${results.length} ${
+            results.length === 1 ? "result" : "results"
+          } for '${query}':`}
+      </p>
       <ul>
         {!loading &&
           results &&
