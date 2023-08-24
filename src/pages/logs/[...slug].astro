@@ -15,7 +15,7 @@ const post = Astro.props;
 const { Content } = await post.render();
 ---
 
-<ContentLayout parentCollection="logs" title={post.title} description="Log">
+<ContentLayout parentCollection="logs" {...post.data}>
   <h1>{post.data.title}</h1>
   <Content />
 </ContentLayout>
