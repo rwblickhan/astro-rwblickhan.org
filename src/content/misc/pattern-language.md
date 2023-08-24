@@ -69,7 +69,21 @@ _”Scenes” are often more inventive than individuals._
 
 Scenius is a concept coined by Brian Eno to describe the fact that groups of creative individuals in the same time and place — a “scene”, if you will — are often much more inventive than the individuals themselves. This is arguably the “micro” version of cultural evolution as described above. There are many examples, from literary groups like the Inklings or the Bloomsbury Group, to the invention of modern climbing at Camp 4 in Yosemite, to the flow of conversation at a really good dinner party.
 
-### Rubber Duck Problem Solving
+## Spaced Repetition
+
+_Memorize anything efficiently by reviewing at spaced intervals._
+
+### References
+
+- ["Spaced Repetition for Efficient Learning"](https://gwern.net/spaced-repetition)
+- ["How to make memory systems widespread?"](https://michaelnotebook.com/mmsw/)
+- ["Effective Spaced Repetition"](https://borretti.me/article/effective-spaced-repetition)
+
+### Details
+
+[Ebbinghaus' forgetting curves](https://en.wikipedia.org/wiki/Forgetting_curve) show that the most efficient way to remember something is to test yourself at increasingly-spaced intervals. As a result, with the help of spaced-repetition software and careful choice of flashcards, you can efficiently remember virtually anything you choose to.
+
+## Rubber Duck Problem Solving
 
 _Talking through a problem in as much detail as possible can help solve it, even if you're just talking to a rubber ducky._
 
