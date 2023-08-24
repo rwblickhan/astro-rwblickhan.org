@@ -1,8 +1,7 @@
 ---
 import SearchResults from "../components/SearchResults.jsx";
 import ContentLayout from "../layouts/ContentLayout.astro";
-import type { IndexEntry } from "../consts";
-import { collectionMetadataMap } from "../content/config";
+import { IndexEntry, collectionMetadataMap } from "../consts";
 import { getCollection } from "astro:content";
 
 const { title = "Search", description = "Search for rwblickhan.org" } =

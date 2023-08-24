@@ -3,16 +3,17 @@ import CollapseButton from "./CollapseButton.astro";
 import ExpandButton from "./ExpandButton.astro";
 import SearchLink from "./SearchLink.astro";
 import CollectionLink from "./CollectionLink.astro";
-import { collectionMetadataMap } from "../content/config";
-import type { CollectionMetadata } from "../content/config";
+import {
+  collectionWithGalleryMetadataMap,
+  CollectionMetadata,
+} from "../consts";
 
 const collections: CollectionMetadata[] = [];
-for (const collectionMetadata of collectionMetadataMap.values()) {
-  if (collectionMetadata.isTopLevel) {
+for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
+  if (collectionMetadata.isInHeader) {
     collections.push(collectionMetadata);
   }
 }
-collections.push({ slug: "/gallery", title: "Gallery", isTopLevel: true });
 ---
 
 <script>

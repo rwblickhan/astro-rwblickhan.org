@@ -86,20 +86,3 @@ const collections = {
 };
 
 export type Collection = keyof typeof collections;
-
-export interface CollectionMetadata {
-  title: string;
-  slug: string;
-  isTopLevel: boolean;
-}
-
-export const collectionMetadataMap: Map<Collection, CollectionMetadata> =
-  new Map([
-    ["fiction", { title: "Fiction", slug: "/fiction", isTopLevel: true }],
-    ["essays", { title: "Essays", slug: "/essays", isTopLevel: true }],
-    ["technical", { title: "Technical", slug: "/technical", isTopLevel: true }],
-    ["til", { title: "TIL", slug: "/technical/til", isTopLevel: false }],
-    ["misc", { title: "Misc", slug: "/misc", isTopLevel: true }],
-    ["logs", { title: "Logs", slug: "/logs", isTopLevel: true }],
-    ["recipes", { title: "Recipes", slug: "/misc/recipes", isTopLevel: false }],
-  ]);
