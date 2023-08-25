@@ -1,6 +1,6 @@
 ---
 title: Quotes
-lastUpdatedDate: 2023-06-17
+lastUpdatedDate: 2023-08-25
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -220,5 +220,17 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 > Dog time cannot be plotted along a straight line; it does not move on and on, from one thing to the next. It moves in a circle like the hands of a clock, which - they, too, unwilling to dash madly ahead - turn round and round the face, day in and day out following the same path. In Prague, when Tomas and Tereza bought a new chair or moved a flower pot, Karenin would look on in displeasure. It disturbed his sense of time. It was as though they were trying to dupe the hands of the clock by changing the numbers on its face.
 
 - "Soul and Body" 27, *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
+
+> Still, fascinating as the correspondence \[of Flaubert\] can be, it is neither a masterwork nor a work. Because "the work", *l'oeuvre*, is not simply everything a novelist writes — notebooks, diaries, articles. It is the *end result of long labor on an aesthetic project*.
+
+- "What Is A Novelist?", *The Curtain*, Milan Kundera (trans. Linda Asher)
+
+> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their *agelasty* is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
+
+- "Aesthetics and Existence", *The Curtain*, Milan Kundera (trans. Linda Asher)
+
+> It is the most obvious thing, but it is hard to accept, for when one thinks it all the way through, what becomes of all the testimonies that historiography relies on? What becomes of our certainties about the past, and what becomes of History itself, to which we refer every day in good faith, naively, spontaneously? Beyond the slend margin of the incontestable (there is no about that Napoleon lost the battle of Waterloo), stretches an infinite realm: the realm of the approximate, the invented, the deformed, the simplistic, the exaggerated, the misconstrued, an infinite realm of nontruths that copulate, multiply like rats, and become immortal.
+
+- "The Novel, Memory, Forgetting", *The Curtain*, Milan Kundera (trans. Linda Asher)
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
