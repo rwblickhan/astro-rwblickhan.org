@@ -1,6 +1,6 @@
 ---
 title: Books of 2023
-lastUpdatedDate: 2023-06-14
+lastUpdatedDate: 2023-08-24
 ---
 
 1. *The Hearing Trumpet*, Leonora Carrington
@@ -55,6 +55,7 @@ lastUpdatedDate: 2023-06-14
 50. *Nimona*, N.D. Stevenson
 51. 🔁 *Macbeth*, William Shakespeare
 52. *Excellent Advice for Living: Wisdom I Wish I'd Known Earlier*, Kevin Kelly
+53. *The Curtain: An Essay in Seven Part*, Milan Kundera
 
 ## Skimmed / DNF
 
@@ -62,3 +63,4 @@ lastUpdatedDate: 2023-06-14
 - *Mating in Captivity: Unlocking Erotic Intelligence*, Esther Perel
 - *The Reactionary Mind: Conservatism from Edmund Burke to Donald Trump - Second Edition*, Corey Robin
 - *Heart Sutra*, Yan Lianke
+- *Worn: A People's History of Clothing*, Sofi Thanhauser
