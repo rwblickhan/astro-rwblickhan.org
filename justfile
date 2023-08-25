@@ -8,13 +8,13 @@ push message:
     git add -A && git commit -m '{{message}}' && git push
 
 run:
-    npm run dev
+    pnpm run dev
 
 build:
-    npm run build
+    pnpm run build
 
 clean:
     rm -rf _dist/*
 
 sync:
-    npm run astro sync
+    pnpm run astro sync
