@@ -56,6 +56,7 @@ lastUpdatedDate: 2023-08-24
 51. 🔁 *Macbeth*, William Shakespeare
 52. *Excellent Advice for Living: Wisdom I Wish I'd Known Earlier*, Kevin Kelly
 53. *The Curtain: An Essay in Seven Part*, Milan Kundera
+54. *The Trial*, Franz Kafka (trans. Breon Mitchell)
 
 ## Skimmed / DNF
 
