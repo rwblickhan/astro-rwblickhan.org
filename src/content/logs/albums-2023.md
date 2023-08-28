@@ -1,6 +1,6 @@
 ---
 title: Albums of 2023
-lastUpdatedDate: 2023-07-02
+lastUpdatedDate: 2023-08-28
 ---
 
 1. *Blue Rev*, Alvvays
@@ -213,3 +213,4 @@ lastUpdatedDate: 2023-07-02
 208. *SOUR*, Olivia Rodrigo
 209. *The Magic Place*, Julianna Barwick
 210. *CODE GE4SS*, 4s4ki
+211. *Electric Warrior*, T. Rex
