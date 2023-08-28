@@ -1,6 +1,6 @@
 ---
 title: Books of 2023
-lastUpdatedDate: 2023-08-24
+lastUpdatedDate: 2023-08-27
 ---
 
 1. *The Hearing Trumpet*, Leonora Carrington
@@ -65,3 +65,5 @@ lastUpdatedDate: 2023-08-24
 - *The Reactionary Mind: Conservatism from Edmund Burke to Donald Trump - Second Edition*, Corey Robin
 - *Heart Sutra*, Yan Lianke
 - *Worn: A People's History of Clothing*, Sofi Thanhauser
+- *Blankets*, Craig Thompson
+- *A History of Modern Indonesia Since C. 1200*, M.C. Ricklefs
