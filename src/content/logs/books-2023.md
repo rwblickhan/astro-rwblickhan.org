@@ -1,6 +1,6 @@
 ---
 title: Books of 2023
-lastUpdatedDate: 2023-08-27
+lastUpdatedDate: 2023-08-28
 ---
 
 1. *The Hearing Trumpet*, Leonora Carrington
@@ -57,6 +57,7 @@ lastUpdatedDate: 2023-08-27
 52. *Excellent Advice for Living: Wisdom I Wish I'd Known Earlier*, Kevin Kelly
 53. *The Curtain: An Essay in Seven Part*, Milan Kundera
 54. *The Trial*, Franz Kafka (trans. Breon Mitchell)
+55. *20th Century Boys: The Perfect Edition Vol. 1*, Naoki Urasawa (trans. Akemi Wegmuller)
 
 ## Skimmed / DNF
 
