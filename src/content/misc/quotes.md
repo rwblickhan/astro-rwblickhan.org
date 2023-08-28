@@ -1,6 +1,6 @@
 ---
 title: Quotes
-lastUpdatedDate: 2023-08-25
+lastUpdatedDate: 2023-08-28
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -232,5 +232,9 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 > It is the most obvious thing, but it is hard to accept, for when one thinks it all the way through, what becomes of all the testimonies that historiography relies on? What becomes of our certainties about the past, and what becomes of History itself, to which we refer every day in good faith, naively, spontaneously? Beyond the slend margin of the incontestable (there is no about that Napoleon lost the battle of Waterloo), stretches an infinite realm: the realm of the approximate, the invented, the deformed, the simplistic, the exaggerated, the misconstrued, an infinite realm of nontruths that copulate, multiply like rats, and become immortal.
 
 - "The Novel, Memory, Forgetting", *The Curtain*, Milan Kundera (trans. Linda Asher)
+
+> Moonlight lay everywhere with the naturalness and serenity no other light is granted.
+
+- "The End", *The Trial*, Franz Kafka (trans. Breon Mitchell)
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
