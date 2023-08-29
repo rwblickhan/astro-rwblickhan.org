@@ -58,6 +58,7 @@ lastUpdatedDate: 2023-08-28
 53. *The Curtain: An Essay in Seven Part*, Milan Kundera
 54. *The Trial*, Franz Kafka (trans. Breon Mitchell)
 55. *20th Century Boys: The Perfect Edition Vol. 1*, Naoki Urasawa (trans. Akemi Wegmuller)
+56. *Look Back*, Tatsuki Fujimoto (trans. Amanda Haley)
 
 ## Skimmed / DNF
 
