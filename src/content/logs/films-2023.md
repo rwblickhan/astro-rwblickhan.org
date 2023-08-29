@@ -37,3 +37,10 @@ lastUpdatedDate: 2023-07-02
 32. *Memories* (1995)
 33. *Super Mario Bros.* (1993)
 34. *Safe* (1995)
+
+## Shows
+
+1. *You* season 4 (2023)
+2. *Monster* (2004-2005)
+3. *Moral Orel* (2005-2008)
+4. *Paranoia Agent* (2004)
