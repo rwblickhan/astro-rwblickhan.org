@@ -13,6 +13,9 @@ run:
 build:
     pnpm run build
 
+check:
+    pnpm run astro check
+
 clean:
     rm -rf _dist/*
 
