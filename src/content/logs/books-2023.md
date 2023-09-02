@@ -59,6 +59,7 @@ lastUpdatedDate: 2023-08-28
 54. *The Trial*, Franz Kafka (trans. Breon Mitchell)
 55. *20th Century Boys: The Perfect Edition Vol. 1*, Naoki Urasawa (trans. Akemi Wegmuller)
 56. *Look Back*, Tatsuki Fujimoto (trans. Amanda Haley)
+57. *The Chinese Myths: A Guide to the Gods and Legends*, Tao Tao Liu
 
 ## Skimmed / DNF
 
