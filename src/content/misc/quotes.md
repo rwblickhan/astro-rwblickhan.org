@@ -215,11 +215,23 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 > Our day-to-day life is bombarded with fortuities or, to be more precise, with the accidental meetings of people and events we call coincidences. "Co-incidence" means that two events unexpectedly happen at the same time, they meet: Tomas appears in the hotel restaurant at the same time the radio is playing Beethoven. We do not even notice the great majority of such coincidences. If the seat Tomas occupied had been occupied instead by the local butcher, Tereza never would have noticed that the radio was playing Beethoven (though the meeting of Beethoven and the butcher would also have been an interesting coincidence). But her nascent love inflamed her sense of beauty, and she would never forget that music. Whenever she heard it, she would be touched. Everything going on around her at that moment would be haloed by the music and take on its beauty. \[...\] Guided by his sense of beauty, an individual transforms a fortuitous occurrence \[...\] into a motif, which then assumes a permanent place in the composition of the individual's life. \[...\] Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress. It is wrong, then, to chide the novel for being fascinated by mysterious coincidences, \[...\] but it is right to chide man for being blind to such coincidences in his daily life. For he thereby deprives his life of a dimension of beauty.
 
-- "Soul and Body" 11, *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
+- "Soul and Body", *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
 
 > Dog time cannot be plotted along a straight line; it does not move on and on, from one thing to the next. It moves in a circle like the hands of a clock, which - they, too, unwilling to dash madly ahead - turn round and round the face, day in and day out following the same path. In Prague, when Tomas and Tereza bought a new chair or moved a flower pot, Karenin would look on in displeasure. It disturbed his sense of time. It was as though they were trying to dupe the hands of the clock by changing the numbers on its face.
 
-- "Soul and Body" 27, *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
+- "Soul and Body", *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
+
+> But the fragile edifice of their love would certainly come tumbling down. For that edifice rest on the single column of her fidelity, and loves are like empires: when the idea they are founded on crumbles, they, too, fade away.
+
+- "Soul and Body", *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
+
+> Before we are forgotten, we will be turned into kitsch. Kitsch is the stopover between being and oblivion.
+
+- "The Grand March", *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
+
+> If Karenin had been a person instead of a dog, he would surely have long since said to Tereza, "Look, I'm sick and tired of carrying that roll in my mouth every day. Can't you come up with something different?" And therein lies the whole of man's plight. Human time does not turn in a circle; it runs ahead in a straight line. That is why man cannot by happy: happiness is the longing for repetition.
+
+- "Karenin's Smile", *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
 
 > Still, fascinating as the correspondence \[of Flaubert\] can be, it is neither a masterwork nor a work. Because "the work", *l'oeuvre*, is not simply everything a novelist writes — notebooks, diaries, articles. It is the *end result of long labor on an aesthetic project*.
 
@@ -229,7 +241,7 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - "Aesthetics and Existence", *The Curtain*, Milan Kundera (trans. Linda Asher)
 
-> It is the most obvious thing, but it is hard to accept, for when one thinks it all the way through, what becomes of all the testimonies that historiography relies on? What becomes of our certainties about the past, and what becomes of History itself, to which we refer every day in good faith, naively, spontaneously? Beyond the slend margin of the incontestable (there is no about that Napoleon lost the battle of Waterloo), stretches an infinite realm: the realm of the approximate, the invented, the deformed, the simplistic, the exaggerated, the misconstrued, an infinite realm of nontruths that copulate, multiply like rats, and become immortal.
+> It is the most obvious thing, but it is hard to accept, for when one thinks it all the way through, what becomes of all the testimonies that historiography relies on? What becomes of our certainties about the past, and what becomes of History itself, to which we refer every day in good faith, naively, spontaneously? Beyond the slender margin of the incontestable (there is no about that Napoleon lost the battle of Waterloo), stretches an infinite realm: the realm of the approximate, the invented, the deformed, the simplistic, the exaggerated, the misconstrued, an infinite realm of nontruths that copulate, multiply like rats, and become immortal.
 
 - "The Novel, Memory, Forgetting", *The Curtain*, Milan Kundera (trans. Linda Asher)
 
