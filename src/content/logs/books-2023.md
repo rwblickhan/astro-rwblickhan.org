@@ -55,12 +55,13 @@ lastUpdatedDate: 2023-08-28
 50. *Nimona*, N.D. Stevenson
 51. 🔁 *Macbeth*, William Shakespeare
 52. *Excellent Advice for Living: Wisdom I Wish I'd Known Earlier*, Kevin Kelly
-53. *The Curtain: An Essay in Seven Part*, Milan Kundera
+53. *The Curtain: An Essay in Seven Part*, Milan Kundera (trans. Linda Asher)
 54. *The Trial*, Franz Kafka (trans. Breon Mitchell)
 55. *20th Century Boys: The Perfect Edition Vol. 1*, Naoki Urasawa (trans. Akemi Wegmuller)
 56. *Look Back*, Tatsuki Fujimoto (trans. Amanda Haley)
 57. *The Chinese Myths: A Guide to the Gods and Legends*, Tao Tao Liu
 58. *20th Century Boys: The Perfect Edition Vol. 2*, Naoki Urasawa (trans. Akemi Wegmuller)
+59. *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
 
 ## Skimmed / DNF
 
