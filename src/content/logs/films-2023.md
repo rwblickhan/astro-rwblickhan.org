@@ -38,6 +38,7 @@ lastUpdatedDate: 2023-07-02
 33. *Super Mario Bros.* (1993)
 34. *Safe* (1995)
 35. *Twilight* (2008)
+36. *Castle in the Sky* (1986)
 
 ## Shows
 
