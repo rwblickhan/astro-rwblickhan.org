@@ -46,3 +46,4 @@ lastUpdatedDate: 2023-07-02
 2. *Monster* (2004-2005)
 3. *Moral Orel* (2005-2008)
 4. *Paranoia Agent* (2004)
+5. *Garth Marenghi's Darkplace* (2004)
