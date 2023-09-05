@@ -63,6 +63,7 @@ lastUpdatedDate: 2023-08-28
 58. *20th Century Boys: The Perfect Edition Vol. 2*, Naoki Urasawa (trans. Akemi Wegmuller)
 59. *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
 60. *Range: Why Generalists Triumph in a Specialized World*, David Epstein
+61. *Opus*, Satoshi Kon (trans. Zack Davisson)
 
 ## Skimmed / DNF
 
