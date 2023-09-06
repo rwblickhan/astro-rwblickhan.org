@@ -40,6 +40,7 @@ lastUpdatedDate: 2023-07-02
 35. *Twilight* (2008)
 36. *Castle in the Sky* (1986)
 37. *The Trial* (1962)
+38. 🔁 *Paprika* (2006)
 
 ## Shows
 

@@ -64,6 +64,7 @@ lastUpdatedDate: 2023-08-28
 59. *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
 60. *Range: Why Generalists Triumph in a Specialized World*, David Epstein
 61. *Opus*, Satoshi Kon (trans. Zack Davisson)
+62. *The Man Who Was Thursday: A Nightmare*, G.K. Chesterton
 
 ## Skimmed / DNF
 
