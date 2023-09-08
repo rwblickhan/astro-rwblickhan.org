@@ -40,7 +40,8 @@ lastUpdatedDate: 2023-09-08
 35. *Twilight* (2008)
 36. *Castle in the Sky* (1986)
 37. *The Trial* (1962)
-38. 🔁 *The Grand Budapest Hotel* (2014)
+38. 🔁 *Paprika* (2006)
+39. 🔁 *The Grand Budapest Hotel* (2014)
 
 ## Shows
 
