@@ -17,6 +17,7 @@ lastUpdatedDate: 2023-08-25
 - [Daeho Kalbijjim](https://daehokalbijjim.com): Likely the trendiest Bay Area restaurant of the 2020s - expect a 40-minute wait - but well worth it. $80 buys you the signature food-for-four (or more) kalbijjim, made up of braised barbecue beef rib mixed with veggies and rice cakes, all topped with a mountain of cheese that's blowtorched at the table.
 - [Oren's Hummus](https://orenshummus.com): The hummus here is lovely, but what keeps me coming back is the fluffy, soft-as-a-cloud white pita - sometimes I order extra to freeze for my own meals at home. Unfortunately, they've significantly cut portion sizes since the pandemic, so it's not as good a deal as it once was, but I still often find myself bringing out-of-towners around.
 - [Reem's](https://www.reemscalifornia.com): The flagship restaurant of local celebrity chef Reem Assil, I come here for the surprisingly cheap za'atar mana'eesh - 10" of flatbread topped with thyme and sumac - and the labneh, particularly the egg-and-chile-oil-topped Some Like It Harra. I also love the minty-fresh Damascus lemonade.
+- [Yarsa Nepalese Cuisine](https://www.yarsanepalesecuisine.com): Arguably the best value-for-money of any restaurant I've had in San Francisco. The spicy chili chicken momos are the speciality here, but they also boast some of the best mango lassi I've tried in the Bay Area, and $6 will get you a massive garlic-cheese naan.
 
 ## Vancouver
 
