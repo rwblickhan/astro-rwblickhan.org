@@ -225,3 +225,4 @@ lastUpdatedDate: 2023-08-28
 220. *Black Classical Music*, Yussef Dayes
 221. *Tadaima*, Akiko Yano
 222. *Gohan Ga Dekitayo*, Akiko Yano
+223. *Ai Ga Nakuchane*, Akiko Yano
