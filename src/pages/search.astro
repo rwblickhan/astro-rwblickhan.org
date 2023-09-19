@@ -1,22 +1,10 @@
 ---
-import SearchResults from "../components/SearchResults.jsx";
 import ContentLayout from "../layouts/ContentLayout.astro";
-import { type IndexEntry, collectionMetadataMap } from "../consts";
+import { collectionMetadataMap } from "../consts";
 import { getCollection } from "astro:content";
 
 const { title = "Search", description = "Search for rwblickhan.org" } =
   Astro.props;
-
-const indexEntries: IndexEntry[] = [];
-for (const [collection, metadata] of collectionMetadataMap.entries()) {
-  const posts = await getCollection(collection);
-  for (const post of posts) {
-    indexEntries.push({
-      slug: `${metadata.slug}/${post.slug}`,
-      title: post.data.title,
-    });
-  }
-}
 ---
 
 <ContentLayout title={title} description={description}>

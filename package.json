@@ -19,7 +19,6 @@
     "@astrojs/tailwind": "^5.0.0",
     "@tailwindcss/typography": "^0.5.10",
     "astro": "^3.1.1",
-    "fuse.js": "^6.6.2",
     "preact": "^10.17.1",
     "remark-collapse": "^0.1.2",
     "remark-toc": "^8.0.1",
