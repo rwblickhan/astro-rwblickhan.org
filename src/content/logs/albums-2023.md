@@ -228,3 +228,4 @@ lastUpdatedDate: 2023-08-28
 223. *Ai Ga Nakuchane*, Akiko Yano
 224. *23*, Hyukoh
 225. *Here on My Own EP*, Swardy
+226. *Time's Arrow*, Ladytron
