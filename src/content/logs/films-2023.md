@@ -42,6 +42,11 @@ lastUpdatedDate: 2023-09-08
 37. *The Trial* (1962)
 38. 🔁 *Paprika* (2006)
 39. 🔁 *The Grand Budapest Hotel* (2014)
+40. 🔁 *Ghost in the Shell* (1995)
+41. *Johnny Mnemonic* (1995)
+42. *Donnie Darko* (2001)
+43. *The Super Mario Bros. Movie* (2023)
+44. *Puss in Boots: The Last Wish* (2022)
 
 ## Shows
 
