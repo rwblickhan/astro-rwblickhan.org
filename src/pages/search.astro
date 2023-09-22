@@ -1,7 +1,5 @@
 ---
 import ContentLayout from "../layouts/ContentLayout.astro";
-import { collectionMetadataMap } from "../consts";
-import { getCollection } from "astro:content";
 
 const { title = "Search", description = "Search for rwblickhan.org" } =
   Astro.props;
@@ -18,6 +16,7 @@ const { title = "Search", description = "Search for rwblickhan.org" } =
         element: "#search",
         showSubResults: true,
         resetStyles: false,
+        showImages: false,
       });
     });
   </script>
