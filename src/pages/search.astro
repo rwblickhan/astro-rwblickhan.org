@@ -10,6 +10,12 @@ const { title = "Search", description = "Search for rwblickhan.org" } =
   <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
   <script src="/pagefind/pagefind-ui.js" is:inline></script>
   <div id="search"></div>
+  <style>
+    #search {
+      --pagefind-ui-font: Charter, "Bitstream Charter", "Sitka Text", Cambria,
+        sans-serif;
+    }
+  </style>
   <script>
     window.addEventListener("DOMContentLoaded", (event) => {
       new PagefindUI({
