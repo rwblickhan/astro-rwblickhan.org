@@ -252,6 +252,6 @@ The `eslint-disable` line is there to avoid getting yelled at by the linter for 
 And that's... about it!
 If I install the plugin locally, it works!
 
-![Obsidian plugin in action](/technical/obsidian-plugin.png)
+![Obsidian plugin in action](../../assets/technical/obsidian-plugin/obsidian-plugin.png)
 
 I made a [pull request](https://github.com/obsidianmd/obsidian-releases/pull/1563) to add Tag Search to the official list of community plugins, though if you're curious to try it out now, you can install it immediately with [BRAT](https://github.com/TfTHacker/obsidian42-brat) - just point it at the [rwblickhan/obsidian-tag-search repo](https://github.com/rwblickhan/obsidian-tag-search)!
