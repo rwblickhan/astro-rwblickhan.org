@@ -230,3 +230,4 @@ lastUpdatedDate: 2023-08-28
 225. *Here on My Own EP*, Swardy
 226. *Time's Arrow*, Ladytron
 227. *Succession Season 4 OST*, Nicholas Britell
+228. *Move Along*, The All-American Rejects
