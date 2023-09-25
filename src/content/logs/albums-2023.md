@@ -232,3 +232,5 @@ lastUpdatedDate: 2023-08-28
 227. *Succession Season 4 OST*, Nicholas Britell
 228. *The All-American Rejects*, The All-American Rejects
 229. *Move Along*, The All-American Rejects
+230. *When the World Comes Down*, The All-American Rejects
+231. *Kids in the Street*, The All-American Rejects
