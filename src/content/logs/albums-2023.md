@@ -236,3 +236,5 @@ lastUpdatedDate: 2023-08-28
 231. *Kids in the Street*, The All-American Rejects
 232. *Casiopea*, Casiopea
 233. *Syntheism*, Eprom
+234. *Dans la seconde*, Karkwa
+235. *Bewitched*, Laufey
