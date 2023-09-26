@@ -40,6 +40,23 @@ Culture, as described above, ends up subject to evolutionary pressures. Three im
 - Additionally, different cultures are adapted to different environments in non-obvious ways. Henrich uses the example of the many European explorers who died in the Arctic, in contrast to the Inuit.
 - Culture is sensitive to interventions and broken chains of transmission. The Baffin Island Inuit lost kayaks as a technology and didn’t regain it until accidentally contacting other Inuit groups. Japan had a massive influx of firearms in the 16th century, but they were banned and mostly forgot about a century later.
 
+## Digital Garden
+
+_Treat a personal website as a work-in-progress wiki, not a reverse-chronological blog._
+
+### References
+
+- ["Digital Garden"](https://ajy.co/digital-garden/), Aaron Young
+- ["Work with the garage door up"](https://notes.andymatuschak.org/Work_with_the_garage_door_up), Andy Matuschak
+- ["A Brief History & Ethos of the Digital Garden"](https://maggieappleton.com/garden-history), Maggie Appleton
+- ["Digital Gardening for Non-Technical Folks"](https://maggieappleton.com/nontechnical-gardening), Maggie Appleton
+
+### Details
+
+"Digital gardening" is a recent movement to treat personal websites more like always-in-progress personal wikis instead of a traditional reverse-chronological blog.
+That might involve publishing unpolished notes, updating pages when you learn more, linking heavily between pages, distinguishing between different classes of recency, and so on.
+This site is inspired by the principles of digital gardening, since I intend most pages to be "evergreen" and updated over time, although I don't take the concept as far as many others do.
+
 ## Dunbar’s Number
 
 _Stable human social groups are limited to about 150 people._
@@ -55,34 +72,6 @@ _Stable human social groups are limited to about 150 people._
 
 Robin Dunbar is a fairly prominent anthropologist — I highly recommend his books _Friends_ and _Why Religion Evolved_ — but he is most famous for his eponymous number, introduced in “Neocortex size as a constraint on group size in primates”. He studied the average group sizes of other social primates and discovered a striking relationship between group size and neocortex size. If you plug humans into the resulting equation, you get “Dunbar’s number” of about 150, which is the maximum size of a stable social group, or how many “close” interpersonal relationships we can have. This has been borne out by repeated studies of human social groups, from militaries to churches to Discord channels. Social groups that grow much bigger than Dunbar’s number need more complicated organizational structures to make up for the fact that most members will not, and indeed _cannot_, know most other members.
 
-## Scenius
-
-_”Scenes” are often more inventive than individuals._
-
-### References
-
-- [“Scenius, or Communal Genius”](https://kk.org/thetechnium/scenius-or-comm/)
-- [“How to Walk and Talk”](https://craigmod.com/ridgeline/043/)
-- [“The Scenius Edition”, _Why is this interesting?_](https://whyisthisinteresting.substack.com/p/the-scenius-edition)
-
-### Details
-
-Scenius is a concept coined by Brian Eno to describe the fact that groups of creative individuals in the same time and place — a “scene”, if you will — are often much more inventive than the individuals themselves. This is arguably the “micro” version of cultural evolution as described above. There are many examples, from literary groups like the Inklings or the Bloomsbury Group, to the invention of modern climbing at Camp 4 in Yosemite, to the flow of conversation at a really good dinner party.
-
-## Spaced Repetition
-
-_Memorize anything efficiently by reviewing at spaced intervals._
-
-### References
-
-- ["Spaced Repetition for Efficient Learning"](https://gwern.net/spaced-repetition)
-- ["How to make memory systems widespread?"](https://michaelnotebook.com/mmsw/)
-- ["Effective Spaced Repetition"](https://borretti.me/article/effective-spaced-repetition)
-
-### Details
-
-[Ebbinghaus' forgetting curves](https://en.wikipedia.org/wiki/Forgetting_curve) show that the most efficient way to remember something is to test yourself at increasingly-spaced intervals. As a result, with the help of spaced-repetition software and careful choice of flashcards, you can efficiently remember virtually anything you choose to.
-
 ## Rubber Duck Problem Solving
 
 _Talking through a problem in as much detail as possible can help solve it, even if you're just talking to a rubber ducky._
@@ -94,3 +83,31 @@ _Talking through a problem in as much detail as possible can help solve it, even
 ### Details
 
 One of the best problem-solving techniques from software engineering is to explain the problem and attempted solutions in as much detail as possible. It doesn't matter whether you're talking to another software engineer or even another person; you could even use a rubber ducky! The important part is to explain the problem in as much detail as possible, because it helps clarify your assumptions and will often reveal overlooked details.
+
+## Scenius
+
+_”Scenes” are often more inventive than individuals._
+
+### References
+
+- [“Scenius, or Communal Genius”](https://kk.org/thetechnium/scenius-or-comm/), Kevin Kelly
+- [“How to Walk and Talk”](https://craigmod.com/ridgeline/043/), Craig Mod
+- [“The Scenius Edition”](https://whyisthisinteresting.substack.com/p/the-scenius-edition), _Why is this interesting?_
+
+### Details
+
+Scenius is a concept coined by Brian Eno to describe the fact that groups of creative individuals in the same time and place — a “scene”, if you will — are often much more inventive than the individuals themselves. This is arguably the “micro” version of cultural evolution as described above. There are many examples, from literary groups like the Inklings or the Bloomsbury Group, to the invention of modern climbing at Camp 4 in Yosemite, to the flow of conversation at a really good dinner party.
+
+## Spaced Repetition
+
+_Memorize anything efficiently by reviewing at spaced intervals._
+
+### References
+
+- ["Spaced Repetition for Efficient Learning"](https://gwern.net/spaced-repetition), Gwern
+- ["How to make memory systems widespread?"](https://michaelnotebook.com/mmsw/), Michael Nielsen
+- ["Effective Spaced Repetition"](https://borretti.me/article/effective-spaced-repetition), Fernando Boretti
+
+### Details
+
+[Ebbinghaus' forgetting curves](https://en.wikipedia.org/wiki/Forgetting_curve) show that the most efficient way to remember something is to test yourself at increasingly-spaced intervals. As a result, with the help of spaced-repetition software and careful choice of flashcards, you can efficiently remember virtually anything you choose to.
