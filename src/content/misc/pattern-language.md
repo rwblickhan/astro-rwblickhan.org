@@ -1,6 +1,6 @@
 ---
 title: Pattern Language
-lastUpdatedDate: 2023-08-23
+lastUpdatedDate: 2023-09-25
 ---
 
 <!-- markdownlint-disable no-duplicate-header -->
