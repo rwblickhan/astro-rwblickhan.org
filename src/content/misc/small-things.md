@@ -37,3 +37,11 @@ The easiest way to do that is to get a saltcellar and fill it up with nice chunk
 
 I use [this one from Amazon](https://www.amazon.com/dp/B07STN8DRL?psc=1&ref=ppx_yo2ov_dt_b_product_details), which was only about $10.
 It's reasonably quality, with a magnetic latch for the lid, and it holds plenty of salt.
+
+## Milk Frother
+
+A milk frother can come in handy for a surprising number of drinks, from lattes to matcha to protein powder.
+That also makes them a great gift for anybody that likes coffee or tea drinks - they'll certainly find a use for it eventually.
+
+I've bought at least three of this $20 [Foodville milk frother](https://www.amazon.com/gp/product/B07V2ZGYJ1?ie=UTF8&th=1) as personal or white elephant gifts,
+as well as the one I use myself.
