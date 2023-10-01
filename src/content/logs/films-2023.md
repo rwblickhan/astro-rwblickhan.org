@@ -47,6 +47,7 @@ lastUpdatedDate: 2023-09-08
 42. *Donnie Darko* (2001)
 43. *The Super Mario Bros. Movie* (2023)
 44. *Puss in Boots: The Last Wish* (2022)
+45. 🔁 *Fantastic Mr. Fox* (2009)
 
 ## Shows
 
