@@ -65,6 +65,7 @@ lastUpdatedDate: 2023-08-28
 60. *Range: Why Generalists Triumph in a Specialized World*, David Epstein
 61. *Opus*, Satoshi Kon (trans. Zack Davisson)
 62. *The Man Who Was Thursday: A Nightmare*, G.K. Chesterton
+63. 🔁 *Scott Pilgrim Vol. 1: Scott Pilgrim's Precious Little Life*, Bryan Lee O'Malley
 
 ## Skimmed / DNF
 
