@@ -56,3 +56,4 @@ lastUpdatedDate: 2023-09-08
 3. *Moral Orel* (2005-2008)
 4. *Paranoia Agent* (2004)
 5. *Garth Marenghi's Darkplace* (2004)
+6. *Succession* (2018-2023)
