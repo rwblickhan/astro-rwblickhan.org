@@ -238,3 +238,4 @@ lastUpdatedDate: 2023-08-28
 233. *Syntheism*, Eprom
 234. *Dans la seconde*, Karkwa
 235. *Bewitched*, Laufey
+236. *After Destruction*, Descartes a Kant
