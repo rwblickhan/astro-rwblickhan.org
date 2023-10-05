@@ -9,6 +9,24 @@ These are various “patterns” that I tend to use and reuse in my thinking. Th
 
 ## Table of Contents
 
+## Chesterton's Fence
+
+_Before you remove a fence, figure out what it's for._
+
+### References
+
+- ["Chesterton's Fence"](https://matt-rickard.com/chestertons-fence), Matt Rickard
+- ["Lens of the week: Chesterton's Fence"](https://read.fluxcollective.org/i/137489936/lens-of-the-week), The FLUX Review
+
+### Details
+
+> In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it. (G.K. Chesterton, _The Drift from Domesticity_)
+
+Thanks to [cultural evolution](https://rwblickhan.org/misc/pattern-language/#cultural-evolution), many perplexing human behaviors are actually highly useful, even if participants can't actively explain themselves. If you suddenly change that behavior, you might find that it was actually load-bearing — it was completely necessary for surrounding systems to function!
+So, it's often worthwhile to investigate before changing, especially if a behavior seems confusing.
+
+Because humans occupy the [cultural niche](https://rwblickhan.org/misc/pattern-language/#cultural-niche) and many of our behaviors can be looked at through a cultural lens, Chesterton's Fence can be applied to many different fields. Programming is a particularly fruitful field — whenever dealing with legacy code, it's always useful to ask _why_ the code behaves the way it does, even if it's strange (for instace, being written in COBOL!).
+
 ## Cultural Niche
 
 _Humans are uniquely successful due to our social learning ability._
