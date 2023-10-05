@@ -90,6 +90,24 @@ _Stable human social groups are limited to about 150 people._
 
 Robin Dunbar is a fairly prominent anthropologist — I highly recommend his books _Friends_ and _Why Religion Evolved_ — but he is most famous for his eponymous number, introduced in “Neocortex size as a constraint on group size in primates”. He studied the average group sizes of other social primates and discovered a striking relationship between group size and neocortex size. If you plug humans into the resulting equation, you get “Dunbar’s number” of about 150, which is the maximum size of a stable social group, or how many “close” interpersonal relationships we can have. This has been borne out by repeated studies of human social groups, from militaries to churches to Discord channels. Social groups that grow much bigger than Dunbar’s number need more complicated organizational structures to make up for the fact that most members will not, and indeed _cannot_, know most other members.
 
+## Eternal September
+
+_Communities struggle to assimilate large numbers of new people arriving at the same time._
+
+### References
+
+- ["September that never ended"](http://www.catb.org/jargon/html/S/September-that-never-ended.html), Jargon File
+- ["Killing Community"](https://www.marginalia.nu/log/82_killing_community/), Marginalia.nu
+
+### Details
+
+Before 1993, the proto-web message boards of Usenet saw a yearly influx of new users around September, when new university students got access to Usenet for the first time.
+At first, these new arrivals would have poor etiquette, but through a mixture of shaming, mockery, trolling, and simple observation, they would socialize to the standards of Usenet.
+Around 1993, service providers began providing much larger numbers of users with access to Usenet, leading the forums to become overwhelmed with badly-behaved users (at least, from the perspective of old-timers). That led some to refer to this period as an "Eternal September."
+
+The broader lesson here is that communities, if they are to remain communities, need time to socialize new arrivals into the culture of the community.
+Otherwise, they risk becoming a place where strangers mostly interact with strangers, where there is no sense of shared norms and few repeated interactions that would encourage politeness.
+
 ## Rubber Duck Problem Solving
 
 _Talking through a problem in as much detail as possible can help solve it, even if you're just talking to a rubber ducky._
