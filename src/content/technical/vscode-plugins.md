@@ -47,10 +47,6 @@ It makes VS Code almost as efficient as a real Markdown editor, though I still p
 
 Fair warning: this plugin does clobber a few standard VS Code hotkeys, like Cmd-B to open the side panel. I had to move around a few hotkeys as a result.
 
-## Auto Rename Tag
-
-[This extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) does exactly what it says on the tin - if you edit one half of an HTML or XML tag, it will automatically rename the paired tag. I think VS Code actually has this built-in now, but *only* for files with the HTML extension - Auto Rename Tag is perfectly happy operating on `.astro` or `.tsx` files as well.
-
 ## Copy File Name
 
 Sometimes it's useful to copy the name of the current file, like if I want to search for references to that file with `rg`. Confoundingly, VS Code doesn't seem to have a built-in hotkey hook for copying the file name.
