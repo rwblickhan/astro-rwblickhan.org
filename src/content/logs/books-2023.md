@@ -66,6 +66,7 @@ lastUpdatedDate: 2023-08-28
 61. *Opus*, Satoshi Kon (trans. Zack Davisson)
 62. *The Man Who Was Thursday: A Nightmare*, G.K. Chesterton
 63. 🔁 *Scott Pilgrim Vol. 1: Scott Pilgrim's Precious Little Life*, Bryan Lee O'Malley
+64. 🔁 *Scott Pilgrim Vol. 2: Scott Pilgrim vs. The World*, Bryan Lee O'Malley
 
 ## Skimmed / DNF
 
