@@ -244,3 +244,5 @@ lastUpdatedDate: 2023-08-28
 239. *Altars*, Twin Tribes
 240. *Re: This Is Why*, Paramore
 241. *Again*, Oneohtrix Point Never
+242. *Javelin*, Sufjan Stevens
+243. *Lovers From The Past*, Mareux
