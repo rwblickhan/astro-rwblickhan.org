@@ -246,3 +246,4 @@ lastUpdatedDate: 2023-08-28
 241. *Again*, Oneohtrix Point Never
 242. *Javelin*, Sufjan Stevens
 243. *Lovers From The Past*, Mareux
+244. *Paths*, G Jones
