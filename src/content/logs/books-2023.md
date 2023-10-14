@@ -67,6 +67,7 @@ lastUpdatedDate: 2023-08-28
 62. *The Man Who Was Thursday: A Nightmare*, G.K. Chesterton
 63. 🔁 *Scott Pilgrim Vol. 1: Scott Pilgrim's Precious Little Life*, Bryan Lee O'Malley
 64. 🔁 *Scott Pilgrim Vol. 2: Scott Pilgrim vs. The World*, Bryan Lee O'Malley
+65. 🔁 *Scott Pilgrim Vol. 3: Scott Pilgrim & The Infinite Sadness*, Bryan Lee O'Malley
 
 ## Skimmed / DNF
 
