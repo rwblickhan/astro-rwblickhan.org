@@ -49,6 +49,7 @@ lastUpdatedDate: 2023-09-08
 44. *Puss in Boots: The Last Wish* (2022)
 45. 🔁 *Fantastic Mr. Fox* (2009)
 46. *Kuch Kuch Hota Hai* (1998)
+47. *Taylor Swift: The Eras Tour* (2023)
 
 ## Shows
 
