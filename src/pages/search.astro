@@ -8,14 +8,24 @@ const { title = "Search", description = "Search for rwblickhan.org" } =
 
 <ContentLayout title={title} description={description}>
   <h1>Search</h1>
-  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-  <script src="/pagefind/pagefind-ui.js" is:inline></script>
-  <div id="search"></div>
   <style>
-    #search {
+    :root {
       --pagefind-ui-font: Charter, "Bitstream Charter", "Sitka Text", Cambria,
         sans-serif;
     }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --pagefind-ui-primary: #eeeeee;
+        --pagefind-ui-text: #e8e6e3;
+        --pagefind-ui-background: rgb(38 38 38);
+        --pagefind-ui-border: #152028;
+        --pagefind-ui-tag: #152028;
+      }
+    }
   </style>
-  <PagefindSearch uiOptions={{ showSubResults: true, showImages: false }} />
+  <PagefindSearch
+    id="search"
+    uiOptions={{ showSubResults: true, showImages: false }}
+  />
 </ContentLayout>
