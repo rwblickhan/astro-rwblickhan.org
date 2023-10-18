@@ -1,5 +1,6 @@
 ---
 import ContentLayout from "../layouts/ContentLayout.astro";
+import PagefindSearch from "astro-pagefind/components/Search";
 
 const { title = "Search", description = "Search for rwblickhan.org" } =
   Astro.props;
@@ -16,14 +17,5 @@ const { title = "Search", description = "Search for rwblickhan.org" } =
         sans-serif;
     }
   </style>
-  <script>
-    window.addEventListener("DOMContentLoaded", (event) => {
-      new PagefindUI({
-        element: "#search",
-        showSubResults: true,
-        resetStyles: false,
-        showImages: false,
-      });
-    });
-  </script>
+  <PagefindSearch uiOptions={{ showSubResults: true, showImages: false }} />
 </ContentLayout>
