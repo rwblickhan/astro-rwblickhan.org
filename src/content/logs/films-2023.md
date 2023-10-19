@@ -59,3 +59,4 @@ lastUpdatedDate: 2023-09-08
 4. *Paranoia Agent* (2004)
 5. *Garth Marenghi's Darkplace* (2004)
 6. *Succession* (2018-2023)
+7. *Mob Psycho 100* (2016)
