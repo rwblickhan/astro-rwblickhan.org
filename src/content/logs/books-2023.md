@@ -69,6 +69,7 @@ lastUpdatedDate: 2023-08-28
 64. 🔁 *Scott Pilgrim Vol. 2: Scott Pilgrim vs. The World*, Bryan Lee O'Malley
 65. 🔁 *Scott Pilgrim Vol. 3: Scott Pilgrim & The Infinite Sadness*, Bryan Lee O'Malley
 66. 🔁 *Scott Pilgrim Vol. 4: Scott Pilgrim Gets It Together*, Bryan Lee O'Malley
+67. 🔁 *Scott Pilgrim Vol. 5: Scott Pilgrim vs. the Universe*, Bryan Lee O'Malley
 
 ## Skimmed / DNF
 
