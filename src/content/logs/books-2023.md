@@ -70,8 +70,9 @@ lastUpdatedDate: 2023-08-28
 65. 🔁 *Scott Pilgrim Vol. 3: Scott Pilgrim & The Infinite Sadness*, Bryan Lee O'Malley
 66. 🔁 *Scott Pilgrim Vol. 4: Scott Pilgrim Gets It Together*, Bryan Lee O'Malley
 67. 🔁 *Scott Pilgrim Vol. 5: Scott Pilgrim vs. the Universe*, Bryan Lee O'Malley
+68. *Naming Things: The Hardest Problem in Software Engineering*, Tom Benner
 
-## Skimmed / DNF
+## Skimmed
 
 - *Ways of Being - Animals, Plants, Machines: The Search for a Planetary Intelligence*, James Bridle
 - *Mating in Captivity: Unlocking Erotic Intelligence*, Esther Perel
