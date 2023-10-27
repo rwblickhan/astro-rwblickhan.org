@@ -71,6 +71,7 @@ lastUpdatedDate: 2023-08-28
 66. 🔁 *Scott Pilgrim Vol. 4: Scott Pilgrim Gets It Together*, Bryan Lee O'Malley
 67. 🔁 *Scott Pilgrim Vol. 5: Scott Pilgrim vs. the Universe*, Bryan Lee O'Malley
 68. *Naming Things: The Hardest Problem in Software Engineering*, Tom Benner
+69. 🔁 *Scott Pilgrim Vol. 6: Scott Pilgrim's Finest Hour*, Bryan Lee O'Malley
 
 ## Skimmed
 
