@@ -9,6 +9,76 @@ const posts = (await getCollection("newsletters")).sort(
 ---
 
 <IndexLayout title="Newsletters" description="Newsletters index page">
+  <h2>Season 6</h2>
+  <IndexGrid>
+    {
+      posts
+        .filter((post) => post.data.season === 6)
+        .map((post) => (
+          <LinkBox
+            title={post.data.title}
+            href={`/newsletters/${post.slug}`}
+            lastUpdatedDate={post.data.lastUpdatedDate}
+          />
+        ))
+    }
+  </IndexGrid>
+  <h2>Season 5</h2>
+  <IndexGrid>
+    {
+      posts
+        .filter((post) => post.data.season === 5)
+        .map((post) => (
+          <LinkBox
+            title={post.data.title}
+            href={`/newsletters/${post.slug}`}
+            lastUpdatedDate={post.data.lastUpdatedDate}
+          />
+        ))
+    }
+  </IndexGrid>
+  <h2>Season 4</h2>
+  <IndexGrid>
+    {
+      posts
+        .filter((post) => post.data.season === 4)
+        .map((post) => (
+          <LinkBox
+            title={post.data.title}
+            href={`/newsletters/${post.slug}`}
+            lastUpdatedDate={post.data.lastUpdatedDate}
+          />
+        ))
+    }
+  </IndexGrid>
+  <h2>Season 3</h2>
+  <IndexGrid>
+    {
+      posts
+        .filter((post) => post.data.season === 3)
+        .map((post) => (
+          <LinkBox
+            title={post.data.title}
+            href={`/newsletters/${post.slug}`}
+            lastUpdatedDate={post.data.lastUpdatedDate}
+          />
+        ))
+    }
+  </IndexGrid>
+  <h2>Season 2</h2>
+  <IndexGrid>
+    {
+      posts
+        .filter((post) => post.data.season === 2)
+        .map((post) => (
+          <LinkBox
+            title={post.data.title}
+            href={`/newsletters/${post.slug}`}
+            lastUpdatedDate={post.data.lastUpdatedDate}
+          />
+        ))
+    }
+  </IndexGrid>
   <h2>Season 1</h2>
   <IndexGrid>
     {
@@ -18,7 +88,6 @@ const posts = (await getCollection("newsletters")).sort(
           <LinkBox
             title={post.data.title}
             href={`/newsletters/${post.slug}`}
-            description={post.data.description}
             lastUpdatedDate={post.data.lastUpdatedDate}
           />
         ))

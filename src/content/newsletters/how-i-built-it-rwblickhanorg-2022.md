@@ -1,0 +1,340 @@
+---
+title: "How I Built It: rwblickhan.org (2022)"
+lastUpdatedDate: 2022-05-15 23:57:33.012600+00:00 
+season: 5
+---
+
+Hey folks! This is a fairly technical newsletter about how I built the latest iteration of [my personal website](https://rwblickhan.org). If that doesn't interest you, feel free to skip this one! I'll be back soon with more essays 😃 (yes I do have actual essays in the pipeline).
+
+You can also view this [as a webpage](https://rwblickhan.org/technical/2022-site/)!
+
+## Main Setup
+
+I use the [Publish static site generator](https://github.com/JohnSundell/Publish), primarily developed by iOS indie developer John Sundell. There are [many, many static site generators](https://jamstack.org/generators/) out there, but I like Publish for a few reasons:
+
+- It's both written in Swift and uses Swift for HTML templating, which is the programming language I'm most comfortable with.
+- It's relatively fast, especially after recent concurrency improvements.
+- It can produce 100% HTML/CSS websites with no JavaScript. Many popular React frameworks, like [Next.js](https://nextjs.org) or [Remix](https://remix.run), can do some static site generation, but still require shipping with a JavaScript runtime for routing.
+
+Publish takes care of converting a bundle of Markdown text files into the beautiful website you see here. It starts with a single struct:
+
+```swift
+struct RWBlickhanOrg: Website {
+    enum SectionID: String, WebsiteSectionID {
+        case books
+        case films
+        case recipes
+        case stories
+        case technical
+        case tools
+    }
+
+    struct ItemMetadata: WebsiteItemMetadata {
+        // Add any site-specific metadata that you want to use here.
+    }
+
+    var url = URL(string: "https://rwblickhan.org")!
+    var name = "rwblickhan.org"
+    var description = "A description of rwblickhan.org"
+    var language: Language { .english }
+    var imagePath: Path? { "/images/coverimage.png" }
+}
+```
+
+Publish needs a single Swift struct, conforming to the `Website` protocol, that provides all the metadata for a website. In this case, I called it `RWBlickhanOrg`.
+
+Publish divides content into **items**, **sections**, freeform **pages**, and a single main **index** page. All of the content lives in Markdown files in the `Content/` directory. Each directory in `Content/` maps to a section, which is made up of item pages, each of which is mapped to a Markdown file; each section can also have a single Markdown file named `index.md` for its main page. Any Markdown files in `Content/` but not in a directory is considered a freeform page, unless the file is `index.md`, in which case it's used for the main index page. All of these Markdown pages are parsed and the results are injected into HTML templates; see Theme below.
+
+As examples:
+
+- This page is an item!
+- [Its parent](https://rwblickhan.org/technical/) is a section.
+- [Quotes](https://rwblickhan.org/quotes/) is a freeform page.
+- [The homepage](https://rwblickhan.org) is the index page.
+
+Each section needs a `SectionID`, although to be honest I don’t know what Publish uses it for internally. You can also add `ItemMetadata` like publish date, which is pulled from the Markdown frontmatter, but I don’t use that.
+
+I also have to define some constants Publish uses internally, like a reference to the base `url` of the site so Publish can statically replace relative links with absolute links (`/images` -\> `https://rwblickhan.org/images`, for example).
+
+```swift
+try RWBlickhanOrg().publish(
+    at: nil,
+    using: [
+        .installPlugin(.pygments()),
+        .optional(.copyResources()),
+        .addMarkdownFiles(),
+        .sortItems(by: \.date, order: .descending),
+        .generateHTML(withTheme: .rwblickhan, indentation: nil),
+        .step(named: "Apply Tailwind") { _ in
+            try shellOut(
+                to: "npx tailwindcss -i ./Resources/theme/styles.css -o ./Output/theme/styles.css -c tailwind.config.js")
+        },
+        .generateSiteMap(indentedBy: nil),
+        .unwrap(.s3("rwblickhan.org"), PublishingStep.deploy),
+    ])
+```
+
+Running `publish generate` runs this file as a script. All this script does is create an instance of the `RWBlickhanOrg` struct defined above and `publish()` it.
+
+`publish()` takes a parameter that defines the steps in the publishing pipeline. Most of these are pretty self-explanatory, but a few are interesting:
+
+* `. installPlugin(.pygments())` installs the [Pygments syntax highlighter plugin](https://github.com/Ze0nC/SwiftPygmentsPublishPlugin). That applies syntax coloring to code blocks after generating HTML.
+* `.generateHTML(withTheme: .rwblickhan, indentation: nil)` generates the HTML from the templates (see HTML Templates below).
+* `.step(named: "Apply Tailwind")` is a custom command I wrote. After generating the HTML in the `Output/` folder, this step calls the Tailwind CSS CLI tool to produce the final CSS that will be sent to clients.
+* `.unwrap(.s3("rwblickhan.org"), PublishingStep.deploy)` uses [another plugin](https://github.com/JohnBehnke/S3PublishDeploy) to publish the contents of the `Output/` folder to an S3 bucket (see Deployment below). This is only run with `publish deploy`.
+
+## Theme
+
+### HTML Templates
+
+Publish is built on the [Plot HTML template engine](https://github.com/JohnSundell/Plot), which allows me to write a template for each type of page. That has two benefits:
+
+- The content can be written in simple Markdown files without any styling, and Publish will generate appropriate HTML for each page.
+- Templates can add content programmatically. For instance, each of my section pages has a list of links to its subpages, which is autogenerated by the template.
+
+```swift
+private struct RWBlickhanOrgHTMLFactory<Site: Website>: HTMLFactory {
+    func makeIndexHTML(for index: Index, context: PublishingContext<Site>) throws -> HTML {
+        ...
+    }
+
+    func makeSectionHTML(for section: Section<Site>, context: PublishingContext<Site>) throws -> HTML {
+		...
+	}
+
+	func makeItemHTML(for item: Item<Site>, context: PublishingContext<Site>) throws -> HTML {
+		...
+	}
+
+	func makePageHTML(for page: Page, context: PublishingContext<Site>) throws -> HTML {
+		...
+	}
+```
+
+Plot exposes a core `HTML` type, representing a block of templated HTML. Publish uses these in an `HTMLFactory` to produce a template for each type of page. For instance:
+
+```swift
+func makeIndexHTML(for index: Index, context: PublishingContext<Site>) throws -> HTML {
+	HTML(
+		.lang(context.site.language),
+		.head(for: index, on: context.site, stylesheetPaths: [
+			"/theme/styles.css",
+			"/theme/pygments.css",
+			"/theme/Vollkorn/vollkorn.css",
+		]),
+		.body(
+			.header(for: context.site),
+            .main(
+                .div(
+                    makeStandardBodyClass(),
+                    .contentBody(index.body)))))
+}
+```
+
+In Plot, HTML elements are mapped straightforwardly to type-safe Swift enums. In this case, I let Plot generate a standard `<head>` element, with the addition of my custom CSS. Then I add a `<body>` made up of a header (produced by a helper function) and a semantic `<main>`  element wrapping a `<div>`, which just contains `index.body` (the parsed Markdown) and some styling (see Styling below).
+
+The section template, applied to the `index.md` of each section, is more complex:
+
+```swift
+func makeSectionHTML(for section: Section<Site>, context: PublishingContext<Site>) throws -> HTML {
+    HTML(
+        .lang(context.site.language),
+        .head(for: section, on: context.site, stylesheetPaths: [
+            "/theme/styles.css",
+            "/theme/pygments.css",
+            "/theme/Vollkorn/vollkorn.css",
+        ]),
+        .body(
+            .header(for: context.site),
+            .main(
+                makeStandardBodyClass(),
+                .contentBody(section.body),
+                .ul(
+                    .forEach(section.items) { item in
+                        .li(.a(.text(item.title), .href(item.path)))
+                    }))))
+}
+```
+
+This looks identical to the index template until after the `section.body`. In particular, I add an unordered list (`<ul>`) tag, then use Plot's `.forEach` template command to add a link (`<a>`) in a list item (`<li>`) for each item page in the section, which I can access via `section.items`. In particular, that means that each section's index page automatically gets a nice list of item pages!
+
+Finally, I expose the `HTMLFactory` to Publish:
+
+```swift
+extension Theme where Site == RWBlickhanOrg {
+    static var rwblickhan: Self {
+        Theme(htmlFactory: RWBlickhanOrgHTMLFactory())
+    }
+}
+```
+
+In particular, this allows me to reference the theme as `.rwblickhan`, as I did in the publishing pipeline.
+
+### Styling
+
+For styling, I use the [Tailwind CSS](https://tailwindcss.com) framework that has gained popularity recently. Unlike the standard way of writing CSS, where each HTML element is assigned a CSS class and a separate CSS file specifies layout and typography for each class, Tailwind has a set of built-in "utility classes" that are applied directly in the HTML. This has two major benefits:
+
+- Tailwind's utility classes provide opinionated defaults for common properties like text color.
+- Tailwind's classes can be applied directly to HTML elements instead of writing the rules in a separate, hard-to-read CSS file.
+
+In particular, in this case, the styling is applied by a helper function:
+
+```swift
+private func makeStandardBodyClass() -> Node<HTML.BodyContext> {
+    let layoutProps = "pt-32 mb-8 mx-4 md:max-w-3xl md:mx-auto"
+    let typographyProps = "prose dark:prose-invert"
+    let linkTypographyProps = "prose-a:text-rwb-blue-light dark:prose-a:text-rwb-blue-dark prose-a:no-underline hover:prose-a:underline"
+    return .class("\(layoutProps) \(typographyProps) \(linkTypographyProps)")
+}
+```
+
+This uses Tailwind’s utility classes to define the layout, colors, and typography for the main body text. I’ve split it into multiple, concatenated strings because Tailwind tends to use extremely large sets of utility classes.
+
+`layoutProps` contains the main layout props. `pt-32` adds padding at the top to avoid the header. `mb-8` and `mx-4` add a bit of margin to the other edges, which is mostly for small devices where the text goes edge to edge. On medium-size screens and larger (`md` in Tailwind parlance), I set `max-w-3xl` to limit the text to a reasonable line length and `mx-auto` to center the text horizontally.
+
+`typographyProps` enables the [typography plugin][1] with `prose` or, in dark mode, `prose-invert`. That provides reasonable typographic defaults for any text in the body.
+
+`linkTypographyProps` overrides the typography plugin’s defaults for link (`<a>` tag) rendering. I use a standard `rwb-blue-light` for link text color, with a slightly darker `rwb-blue-dark` in dark mode. I also set `no-underline` unless the cursor is hovering over a link.
+
+The header, meanwhile, is also produced by a helper function:
+
+```swift
+private extension Node where Context == HTML.BodyContext {
+    static func header<T: Website>(for _: T) -> Node {
+        .header(
+            .div(
+                .class("bg-black absolute md:fixed h-24 top-0 inset-x-0 flex items-center justify-between"),
+                .a(
+                    .class("ml-4 md:ml-12 text-white text-4xl no-underline hover:underline"),
+                    .text("rwblickhan.org"),
+                    .href("/index.html"))))
+    }
+}
+```
+
+There’s some boilerplate here to make this work in Swift, but this essentially defines a semantic `<header>` wrapping a `<div>`. We style that with a black background and an `absolute` position, unless we’re on a medium-sized or larger screen, in which case we position it as `fixed` so that the header doesn’t scroll away. It has some sizing constraints and it’s `flex` so that its contents are automatically laid out in a horizontal row; `items-center` vertically centers the items in the flexbox and `justify-between` spreads them out as far as possible horizontally.
+
+Right now, though, the only content is a single `<a>` tag on the left of the screen, which has white text color but otherwise matches the rendering in `linkTypographyProps`. This link always takes us back to the homepage.
+
+To enable Tailwind, I still need a main `styles.css`, which also allows me to globally override some stying:
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        font-family: Vollkorn;
+        @apply bg-white dark:bg-neutral-900;
+    }
+    
+    hr.solid {
+        @apply border-t border-black border-solid;
+    }
+}
+```
+
+The first three lines are boilerplate. `font-family: Vollkorn` sets the default font-family to [Vollkorn](http://vollkorn-typeface.com), which I store alongside `styles.css`; the HTML templates above reference `Vollkorn/vollkorn.css` to find the typeface. I also globally set the site background to white or, in dark mode, dark gray. For `hr.solid` line breaks, I ask Tailwind to apply a solid, black, top border.[^2]
+
+There's also a `pygments.css` file, which defines the colors used in code blocks, as applied by the Pygments plugin. I just got that off the internet 🤷‍♀️
+
+Finally, there's a config file for Tailwind in the aptly-named `tailwind.config.js`:
+
+```js
+const tailwindcss = require("tailwindcss");
+
+module.exports = {
+  content: ["./Output/**/*.html"],
+  theme: {
+      fontFamily: {
+        'sans': ['Vollkorn'],
+        'serif': ['Vollkorn'],
+      },
+      extend: {
+        colors: {
+          'rwb-blue-light': '#3366cc',
+          'rwb-blue-dark': '#2e5cb8',
+          'rwb-slate-light': '#ebedef',
+          'rwb-slate-code-light': '#f6f8fa',
+          'rwb-slate-code-dark': '#161b22'
+        },
+      }
+  },
+  plugins: [
+    require('@tailwindcss/typography')
+  ],
+}
+```
+
+I have to tell Tailwind where the `content` lives, because it will analyze which utility classes you apply in HTML and generate an optimized CSS file that only contains the utility classes you actually use. In this case, I want it to apply to any `.html` file in the `Output/` directory, where the final generated HTML templates will be stored after the template step in a build; that's why the Tailwind step has to be the final step in our publishing pipeline above.
+
+I also ask Tailwind to use `Vollkorn` as the default font for both `sans` and `serif` modes. I extend Tailwind's color palette with a few colors, including the aforementioned `rwb-blue-light` and `rwb-blue-dark`. Finally, I enable the `typography` plugin.
+
+## Deployment
+
+I serve the final generated files out of a [AWS S3 bucket](https://aws.amazon.com/s3/). I hide that behind [Cloudflare's CDN](https://www.cloudflare.com), which is free for a simple website like this and makes it easy to set up a domain name and SSL certificates. Finally, I have my repository set up with Github Actions so that every commit to the repository triggers a new build and upload.
+
+### Infrastructure
+
+I manage the infrastructure with [Terraform](https://www.terraform.io), an infrastructure-as-code framework that operates on [HCL configuration files](https://www.terraform.io/language/syntax/configuration) stored directly in the repository. Those configuration files describe what infrastructure setup I want (in particular, an S3 bucket behind Cloudflare's CDN with a domain name and SSL certificates set up correctly). To actually deploy the infrastructure, I simply run `terraform apply` and it figures out how to deploy everything!
+
+As mentioned, the [config files](https://github.com/rwblickhan/rwblickhan.org/tree/main/Terraform) live in the repository. To be honest, I don't fully understand how all the configuration files work - I actually just followed [this tutorial](https://learn.hashicorp.com/tutorials/terraform/cloudflare-static-website?in=terraform/aws) which is for _exactly_ this use case!
+
+### Continuous Deployment
+
+Every time I push a new commit to the repo on the `main` branch on Github, I trigger a Github Action workflow that rebuilds the website and redeploys it. That's configured in `.github/workflows/swift.yml`:
+
+```yaml
+name: Swift
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: macos-12
+
+    steps:
+    - name: Install AWS CLI
+      run: curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg" && sudo installer -pkg AWSCLIV2.pkg -target /
+    - name: Install Pygments
+      run: pip3 install Pygments
+    - name: Checkout rwblickhan.org
+      uses: actions/checkout@v2
+      with:
+        path: rwblickhan.org
+    - name: Checkout Publish
+      uses: actions/checkout@v2
+      with:
+        repository: rwblickhan/Publish
+        path: Publish
+    - name: Cache Publish
+      uses: actions/cache@v2
+      with:
+        path: $GITHUB_WORKSPACE/Publish/.build
+        key: publish-1
+    - name: Install Publish
+      run: cd $GITHUB_WORKSPACE/Publish && make install
+    - name: Install Tailwind
+      run: cd $GITHUB_WORKSPACE/rwblickhan.org && npm install -D tailwindcss
+    - name: Run Publish
+      env:
+        CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      run: cd $GITHUB_WORKSPACE/rwblickhan.org && publish generate && publish deploy
+```
+
+This is based on the Swift Github Action template. Some notable aspects:
+
+- This runs on `macos-12`, the latest macOS image Github provides, because it has a more up-to-date Xcode version and the latest version of Publish won't run on earlier images.
+- The first step installs the [AWS CLI](https://aws.amazon.com/cli/) because of the S3 publishing step in my Publish publishing pipeline.
+- We also have to install Pygments and Tailwind.
+- I have a slightly modified fork of Publish, so that has to be checked out from Github, built, and installed with `make install`.
+- Finally, we run `publish generate && publish deploy` to generate the HTML and deploy it to S3.[^3] We have to use a few API keys for Cloudflare and AWS, which I store as environment variables on Github Actions.
+
+[1]:	https://tailwindcss.com/docs/typography-plugin
+[^2]:   Why only a top border? Line breaks are typically only one pt tall, so it doesn't matter whether I have a top or bottom border!
+[^3]:   Arguably, I should ask Cloudflare to empty its CDN caches, but I haven't bothered building that out yet.

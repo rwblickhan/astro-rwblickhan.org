@@ -1,0 +1,23 @@
+---
+title: "From the Travelogue of Multan Dhzon: The Desert Libraries of Tingiz (AD S3E14)"
+lastUpdatedDate: 2021-02-28 18:52:05.951988+00:00
+season: 3
+---
+
+Hello all, I hope you had a wonderful Square February. I don’t have much to report, but I am thinking of slowly reintroducing short essays to the newsletter, so keep an eye out of that in the near future. In the meantime, he’s another short sketch.
+
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/145ee99e-31d1-47b6-bfcc-2d928681e039.jpg) 
+
+[“Pueblo at Sunset”, Thomas Moran, 1901](https://commons.wikimedia.org/wiki/File:Thomas_Moran_-_Pueblo_at_Sunset_(1901).jpg)
+
+## From the Travelogue of Multan Dhzon: The Desert Libraries of Tingiz
+
+They say that Tingiz once produced bards of unmatched memory, who could recite for a fortnight with neither food nor drink nor sleep, who would wander north into the desert and challenge the spirits of the air to a contest of wits, who could change the very world with but a word. It is up to the reader whether to credit these old tall tales; certainly, the residents of Tingiz recount these stories with great gusto, which leads this traveller, at least, to believe that they may in fact be the descendants of a race of bards.
+
+In any case, Tingiz has produced no storytellers of that sort in many generations. The legends say the storytellers all gave up overnight, when they were introduced to a most curious foreign export: paper. Tingiz, you have to understand, is a city of the desert, the city itself a warren, its caves and cubbies keeping all residents permanently in the shade. This seems rather inconvenient to this traveller — all water must be pumped, laboriously, from the ground, though the citizens of Tingiz take great pride in their rotation of irrigation labour — but there is one benefit. Because Tingiz is so warm and dry, paper rarely desiccates as it does so easily anywhere else. Thus, unlike everywhere else, it is in fact a durable medium in Tingiz, kept for century after century, handed down from generation to generation.
+
+The citizens of Tingiz are well aware of this, and so they have, rather by accident, built the greatest library the world has ever seen, a library the size of the city. Almost everything done in Tingiz is put to a scroll, rolled up, and stored by  some citizen or other in an oven-like room on their roof. Citizens also keep whatever other scraps they can get their hands on, primarily from passing traders, though they are also eager writers themselves; no Tingiz home is complete without _at least_ a complete volume of the Prophet’s writings (peace and health to all who hear His words), passed from generation to generation as an heirloom, and it is not rare to find other priceless, antique works in theology, and medicine, and history. Some of the more learned among the Tingiz, who I have consulted, say some of the volumes stretch before the founding of the Irutani Republic a millennium ago, which scarcely seems credible; but if any such old works survive, I cannot imagine another place where they might be.
+
+This contributes to some of the characteristics that make Tingiz such a curiosity to the traveller. The city is run by an efficient bureaucracy with an emphasis on law and order, who commit all they do to writing; this perhaps explains Tingiz’ strong reputation for the merchant, many of whom go out of their way into the desert to visit. The citizens of Tingiz are, to a man, woman, and child, all literate, and the walls of the city are covered with posters.
+
+Of course, no place under Heaven is perfect, and Tingiz is no exception. Foremost, of course, is that Tingiz must receive its paper entirely from traders; the wise traveller knows that much reduced taxes can be negotiated in exchange for a few sheets of paper. More to the point, however, is that such is the reverence for paper in Tingiz that destroying a scroll is essentially a capital crime, enforced via exile into the desert wastes and the waiting spirits of the dust. Unfortunately, this means the city is groaning beneath the very literal weight of its history; more than one home has collapsed, unfortunate residents still inside, due to the collection of scrolls atop their house (hence the origin of the phrase “the scroll that broke the house’s roof”). But, being in a desert, Tingiz cannot grow much more, so there is simply no other place for the scrolls to go. Indeed, it seems likely that in further decades the piles of scrolls will only grow further; the curious traveller is cautioned to come as soon as possible, before the city is crushed completely.

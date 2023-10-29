@@ -1,0 +1,37 @@
+---
+title: The House, Part I (S3E1)
+lastUpdatedDate: 2020-12-07 04:35:00.781227+00:00
+season: 3
+---
+
+Hello and welcome to season 3 of Applied Dilettantery. As you’ve probably noticed, the newsletters have been getting shorter and shorter — to be frank, I’m running out of ideas, or perhaps not running out of ideas but running out of interest. So, [a new season is in order](https://www.robinsloan.com/notes/newsletter-seasons/).
+
+What’s on tap for this season? As you may know (because I talk about it incessantly 🙂), I am writing a novel. But sometimes I need to take a break from editing and noodle around with other stories. So, I’ll finish up some of those other stories and post them here. In other words, this is, at least for the length of the season, a short story newsletter.
+
+One other change: I think I’ll want to send out stories faster, so, for this season, dispatches will likely be weekly instead of biweekly.
+
+So, without further ado, here is the first dispatch — the first part of a short horror story titled *The House*.
+
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c5797597-8764-4dfe-9f2f-a4e02ed70b95.jpg) 
+
+[*The Haunted House: We Both Saw a Large Pale Light*, Odilon Redon, 1896](https://www.clevelandart.org/art/1966.413.3)
+
+## The House, Part I
+
+Let me tell you about a House.
+
+It was a House I had purchased — because, yes, in those days you could still buy a sizable house, even on the West Coast, after putting in a few years at a good firm, although the rather sizable life insurance payout after my parents’ unfortunately early demise helped too — and I had been eagerly looking forward to moving into it. You see, this was not just to be a *house* — not a mere investment property, as many of my coworkers of the time had purchased for themselves — but a *home*, a place I could live in, grow old in, and perhaps even die in. This House, I thought, might even be considered the love of my life, as I was (and still am) a lifelong bachelor, for reasons that aren’t important to our story here.
+
+So of course I had been very exacting in my search, which had been active for years but, if I am to tell the truth, had been in the back of my mind since childhood. Every time I passed a for-sale sign in my youth, I would mentally picture myself living there, going out to check the mail, waving to the neighbors, but none of the houses I saw ever quite fit — that one was a bit too small, that one didn’t have enough of a yard, this other one was an ugly shade of blue. Even once I had money and began my search in earnest, with an eye to finding a habitation for life, I still found a reason to dislike every home I saw — whether it was too small for the asking price, or too far from the firm, or too close to the nightlife (I have always preferred quiet nights at home to the raucous nightlife of my peers — another reason I was hunting for the *perfect* habitat).
+
+But falling in love tends to happen when one least expects it, and so it was with the House. It was just the right distance from the firm, just the right distance from the downtown, and just the right price — and, to top it all off, it was not painted a hideous shade of blue, but rather a tasteful and understated pine green. It was, perhaps, just a shade too large for a single inhabitant — indeed, the realtor was surprised to find no partner nor children in tow for the showing — but for the price I didn’t mind. It was, after all, love at first sight, and I said so, quite frankly, to the realtor the moment we stepped onto the property for our tour.
+
+I was curious as to the price, however. When I inquired partway through the tour, the realtor became nervous, as if caught red-handed at the scene of a crime, before admitting that the house was so cheap because it was haunted. Being something of a connoisseur of such stories, I was surprised I had never heard of this locale, and I begged the realtor to tell me the tale. He hummed and hawed, trying to continue the tour, but I insisted, and so he began.
+
+This House, he explained, had once belonged to — indeed, had been built by — the late-ninetheenth-century serial killer John Gatz. When I expressed my lack of familiarity with the name, the realtor realized I was not a local — for this was local lore, overshadowed by H.H. Holmes’ murder castle near the Columbian Exposition (which, the realtor added with a touch of civic pride, was slightly later, making John Gatz the first American serial killer). In fact, this very House was Gatz’s murder castle, after a sort — though the realtor was quick to point out that most of the urban legends that had sprung up about it were not at all true. There were not, for instance, laundry chutes that opened onto vats of acid, nor were there airtight chambers to pump poison gas into (though there _were_ some oddities to the design, like the fact that no two windows were exactly the same size). No, he did his killings the old-fashioned way — he would invite someone to his house, strangle them, dismember the body in the basement, and then bury the remains in the garden — and, because he preyed on the lower classes, he was almost never caught, until he didn’t quite manage to finish strangling a victim. She ran into town, her wits almost gone, raving about a monster in a labyrinth, and it took the officers a solid hour or more to calm her down to the point that they could determine what had happened. When they arrived at the House, they found the grisly instruments in the basement, and the bodies in the garden, and even Gatz’ dinner, still warm — but Gatz himself was gone, never to be seen again.
+
+And so it was that the House stood empty for many years, until the killings passed into the murky realm of myth and legend, and an up-and-coming couple bought it at a steep discount and brought daylight back into its depths once again. But this was only the beginning of a new myth, for they had not lived there long before their daughter reported seeing shadowy figures walking around. This was followed by a string of bad luck — culminating, of course, in that selfsame daughter’s disappearance — leading the grieving couple to declare the House haunted and cursed. They moved across the country to a new house where, it was said, they lived out the rest of their days in the twilight of loss.
+
+And so the House stood empty for years again, becoming more dilapidated, before the cycle began again, with another young family moving in, refurbishing it, reporting strange sights and sounds, and finally moving out after experiencing a run of bad luck, followed by another family, then another. But eventually the cycle ended with the current — well, former —  inhabitant, an elderly gentleman who had already had his share of life and loss and was more than happy to inhabit a House with a History. This gentleman did not report any of the strange sights or sounds, nor did he have any bad luck — at least, no more than he had already experienced — and so the House was happy for a long time. But then the elderly gentleman passed away, as elderly gentlemen tend to do — quietly, in his sleep, in his bed on the second floor, the realtor took pains to point out — and now the House, with all its History, was back on the market.
+
+Or, rather, it was until I signed the papers, barely a week later, signing it over in perpetuity to me.
