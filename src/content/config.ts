@@ -64,6 +64,17 @@ const misc = defineCollection({
   }),
 });
 
+const newsletters = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    lastUpdatedDate: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val)),
+    season: z.number(),
+  }),
+});
+
 const recipes = defineCollection({
   schema: z.object({
     title: z.string(),
@@ -82,6 +93,7 @@ const collections = {
   til,
   logs,
   misc,
+  newsletters,
   recipes,
 };
 

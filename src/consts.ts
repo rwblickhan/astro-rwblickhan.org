@@ -48,6 +48,15 @@ export const collectionMetadataMap: Map<Collection, CollectionMetadata> =
       { title: "Misc", slug: "/misc", isInHeader: true, isInRSSFeed: true },
     ],
     [
+      "newsletters",
+      {
+        title: "Newsletters",
+        slug: "/newsletters",
+        isInHeader: true,
+        isInRSSFeed: true,
+      },
+    ],
+    [
       "logs",
       { title: "Logs", slug: "/logs", isInHeader: true, isInRSSFeed: false },
     ],
