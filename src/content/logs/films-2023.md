@@ -53,6 +53,7 @@ lastUpdatedDate: 2023-09-08
 48. *Kuroneko* (1968)
 49. *Lynch/Oz* (2022)
 50. *Mishima: A Life in Four Chapters* (1985)
+51. 🔁 *Hausu* (1977)
 
 ## Shows
 
