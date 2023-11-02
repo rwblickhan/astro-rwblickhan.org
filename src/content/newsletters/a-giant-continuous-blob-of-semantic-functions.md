@@ -1,5 +1,5 @@
 ---
-title: Unsusceptibility to the Illusion is Inherent (rwblog S6E11)
+title: A Giatn Continuous Blob of Semantic Functions (rwblog S6E12)
 lastUpdatedDate: 2023-11-01
 season: 6
 ---
