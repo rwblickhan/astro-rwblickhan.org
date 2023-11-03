@@ -250,3 +250,4 @@ lastUpdatedDate: 2023-08-28
 245. *Like What EP*, Tennyson
 246. *Dreamland*, Zhu
 247. *Carrie & Lowell*, Sufjan Stevens
+248. *Virtual Self EP*, Virtual Self
