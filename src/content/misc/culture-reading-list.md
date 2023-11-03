@@ -20,3 +20,4 @@ Here's some works, primarily non-fiction, that I especially appreciate, related 
 - [*Money Stuff*](https://www.bloomberg.com/account/newsletters/money-stuff), Matt Levine
 - [*Bits About Money*](https://bam.kalzumeus.com/), Patrick McKenzie
 - [*Restricted Data*](http://blog.nuclearsecrecy.com/), Alex Wellerstein
+- ["Why'd I take speed for twenty years?"](https://pjvogt.substack.com/p/whyd-i-take-speed-for-twenty-years), *Search Engine*
