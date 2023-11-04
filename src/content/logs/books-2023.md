@@ -74,6 +74,7 @@ lastUpdatedDate: 2023-08-28
 69. 🔁 *Scott Pilgrim Vol. 6: Scott Pilgrim's Finest Hour*, Bryan Lee O'Malley
 70. 🔁 *Lost at Sea*, Bryan Lee O'Malley
 71. 🔁 *Seconds*, Bryan Lee O'Malley
+72. *Hungry Ghost*, Victoria Ying
 
 ## Skimmed
 
