@@ -55,6 +55,7 @@ lastUpdatedDate: 2023-09-08
 50. *Mishima: A Life in Four Chapters* (1985)
 51. 🔁 *Hausu* (1977)
 52. *The Hunger Games* (2012)
+53. *The Hunger Games: Catching Fire* (2013)
 
 ## Shows
 
