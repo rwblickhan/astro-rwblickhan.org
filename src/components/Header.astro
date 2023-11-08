@@ -76,18 +76,4 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
       />
     ))
   }
-  <noscript>
-    <div class="p-4 bg-black flex flex-row items-center justify-around">
-      {
-        collections.map((metadata) => (
-          <a
-            class="text-white dark:text-rwb-text-dark text-2xl no-underline hover:underline"
-            href={`${metadata.slug}`}
-          >
-            {metadata.title}
-          </a>
-        ))
-      }
-    </div>
-  </noscript>
 </nav>
