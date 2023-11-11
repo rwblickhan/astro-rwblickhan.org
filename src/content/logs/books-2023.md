@@ -75,6 +75,7 @@ lastUpdatedDate: 2023-08-28
 70. 🔁 *Lost at Sea*, Bryan Lee O'Malley
 71. 🔁 *Seconds*, Bryan Lee O'Malley
 72. *Hungry Ghost*, Victoria Ying
+73. *King Lear*, Shakespeare
 
 ## Skimmed
 
