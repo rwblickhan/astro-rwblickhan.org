@@ -56,6 +56,7 @@ lastUpdatedDate: 2023-09-08
 51. 🔁 *Hausu* (1977)
 52. *The Hunger Games* (2012)
 53. *The Hunger Games: Catching Fire* (2013)
+54. 🔁 *Spider-Man: Into the Spider-Verse* (2018)
 
 ## Shows
 
