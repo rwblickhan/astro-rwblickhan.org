@@ -55,7 +55,7 @@ I’m *finally* almost done with *Type-Driven Development with Idris*—two chap
 I’ve been working on a horror story (novel?) slowly (as in, it’s been more than a week and I only have ~2000 words) but consistently. The synopsis I'm working off is below:
 
 > Ever since she was a little girl, Alice dreamed of becoming a physicist, idolizing the mid-century American genius Tom Friedman and the science-fiction anthology that made him a household name, *Dreams of an Alien God*. But grad school woes cut short her ambitions, and she found herself working as a journalist and sometime podcast host instead. Now, however, she has been given the opportunity of a lifetime: a writers residency at the Grand Venetian Hotel, where Friedman stayed while working on the show, with the aim of producing the definitive biography of the man himself.
-
+>
 > But Alice quickly finds that the Grand Venetian is not all it seems. The basement is strictly off-limits at all times, the doors and hallways seem to shift and stretch, there are mysterious figures watching her at night, and the television seems to be talking to her. And, as she continues to delve into the life story of her hero, she is surprised to find that she has a shocking resemblance to Friedman’s first wife. As her dream turns to nightmare, she learns the truth of the old adage about never meeting your heroes…
 
 Thoughts? Feelings? Late-night stealings?

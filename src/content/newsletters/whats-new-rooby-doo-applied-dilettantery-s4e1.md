@@ -4,6 +4,8 @@ lastUpdatedDate: 2021-03-15 01:40:42.620904+00:00
 season: 4
 ---
 
+<!-- markdownlint-disable no-emphasis-as-header -->
+
 Well, that was a fun experiment. Unfortunately the results from our three month A/B test just came in and looks like it’s a no-ship. (That’s a joke, albeit an unfunny one.) My goal was to encourage myself to write more fiction — I have a goal to write 12 short stories this year, after all — but I also wanted to write _good_ short fiction, which isn’t exactly easy with a weekly deadline and much else to do.[^1] So for these short stories I’m going to take a step back and focus on actually, y’know, polishing them. Anyway, at this point, I need encouragement to write _non_-fiction instead!
 
 So, with that, we finish off the short-lived season 3 and begin season 4, bringing this newsletter back to its original function — exploring the random ideas floating around this dilettante’s head. For now I plan not to be too prescriptive about the structure, but expect lots of Fun Facts™️. I hope to continue pressing “publish” once a week — that was another yearly goal of mine — though that also means these editions will be slimmer than formerly.

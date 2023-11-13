@@ -19,38 +19,38 @@ I didn’t get much done on buttonup, my Buttondown iOS client, this week, thoug
 I’ve also _once again_ starting a writing project that will probably never go anywhere. This time I was struck by inspiration while reading about [Charlemagne’s grandchildren](https://en.wikipedia.org/wiki/Charles_the_Bald) and the [Treaty of Verdun](https://en.wikipedia.org/wiki/Treaty_of_Verdun) and thinking “this cries out for a _A Song of Ice & Fire_-ification” [^2]. So a few hours later I found myself reading about [_Orlando Furioso_](https://en.wikipedia.org/wiki/Orlando_Furioso) and [_The Song of Roland_](https://en.wikipedia.org/wiki/The_Song_of_Roland) and [Durandal](https://en.wikipedia.org/wiki/Durendal) and [Bradamante](https://en.wikipedia.org/wiki/Bradamante) and of course most importantly the creation of [Carolingian Minuscule](https://en.wikipedia.org/wiki/Carolingian_minuscule) by [Alcuin](https://en.wikipedia.org/wiki/Alcuin), and somehow mushing this together with my preexisting idea for stories based around a [dog-headed](https://en.wikipedia.org/wiki/Cynocephaly) [St Christopher](https://en.wikipedia.org/wiki/Saint_Christopher)-type character and a Zoroastrian-inspired dualistic religion… and in between all that I managed to squeeze out a full _four hundred_ words (impressive, I know). In the spirit of “working with the garage door open” (on which more below), here they are (I would not highly recommend reading it, but):
 
 > The clangor of the bells rang out loud and clear over the teeming masses of the imperial capital. The throngs of worshippers pushed their way out of the cathedral onto the street, to enjoy the day of rest and relaxation ordained by Charity Herself as a perpetual statute for mankind.
-
+>
 > At the head of the cathedral, Louis sat in prayer, waiting for the crowds to dissipate. Despite his position as crown prince, none would bother a man in prayer. When he looked up, the silence of the now-empty cathedral echoing around him, the priest was there, looking down upon him. “Heavy is the burden you must bear.”
-
+>
 > Louis opened his mouth to speak, but he had no response. He closed his mouth again. The priest smiled at him and moved closer, putting a kind hand on his shoulder. “Say nothing. I understand.”
-
+>
 > “I’m too young to rule.”
-
+>
 > “You are in your thirties. Do you know how old your father was when he became emperor?”
-
+>
 > “Don’t remind me.”
-
+>
 > “You’re right, of course. The comparison is inapt. And yet nevertheless the Virtues have decreed that it is your time to reign.”
-
+>
 > Their conversation was interrupted by footsteps echoing throughout the cathedral behind them. Louis turned to espy his father’s secretary, short head bobbing up and down, rapidly approaching them. “Guiscard, my good man. And how may we be of service?” Louis rose and gave a short bow.
-
+>
 > His new interlocutor matched him. “I dare say I shall be serving you in a matter of hours, now.” Despite his jocular tone, his face was grim.
-
+>
 > “My father, then…”
-
+>
 > “If Charity is kind, he may have another day in this mortal realm.”
-
+>
 > “And there is nothing that can be done?”
-
+>
 > “His _medicus_ looked him over and swears by Truth there is no treatment in this sublunary world. And as for prayer, well, the archbishop here can speak to its efficacy more than I. But I would warrant a miracle not long seen in this world is necessary.”
-
+>
 > “Then you’re here to summon me for the announcement of the inheritance.”
-
+>
 > “Yes.”
-
+>
 > “Then let us go.”
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/197e7da8-c7a8-456e-b05b-ddb108af28f4.jpg)
+![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/197e7da8-c7a8-456e-b05b-ddb108af28f4.jpg)
 
 [The Obelisk, Hubert Robert, 1787-88](https://www.artic.edu/artworks/57049/the-obelisk)
 

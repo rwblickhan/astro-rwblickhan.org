@@ -23,7 +23,7 @@ But with this twenty-seventh birthday — which is, after all, still young, stil
 Firstly, I read [this essay](https://thedreammachine.substack.com/p/a-new-new-year) by Jackie Luo, and in particular these lines:
 
 > i'm not twenty or twenty-one or twenty-three anymore. [...] i find that i no longer believe that nothing is irrevocable and everything is within reach, that none of the mistakes count. when you’re (almost) twenty-eight, you’ve begun to accumulate enough choices, successes and missteps, that you can start to see the chain reaction, dots forming a trajectory of your life.
-
+>
 > sometimes, looking back at an accounting of it all, i’m disappointed that it doesn’t add up to quite as much as i thought it would by now. it’s not a clean narrative.’
 
 Which is rather pessimistic. Ever the optimist, I’ve taken those thoughts in a different direction. The lack of a clean narrative is, in fact, a *life*. The accumulation of choices is, in fact, *focus*.

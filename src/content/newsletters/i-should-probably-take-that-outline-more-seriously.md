@@ -4,6 +4,8 @@ lastUpdatedDate: 2021-03-22 00:02:33.407410+00:00
 season: 4
 ---
 
+<!-- markdownlint-disable no-emphasis-as-header -->
+
 I was supposed to be writing an outline for the Next Novel™️ that I’m hoping to tackle in April, but instead I found myself bombing through *The Sympathizer* (one of the best books I’ve ever read, highly recommended) and *The Magicians* (not one of the best books I’ve ever read, but it does have its moments of poignancy) as well as making some progress on *The True History of Tea* (which is, erm, a history of tea). Oh, and I spent some time noodling around with a new idea that will never be published or actually probably even finished, for various good reasons I won’t get into here 😅
 
 So I should probably take that outline more seriously if I expect to have it ready by April, shouldn’t I!
@@ -22,7 +24,7 @@ Except now [there’s a serious proposal](https://leminhkhai.blog/imagining-sriv
 
 Anyway, this is a good reminder that, well, “history is written by those who write” (even given the slow expansion of archaeological and genetic evidence that the discipline is beginning to have access to) — and those who write are generally the upper classes in major literary cultures (… that happened to develop history as a genre) — which is, you know, a very small facet of human experience! Historians struggle mightily against this but one does wonder how much we can ever truly know about the past. Another example of this is [this r/AskHistorians post](https://www.reddit.com/r/AskHistorians/comments/lzu4el/the_surviving_sources_on_nero_largely_portray_him/) in which the answerer explains that, reading between the lines, we might be able to see that infamously-vile Roman emperor Nero was, perhaps, not so infamously vile to run-of-the-mill folks.
 
-Of course one must not become too skeptical of the historical method or else end up with crackpottery like the [phantom time hypothesis](#), which posits that that the entire Carolingian period, and Charlemagne in particular, were made up out of whole cloth (!) by Holy Roman Emperor Basil III and Pope Sylvester II just so that they could live in 1000 AD (!!). (In case you’re wondering, it’s rather easily disproven by comparing modern calculations for the dates of astronomical events like Halley’s comet and finding that they match up with ancient reports of such. Also, making up the Carolingian period would also require explaining away Tang Dynasty China and *all of Islam*.)
+Of course one must not become too skeptical of the historical method or else end up with crackpottery like the [phantom time hypothesis](https://en.wikipedia.org/wiki/Phantom_time_conspiracy_theory) which posits that that the entire Carolingian period, and Charlemagne in particular, were made up out of whole cloth (!) by Holy Roman Emperor Basil III and Pope Sylvester II just so that they could live in 1000 AD (!!). (In case you’re wondering, it’s rather easily disproven by comparing modern calculations for the dates of astronomical events like Halley’s comet and finding that they match up with ancient reports of such. Also, making up the Carolingian period would also require explaining away Tang Dynasty China and *all of Islam*.)
 
 ## Building Songs Out of Samples Is A Real Art Form And Also I Have No Idea How They Do It
 
