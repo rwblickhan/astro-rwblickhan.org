@@ -6,7 +6,7 @@ season: 3
 
 Applied Dilettantery is on vacation. Come back next week for the conclusion of “The Structure”. In the meantime, here is an old story I wrote a long time ago…
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/faca70fe-05be-4c7b-9ee5-eac798371244.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/faca70fe-05be-4c7b-9ee5-eac798371244.jpg)
 
 [Augsburger Wunderzeichenbuch, Folio 52 (Comet mit einem grosen Schwantz, 1401)](https://publicdomainreview.org/collection/flowers-of-the-sky)
 
@@ -24,7 +24,7 @@ The geologists studied the composition of the rocks and minerals, searching for 
 
 And the linguist studied the Diagram.
 
----- 
+----
 
 The linguist had only a thin spacesuit between her and the void, with a flashlight to illuminate the work of an extraterrestrial. That was unintentional, of course—but with only one linguist—indeed only one person—in this section of the Factory, it hadn't been worth lighting up yet. The rest of the catacombs were extensive, and those backing these expeditions had decided they were more valuable.
 
@@ -32,7 +32,7 @@ No amount of study could have prepared her for this experience—no matter how m
 
 Perhaps, the linguist thought, this could be her big break. And so the linguist began to study the Diagram.
 
----- 
+----
 
 It quickly became apparent that there were no other permanent structures on the moon. The geographers had come to believe there had been other, temporary structures, but the Factory was the only one intended to last.
 
@@ -40,7 +40,7 @@ But, demanded the backers, ever eager for results, what was the point of putting
 
 Neither did the linguist have answers. She quickly ascertained that most of the Diagram was pictures, with some characters in an alien alphabet perhaps providing a caption. But she could make out little of the meaning, so she continued to study the Diagram.
 
----- 
+----
 
 The leading theory, now, was that the machines were incubators of some kind.
 What, precisely, the machines were incubating was still a point for debate.
@@ -48,7 +48,7 @@ Many had decided that the Factory was no kind of factory at all, but rather a nu
 
 The linguist agreed with that theory. The Diagram clearly showed creatures growing in the equivalent of test tubes. But what, precisely, those creatures was a mystery—and mystery didn't get grant funding, only results. She needed to continue studying the Diagram.
 
----- 
+----
 
 The engineers, through great toil, had managed to find what had become known, for lack of a better term, the ''on'' switch. Of course, it wasn't a literal switch, but it was easier to explain to the backers that way.
 
@@ -57,7 +57,7 @@ Ultimately, the natural curiosity of humankind won out—the Factory would breat
 
 The linguist didn't pay much attention to the arguments either way. She didn't care. All she cared about was the Diagram, the meaning of which still just eluded her grasp. She *needed* to understand. And so the linguist continued to study the Diagram.
 
----- 
+----
 
 Most of the researchers had gathered to celebrate the Startup, as it was called. They were toasting each other and the visiting dignitaries, both present and telepresent, making many great speeches about the greatness of human ingenuity and the dignity of hard work.
 

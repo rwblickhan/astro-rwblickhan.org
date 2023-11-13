@@ -53,12 +53,11 @@ Boy, that ChatGPT sure got a lot of attention lately, didn’t it? I’m sure yo
 
 More seriously, I find a lot of discussion about ChatGPT and its LLM (large language model) friends pretty boring. A lot of it boils down to:
 
--   “Boy OpenAI sure could make a lot of money off this! Google better be scared!”
-    
--   “Oh no we’re about to be flooded with bullshit that would get a solid C- in the typical American high school.”
-    
--   “I sure hope our AI overlords are nice to us.”
-    
+- “Boy OpenAI sure could make a lot of money off this! Google better be scared!”
+
+- “Oh no we’re about to be flooded with bullshit that would get a solid C- in the typical American high school.”
+
+- “I sure hope our AI overlords are nice to us.”
 
 Like I said: boring!
 
@@ -93,14 +92,13 @@ That’s such an interesting concept! It’s easy to forget as adults but learni
 
 ## In Other Boring News
 
--   I rewrote [my landing page](https://rwblickhan.org/)! In particular, I decided to summarize the topics I’m most interested in right now, that I think I want to devote the next ~10 years (and possibly whole life?) to — the things I want to *focus* on. The fun part was thinking up three “questions” for each to give the vibe of the category instead of strictly defining them. Already I’ve found this a clarifying exercise — “oh yes, I really *do* write about that a lot” — and a generative one — “oh, these are all interlinked in ways I hadn’t noticed before”. I would highly recommend it! (In particular, I settled on the categories of “cultural evolution”, “neurodiversity”, “tools for thought”, “community building”, and “storytelling”.)
-    
--   Related to the above cleanup, I also wrote up a [tools for thought reading list](https://rwblickhan.org/misc/tools-for-thought-reading-recs/). Right now it’s basically just a bunch of blogs I happen to like, but I’d like to add more resources as I encounter them. Perhaps I’ll write a reading list for each category? 🤔
-    
--   I recently built an Obsidian plugin called [tag-search](https://github.com/rwblickhan/obsidian-tag-search). In the spirit of [“working with the garage door up”](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu), I also wrote [a post about building it](https://rwblickhan.org/technical/obsidian-plugin/)!
-    
--   Some friends and I recently attended the SF Chronicle’s Data Trivia Night at Manny’s and... [we won](https://www.sfchronicle.com/about/newsroomnews/article/data-trivia-night-17747401.php)? Although note the sassiness: “Despite coming out on top, the winning team only scored 64% of possible points.” 😊
-    
+- I rewrote [my landing page](https://rwblickhan.org/)! In particular, I decided to summarize the topics I’m most interested in right now, that I think I want to devote the next ~10 years (and possibly whole life?) to — the things I want to *focus* on. The fun part was thinking up three “questions” for each to give the vibe of the category instead of strictly defining them. Already I’ve found this a clarifying exercise — “oh yes, I really *do* write about that a lot” — and a generative one — “oh, these are all interlinked in ways I hadn’t noticed before”. I would highly recommend it! (In particular, I settled on the categories of “cultural evolution”, “neurodiversity”, “tools for thought”, “community building”, and “storytelling”.)
+
+- Related to the above cleanup, I also wrote up a [tools for thought reading list](https://rwblickhan.org/misc/tools-for-thought-reading-recs/). Right now it’s basically just a bunch of blogs I happen to like, but I’d like to add more resources as I encounter them. Perhaps I’ll write a reading list for each category? 🤔
+
+- I recently built an Obsidian plugin called [tag-search](https://github.com/rwblickhan/obsidian-tag-search). In the spirit of [“working with the garage door up”](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu), I also wrote [a post about building it](https://rwblickhan.org/technical/obsidian-plugin/)!
+
+- Some friends and I recently attended the SF Chronicle’s Data Trivia Night at Manny’s and... [we won](https://www.sfchronicle.com/about/newsroomnews/article/data-trivia-night-17747401.php)? Although note the sassiness: “Despite coming out on top, the winning team only scored 64% of possible points.” 😊
 
 ## Hey I Thought You Wrote Fiction Sometimes
 

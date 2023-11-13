@@ -6,7 +6,7 @@ season: 3
 
 Part I can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/). Part II can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/). Part III can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-iii-s3e6/). Part IV can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-iv-s3e7/).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/e82d7e76-a65f-412e-9764-dfb486f71d7c.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/e82d7e76-a65f-412e-9764-dfb486f71d7c.jpg)
 
 [Celestograph by August Strindberg](https://publicdomainreview.org/collection/august-strindberg-s-celestographs-1893-4)
 
@@ -58,11 +58,11 @@ She turned and rejoined the group, her heart racing, the spark of the divine onl
 
 After a moment, she spoke up again. “Onward?” The other members nodded, their faces showing the effort of avoiding the topic. Tamblyn walked to the front, leading them onward into the featureless hallway. Alia brought up the rear, aiming her weapon behind them every few seconds in case something should surprise them from the adjoining hallway.
 
----- 
+----
 
 “The hallway is getting narrower,” Raxton said.
 
-They stopped and flashed their flashlights all around them. Nobody could perceive a difference between the hallway ahead of them and the hallway behind, but they all felt it — the hallway felt narrower now than before, despite being just as tall. “Actually, now that I mention it, I swear the hallway was already narrower by the time that…” Raxton trailed off, noticing the stricken look on Tamblyn and Thoman’s faces. 
+They stopped and flashed their flashlights all around them. Nobody could perceive a difference between the hallway ahead of them and the hallway behind, but they all felt it — the hallway felt narrower now than before, despite being just as tall. “Actually, now that I mention it, I swear the hallway was already narrower by the time that…” Raxton trailed off, noticing the stricken look on Tamblyn and Thoman’s faces.
 
 “Perhaps we’re getting close to where the spark wants us to go,” Tamblyn said. “Let’s continue. We still have at least an hour or two before we’ll have to make camp.” What she did not mention was that, as they had walked down the hallway, she had not yet felt the need for sleep.
 

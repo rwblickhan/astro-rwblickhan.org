@@ -6,7 +6,7 @@ season: 3
 
 In case you missed it, you can find [part I here](https://buttondown.email/rwblickhan/archive/the-house-part-i-s3e1/).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/a873d3b3-abc6-4233-b22c-c38f399caa5c.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/a873d3b3-abc6-4233-b22c-c38f399caa5c.jpg)
 
 [*The Haunted House: We Both Saw a Large Pale Light*, Odilon Redon, 1896](https://www.clevelandart.org/art/1966.413.3)
 

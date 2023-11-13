@@ -24,7 +24,7 @@ and for the driver in the red pick-up truck to let us pass.
 We have so little of each other, now. So far  
 from tribe and fire. Only these brief moments of exchange.  
 What if they are the true dwelling of the holy, these  
-fleeting temples we make together when we say, “Here,    
+fleeting temples we make together when we say, “Here,
 have my seat,” “Go ahead—you first,” “I like your hat.”  
 
 *Danusha Laméris*

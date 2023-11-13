@@ -6,7 +6,7 @@ season: 3
 
 Hello all, I hope you had a wonderful Square February. I don’t have much to report, but I am thinking of slowly reintroducing short essays to the newsletter, so keep an eye out of that in the near future. In the meantime, he’s another short sketch.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/145ee99e-31d1-47b6-bfcc-2d928681e039.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/145ee99e-31d1-47b6-bfcc-2d928681e039.jpg)
 
 [“Pueblo at Sunset”, Thomas Moran, 1901](https://commons.wikimedia.org/wiki/File:Thomas_Moran_-_Pueblo_at_Sunset_(1901).jpg)
 

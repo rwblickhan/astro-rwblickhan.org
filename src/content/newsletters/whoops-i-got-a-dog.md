@@ -6,7 +6,7 @@ season: 1
 
 Short this week because, as the title implies, I got a dog.
 
-###  What I’m Reading
+### What I’m Reading
 
 Continuing with my book-a-week-for-2020 pledge, I read two books in the past two weeks, *Maoism: A Global History* and the first volume of *History of Philosophy Without Any Gaps*.
 
@@ -19,7 +19,7 @@ A few other links that I found interesting, but don’t have much to say about:
 * [How to Build a Low-tech Website?](https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html?mc_cid=30b96dc09b&mc_eid=c089b16045) (hint: it involves a server hooked up to a solar panel, so the site is inaccessible when it’s cloudy)
 * [As English spread over the subcontinent, India lost forever its rich Persianate literary heritage](https://www.spectator.co.uk/2019/12/as-english-spread-over-the-subcontinent-india-lost-forever-its-rich-persianate-literary-heritage/): It’s easy to forget that for hundreds of years, large parts of the Indian subcontinent was essentially part of the Persian sphere. On a related note, I’ve been reading [some of Encyclopaedia Iranica’s entries on Zoroastrianism](http://www.iranicaonline.org/articles/zoroastrianism-02-arab-conquest-to-modern), which for good reason focus on the (quite influential) Zoroastrian Parsee community in India.
 
-###  What I’m Watching
+### What I’m Watching
 
 🎶 Toss a coin to your Witcher/O valley of plenty, O valley of plenty/Oooo🎶
 
@@ -36,6 +36,5 @@ Thanks to [Publish](https://github.com/JohnSundell/Publish/blob/master/README.md
 ### And finally…
 
 Meet the newly-adopted Rooibos 🙂
-
 
 ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/60b0505a-216d-43cf-9cdf-34c792c7c33d.jpg)

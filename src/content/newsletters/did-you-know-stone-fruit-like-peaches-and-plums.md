@@ -8,7 +8,7 @@ season: 6
 
 I recently realized that instead of trying to actually _think_ of topics, I can just look at all the Obsidian notes I wrote down in the last month and have the topics come to me! Hooray!
 
-![“Amulet in the Form of a Seated Figure with Bovine Head”, c. 4700–2920 BC](https://buttondown.imgix.net/images/e669dbc7-e5ab-42bf-8a90-aeb86edd499b.jpg?w=960&fit=max) 
+![“Amulet in the Form of a Seated Figure with Bovine Head”, c. 4700–2920 BC](https://buttondown.imgix.net/images/e669dbc7-e5ab-42bf-8a90-aeb86edd499b.jpg?w=960&fit=max)
 [“Amulet in the Form of a Seated Figure with Bovine Head”, c. 4700–2920 BC](https://www.clevelandart.org/art/1953.628)
 
 I’m realizing now that I have enough photographs that I could just… use those instead of public domain art. But I already looked up this sick amulet, so…
@@ -34,7 +34,7 @@ On a related note, one of the most thought-provoking pieces in the nascent field
 
 Finally, you may have seen the late-breaking note, supposedly from a Google engineer, titled ["We Have No Moat, And Neither Does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither), essentially arguing that Google and OpenAI are about to have their lunches eaten by open-source LLMs. That is, perhaps, not surprising if you’ve been paying attention; in fact, [MLC LLM](https://mlc.ai/mlc-llm/) has an almost-GPT-3.5-equivalent LLM running natively on iPhones (as well as a [textbook](https://mlc.ai) about how they did it). In the near future, we may all be running “calculators for words” on every device.
 
-![“Tiger Family”, late 1800s](https://buttondown.imgix.net/images/26e41753-4910-4160-8db7-c02925a6f7a1.jpg?w=960&fit=max) 
+![“Tiger Family”, late 1800s](https://buttondown.imgix.net/images/26e41753-4910-4160-8db7-c02925a6f7a1.jpg?w=960&fit=max)
 [“Tiger Family”, late 1800s](https://www.clevelandart.org/art/1997.148)
 
 Guys this tiger is SO silly I love it.
@@ -71,4 +71,4 @@ I added a [TIL section](https://rwblickhan.org/technical/), where I’ve been tr
 
 You’ve read this far, you deserve a sleepy Rooibos.
 
-[^1]:	I perhaps would not have chosen the term “blind”, but…
+[^1]: I perhaps would not have chosen the term “blind”, but…

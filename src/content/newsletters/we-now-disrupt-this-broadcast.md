@@ -24,8 +24,8 @@ There was an NY Times piece up asking [why the Criterion Collection has so few b
 
 And I’m out! Sorry for the short newsletter—we’ll be back with the regularly scheduled *Applied Diletanttery* in two weeks time.
 
-[^1]:	Unfortunately, I have been informed that it *doesn’t* work on iPhone SE 😔
+[^1]: Unfortunately, I have been informed that it *doesn’t* work on iPhone SE 😔
 
-[^2]:	I can’t for the life of me remember where I learned about Vollkorn. I *suspect* it was one of of [Craig Mod's newsletters](https://craigmod.com).
+[^2]: I can’t for the life of me remember where I learned about Vollkorn. I *suspect* it was one of of [Craig Mod's newsletters](https://craigmod.com).
 
-[^3]:	NaSepWriMo?
+[^3]: NaSepWriMo?

@@ -40,4 +40,4 @@ I also started an evergreen list of [Small Things To Make Life Better](https://r
 
 I also rewrote my [search page](https://rwblickhan.org/search/), again. I switched to [Pagefind](https://pagefind.app), which is a recently-released fast full-text search running entirely on the client side. I like the results, but I need to mess around with the UI, especially in dark mode.
 
-[^1]:	Then again, I do accept that ChatGPT might be low-level conscious, per [If Materialism Is True, the United States Is Probably Conscious](http://faculty.ucr.edu/~eschwitz/SchwitzAbs/USAconscious.htm).
+[^1]: Then again, I do accept that ChatGPT might be low-level conscious, per [If Materialism Is True, the United States Is Probably Conscious](http://faculty.ucr.edu/~eschwitz/SchwitzAbs/USAconscious.htm).

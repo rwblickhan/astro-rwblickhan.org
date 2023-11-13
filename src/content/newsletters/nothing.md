@@ -4,7 +4,7 @@ lastUpdatedDate: 2020-03-02 07:31:39.666963+00:00
 season: 1
 ---
 
-https://www.instagram.com/p/B87vpPqgE_q/
+<https://www.instagram.com/p/B87vpPqgE_q/>
 
 I don’t have much in the way of “deep thoughts” this time (do I ever?), so this will be more of a personal update. I’ve felt extremely busy ever since getting back from New York, probably because it’s voting time (done) and tax time (in progress) and new glasses time (… not started), plus I had to take Rooibos on a two hour walk yesterday. It’s nice to see Potrero at night, although it’s also shockingly empty (I suppose that’s true of San Francisco in general—much like Vancouver, it’s a very go-to-bed-early city). Unfortunately we’ve gotten some noise complaints, so we’re going to be a bit more stern towards his “you left me and I could have *died*” barking—he’s still got a bit of separation anxiety, though it only seems to activate when we leave and return, and there’s no more barking and scratching when we’re gone.
 
@@ -42,4 +42,4 @@ A nice smooth vanilla rooibos (not the dog), which I find surprisingly difficult
 
 Also, because he’ll yell at me (again) if I don’t give a shoutout… hi, Rob! 🙂
 
-https://www.instagram.com/p/B9BMebTAAZi/
+<https://www.instagram.com/p/B9BMebTAAZi/>

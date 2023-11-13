@@ -44,7 +44,7 @@ It’s so small that the fluid in its ears doesn’t work right, so it has no se
 
 I learned about this from [The Whippet](https://thewhippet.org/170-best-thing-know-about-bones/?ref=the-whippet-newsletter#the-pumpkin-toadlet-is-terrible-at-jumping), a newsletter you should absolutely subscribe to immediately if you would like to feel joy in your life.
 
-## You Should Read _The Magic Fish_!
+## You Should Read _The Magic Fish_
 
 You should read _The Magic Fish_ by Trung Le Nguyen! Drop everything and read it! It’s a very charming coming-of-age comic about a gay Vietnamese teenager trying to come out to his parents via the medium of fairy tales! But it’s not one of those sad Ocean Vuong stories! It’s slightly bittersweet but mostly optimistic! And you get to read a bunch of fairy tales drawn with a meticulous hand and an eye of telling anachronism! In summary: you should read it!
 
@@ -58,7 +58,9 @@ You should read _The Magic Fish_ by Trung Le Nguyen! Drop everything and read it
 ![Light-up fire escape stairs along Market St](https://buttondown.imgix.net/images/0d2ee3ea-75f2-4523-92b3-24aa4cfa8ae9.jpg?w=960&fit=max)
 
 ## Today I Learned I Know Nothing
+
 I’m still writing irregular technical [TIL posts](https://rwblickhan.org/technical/) inspired by [Simon Willison](https://til.simonwillison.net) — I definitely recommend checking them out 😉 I also wrote up a [list of VS Code plugins](https://rwblickhan.org/technical/vscode-plugins/) that I’ve been using. Also, in case you missed it (and want even more links), I have reading lists for some of the major theme areas I list on my site, which I update every so often:
+
 - [Tools for Thought](https://rwblickhan.org/misc/tools-for-thought-reading-list/)
 - [Consciousness, Identity, & Neurodiversity](https://rwblickhan.org/misc/consciousness-neurodiversity-reading-list/)
 - [Culture & Technology](https://rwblickhan.org/misc/culture-reading-list/)
@@ -67,8 +69,8 @@ I’ve also been working on a personal library [a la Borges](https://whyisthisin
 
 Until next time!
 
-[^1]:	This is what I’m literally listening to right now. If you want a listening recommendation, you should listen to Janelle Monae’s new album _The Age of Pleasure_. It’s good!!! Thank God it’s good!!!
+[^1]: This is what I’m literally listening to right now. If you want a listening recommendation, you should listen to Janelle Monae’s new album _The Age of Pleasure_. It’s good!!! Thank God it’s good!!!
 
-[^2]:	I’ve finally gotten around to reading the radio scripts for the later series of _Hitchhiker’s Guide to the Galaxy_, which are a lot happier than the frankly bitter _Mostly Harmless_. They do, unfortunately, cut the long Douglas Adams rant about people with the name “Russell.”
+[^2]: I’ve finally gotten around to reading the radio scripts for the later series of _Hitchhiker’s Guide to the Galaxy_, which are a lot happier than the frankly bitter _Mostly Harmless_. They do, unfortunately, cut the long Douglas Adams rant about people with the name “Russell.”
 
-[^3]:	Despite the insistence of [_Resilient Web Design_](https://resilientwebdesign.com) that the web should properly be _cross_-platform.
+[^3]: Despite the insistence of [_Resilient Web Design_](https://resilientwebdesign.com) that the web should properly be _cross_-platform.

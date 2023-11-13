@@ -6,7 +6,7 @@ season: 3
 
 Part I can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/). Part II can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/). Part III can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-iii-s3e6/). Part IV can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-iv-s3e7/). Part V can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-v-s3e8/). Part VI can be found below. Part VII can be found next week.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/beea73b3-4626-4208-93ab-96c416e529ed.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/beea73b3-4626-4208-93ab-96c416e529ed.jpg)
 
 [Celestograph by August Strindberg](https://publicdomainreview.org/collection/august-strindberg-s-celestographs-1893-4)
 
@@ -38,7 +38,7 @@ As they started down the hallway, Tamblyn hung back with Raxton. “What else di
 
 Raxton shook his head. “Nothing else. It doesn’t matter.” He marched off to catch up with the others, leaving Tamblyn there to think.
 
----- 
+----
 
 The hallways continued as they had before reaching the Farm, the gloom settling heavily on their souls. They walked for a few hours, though they could tell only by the ticking of the watch on Tamblyn’s wrist, as it felt much longer. They had long since stopped talking, but now Raxton and Father Pedra were talking quietly, barely audible even to their comrades standing close to them.
 

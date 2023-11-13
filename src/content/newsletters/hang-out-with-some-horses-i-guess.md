@@ -6,7 +6,7 @@ season: 4
 
 I don’t really have much to talk about this week so this is going to be a short issue mostly focused on links that caught my attention, sorry!
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/48338d22-d326-4641-afa0-6be344d8232c.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/48338d22-d326-4641-afa0-6be344d8232c.jpg)
 [“Dragon in the clouds”,  1832, Totoya Hokkei](https://www.artic.edu/artworks/36318/dragon-in-the-clouds)
 
 ## Neat Linguistic Theory of the Week
@@ -29,7 +29,7 @@ I don’t think I’ve ever seen a New York Times article with as much baffled i
 
 ## And I Thought These Newsletters Had Bad Titles
 
-Here’s a Wikipedia article about a court case titled [*United States vs. One Package of Japanese Pessaries](https://en.wikipedia.org/wiki/United_States_v._One_Package_of_Japanese_Pessaries) (in case you didn’t know, because I didn’t, a “pessary” is a form of diaphragm for birth control). Amusing title aside, the background of the case is somewhat interesting — a doctor at one of Margaret Sanger’s (mother of birth control/eugenicist) clinics ordered pessaries from Japan in 1936, which were then confiscated under the [Comstock Act](https://en.wikipedia.org/wiki/Comstock_laws) (which apparently criminalized using the USPS to send contraceptives, sex toys, or letters with _any_ sexual content??).
+Here’s a Wikipedia article about a court case titled [*United States vs. One Package of Japanese Pessaries](https://en.wikipedia.org/wiki/United_States_v._One_Package_of_Japanese_Pessaries) (in case you didn’t know, because I didn’t, a “pessary” is a form of diaphragm for birth control). Amusing title aside, the background of the case is somewhat interesting — a doctor at one of Margaret Sanger’s (mother of birth control/eugenicist) clinics ordered pessaries from Japan in 1936, which were then confiscated under the [Comstock Act](https://en.wikipedia.org/wiki/Comstock_laws) (which apparently criminalized using the USPS to send contraceptives, sex toys, or letters with *any* sexual content??).
 
 ## What’s New, Rooby-Doo?
 

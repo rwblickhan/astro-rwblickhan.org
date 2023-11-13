@@ -37,7 +37,7 @@ How I seek to—“
 
 The child’s parents took the poem away. But it was too late—the seed had been planted, a yearning had blossomed.
 
-The man placed his hands on the hexagon. He knew what the consequences would be. The poem was missing a second stanza. 
+The man placed his hands on the hexagon. He knew what the consequences would be. The poem was missing a second stanza.
 
 “Hexagon, O hexagon.  
 You who cause all men to flee.  

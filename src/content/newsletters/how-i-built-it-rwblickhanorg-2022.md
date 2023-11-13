@@ -78,10 +78,10 @@ Running `publish generate` runs this file as a script. All this script does is c
 
 `publish()` takes a parameter that defines the steps in the publishing pipeline. Most of these are pretty self-explanatory, but a few are interesting:
 
-* `. installPlugin(.pygments())` installs the [Pygments syntax highlighter plugin](https://github.com/Ze0nC/SwiftPygmentsPublishPlugin). That applies syntax coloring to code blocks after generating HTML.
-* `.generateHTML(withTheme: .rwblickhan, indentation: nil)` generates the HTML from the templates (see HTML Templates below).
-* `.step(named: "Apply Tailwind")` is a custom command I wrote. After generating the HTML in the `Output/` folder, this step calls the Tailwind CSS CLI tool to produce the final CSS that will be sent to clients.
-* `.unwrap(.s3("rwblickhan.org"), PublishingStep.deploy)` uses [another plugin](https://github.com/JohnBehnke/S3PublishDeploy) to publish the contents of the `Output/` folder to an S3 bucket (see Deployment below). This is only run with `publish deploy`.
+- `. installPlugin(.pygments())` installs the [Pygments syntax highlighter plugin](https://github.com/Ze0nC/SwiftPygmentsPublishPlugin). That applies syntax coloring to code blocks after generating HTML.
+- `.generateHTML(withTheme: .rwblickhan, indentation: nil)` generates the HTML from the templates (see HTML Templates below).
+- `.step(named: "Apply Tailwind")` is a custom command I wrote. After generating the HTML in the `Output/` folder, this step calls the Tailwind CSS CLI tool to produce the final CSS that will be sent to clients.
+- `.unwrap(.s3("rwblickhan.org"), PublishingStep.deploy)` uses [another plugin](https://github.com/JohnBehnke/S3PublishDeploy) to publish the contents of the `Output/` folder to an S3 bucket (see Deployment below). This is only run with `publish deploy`.
 
 ## Theme
 
@@ -99,31 +99,31 @@ private struct RWBlickhanOrgHTMLFactory<Site: Website>: HTMLFactory {
     }
 
     func makeSectionHTML(for section: Section<Site>, context: PublishingContext<Site>) throws -> HTML {
-		...
-	}
+  ...
+ }
 
-	func makeItemHTML(for item: Item<Site>, context: PublishingContext<Site>) throws -> HTML {
-		...
-	}
+ func makeItemHTML(for item: Item<Site>, context: PublishingContext<Site>) throws -> HTML {
+  ...
+ }
 
-	func makePageHTML(for page: Page, context: PublishingContext<Site>) throws -> HTML {
-		...
-	}
+ func makePageHTML(for page: Page, context: PublishingContext<Site>) throws -> HTML {
+  ...
+ }
 ```
 
 Plot exposes a core `HTML` type, representing a block of templated HTML. Publish uses these in an `HTMLFactory` to produce a template for each type of page. For instance:
 
 ```swift
 func makeIndexHTML(for index: Index, context: PublishingContext<Site>) throws -> HTML {
-	HTML(
-		.lang(context.site.language),
-		.head(for: index, on: context.site, stylesheetPaths: [
-			"/theme/styles.css",
-			"/theme/pygments.css",
-			"/theme/Vollkorn/vollkorn.css",
-		]),
-		.body(
-			.header(for: context.site),
+ HTML(
+  .lang(context.site.language),
+  .head(for: index, on: context.site, stylesheetPaths: [
+   "/theme/styles.css",
+   "/theme/pygments.css",
+   "/theme/Vollkorn/vollkorn.css",
+  ]),
+  .body(
+   .header(for: context.site),
             .main(
                 .div(
                     makeStandardBodyClass(),
@@ -335,6 +335,6 @@ This is based on the Swift Github Action template. Some notable aspects:
 - I have a slightly modified fork of Publish, so that has to be checked out from Github, built, and installed with `make install`.
 - Finally, we run `publish generate && publish deploy` to generate the HTML and deploy it to S3.[^3] We have to use a few API keys for Cloudflare and AWS, which I store as environment variables on Github Actions.
 
-[1]:	https://tailwindcss.com/docs/typography-plugin
+[1]: https://tailwindcss.com/docs/typography-plugin
 [^2]:   Why only a top border? Line breaks are typically only one pt tall, so it doesn't matter whether I have a top or bottom border!
 [^3]:   Arguably, I should ask Cloudflare to empty its CDN caches, but I haven't bothered building that out yet.

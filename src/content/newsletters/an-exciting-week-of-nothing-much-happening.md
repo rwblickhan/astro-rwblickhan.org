@@ -6,8 +6,8 @@ season: 1
 
 This week I messed things up. A bit, not too much. But I guess that’s life, right? We pick ourselves up and dust ourselves off and get back to work.
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/3738f4a6-d578-4fa6-bdc8-520db4a11cd3.jpg) 
- 
+![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/3738f4a6-d578-4fa6-bdc8-520db4a11cd3.jpg)
+
 ### What I’m Watching
 
 Still getting through *Neon Genesis Evangelion*. Still brilliant.
@@ -70,10 +70,10 @@ Progress™️ is being made on *Dreams of an Alien God*, which is now up to abo
 
 > And hope my sleep is interrupted by no dreams.
 
-[^1]:	Writing takes a lot of mental energy, you know—I mean, it’s doubtful anybody else will ever read this, it’s my personal diary, and I know how mentally taxing writing is, but if you’re reading this and you didn’t know this, now you do.
+[^1]: Writing takes a lot of mental energy, you know—I mean, it’s doubtful anybody else will ever read this, it’s my personal diary, and I know how mentally taxing writing is, but if you’re reading this and you didn’t know this, now you do.
 
-[^2]:	Note to self: figure out if this metaphor makes sense. I might want to use it in the biography.
+[^2]: Note to self: figure out if this metaphor makes sense. I might want to use it in the biography.
 
-[^3]:	So much for the ADA…
+[^3]: So much for the ADA…
 
-[^4]:	In the vicinity of a hotel? Sure. While staying at a hotel? Sure. But not *because* of the hotel.
+[^4]: In the vicinity of a hotel? Sure. While staying at a hotel? Sure. But not *because* of the hotel.

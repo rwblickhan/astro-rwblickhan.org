@@ -6,7 +6,7 @@ season: 3
 
 Part I can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/). Part II can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/). Part III can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-iii-s3e6/).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/fd014aad-a8b6-4681-b8f5-dae721787226.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/fd014aad-a8b6-4681-b8f5-dae721787226.jpg)
 
 [Celestograph by August Strindberg](https://publicdomainreview.org/collection/august-strindberg-s-celestographs-1893-4)
 
@@ -30,7 +30,7 @@ Razin, with the help of Thoman, picked her up and propped her up. Razin looked t
 
 Tamblyn walked over to join them as Thoman rejoined Razin. They nodded at her. Father Pedra was clutching the spark of the divine, as if it might suddenly start spewing out secrets about this place. For all Tamblyn knew about them, it actually might.
 
-They heard a loud moan. Raxton had gotten the cockpit open — Tamblyn would later find out her had to override an automatic safety disengage, whatever that meant — and had smashed open the viewport from the inside, scattering glass around the floor of the hallway, where they seemed to melt away. He pulled out a small knife and cut away the straps binding Alia to the cockpit, then Razin and Thoman clambered in and carried her out. They set her down gently atop another crate, before heading back into the ship to save more of their supplies. 
+They heard a loud moan. Raxton had gotten the cockpit open — Tamblyn would later find out her had to override an automatic safety disengage, whatever that meant — and had smashed open the viewport from the inside, scattering glass around the floor of the hallway, where they seemed to melt away. He pulled out a small knife and cut away the straps binding Alia to the cockpit, then Razin and Thoman clambered in and carried her out. They set her down gently atop another crate, before heading back into the ship to save more of their supplies.
 
 Tamblyn ran to Alia’s side, checking her pulse. She was cold and clammy to the touch. Thoman wasn’t kidding about the air here. After a few seconds, Alia began to shiver, finally bolting upright.
 
@@ -56,7 +56,7 @@ Tamblyn marched over to help Thoman, Razin, and Raxton pull out the rest of the 
 
 “Can we still get a message out, Raxton?”
 
-Raxton shook his head. “It’s best to consider the lander a total loss. Radio’s dead, even if it could penetrate this hull.” 
+Raxton shook his head. “It’s best to consider the lander a total loss. Radio’s dead, even if it could penetrate this hull.”
 
 Tamblyn nodded. “We’ll just have to press onward and hope to find another way off, then.” She started biting her fingernail, an anxious tic she had had since childhood, and suddenly stopped. She still wasn’t wearing her helmet.
 
@@ -66,6 +66,6 @@ Alia, apparently no worse for the wear, appeared beside her. “At least some of
 
 The spark of the divine carried by Father Pedra lit up in the gloom and quietly started prognosticating. There were no doorways nearby, only the long, dark hallway, so it was merely a choice of whether to go one way or the other. The spark of the divine told them to keep the apparent outer hull to their right.
 
-They walked slowly at first, on account of the priest’s leg. After a few steps, however, he began to visibly improve, and after no more than a dozen feet he was walking normally again. Razin, Liz, and Thoman pulled the few intact crates along with them. Every so often, Razin would insist they stop so he could take another measurement with his monitor, but the air was remarkably consistent each time, as if controlled down to the molecule. Liz kept an eye out for any markings or indications, but the hallway was completely smooth, and she soon started chatting quietly, if not a little anxiously, with Thoman. Alia continually swept around her field of view with her rifle, but there was little to aim it at. 
+They walked slowly at first, on account of the priest’s leg. After a few steps, however, he began to visibly improve, and after no more than a dozen feet he was walking normally again. Razin, Liz, and Thoman pulled the few intact crates along with them. Every so often, Razin would insist they stop so he could take another measurement with his monitor, but the air was remarkably consistent each time, as if controlled down to the molecule. Liz kept an eye out for any markings or indications, but the hallway was completely smooth, and she soon started chatting quietly, if not a little anxiously, with Thoman. Alia continually swept around her field of view with her rifle, but there was little to aim it at.
 
 After a few hundred feet, Tamblyn glanced behind them. She thought she could see the ship melting, slowly, into the floor, just like the shards of glass from the cockpit had, the fire guttering out like the last embers of a hearth.

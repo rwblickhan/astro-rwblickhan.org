@@ -6,7 +6,7 @@ season: 6
 
 New experiment: to keep this newsletter fairly lightweight — easy to write, easy to read — I’m going to try capping it at about 500 words. So here goes!
 
-![The facade of a new building under construction in Mission Bay](https://buttondown.imgix.net/images/1c350300-7712-4bcc-b94b-97a0632e7e44.jpg?w=960&fit=max) 
+![The facade of a new building under construction in Mission Bay](https://buttondown.imgix.net/images/1c350300-7712-4bcc-b94b-97a0632e7e44.jpg?w=960&fit=max)
 
 ## Safari is the Lightest Browser
 
@@ -22,7 +22,7 @@ But just listing design decisions feels slightly off here. There’s an overall 
 
 ## Fahrenheit is Good, Actually
 
-This is perhaps the pettiest hill I am willing to die on, but I believe Fahrenheit is _good, actually_, when used for outdoor temperature. 
+This is perhaps the pettiest hill I am willing to die on, but I believe Fahrenheit is _good, actually_, when used for outdoor temperature.
 
 Once the Canadians in the audience recover from their shock, allow me to explain. Fahrenheit works well to describe outdoor temperature in a temperate region (say, the American Midwest). In that situation, Fahrenheit will range between about 0°F and 100°F throughout the year; that’s apparently a major reason Fahrenheit was adopted the US in the first place. Also, in that application, the finer grain of Fahrenheit degrees is useful, because you can make general statements like “high 60s” in a meaningful way, whereas in Celsius you have to be fairly precise; 15°C is very much not the same perceived temperature as 17°C.
 

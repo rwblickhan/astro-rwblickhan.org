@@ -8,7 +8,7 @@ Short missive tonight because it is my self-appointed NAprilWriMo. The count sta
 
 In other personal news, I managed to get shot #1 this week, so short #2 is booked for three weeks. It feels weird that things are going back to “normal” (what is normal, anyway?) but it’s also nice to be able to plan trips again.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/50541e60-c6a9-4b6f-909a-29c6013954f1.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/50541e60-c6a9-4b6f-909a-29c6013954f1.jpg)
 [”Guanyin (Avalokitesvara)”, Liao dynasty (907–1125), 11th century](https://www.artic.edu/artworks/28128/guanyin-avalokitesvara)
 
 ## Links

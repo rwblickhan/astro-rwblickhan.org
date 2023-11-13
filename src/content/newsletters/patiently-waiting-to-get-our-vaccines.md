@@ -8,7 +8,7 @@ I finally got around to finishing that outline! So, now I just need to write lik
 
 In good news, more than half the city of San Francisco has been vaccinated against Covid-19, and general availability (or close enough, anyway) opens on Thursday. So hopefully by the next newsletter I’ll have my first vaccine.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/4a1e06a7-c616-4eb3-b077-ce0c87d479b5.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/4a1e06a7-c616-4eb3-b077-ce0c87d479b5.jpg)
 ["Guanyin (Avalokiteshvara)”, Yuan/early Ming dynasty, late 14th century](https://www.artic.edu/artworks/28158/guanyin-avalokiteshvara)
 
 ## In Which I Realize It’s Not Me, It’s The Translation
@@ -22,8 +22,9 @@ Anyway, I guess consider this a PSA in case you’re hoping to read any Russian 
 ## I’d Still Really Like That “History of the World via Chinese Diaspora” Book Please
 
 In perhaps a bit of a follow-up to [last week’s chat about digital humanities potentially unmasking Elena Ferrante](https://buttondown.email/rwblickhan/archive/picking-and-choosing-elements-of-western-culture/), here’s a neat (if somewhat simplistic) [analysis of Chinese naming conventions](https://kontinentalist.com/stories/a-cultural-history-of-han-chinese-names-for-girls-and-boys-in-china) over the past century. Some of their conclusions seem unwarranted — does the higher occurrence of male names with the 家 “home” radical really speak to a desire for more family-oriented men? — but two results really stick out to my mind:
+
 1. In the corpus studied, 军 (jun1, “army”) was one of the most common characters in names through the ‘70s and ‘80s, particulary in 建军 (jian4 jun1, “build up the army”), before all-but-disappearing starting in the ‘90s.
-2. Single-character given names started to spike in the ‘70s and ‘80s, perhaps due to the one-child policy, before cratering again in the ‘90s, perhaps because many names had become _too_ common.
+2. Single-character given names started to spike in the ‘70s and ‘80s, perhaps due to the one-child policy, before cratering again in the ‘90s, perhaps because many names had become *too* common.
 
 In a very different usage of, well, “digital” “humanities” (but not strictly in the disciplinary sense), an entrepreneur is building what basically sounds like [Ancestry.com-but-for-Chinese-genealogy-books](https://restofworld.org/2021/how-technology-is-reuniting-chinese-indonesians-with-their-ancestral-names/), with the hope of reconnecting Chinese-Indonesians to their roots after decades of being discriminated against by Suharto’s New Order.
 

@@ -4,7 +4,7 @@ lastUpdatedDate: 2020-12-28 04:42:37.885794+00:00
 season: 3
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/12825200-5f51-4414-8ed0-c5363a75559d.jpg) 
+![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/12825200-5f51-4414-8ed0-c5363a75559d.jpg)
 
 [Celestograph by August Strindberg](https://publicdomainreview.org/collection/august-strindberg-s-celestographs-1893-4)
 

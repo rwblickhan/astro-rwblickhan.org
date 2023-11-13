@@ -8,9 +8,9 @@ You ever had one of those weeks that was just… *rough*. Not even bad, mind, bu
 
 In any case, I think I can be apologized if this is a somewhat short and lukewarm—maybe even slightly incoherent—edition—I guess it was lucky I relaunched last issue instead of this one. In any case, life goes on and I count myself lucky for all the smooth pearls of life I *do* enjoy, roughness notwithstanding.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/5bb2e3ef-6ec9-494b-9526-cdab3be5f1bf.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/5bb2e3ef-6ec9-494b-9526-cdab3be5f1bf.jpg)
 
-[“Spring Morning in the Han Palace”, Qiu Ying, 1530-1550 ](https://commons.wikimedia.org/wiki/File:Ch%27iu_Ying_001.jpg)
+[“Spring Morning in the Han Palace”, Qiu Ying, 1530-1550](https://commons.wikimedia.org/wiki/File:Ch%27iu_Ying_001.jpg)
 
 ## “Dreams of revival fall to earth/In shreds with the peach blossom fan.” *The Peach Blossom Fan* and Nostalgia
 
@@ -22,9 +22,9 @@ The Ming-Qing dynastic transition is a long-term interest for me.  The reason I 
 
 It’s hard not to apply those periods to the world today—great civilizations bent under their own corruption, a peaceful yet fragile international system under stress from a rapidly-changing world, climactic shifts we can’t see changing the very air we breathe[^3].
 
-But, of course, we must remember that neither the fall of the Ming Dynasty nor the late Bronze Age collapse was the end of the world—the Qing Dynasty would go on to be arguably the most powerful Chinese dynasty, and the late Bronze Age collapse would usher in the early Iron Age and the works of Homer and the ancient Israelites that are still a foundation of Western culture today. Humans are highly adaptable—that’s how we spread across the world, after all—and while dark days may be ahead, the sun always rises again n a new day. Or, as Dr Manhattan puts it in the poignant finale of *Watchmen*, “‘In the end’? _Nothing_ ends, Adrian. Nothing _ever_ ends.”
+But, of course, we must remember that neither the fall of the Ming Dynasty nor the late Bronze Age collapse was the end of the world—the Qing Dynasty would go on to be arguably the most powerful Chinese dynasty, and the late Bronze Age collapse would usher in the early Iron Age and the works of Homer and the ancient Israelites that are still a foundation of Western culture today. Humans are highly adaptable—that’s how we spread across the world, after all—and while dark days may be ahead, the sun always rises again n a new day. Or, as Dr Manhattan puts it in the poignant finale of *Watchmen*, “‘In the end’? *Nothing* ends, Adrian. Nothing *ever* ends.”
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/4d1b7a70-4736-43d9-8932-2221baf4e7e5.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/4d1b7a70-4736-43d9-8932-2221baf4e7e5.jpg)
 
 [Yangzhou Massacre, Late Qing (pre-1911)](https://en.wikipedia.org/wiki/File:Yangzhou_massacre.jpg)
 
@@ -40,7 +40,7 @@ Then maybe it has something to do with experiencing the roots of storytelling. N
 
 I think the best answer might be revealed by the essay above—that the value of reading “the classics” is the value of all the humanities—namely, discovering that all people are different, but also basically the same. The *Odyssey* might be a 2700-year-old tale of [*xenia*](https://en.wikipedia.org/wiki/Xenia_(Greek))-gone-wrong, a concept we don’t even have an English term for, but who hasn’t felt that bone weary feeling of having been gone from home too long? That is, after all, where we get the word "nostalgia”—from [nostos](https://en.wikipedia.org/wiki/Nostos), the long-awaited homecoming—but then maybe, like the heroes of *The Peach Blossom Fan*, it is never truly possible to go back—we inevitably find "suitors" waiting for us and a changed home.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/43170360-9d42-4439-9d3f-d257db62b8e3.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/43170360-9d42-4439-9d3f-d257db62b8e3.jpg)
 
 [Li Xiangjun, Cui He, 1817](https://commons.wikimedia.org/wiki/File:%E6%B8%85_%E6%9D%8E%E9%A6%99%E5%90%9B%E5%B0%8F%E5%BD%B1_%E8%BB%B8-Portrait_of_Li_Xiangjun_MET_DP146994.jpg)
 
@@ -56,24 +56,24 @@ Solar Sands, a video essayist [I’ve mentioned before](https://buttondown.email
 
 And one last note: doesn’t the long fall of the Ming Dynasty just call out for *Game of Thrones*-or-*Three Kingdoms*-ification?
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/dd5e504a-48e9-4898-8464-d32cab732f34.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/dd5e504a-48e9-4898-8464-d32cab732f34.jpg)
 
 [Zheng Chenggong (Koxinga), Huang Zi, Mid-17th Century](https://en.wikipedia.org/wiki/File:Portrait_of_Zheng_Chenggong.jpg)
 
 And I think that’s enough for tonight! Good night!
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/58dca115-31a2-4558-8798-6337a08fc05c.png) 
- 
-[^1]:	Make sure to check out the bottom of the newsletter for a Rooibos update. Up there ^
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/58dca115-31a2-4558-8798-6337a08fc05c.png)
 
-[^2]:	Who, fun fact, was a direct descendent of Confucius.
+[^1]: Make sure to check out the bottom of the newsletter for a Rooibos update. Up there ^
 
-[^3]:	Climactic shifts were likely involved in both the collapse of the Ming Dynasty and the late Bronze Age collapse.
+[^2]: Who, fun fact, was a direct descendent of Confucius.
 
-[^4]:	For more on how seemingly irrational behaviors can actually be quite rational, see Peter Leeson’s *WTF?! An Economic Tour of the Weird*, which is an enjoyable-albeit-mildly-annoying introduction to economic perspectives on topics like divination, medieval trial by ordeal, and Early Modern English “wife-selling”.
+[^3]: Climactic shifts were likely involved in both the collapse of the Ming Dynasty and the late Bronze Age collapse.
 
-[^5]:	Seriously, get yourself somebody that touches you the man this man touches his fedora.
+[^4]: For more on how seemingly irrational behaviors can actually be quite rational, see Peter Leeson’s *WTF?! An Economic Tour of the Weird*, which is an enjoyable-albeit-mildly-annoying introduction to economic perspectives on topics like divination, medieval trial by ordeal, and Early Modern English “wife-selling”.
 
-[^6]:	Well, besides a metaphorical one.
+[^5]: Seriously, get yourself somebody that touches you the man this man touches his fedora.
 
-[^7]:	In any case it’s unclear, the comparison to *The Shining* (which is in my personal top five) means I really, *really* liked it.
+[^6]: Well, besides a metaphorical one.
+
+[^7]: In any case it’s unclear, the comparison to *The Shining* (which is in my personal top five) means I really, *really* liked it.

@@ -4,7 +4,7 @@ lastUpdatedDate: 2019-10-28 04:31:06.512579+00:00
 season: 1
 ---
 
-https://www.instagram.com/p/B36Oev4gPlX/
+<https://www.instagram.com/p/B36Oev4gPlX/>
 
 Busy week—guests over and work ramping up—so not much to say by way of introduction. But, again, I’m featuring Sherry’s Inktober artwork [from Instagram](https://www.instagram.com/frostyshadows/).
 
@@ -28,9 +28,9 @@ I should reread _The Westing Game_.
 
 ### What I’m Listening To
 
-I thought I’d be spending the past two weeks listening to early-90s Chinese alt rock, which did partly happen, but then my attention was dragged away by The Caretaker’s [_An empty bliss beyond this world_](https://thecaretaker.bandcamp.com/album/an-empty-bliss-beyond-this-world), an album which I’m convinced is a.) cursed and b.) is haunting me, specifically. It’s basically a combination of the haunted ballroom from *The Shining* and playing music for Alzheimer’s patients to help them remember. Despite basically being snippets of old-timey big band music put through a couple filters Instagram-style, it’s probably one of the spookiest/best albums I’ve ever heard.
+I thought I’d be spending the past two weeks listening to early-90s Chinese alt rock, which did partly happen, but then my attention was dragged away by The Caretaker’s [_An empty bliss beyond this world_](https://thecaretaker.bandcamp.com/album/an-empty-bliss-beyond-this-world), an album which I’m convinced is a.) cursed and b.) is haunting me, specifically. It’s basically a combination of the haunted ballroom from _The Shining_ and playing music for Alzheimer’s patients to help them remember. Despite basically being snippets of old-timey big band music put through a couple filters Instagram-style, it’s probably one of the spookiest/best albums I’ve ever heard.
 
-I also *finally* got around to William Basinski’s [_The Disintegration Loops_](https://en.wikipedia.org/wiki/The_Disintegration_Loops), which is of course one of the best ambient albums of all time, no support for that statement needed.
+I also _finally_ got around to William Basinski’s [_The Disintegration Loops_](https://en.wikipedia.org/wiki/The_Disintegration_Loops), which is of course one of the best ambient albums of all time, no support for that statement needed.
 
 I tried to listen to the New York Times’ _1619_ companion podcast, of which I’ve heard much high praise, but, maybe because I went to a particularly progressive high school, I don’t find it particularly new or interesting. Like, yes, of course the history of America is in large part a history of slavery and its aftermath! I don’t mean to dismiss it entirely out of hand—obviously _some_ people need to hear it —but I just don’t find it adds all that much to the conversation for those who already know a bit about American history. On the other hand, _You Must Remember This_ (which, you might remember, had a season on Charles Manson that I raved about all summer) is now doing a season on Disney’s “long lost” 1946 film _Song of the South_, and I found the first episode to already be a much more precise analysis of the influence of slavery on American media, even a century removed! Basically, _You Must Remember This_ is great and you should listen.
 
@@ -40,4 +40,4 @@ We bought a digital piano—a [Yamaha P71](https://www.amazon.com/gp/product/B07
 
 I’m still working on _Beautiful Racket_ and _100 Days of SwiftUI_ (though I haven’t exactly been keeping up with the latter), though I took a break to check out _Beautiful Racket_ author Matthew Butterick’s other book, [_Butterick’s Practical Typography_](https://practicaltypography.com), which was nice, though it’s a little too “practical” for my tastes.
 
-https://www.instagram.com/p/B3lGv2ogu_z/
+<https://www.instagram.com/p/B3lGv2ogu_z/>

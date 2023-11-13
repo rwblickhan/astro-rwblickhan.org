@@ -4,7 +4,7 @@ lastUpdatedDate: 2019-10-14 04:50:21.569683+00:00
 season: 1
 ---
 
-https://www.instagram.com/p/B3Y191vgMnq/
+<https://www.instagram.com/p/B3Y191vgMnq/>
 
 I spent most of this weekend incapacitated by one of the worst migraines of my life. Curiously, it wasn’t preceded by an aura—a short-lived visual impairment that, in my case, usually occurs as blurring at the center of my vision (which, annoyingly, prevents me from reading for an hour or so) and is telltale sign of coming migraines. But it did feel like I had a knife sawing back and forth through my right eye—curiously, according to Wikipedia, most migraines are strictly on one side or the other—for a bit more than 24 full hours—it usually lasts no more than two or three hours, or about the length of a long nap—and it’s still a bit sore even now. Anyway, that’s my excuse if the content this week is a bit iffy 🙂
 
@@ -40,4 +40,4 @@ I’ve been working through [_Beautiful Racket_](https://beautifulracket.com) by
 
 I’ve also been following along with Paul Hudson’s [_100 Days of SwiftUI_](https://www.hackingwithswift.com/100/swiftui). Although not really aimed at professional iOS developers (but, really, _am_ I a professional iOS developer?), it’s still been a nice course so far—I see why his earlier [_100 Days of Swift_](https://www.hackingwithswift.com/100) is considered a de facto standard.
 
-https://www.instagram.com/p/B3WJPg3AmqX/
+<https://www.instagram.com/p/B3WJPg3AmqX/>

@@ -6,7 +6,7 @@ season: 5
 
 Hello friendos!
 
-![6.jpg](https://buttondown-attachments.s3.amazonaws.com/images/a21fd208-26a8-4c97-bf27-45f5c9818572.jpg) 
+![6.jpg](https://buttondown-attachments.s3.amazonaws.com/images/a21fd208-26a8-4c97-bf27-45f5c9818572.jpg)
 
 ## General Site Updates
 

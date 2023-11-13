@@ -48,12 +48,12 @@ Alternatively: maybe we’re looking for the revival of forums? That’s essenti
 
 In Robin Sloan’s newsletter, he talks about Arc from the Browser Company, a new Chromium-based browser that reimagines what web browsing could be in the 2020s. It’s pretty neat!
 
--   There’s a distinction between pinned and unpinned tabs, with the latter automatically closed after 12 hours. Tabs can also be favorited, which act almost like an app launcher or dock.
--   A la Safari’s tab groups, Arc encourages opening “spaces” for different contexts, like a space for all work-related tabs.
--   Arc treats web apps as first-class citizens. It even has a few built-in apps, including a Library to view downloads and screenshots, Notes, and Easel for Pinboard-style pinning. You can also easily arrange sites into split views.
--   Links in external apps open in a mini-browser, from whence the link can be directed to any space.
--   Cmd+T doesn’t just open a new tab but acts more like a [Cmd+K bar](https://maggieappleton.com/command-bar), where you can control the whole app from the keyboard.
--   Plus, since it’s built on Chromium, it has access to the full Chrome app store.
+- There’s a distinction between pinned and unpinned tabs, with the latter automatically closed after 12 hours. Tabs can also be favorited, which act almost like an app launcher or dock.
+- A la Safari’s tab groups, Arc encourages opening “spaces” for different contexts, like a space for all work-related tabs.
+- Arc treats web apps as first-class citizens. It even has a few built-in apps, including a Library to view downloads and screenshots, Notes, and Easel for Pinboard-style pinning. You can also easily arrange sites into split views.
+- Links in external apps open in a mini-browser, from whence the link can be directed to any space.
+- Cmd+T doesn’t just open a new tab but acts more like a [Cmd+K bar](https://maggieappleton.com/command-bar), where you can control the whole app from the keyboard.
+- Plus, since it’s built on Chromium, it has access to the full Chrome app store.
 
 But! I don’t think Arc is for me.
 
@@ -101,6 +101,6 @@ Libraries are, alongside public transit, one of the great triumphs of the public
 
 Inspired by [my pal Yuan](https://yzhang0.github.io/food.html), I wrote up a few [restaurant recommendations](https://rwblickhan.org/misc/restaurantrecs/) for San Francisco and Vancouver. I’ll add more over time as I think of them!
 
-## Next Time...
+## Next Time
 
 So far this year I’ve read 71 books and watched 52 movies. Next newsletter I reveal my top 10 books and top 5 movies 👀

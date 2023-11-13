@@ -14,15 +14,15 @@ In particular, perhaps with our C-like languages we’re stuck in the equivalent
 
 Well, that was a short missive, but you’ve made it this far, so he’s your obligatory photo of Rooibos:
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c24164d7-327d-4cfc-b2d4-abc79b095c8f.png) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c24164d7-327d-4cfc-b2d4-abc79b095c8f.png)
 
 Heck, have two:
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/49ae2c2b-7613-455e-9fa2-af382b6ab345.png) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/49ae2c2b-7613-455e-9fa2-af382b6ab345.png)
 
 Now, back to work!
 
-[^1]:	Well, we technically have unlimited PTO, so I suppose it doesn’t cost the company anything to give us an extra holiday 🤔
+[^1]: Well, we technically have unlimited PTO, so I suppose it doesn’t cost the company anything to give us an extra holiday 🤔
 
 [^2]: Whether the original plans were themselves responsible is up for debate 🙂
 

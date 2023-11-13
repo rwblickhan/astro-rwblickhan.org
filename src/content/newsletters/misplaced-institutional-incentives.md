@@ -12,7 +12,7 @@ So, what will this newsletter look like, for the next season (read: year)? Inste
 
 I’m still experimenting with the format, so expect this to change. I’ve recently started a Zettelkasten[^3], so I might have a “random note” section at some point, or add a Q&A section if there’s any questions, or include things I’ve recently worked on. In the meantime, if you have any questions or comments, please do hit reply on this email 🙂 So, without further ado…
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/71f8995f-35bb-4efe-b80c-9ea5021acbcf.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/71f8995f-35bb-4efe-b80c-9ea5021acbcf.jpg)
 
 Of course, I’ll also continue to include themed public domain art in between sections. This week we have selections from the 1890 *Night Parade of One Hundred Demons* by Kawanabe Kyōsai, as highlighted by [the wonderful Public Domain Review](https://publicdomainreview.org/collection/night-parade-of-one-hundred-demons).
 
@@ -24,7 +24,7 @@ What I want to explore here is the incentive structure of the Greek army as a to
 
 This strikes as a case of ￼misplaced institutional incentives￼—Agamemnon[^6] has set up this system to encourage plunder and courage in battle, but instead the best fighter almost leaves and Agamemnon almost loses the entire war.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/0d446df4-27b5-4d27-b36c-16366c6e223a.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/0d446df4-27b5-4d27-b36c-16366c6e223a.jpg)
 
 ## ”Why do you relax your fierce courage?”
 
@@ -32,13 +32,13 @@ The quote continues: “‘Hard it is for me, strong though I am,/to break this 
 
 (Note: I am not a military historian, only an applied dilettante, so take the above description with a few grains of salt.)
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/78519cfa-5f73-4138-8a2f-6f9c14d3960d.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/78519cfa-5f73-4138-8a2f-6f9c14d3960d.jpg)
 
 ## “Thus they tended the funeral of Hector, breaker of horses.”
 
 This is the enigmatic ending line of the *Iliad*, which leads to a natural question—who is this book *really* about, anyway? The opening line references the wrath of Achilles, but the ending line references Hector, breaker of horses, his hated rival. Asking which of these two is “really” the protagonist is of course reductive, but it is fascinating how heavy an emphasis is placed on the aftermath of Hector’s death. For a story that is essentially pro-war (despite the cost, enumerated in the many crushed bones and wailing wives throughout), it’s striking that the story ends with the laments for and funeral of Hector, savior of Troy, which will, the story implies, soon fall without him. Similarly, it’s striking that the last chapter involves a recognition between Achilles and Priam, both having suffered such loss. And *yet* the war will go on—Achilles may pause the fighting, but only for two weeks. In that sense, the story, though clearly a product of the Iron Age, does nevertheless feel somewhat timeless—for we all lose those we love in time.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/ee9bcd4c-f077-4cdb-a125-6278223a3f34.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/ee9bcd4c-f077-4cdb-a125-6278223a3f34.jpg)
 
 ## What’s the use of useless questions?
 
@@ -46,7 +46,7 @@ Whenever the topic of the *Iliad* and the *Odyssey* come up, you will likely hea
 
 There’s another class of “useless questions” that I’d call “answered questions that keep being asked.” Here I have in mind something like the questions over Shakespeare’s identity. Most scholars will laugh this question off—Shakespeare wrote Shakespeare—but people still like discussing it. And I think there is a value in continuing to discuss the doubts people have had over Shakespeare’s identity, because it helps us center both our own biases (most of the doubts are based on classism) and also highlight the differences between our time and his (many are surprised that an “uneducated” writer would know the classics so well, but then many of Shakespeare’s time would be surprised at how little Westerners know their own “classics”!).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/d7062866-2d5d-49c1-bd4a-8ecec401ce1b.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/d7062866-2d5d-49c1-bd4a-8ecec401ce1b.jpg)
 
 ## Miscellanea
 
@@ -56,32 +56,32 @@ The Art Assignment[^10] had a nice episode on [”Art That Was Never Finished”
 
 Also on YouTube, Tom Scott [asked 64,812 people about the children’s rhyme “Jingle Bells, Batman Smells”](https://youtu.be/V5u9JSnAAU4), hypothesizing that a mid-‘90s episode of *The Simpsons* influenced what children sang as the second line (spoiler alert: he finds that it did, in fact, have an impact on Great Britain). But more generally, it’s a nice example of dialectical divergence[^12] and the homogeneity of North American English.[^13]
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/5d81bdc6-61cd-4e23-9a3d-95326c268c17.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/5d81bdc6-61cd-4e23-9a3d-95326c268c17.jpg)
 
 And that’s probably enough for today! There’s other topics I wanted to discuss, but at well over two thousand words, I feel like those are best saved for another time. Until next time!
 
-[^1]:	Why the name change? To be completely honest, *Adventures in Dilettantery* always sounded silly, and I want to take this more seriously now.
+[^1]: Why the name change? To be completely honest, *Adventures in Dilettantery* always sounded silly, and I want to take this more seriously now.
 
-[^2]:	As you might notice, some of the titles in this edition are already not-questions. I’m thinking of these “questions” more as an idea generation crutch than an important part of the format.
+[^2]: As you might notice, some of the titles in this edition are already not-questions. I’m thinking of these “questions” more as an idea generation crutch than an important part of the format.
 
-[^3]:	A good topic for conversation, but maybe next time—this edition is stuffed enough as is.
+[^3]: A good topic for conversation, but maybe next time—this edition is stuffed enough as is.
 
-[^4]:	Apparently, this was already a common reading in antiquity, and it forms the basis for Madeline Miller’s *The Song of Achilles*, which I have not yet read but have been told repeatedly is a masterpiece. (Miller also wrote my favorite-of-last-year *Circe*.)
+[^4]: Apparently, this was already a common reading in antiquity, and it forms the basis for Madeline Miller’s *The Song of Achilles*, which I have not yet read but have been told repeatedly is a masterpiece. (Miller also wrote my favorite-of-last-year *Circe*.)
 
-[^5]:	Amusingly, this also occurs on the Trojan side—on occasion, the Trojans’ allies point out that *their* cities are not at risk, so why does it seem they care more about the war than the Trojans themselves?
+[^5]: Amusingly, this also occurs on the Trojan side—on occasion, the Trojans’ allies point out that *their* cities are not at risk, so why does it seem they care more about the war than the Trojans themselves?
 
-[^6]:	Or, perhaps more precisely, this imagined version of late Bronze Age culture.
+[^6]: Or, perhaps more precisely, this imagined version of late Bronze Age culture.
 
-[^7]:	This is from the Caroline Alexander translation, book 12, lines 409-413.
+[^7]: This is from the Caroline Alexander translation, book 12, lines 409-413.
 
-[^8]:	Warning: familiarity with *The Two Towers* recommended.
+[^8]: Warning: familiarity with *The Two Towers* recommended.
 
-[^9]:	Although, fair warning, the runtime feels a bit padded; I’d recommend 2x speed or jumping around a bit.
+[^9]: Although, fair warning, the runtime feels a bit padded; I’d recommend 2x speed or jumping around a bit.
 
-[^10]:	Which is apparently hosted by John Green, now 🤷‍♀️
+[^10]: Which is apparently hosted by John Green, now 🤷‍♀️
 
-[^11]:	Actually, something that literally just came to mind as I read this was the *Critias*, Plato’s last, incomplete dialogue and the source of the Atlantis myth—would Atlantis be so prominent if the rest of the dialogue, likely with a spelled-out moral at the end, was present? (For more on the search for Atlantis, see the [“Decoding Atlantis w/ Mark Adams](http://greecepodcast.com/episode13.html) episode of the Ancient Greece Declassified podcast, although I think it gives a *little* too much weight to fringe ideas.) This ties to something I’ve had percolating for a while, namely that we humans like stories of the “inexplicable” (ghosts, aliens, and the like) in the modern world because there’s some fundamental questions that science, for all its successes, seems unlikely to answer in our lifetimes—I’ve been calling this the “lure of uncertainty,” and I think it’s much more prominent in Western culture than we often give it credit.
+[^11]: Actually, something that literally just came to mind as I read this was the *Critias*, Plato’s last, incomplete dialogue and the source of the Atlantis myth—would Atlantis be so prominent if the rest of the dialogue, likely with a spelled-out moral at the end, was present? (For more on the search for Atlantis, see the [“Decoding Atlantis w/ Mark Adams](http://greecepodcast.com/episode13.html) episode of the Ancient Greece Declassified podcast, although I think it gives a *little* too much weight to fringe ideas.) This ties to something I’ve had percolating for a while, namely that we humans like stories of the “inexplicable” (ghosts, aliens, and the like) in the modern world because there’s some fundamental questions that science, for all its successes, seems unlikely to answer in our lifetimes—I’ve been calling this the “lure of uncertainty,” and I think it’s much more prominent in Western culture than we often give it credit.
 
-[^12]:	It’s easy to see how, given a few hundred more years without too much communication across the Atlantic, the map of English dialects would start to look a lot more like China.
+[^12]: It’s easy to see how, given a few hundred more years without too much communication across the Atlantic, the map of English dialects would start to look a lot more like China.
 
-[^13]:	Almost everyone in North America gave the same answer, but Great Britain has a wide variety of (sometimes quite strange) answers. The United States and Canada, of course, have only really been populated coast-to-coast by English speakers since the advent of mass media, so that probably explains part of it. But it’s curious that Great Britain *still* shows such divergence, even for phrases that be definition could only have come about in past half-century.
+[^13]: Almost everyone in North America gave the same answer, but Great Britain has a wide variety of (sometimes quite strange) answers. The United States and Canada, of course, have only really been populated coast-to-coast by English speakers since the advent of mass media, so that probably explains part of it. But it’s curious that Great Britain *still* shows such divergence, even for phrases that be definition could only have come about in past half-century.

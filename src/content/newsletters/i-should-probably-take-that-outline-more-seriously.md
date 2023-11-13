@@ -10,7 +10,7 @@ So I should probably take that outline more seriously if I expect to have it rea
 
 Anyway, on with the issue.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/cfa501f9-0460-45c3-901b-bb820344e842.jpg) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/cfa501f9-0460-45c3-901b-bb820344e842.jpg)
 
 [Wilhelm Bernatzik (Artist), Die Flamme, 1902, Sammlung Wien Museum, CC BY 3.0 AT, Foto: Birgit und Peter Kainz, Wien Museum](https://sammlung.wienmuseum.at/en/object/1812/)
 
@@ -40,11 +40,11 @@ What! What! But [according to Wikipedia](https://en.wikipedia.org/wiki/Sichuan_p
 
 Did you know that libraries will just… buy books for you? Well, not for *you*, specifically, but for the public, which includes you, at your request. I learned this recently because the library had neither the new Penguin Classics translation of *The Song of Kieu* nor the fourth volume of *History of Philosophy Without Any Gaps*, despite having both a wide collection of other Penguin Classics and the other three volumes of *History of Philosophy Without Any Gaps*. So I went to sfpl.org and clicked this button:
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/8a26de79-b825-4ac1-8986-5036a783d27e.png) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/8a26de79-b825-4ac1-8986-5036a783d27e.png)
 
 And then filled out this form:
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/b3402dae-a1c6-49ec-97fe-1289b1d15672.png) 
+ ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/b3402dae-a1c6-49ec-97fe-1289b1d15672.png)
 
 And a month or so later they arrived at the library and were promptly checked out by a grateful member of the public!
 

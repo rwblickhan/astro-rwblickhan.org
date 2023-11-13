@@ -6,7 +6,7 @@ season: 5
 
 Hey folks, in the spirit of “what’s in your bag,” I wanted to do a quick (and by quick I apparently mean 2,600+ word) overview of the tools I use every day outside of work. Most of these are (surprise, surprise) iOS apps.
 
- ![C4773199-F12A-4B38-8859-7AD487D3A9FA.0654929847144a45a011aa56dad946db.jpeg](https://buttondown-attachments.s3.amazonaws.com/images/9b2a4b3b-668e-466e-b3c5-e26861b2c279.jpeg) 
+ ![C4773199-F12A-4B38-8859-7AD487D3A9FA.0654929847144a45a011aa56dad946db.jpeg](https://buttondown-attachments.s3.amazonaws.com/images/9b2a4b3b-668e-466e-b3c5-e26861b2c279.jpeg)
 
 ## Notes
 
@@ -20,7 +20,7 @@ For notes related to a website, article, or book, I like to keep a “sources”
 
 I also installed the [Excalidraw plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) that lets you use Excalidraw to draw diagrams. I haven’t used this much yet, but it seems useful for programming and worldbuilding diagrams.
 
- ![One line of dataview code…](https://buttondown-attachments.s3.amazonaws.com/images/e83fe093-dfb9-4f0d-82de-d3eb94e5e298.png) 
+ ![One line of dataview code…](https://buttondown-attachments.s3.amazonaws.com/images/e83fe093-dfb9-4f0d-82de-d3eb94e5e298.png)
 ![… becomes a nicely-formatted table!](https://buttondown-attachments.s3.amazonaws.com/images/32be9eae-7ddb-4ee1-abb3-9e5128ed1083.png)
 
 I also set up a Yearly Goals vault, where I ported the yearly goals I had previously kept in Notion. In this vault, I use [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) to generate tables out of metadata-annotated notes, in much the same way as Notion’s tables work. I give each goal its own note, with “type” and “status” tags as metadata; then I have a “goal table” note that merely presents a dataview over that year’s notes, as well as providing a list of “other notables” that weren’t part of the goals.
@@ -47,7 +47,7 @@ I do have a few projects set up in Things, which I use to “tag” certain cate
 
 ## Writing
 
-![This very article being written!](https://buttondown-attachments.s3.amazonaws.com/images/02c45480-0901-4202-bda8-ed8ccc1103c2.png) 
+![This very article being written!](https://buttondown-attachments.s3.amazonaws.com/images/02c45480-0901-4202-bda8-ed8ccc1103c2.png)
 
 Most of my “heavier” writing, like this newsletter or novels, is done in [**Ulysses**](https://ulysses.app/). Ulysses feels very your-mileage-may-vary; there are certainly other tools, like iA Writer or Scrivener, playing in the same space — hypothetically even Obsidian could work for this purpose — and Ulysses (in)famously has a subscription fee.
 
@@ -133,4 +133,4 @@ I use a pair of Bose noise-cancelling headphones I got from work, and I also hav
 
 And that’s just about everything I use day-to-day, here at the start of 2022!
 
-[^1]:	Or Asana, if it’s work-related.
+[^1]: Or Asana, if it’s work-related.
