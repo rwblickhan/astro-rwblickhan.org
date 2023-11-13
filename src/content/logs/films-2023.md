@@ -69,3 +69,4 @@ lastUpdatedDate: 2023-09-08
 7. *Garth Marenghi's Darkplace* (2004)
 8. *Succession* (2018-2023)
 9. *Mob Psycho 100* (2016)
+10. *The Tatami Galaxy* (2010)
