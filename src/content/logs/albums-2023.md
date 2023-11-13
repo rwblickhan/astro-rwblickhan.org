@@ -254,3 +254,4 @@ lastUpdatedDate: 2023-08-28
 249. *Second Sky 2022 (DJ Mix)*, Virtual Self & G Jones
 250. *High Strangeness*, Tulip
 251. *Black Dog*, Gazelle Twin
+252. *Magic Disk*, Asian Kung-Fu Generation
