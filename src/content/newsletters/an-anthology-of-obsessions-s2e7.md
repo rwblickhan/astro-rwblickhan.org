@@ -26,80 +26,80 @@ So, by way of compensation for the lack of essays on my part, I offer this dilet
 
  Although his blog can, at times, devolve into the pedantry the title implies, Bret Devereaux’s blog is full of lovely essays, primarily focused on medieval history and the history of warfare — both of which are not exactly the staid, battle-by-numbers affairs you might expect, seeing as how, as the author explains, most professional military historians these days care a lot more about *culture*. So, as mentioned above, it can be very instructive to keep cultural evolution in mind while reading these essays.
 
-  * [”The Lonely City”](https://acoup.blog/2019/07/12/collections-the-lonely-city-part-i-the-ideal-city/)
-  * [“War Elephants”](https://acoup.blog/2019/07/26/collections-war-elephants-part-i-battle-pachyderms/)
-  * ["Why Don't We Use Chemical Weapons Anymore?”](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/)
+* [”The Lonely City”](https://acoup.blog/2019/07/12/collections-the-lonely-city-part-i-the-ideal-city/)
+* [“War Elephants”](https://acoup.blog/2019/07/26/collections-war-elephants-part-i-battle-pachyderms/)
+* ["Why Don't We Use Chemical Weapons Anymore?”](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/)
 
 * [Jacob Geller's video essays](https://www.youtube.com/c/JacobGeller/videos)
 
  I sincerely believe we will look back in 50 years and realize Jacob Geller was the most important literary critic of the early 21st century. He so perfectly encapsulates the value of literary criticism — the ability to find unexpected connections between disparate works, genres, or even media and, in so doing, add even more artistic value to the works under discussion — that I don’t think you even need to watch his [pitch-perfect video essay](https://youtu.be/Vr6pA15xuFc) on that very topic to understand. (You should still watch it, though, because it’s brilliant.)
 
-  * ["Control, Anatomy, and the Legacy of the Haunted House”](https://youtu.be/mexs39y0Imw)
-  * ["Fear of Depths”](https://youtu.be/7MOKTU9tCbw)
-  * [“Outer Wilds: Death, Inevitability, and Ray Bradbury”](https://youtu.be/H-yTZFi-_eY)
-  * ["Cities Without People”](https://youtu.be/aBBuoD9eL5k)
+* ["Control, Anatomy, and the Legacy of the Haunted House”](https://youtu.be/mexs39y0Imw)
+* ["Fear of Depths”](https://youtu.be/7MOKTU9tCbw)
+* [“Outer Wilds: Death, Inevitability, and Ray Bradbury”](https://youtu.be/H-yTZFi-_eY)
+* ["Cities Without People”](https://youtu.be/aBBuoD9eL5k)
 
 * [*Literature and History*](https://literatureandhistory.com)
 
  *Literature and History* may well be the most ambitious project in podcasting today — or perhaps even the most ambitious educational project. Cast as the “history of Anglophone literature,” it starts at the very beginning — literally, the invention of writing — and, after almost 150 hours of content, the host has *just* wrapped up ancient Roman literature and began with the New Testament of the Bible. Although it is definitely more educationally-minded than most of the recommendations here, focusing primarily on simply narrating the stories and giving their historical background, it often has a surprisingly emotional punch and occasionally delves into critical interpretation.
 
-  * [“The Traditions of Our Forefathers” (*The Bacchae*)](https://literatureandhistory.com/index.php/episode-034-the-traditions-of-our-forefathers)
-  * [“War and Peace and Sex” (*Lysistrata*)](https://literatureandhistory.com/index.php/episode-036-war-and-peace-and-sex)
-  * [“The Uncuttables” (*On the Nature of Things*)](https://literatureandhistory.com/index.php/episode-045-the-uncuttables)
+* [“The Traditions of Our Forefathers” (*The Bacchae*)](https://literatureandhistory.com/index.php/episode-034-the-traditions-of-our-forefathers)
+* [“War and Peace and Sex” (*Lysistrata*)](https://literatureandhistory.com/index.php/episode-036-war-and-peace-and-sex)
+* [“The Uncuttables” (*On the Nature of Things*)](https://literatureandhistory.com/index.php/episode-045-the-uncuttables)
 
 * [*Apocrypals*](https://apocrypals.libsyn.com)
 
  *Apocrypals* is, at least in theory, a show about two non-believers making jokes about the Bible and related writings, which probably sounds insufferable if not offensive. But the show is, in actuality, no less than educational than *Literature and History*, albeit focused on “the Bible as popular culture”, both from a Jewish and a Christian standpoint — after all, some of the most influential “Bible” stories are not in the Bible at all. Along the way, they explore connections to other parts of culture; if you listen to the first 50 episodes or so, you’ll end up with an encyclopedic knowledge of both Christian and Jewish holidays and the major Catholic saints. Plus, well, they do make pretty good jokes sometimes.
 
-  * [“Various Heresies” (*The Acts of Peter and Paul*)](https://apocrypals.libsyn.com/3-various-heresies-the-acts-of-peter-and-paul)
+* [“Various Heresies” (*The Acts of Peter and Paul*)](https://apocrypals.libsyn.com/3-various-heresies-the-acts-of-peter-and-paul)
 
 * [*Imaginary Worlds*](https://www.imaginaryworldspodcast.org)
 
  *Imaginary Worlds* is, according to its tagline, “a show about how we create them and why we suspend our disbelief” — that is, it is technically a show about science fiction and fantasy as genres. However, the podcast has a much more expansive remit than that implies and frequently delves into topics only tangentially related, as skillfully narrated by the host, a 10-year public radio veteran.
 
-  * [“Scoring Godzilla”](https://www.imaginaryworldspodcast.org/scoring-godzilla.html)
-  * [“Queen of Tarot”](https://www.imaginaryworldspodcast.org/queen-of-tarot.html) (the life and times of [Pamela Colman Smith](https://en.wikipedia.org/wiki/Pamela_Colman_Smith))
-  * [“Superheroes in the Ring”](https://www.imaginaryworldspodcast.org/superheroes-in-the-ring.html) (an introduction to lucha libre, aka Mexican wrestling)
-  * [“How I Won the Larp”](https://www.imaginaryworldspodcast.org/how-i-won-the-larp.html) (the host is introduced to the surprising power of live-action roleplaying)
+* [“Scoring Godzilla”](https://www.imaginaryworldspodcast.org/scoring-godzilla.html)
+* [“Queen of Tarot”](https://www.imaginaryworldspodcast.org/queen-of-tarot.html) (the life and times of [Pamela Colman Smith](https://en.wikipedia.org/wiki/Pamela_Colman_Smith))
+* [“Superheroes in the Ring”](https://www.imaginaryworldspodcast.org/superheroes-in-the-ring.html) (an introduction to lucha libre, aka Mexican wrestling)
+* [“How I Won the Larp”](https://www.imaginaryworldspodcast.org/how-i-won-the-larp.html) (the host is introduced to the surprising power of live-action roleplaying)
 
 * [*Conversations with Tyler*](https://conversationswithtyler.com)
 
  Tyler Cowen is a right-leaning economist famous for running the [Marginal Revolution](https://marginalrevolution.com) blog. However, he is *also* a very strong interviewer, and his “Conversations with Tyler” series is consistently interesting, even if you aren’t particularly familiar with the interviewee.[^3] Cowen studies his interviewees’ work deeply and comes up with extremely off-the-wall questions that always provoke interesting responses.
 
-  * [“Emily Wilson on Translations and Language”](https://conversationswithtyler.com/episodes/emily-wilson/)
-  * [“Ashley Mears on Status and Beauty”](https://conversationswithtyler.com/episodes/ashley-mears/)
-  * [“Melissa Dell on the Significance of Persistence”](https://conversationswithtyler.com/episodes/melissa-dell/)/[“Nathan Nunn on the Paths to Development”](https://conversationswithtyler.com/episodes/nathan-nunn/)
+* [“Emily Wilson on Translations and Language”](https://conversationswithtyler.com/episodes/emily-wilson/)
+* [“Ashley Mears on Status and Beauty”](https://conversationswithtyler.com/episodes/ashley-mears/)
+* [“Melissa Dell on the Significance of Persistence”](https://conversationswithtyler.com/episodes/melissa-dell/)/[“Nathan Nunn on the Paths to Development”](https://conversationswithtyler.com/episodes/nathan-nunn/)
 
 * [Slate Star Codex](https://slatestarcodex.com)
 
  I certainly don’t agree with Scott Alexander on everything[^4], but his essays are always so interesting I find it hard not to read every single one. I especially love his book reviews, which simultaneously summarize, critique, and build arguments off the book in question — the way only the very criticism does.
 
-  * [“Book Review: Legal Systems Very Different From Ours”](https://slatestarcodex.com/2017/11/13/book-review-legal-systems-very-different-from-ours/)
-  * [“Book Review: Origin Of Consciousness In The Breakdown Of The Bicameral Mind”](https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/)
-  * [”Book Review: The Electric Kool-Aid Acid Test”](https://slatestarcodex.com/2019/07/23/book-review-the-electric-kool-aid-acid-test/)
+* [“Book Review: Legal Systems Very Different From Ours”](https://slatestarcodex.com/2017/11/13/book-review-legal-systems-very-different-from-ours/)
+* [“Book Review: Origin Of Consciousness In The Breakdown Of The Bicameral Mind”](https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/)
+* [”Book Review: The Electric Kool-Aid Acid Test”](https://slatestarcodex.com/2019/07/23/book-review-the-electric-kool-aid-acid-test/)
 
 * [Hillel Wayne’s blog/newsletter/talks](https://www.hillelwayne.com)
 
  Hillel Wayne is a programmer-turned-formal-methods advocate whose newsletter and blog are chockfull of random programming ideas and history lessons that I commend to any working programmer. His talk “What We Can Learn From Software History” is a pocket introduction to good historical investigation while also answering a long-standing question about technical interviews, while “Are we *really* engineers?” is a well-researched answer to that very question.
 
-  * ["What We Can Learn From Software History”](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history?utm_source=hillelwayne&utm_medium=email)
-  * ["Are we *really* engineers?”](https://youtu.be/3018ABlET1Y) (yes)
-  * [“10 Most(ly Dead) Influential Programming Languages”](https://www.hillelwayne.com/post/influential-dead-languages/)
-  * [“J Notation as a Tool of Thought”](https://www.hillelwayne.com/post/j-notation/)
+* ["What We Can Learn From Software History”](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history?utm_source=hillelwayne&utm_medium=email)
+* ["Are we *really* engineers?”](https://youtu.be/3018ABlET1Y) (yes)
+* [“10 Most(ly Dead) Influential Programming Languages”](https://www.hillelwayne.com/post/influential-dead-languages/)
+* [“J Notation as a Tool of Thought”](https://www.hillelwayne.com/post/j-notation/)
 
 * [The Roots of Progress](https://rootsofprogress.org/posts)/[Age of Invention](https://antonhowes.substack.com)
 
  The origin of the Industrial Revolution and the (seeming?) prosperity of the modern world seems like one of the great scientific mysteries to me, just as much as the origin of life or the identity of dark matter. Both the Roots of Progress blog and Age of Invention newsletter explore the centuries leading up to the Industrial Revolution and why it occurred.
 
-  * [“Why did we wait so long for the bicycle?”](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
-  * [“England's Peculiar Disgrace”](https://antonhowes.substack.com/p/age-of-invention-englands-peculiar)
-  * [“Where Be Dragons?”](https://antonhowes.substack.com/p/age-of-invention-where-be-dragons)
+* [“Why did we wait so long for the bicycle?”](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
+* [“England's Peculiar Disgrace”](https://antonhowes.substack.com/p/age-of-invention-englands-peculiar)
+* [“Where Be Dragons?”](https://antonhowes.substack.com/p/age-of-invention-where-be-dragons)
 
 * [*Perils of the Overworld* development diary](https://www.robinsloan.com/overworld/)
 
  Robin Sloan’s development diary for his text-driven adventure game is a surprising goldmine of insight into the intersection of narrative and game design. The linked issue is a favorite, because it explores one of my own pet peeves: slow-scrolling text in video games. WHY.
 
-  * [“Week 2, barnyard”](https://www.robinsloan.com/overworld/week/2/)
+* [“Week 2, barnyard”](https://www.robinsloan.com/overworld/week/2/)
 
 * [Sacred Texts of the World](https://www.thegreatcourses.com/courses/sacred-texts-of-the-world.html)
 
