@@ -57,6 +57,7 @@ lastUpdatedDate: 2023-09-08
 52. *The Hunger Games* (2012)
 53. *The Hunger Games: Catching Fire* (2013)
 54. 🔁 *Spider-Man: Into the Spider-Verse* (2018)
+53. *The Hunger Games: Mockingjay — Part 1* (2014)
 
 ## Shows
 
