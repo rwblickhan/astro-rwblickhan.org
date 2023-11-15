@@ -8,6 +8,8 @@ season: 6
 
 Aight this is a short one — buckle up.
 
+## Table of Contents
+
 ## Calendrical and Cartographic Thinking
 
 It’s a well-known trope that tools shape our thinking (see [”Notational intelligence”](https://thesephist.com/posts/notation/), [“Notation as a Tool of Thought”](https://www.jsoftware.com/papers/tot.htm), etc). So here’s another example.

@@ -8,6 +8,8 @@ Last month I introduced a 500-word cap. I’ll keep the cap and try to make this
 
 ![47.a288f6eb_1xS5OS.53ef3eb06f8f48c2adc3dba2b146af38.webp.png](https://buttondown.imgix.net/images/bdc420f2-9edf-4f01-b9c0-07103ff188e7.png?w=960&fit=max)
 
+## Table of Contents
+
 ## Communities of Practice
 
 Recently I’ve been thinking about communities of practice (somewhat related to [scenius](https://rwblickhan.org/misc/pattern-language/#scenius). It’s great to try out a hobby or a side project, but we often underrate how important it is to have a community working on the same hobby. I often find myself gravitating towards hobbies my friends share and struggling to maintain hobbies that I’m doing alone.

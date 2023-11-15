@@ -7,8 +7,9 @@ season: 6
 Let’s get right in to the meaty content!
 
 ![Stable Diffusion-generated photo of Guanyin](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/89060f93-2876-4145-9774-606bf6134f12.png)
-
 “photo of a shrine to guanyin at dawn”, Stable Diffusion[^1]
+
+## Table of Contents
 
 ## In Which I Wax Nostalgic for My Lost Youth
 

@@ -6,6 +6,8 @@ season: 6
 
 Hello friends. It has been a rough couple weeks for me personally, not to mention, well, the world as a whole. Hopefully you are all staying safe, sane, and healthy. This will be a short issue and I am not going to bother with interstitial images.
 
+## Table of Contents
+
 ## Software Engineers and the Illusion of Explanatory Depth
 
 I wonder if software engineers are less susceptible to the [illusion of explanatory depth](https://www.experimental-history.com/i/57359087/the-illusion-of-explanatory-depth). The illusion of explanatory depth says that, if you ask people if they know how e.g. a toilet works, most people will confidently say yes, but if you ask them to explain it in detail, they will quickly fumble.

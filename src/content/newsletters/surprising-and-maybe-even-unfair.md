@@ -9,6 +9,8 @@ season: 2
  ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/d2fb2e9f-f27f-4b6e-b86d-78f972bb274c.JPG)
 [“The Nightmare", Henry Fuseli, 1781](https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_Nightmare.JPG#mw-jump-to-license)
 
+## Table of Contents
+
 ## How many programmers does it take to fix a lightbulb? Fermi estimation in computer science interviews as discipline error
 
 I sat down across from my interviewer, pleasantries already exchanged, and prepared myself for the barrage of questioning — either about my background as a programmer (limited, given this would be my first internship) or the inner workings of a linked list. He looked down at the sheet of interview questions in front of him and carefully spoke. “Approximately how many gas stations are there in Vancouver?”

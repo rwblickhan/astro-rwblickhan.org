@@ -12,9 +12,11 @@ So, what will this newsletter look like, for the next season (read: year)? Inste
 
 I’m still experimenting with the format, so expect this to change. I’ve recently started a Zettelkasten[^3], so I might have a “random note” section at some point, or add a Q&A section if there’s any questions, or include things I’ve recently worked on. In the meantime, if you have any questions or comments, please do hit reply on this email 🙂 So, without further ado…
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/71f8995f-35bb-4efe-b80c-9ea5021acbcf.jpg)
+![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/71f8995f-35bb-4efe-b80c-9ea5021acbcf.jpg)
 
 Of course, I’ll also continue to include themed public domain art in between sections. This week we have selections from the 1890 *Night Parade of One Hundred Demons* by Kawanabe Kyōsai, as highlighted by [the wonderful Public Domain Review](https://publicdomainreview.org/collection/night-parade-of-one-hundred-demons).
+
+## Table of Contents
 
 ## Is Agamemnon just a bad leader?
 

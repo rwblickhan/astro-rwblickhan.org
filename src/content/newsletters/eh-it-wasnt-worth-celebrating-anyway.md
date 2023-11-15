@@ -11,6 +11,8 @@ I’m writing to you here, from the safe side of April Fools Day, a day which se
 ![claymation julius caesar partying at saturnalia](https://buttondown.imgix.net/images/f994cbec-4d70-4416-830f-d6355da9d773.png?w=960&fit=max)
 “claymation julius caesar partying at saturnalia”, Stable Diffusion[^1]
 
+## Table of Contents
+
 ## New Absurdism
 
 Here’s a lil theory. I think a new ~life philosophy~ is being born. That’s right! It’s not every day you see a new life philosophy like stoicism or existentialism!

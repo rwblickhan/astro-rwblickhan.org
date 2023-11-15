@@ -8,6 +8,8 @@ New experiment: to keep this newsletter fairly lightweight — easy to write, ea
 
 ![The facade of a new building under construction in Mission Bay](https://buttondown.imgix.net/images/1c350300-7712-4bcc-b94b-97a0632e7e44.jpg?w=960&fit=max)
 
+## Table of Contents
+
 ## Safari is the Lightest Browser
 
 A stray thought that wandered through my mind sometime in the past month:

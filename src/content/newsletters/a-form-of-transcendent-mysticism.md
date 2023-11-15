@@ -9,6 +9,8 @@ Apologies, this will once again be a short issue—pages don’t write themselve
  ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/605f5f2d-9c39-47ed-aa40-368b3d094857.jpg)
 [“Ruin by the Sea”, Arnold Böcklin, 1881](https://www.clevelandart.org/art/1979.57)
 
+## Table of Contents
+
 ## Modernism as Global Monoculture
 
 We frequently talk of “Westernization”, but it may be more profitable to speak of global “modernization”, as a package of related cultural norms and practices (started in, but not exclusively spread by, the “West”) that swept across the world (in a cultural evolution sense) throughout the nineteenth and twentieth centuries.

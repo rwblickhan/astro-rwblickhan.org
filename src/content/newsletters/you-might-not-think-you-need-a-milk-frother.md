@@ -4,6 +4,8 @@ lastUpdatedDate: 2022-12-11 00:31:52.761002+00:00
 season: 6
 ---
 
+## Table of Contents
+
 ## Welcome
 
 Hello, one and all! Welcome to season 6 of `rwblog`, formerly known as Applied Dilletantery!

@@ -13,8 +13,9 @@ So I should probably take that outline more seriously if I expect to have it rea
 Anyway, on with the issue.
 
  ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/cfa501f9-0460-45c3-901b-bb820344e842.jpg)
-
 [Wilhelm Bernatzik (Artist), Die Flamme, 1902, Sammlung Wien Museum, CC BY 3.0 AT, Foto: Birgit und Peter Kainz, Wien Museum](https://sammlung.wienmuseum.at/en/object/1812/)
+
+## Table of Contents
 
 ## History Doesn’t Exist, Actually
 
