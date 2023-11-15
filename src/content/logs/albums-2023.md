@@ -257,3 +257,4 @@ lastUpdatedDate: 2023-08-28
 252. *Magic Disk*, Asian Kung-Fu Generation
 253. *Le Soir EP*, Tim Atlas
 254. *Together Lonely*, Tim Atlas
+255. *The Maybe Man*, AJR
