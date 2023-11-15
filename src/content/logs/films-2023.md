@@ -58,6 +58,8 @@ lastUpdatedDate: 2023-09-08
 53. *The Hunger Games: Catching Fire* (2013)
 54. 🔁 *Spider-Man: Into the Spider-Verse* (2018)
 55. *The Hunger Games: Mockingjay — Part 1* (2014)
+56. *Battle Royale* (2000)
+57. *Persona* (1966)
 
 ## Shows
 
