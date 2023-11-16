@@ -129,6 +129,23 @@ Around 1993, service providers began providing much larger numbers of users with
 The broader lesson here is that communities, if they are to remain communities, need time to socialize new arrivals into the culture of the community.
 Otherwise, they risk becoming a place where strangers mostly interact with strangers, where there is no sense of shared norms and few repeated interactions that would encourage politeness.
 
+## Illusion of explanatory depth
+
+_Humans think they understand how familiar systems work better than they actually do._
+
+### References
+
+- ["Underrated ideas in psychology: The illusion of explanatory depth"](https://www.experimental-history.com/i/57359087/the-illusion-of-explanatory-depth), Adam Mastroianni
+- [What scientific term or concept ought to be more widely known?: The Illusion of Explanatory Depth](https://www.edge.org/response-detail/27117), Adam Waytz
+
+### Details
+
+How does a toilet work? A car? A computer? The economy?
+
+For systems we're familiar with, we tend to rate our understanding highly, but in practice most people can barely explain the basics of how a toilet works.
+This isn't necessarily a bad thing — humans are great at compartmentalizing what we need to know and what we don't.
+However, it can backfire when we forget that we don't _really_ understand things that we think we do.
+
 ## Rubber Duck Problem Solving
 
 _Talking through a problem in as much detail as possible can help solve it, even if you're just talking to a rubber ducky._
