@@ -137,7 +137,7 @@ _Humans think they understand familiar systems better than they actually do._
 ### References
 
 - ["Underrated ideas in psychology: The illusion of explanatory depth"](https://www.experimental-history.com/i/57359087/the-illusion-of-explanatory-depth), Adam Mastroianni
-- [What scientific term or concept ought to be more widely known?: The Illusion of Explanatory Depth](https://www.edge.org/response-detail/27117), Adam Waytz
+- ["What scientific term or concept ought to be more widely known?: The Illusion of Explanatory Depth"](https://www.edge.org/response-detail/27117), Adam Waytz
 
 ### Details
 
