@@ -49,6 +49,7 @@ _Culture is subject to evolutionary pressures._
 
 - _The Secret of Our Success: How Culture is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter_, Joseph Henrich
 - _Giving Up the Gun: Japan’s Reversion to the Sword, 1543-1879_, Noel Perrin
+- ["Is Cultural Change a Darwinian Process? No."](https://culture.ghost.io/is-cultural-change-a-darwinian-process-no/), W. David Marx (for a contrary take)
 
 ### Details
 
@@ -64,7 +65,7 @@ _Deliberately practicing skills can be the most effective way to improve them._
 
 ### References
 
-- ["The Role of Deliberate Practice in the Acquisition of Expert Performance"](https://jsomers.net/blog/deliberate-practice)
+- ["The Role of Deliberate Practice in the Acquisition of Expert Performance"](https://jsomers.net/blog/deliberate-practice), James Somers
 - ["Implicit practice: a sight reading parable"](https://andymatuschak.org/sight-reading/), Andy Matuschak
 - ["Having a creative practice as a programmer"](https://the.scapegoat.dev/having-a-creative-practice-as-a-programmer/), the scapegoat dev
 - [_Range_](https://search.worldcat.org/title/1099594495), David Epstein (for a slightly contrary take)
@@ -102,9 +103,9 @@ _Stable human social groups are limited to about 150 people._
 
 ### References
 
-- [”Neocortex size as a constraint on group size in primates”](https://www.sciencedirect.com/science/article/abs/pii/004724849290081J?via%3Dihub)
-- [“Dunbar’s number and how speaking is 2.8x better than picking fleas”](https://interconnected.org/home/2022/04/05/dunbar)
-- [“Platoons - a natural unit size for a modern army”](https://youtu.be/a15gihWu1SM)
+- [”Neocortex size as a constraint on group size in primates”](https://www.sciencedirect.com/science/article/abs/pii/004724849290081J?via%3Dihub), Dunbar et. al.
+- [“Dunbar’s number and how speaking is 2.8x better than picking fleas”](https://interconnected.org/home/2022/04/05/dunbar), Matt Webb's Interconnected
+- [“Platoons - a natural unit size for a modern army”](https://youtu.be/a15gihWu1SM), Lindybeige
 - _Friends: Understanding the Power of our Most Important Relationships_, Robin Dunbar
 
 ### Details
@@ -152,11 +153,11 @@ _Talking through a problem in as much detail as possible can help solve it, even
 
 ### References
 
-- ["Rubber Duck Problem Solving"](https://blog.codinghorror.com/rubber-duck-problem-solving/)
+- ["Rubber Duck Problem Solving"](https://blog.codinghorror.com/rubber-duck-problem-solving/), Jeff Atwood
 
 ### Details
 
-One of the best problem-solving techniques from software engineering is to explain the problem and attempted solutions in as much detail as possible. It doesn't matter whether you're talking to another software engineer or even another person; you could even use a rubber ducky! The important part is to explain the problem in as much detail as possible, because it helps clarify your assumptions and will often reveal overlooked details.
+One of the best problem-solving techniques from software engineering is to explain the problem and attempted solutions in as much detail as possible. It doesn't matter whether you're talking to another software engineer or even another person; you could even use a literal rubber ducky! The important part is to explain the problem in as much detail as possible, because it helps clarify your assumptions and will often reveal overlooked details.
 
 ## Scenius
 
