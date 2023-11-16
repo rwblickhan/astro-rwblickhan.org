@@ -58,6 +58,27 @@ Culture, as described above, ends up subject to evolutionary pressures. Three im
 - Additionally, different cultures are adapted to different environments in non-obvious ways. Henrich uses the example of the many European explorers who died in the Arctic, in contrast to the Inuit.
 - Culture is sensitive to interventions and broken chains of transmission. The Baffin Island Inuit lost kayaks as a technology and didn’t regain it until accidentally contacting other Inuit groups. Japan had a massive influx of firearms in the 16th century, but they were banned and mostly forgot about a century later.
 
+## Deliberate Practice
+
+_Deliberately practicing skills can be the most effective way to improve them._
+
+### References
+
+- ["The Role of Deliberate Practice in the Acquisition of Expert Performance"](https://jsomers.net/blog/deliberate-practice)
+- ["Implicit practice: a sight reading parable"](https://andymatuschak.org/sight-reading/), Andy Matuschak
+- ["Having a creative practice as a programmer"](https://the.scapegoat.dev/having-a-creative-practice-as-a-programmer/), the scapegoat dev
+- [_Range_](https://search.worldcat.org/title/1099594495), David Epstein (for a slightly contrary take)
+
+### Details
+
+Setting aside time (the famous "10,000 hours") to deliberately practice individuals skills can be the most effective way to improve a skillset.
+Indeed, as Andy Matuschak explores in "Implicit practice," relying on the "implicit practice" provided by a discipline's usual work can lead to skill gaps we're not even aware of!
+
+We should be careful taking this too far. David Epstein's _Range_ argues that breadth is a depth all its own — in many disciplines, the top performers are actually people that explored a range of topics or disciplines and _didn't_ get 10,000 hours of practice.
+In particular, he argues that deliberate practice doesn't work for "wicked problems", where feedback is delayed or hard to interpret.
+
+Still, for many disciplines, from art to writing to programming to atheletics, there are individual skills that are amenable to deliberate practice.
+
 ## Digital Garden
 
 _Treat a personal website as a work-in-progress wiki, not a reverse-chronological blog._
