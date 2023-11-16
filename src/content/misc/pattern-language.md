@@ -129,9 +129,9 @@ Around 1993, service providers began providing much larger numbers of users with
 The broader lesson here is that communities, if they are to remain communities, need time to socialize new arrivals into the culture of the community.
 Otherwise, they risk becoming a place where strangers mostly interact with strangers, where there is no sense of shared norms and few repeated interactions that would encourage politeness.
 
-## Illusion of explanatory depth
+## Illusion of Explanatory Depth
 
-_Humans think they understand how familiar systems work better than they actually do._
+_Humans think they understand familiar systems better than they actually do._
 
 ### References
 
