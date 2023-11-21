@@ -76,6 +76,7 @@ lastUpdatedDate: 2023-08-28
 71. 🔁 *Seconds*, Bryan Lee O'Malley
 72. *Hungry Ghost*, Victoria Ying
 73. *King Lear*, Shakespeare
+74. *Annihilation*, Jeff VanderMeer
 
 ## Skimmed
 
