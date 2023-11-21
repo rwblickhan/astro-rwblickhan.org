@@ -60,6 +60,7 @@ lastUpdatedDate: 2023-09-08
 55. *The Hunger Games: Mockingjay — Part 1* (2014)
 56. *Battle Royale* (2000)
 57. *Persona* (1966)
+58. *The Hunger Games: Mockingjay — Part 2* (2015)
 
 ## Shows
 
