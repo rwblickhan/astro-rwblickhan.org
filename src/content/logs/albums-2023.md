@@ -261,3 +261,4 @@ lastUpdatedDate: 2023-08-28
 256. *Heaven knows*, PinkPantheress
 257. *Ichijikikoku*, Atarashii Gakko!
 258. *New Blue Sun*, André 3000
+259. *Scott Pilgrim Takes Off OST*, Anamanaguchi & Joseph Trapanese
