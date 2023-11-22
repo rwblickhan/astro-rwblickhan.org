@@ -120,6 +120,7 @@ _Communities struggle to assimilate large numbers of new people arriving at the 
 
 - ["September that never ended"](http://www.catb.org/jargon/html/S/September-that-never-ended.html), Jargon File
 - ["Killing Community"](https://www.marginalia.nu/log/82_killing_community/), Marginalia.nu
+- ["No More Eternal Septembers"](https://tedium.co/2020/10/13/eternal-september-modern-impact/), Tedium (for a more negative take on this mindset)
 
 ### Details
 
