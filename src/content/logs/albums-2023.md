@@ -259,3 +259,4 @@ lastUpdatedDate: 2023-08-28
 254. *Together Lonely*, Tim Atlas
 255. *The Maybe Man*, AJR
 256. *Heaven knows*, PinkPantheress
+257. *Ichijikikoku*, Atarashii Gakko!
