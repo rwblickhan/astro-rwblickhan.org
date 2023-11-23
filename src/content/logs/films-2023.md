@@ -76,3 +76,4 @@ lastUpdatedDate: 2023-09-08
 9. *Mob Psycho 100* (2016)
 10. *The Tatami Galaxy* (2010)
 11. *Mob Psycho 100 II* (2019)
+12. *Scott Pilgrim Takes Off* (2023)
