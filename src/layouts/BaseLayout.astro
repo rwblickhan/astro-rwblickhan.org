@@ -5,7 +5,7 @@ import Header from "../components/Header.astro";
 const { title, description } = Astro.props;
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html
   lang="en"
   class="md:scroll-pt-24 bg-white dark:bg-rwb-background-dark font-serif"
@@ -13,8 +13,10 @@ const { title, description } = Astro.props;
   <head>
     <BaseHead title={title} description={description} />
   </head>
-  <Header />
-  <article>
-    <slot />
-  </article>
+  <body class="overscroll-none">
+    <Header />
+    <article>
+      <slot />
+    </article>
+  </body>
 </html>
