@@ -77,6 +77,7 @@ lastUpdatedDate: 2023-08-28
 72. *Hungry Ghost*, Victoria Ying
 73. *King Lear*, Shakespeare
 74. *Annihilation*, Jeff VanderMeer
+75. *Paper Girls: The Complete Story*, Brian K. Vaughan & Cliff Chiang
 
 ## Skimmed
 
