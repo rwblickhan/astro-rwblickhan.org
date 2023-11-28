@@ -264,3 +264,4 @@ lastUpdatedDate: 2023-08-28
 259. *Scott Pilgrim Takes Off OST*, Anamanaguchi & Joseph Trapanese
 260. *ZOO!!*, Necry Talkie
 261. *Empire of Light OST*, Trent Reznor & Atticus Ross
+262. *Random Access Memories (Drumless Edition)*, Daft Punk
