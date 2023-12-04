@@ -25,7 +25,7 @@ I set goals somewhat similar to how [some companies set OKRs](https://asana.com/
 - Each target has both an “Achieved” state and a “Partial” state; the latter is  a smaller or otherwise easier target. I don’t have a good reason for this split — it just feels nice to give myself credit for achieving _part_ of the goal 🙂
 - I split goals themselves into “Core” and “Bonus” goals. Generally speaking, Core goals are goals that I care about more or that I have more control over. In practice, I set 9 Core goals and 3 Bonus goals per year; that’s just what I happened to do the first time and it worked well.
 
-As with many companies’ OKR processes, I am to achieve about 70% of my goals — that means I’m stretching my time and abilities, but not being completely unrealistic.
+As with many companies’ OKR processes, I aim to achieve about 70% of my goals — that means I’m stretching my time and abilities, but not being completely unrealistic.
 
 I set goals the first week of January, then check in on how I’m doing at the start of every month. The last week of December, between Christmas and New Years, I give myself a grade for each goal, as well as writing up a small reflection on each one. In addition, I write up “other achievements”, since a lot of other things can happen in the year outside my goals!
 
