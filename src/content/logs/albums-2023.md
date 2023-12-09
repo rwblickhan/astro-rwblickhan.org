@@ -275,3 +275,4 @@ lastUpdatedDate: 2023-08-28
 270. *Classical Current*, Laurindo Almeida
 271. *Getz/Gilberto*, Stan Getz & João Gilberto
 272. *Guitar From Ipanema*, Laurindo Almeida
+273. *Amoroso*, João Gilberto
