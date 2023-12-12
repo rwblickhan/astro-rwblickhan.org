@@ -276,3 +276,6 @@ lastUpdatedDate: 2023-08-28
 271. *Getz/Gilberto*, Stan Getz & João Gilberto
 272. *Guitar From Ipanema*, Laurindo Almeida
 273. *Amoroso*, João Gilberto
+274. *Still Way (Wave Notation 2)*, Satoshi Ashikawa
+275. *Soul, PRESENT*, Q
+276. *To Drive The Cold Winter Away*, Loreena McKennitt
