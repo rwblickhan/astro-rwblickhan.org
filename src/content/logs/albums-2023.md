@@ -280,3 +280,6 @@ lastUpdatedDate: 2023-08-28
 275. *Soul, PRESENT*, Q
 276. *To Drive The Cold Winter Away*, Loreena McKennitt
 277. *Get Up*, NewJeans
+278. *Ends Meet*, 3Phaz
+279. *Blackbox Life Recorder 21f / In a Room7 F760 EP*, Aphex Twin
+280. *Dismantled Into Juice EP*, Blawan
