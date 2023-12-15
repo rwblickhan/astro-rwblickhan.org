@@ -249,4 +249,8 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - "The End", *The Trial*, Franz Kafka (trans. Breon Mitchell)
 
+> Once upon a time, it seemed like projecting antisocial behaviours was a rebellious move, but it feels increasingly as though the countercultural statement is just being nice.
+
+- ["A Cultural Critique of the Tesla Cybertruck"](https://pxlnv.com/linklog/tesla-cybertruck-cultural-critique/), *Pixel Envy*, Nick Heer
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
