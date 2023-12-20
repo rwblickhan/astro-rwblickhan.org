@@ -30,4 +30,4 @@ Clearly there would be a lot of tough technical decisions, most obviously what h
 
 I subscribe to too many newsletters, so for the new year I’m doing a mini subscription purge. I am surprised just how many I actually subscribe to! Anyway, if you, like me, read too much, you may find it a helpful time to start purging.
 
-[^1]:	My favorites are _Spirited Away_, _Princess Mononoke_, and _Kiki’s Delivery Service_, although I liked _Castle in the Sky_ too. I’ve never actually seen _Porco Rosso_ or _Nausicaa_, though! As a side note, I have a working theory that people (that like Miyazaki films) can either like _Kiki’s_ or _Howl's_ but not both.
+[^1]: My favorites are _Spirited Away_, _Princess Mononoke_, and _Kiki’s Delivery Service_, although I liked _Castle in the Sky_ too. I’ve never actually seen _Porco Rosso_ or _Nausicaa_, though! As a side note, I have a working theory that people (that like Miyazaki films) can either like _Kiki’s_ or _Howl's_ but not both.

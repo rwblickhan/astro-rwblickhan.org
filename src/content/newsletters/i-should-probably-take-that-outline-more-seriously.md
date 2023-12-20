@@ -4,7 +4,7 @@ lastUpdatedDate: 2021-03-22 00:02:33.407410+00:00
 season: 4
 ---
 
-<!-- markdownlint-disable no-emphasis-as-header -->
+<!-- markdownlint-disable no-emphasis-as-heading -->
 
 I was supposed to be writing an outline for the Next Novel™️ that I’m hoping to tackle in April, but instead I found myself bombing through *The Sympathizer* (one of the best books I’ve ever read, highly recommended) and *The Magicians* (not one of the best books I’ve ever read, but it does have its moments of poignancy) as well as making some progress on *The True History of Tea* (which is, erm, a history of tea). Oh, and I spent some time noodling around with a new idea that will never be published or actually probably even finished, for various good reasons I won’t get into here 😅
 

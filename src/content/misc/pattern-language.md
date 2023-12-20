@@ -3,7 +3,7 @@ title: Pattern Language
 lastUpdatedDate: 2023-09-25
 ---
 
-<!-- markdownlint-disable no-duplicate-header -->
+<!-- markdownlint-disable no-duplicate-heading -->
 
 These are various “patterns” that I tend to use and reuse in my thinking. This page is inspired in no small part by Jacky Zhao’s [“A Pattern Language”](https://jzhao.xyz/thoughts/A-Pattern-Language/) and her [list of patterns](https://jzhao.xyz/tags/pattern/). Is this really accurate to Christopher Alexander’s [_A Pattern Language_](https://en.wikipedia.org/wiki/A_Pattern_Language)? No idea, but I find this useful.
 

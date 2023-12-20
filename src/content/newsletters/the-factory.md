@@ -4,11 +4,11 @@ lastUpdatedDate: 2021-02-15 07:09:14.653866+00:00
 season: 3
 ---
 
-<!-- markdownlint-disable no-emphasis-as-header -->
+<!-- markdownlint-disable no-emphasis-as-heading -->
 
 Applied Dilettantery is on vacation. Come back next week for the conclusion of “The Structure”. In the meantime, here is an old story I wrote a long time ago…
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/faca70fe-05be-4c7b-9ee5-eac798371244.jpg)
+![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/faca70fe-05be-4c7b-9ee5-eac798371244.jpg)
 
 [Augsburger Wunderzeichenbuch, Folio 52 (Comet mit einem grosen Schwantz, 1401)](https://publicdomainreview.org/collection/flowers-of-the-sky)
 

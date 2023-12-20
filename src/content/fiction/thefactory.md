@@ -5,7 +5,7 @@ description: "A linguist studies an alien inscription in a mysterious facility."
 ---
 
 <!-- markdownlint-disable no-inline-html -->
-<!-- markdownlint-disable no-emphasis-as-header -->
+<!-- markdownlint-disable no-emphasis-as-heading -->
 
 They had found the Factory in the darkened valley of an airless moon.
 
