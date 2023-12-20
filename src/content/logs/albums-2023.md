@@ -288,3 +288,5 @@ lastUpdatedDate: 2023-08-28
 283. *City Slicker EP*, Ginger Root
 284. *Rikki*, Ginger Root
 285. *Millennium Actress OST*, Susumu Hirasawa
+286. *Mahjong Room*, Ginger Root
+287. *Question No. 13*, Veltpunch
