@@ -7,6 +7,7 @@ import {
   collectionWithGalleryMetadataMap,
   type CollectionMetadata,
 } from "../consts";
+import BookmarksLink from "./BookmarksLink.astro";
 
 const collections: CollectionMetadata[] = [];
 for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
@@ -20,11 +21,9 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
   // Show or hide expanded state
   const header = document.querySelector("#header") as HTMLElement;
   const collectionElements = document.querySelectorAll("#collection");
-  const searchButton = document.querySelector("#searchButton");
   const expandButton = document.querySelector("#expandButton");
   const collapseButton = document.querySelector("#collapseButton");
 
-  searchButton?.classList.remove("hidden");
   expandButton?.classList.remove("hidden");
 
   expandButton?.addEventListener("click", () => {
@@ -62,7 +61,8 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
       rwblickhan.org
     </a>
     <div class="flex flex-row items-center">
-      <SearchLink id="searchButton" />
+      <BookmarksLink />
+      <SearchLink />
       <ExpandButton id="expandButton" />
       <CollapseButton id="collapseButton" />
     </div>
