@@ -290,3 +290,4 @@ lastUpdatedDate: 2023-08-28
 285. *Millennium Actress OST*, Susumu Hirasawa
 286. *Mahjong Room*, Ginger Root
 287. *Question No. 13*, Veltpunch
+288. *The In Sound from Way Out!*, Beastie Boys
