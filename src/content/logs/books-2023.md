@@ -84,3 +84,4 @@ lastUpdatedDate: 2023-08-28
 - *Ways of Being - Animals, Plants, Machines: The Search for a Planetary Intelligence*, James Bridle
 - *Mating in Captivity: Unlocking Erotic Intelligence*, Esther Perel
 - *The Reactionary Mind: Conservatism from Edmund Burke to Donald Trump - Second Edition*, Corey Robin
+- *The Software Engineer's Guidebook*, Gergely Orosz
