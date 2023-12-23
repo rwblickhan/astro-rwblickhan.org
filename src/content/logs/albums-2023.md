@@ -291,3 +291,4 @@ lastUpdatedDate: 2023-08-28
 286. *Mahjong Room*, Ginger Root
 287. *Question No. 13*, Veltpunch
 288. *The In Sound from Way Out!*, Beastie Boys
+289. *God Is Partying*, Andrew W.K.
