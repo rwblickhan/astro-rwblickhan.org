@@ -78,6 +78,7 @@ lastUpdatedDate: 2023-08-28
 73. *King Lear*, Shakespeare
 74. *Annihilation*, Jeff VanderMeer
 75. *Paper Girls: The Complete Story*, Brian K. Vaughan & Cliff Chiang
+76. *The Mysteries*, Bill Watterson & John Kascht
 
 ## Skimmed
 
