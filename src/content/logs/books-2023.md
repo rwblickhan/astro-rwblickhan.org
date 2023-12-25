@@ -80,6 +80,7 @@ lastUpdatedDate: 2023-08-28
 75. *Paper Girls: The Complete Story*, Brian K. Vaughan & Cliff Chiang
 76. *The Mysteries*, Bill Watterson & John Kascht
 77. *Sir Gawain and the Green Knight* (trans. Brian Stone)
+78. *How to Think: A Survival Guide for a World at Odds*, Alan Jacobs
 
 ## Skimmed
 
