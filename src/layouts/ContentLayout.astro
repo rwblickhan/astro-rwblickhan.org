@@ -25,9 +25,11 @@ const parentCollectionMetadata =
   >
     {
       parentCollectionMetadata && (
-        <a href={parentCollectionMetadata.slug}>
-          ← {parentCollectionMetadata.title}
-        </a>
+        <div class="mb-2">
+          <a href={parentCollectionMetadata.slug}>
+            ← {parentCollectionMetadata.title}
+          </a>
+        </div>
       )
     }
     <slot />
