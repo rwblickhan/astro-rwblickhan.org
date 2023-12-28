@@ -1,6 +1,6 @@
 ---
 title: Books of 2021
-lastUpdatedDate: 2021-01-01
+lastUpdatedDate: 2021-12-31
 ---
 
 1. *Guards! Guards!*, Terry Pratchett

@@ -1,7 +1,9 @@
 ---
 title: Films of 2023
-lastUpdatedDate: 2023-09-08
+lastUpdatedDate: 2023-12-31
 ---
+
+## Movies
 
 1. 🔁 *Tampopo* (1985)
 2. 🔁 *Ant-Man* (2015)
@@ -79,7 +81,7 @@ lastUpdatedDate: 2023-09-08
 3. *FLCL* (2000-2001)
 4. *Moral Orel* (2005-2008)
 5. *Serial Experiments Lain* (1998)
-6. *Paranoia Agent* (2004)
+6. *Paranoia Agent* (2004) (twice!)
 7. *Garth Marenghi's Darkplace* (2004)
 8. *Succession* (2018-2023)
 9. *Mob Psycho 100* (2016)

@@ -1,6 +1,6 @@
 ---
 title: Books of 2022
-lastUpdatedDate: 2022-01-01
+lastUpdatedDate: 2022-12-31
 ---
 
 1. *The Library Book*, Susan Orlean

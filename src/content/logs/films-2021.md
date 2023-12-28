@@ -1,6 +1,6 @@
 ---
 title: Films of 2021
-lastUpdatedDate: 2021-01-01
+lastUpdatedDate: 2021-12-31
 ---
 
 1. *My Dinner with Andre* (1981)
