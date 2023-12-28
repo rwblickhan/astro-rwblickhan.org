@@ -1,6 +1,6 @@
 ---
 title: Small Things To Make Life Better
-lastUpdatedDate: 2023-09-26
+lastUpdatedDate: 2023-12-27
 ---
 
 Alternative title: cheaper but lovely gifts to give at a surprise white elephant party.
@@ -45,3 +45,26 @@ That also makes them a great gift for anybody that likes coffee or tea drinks - 
 
 I've bought at least three of this $20 [Foodville milk frother](https://www.amazon.com/gp/product/B07V2ZGYJ1?ie=UTF8&th=1) as personal or white elephant gifts,
 as well as the one I use myself.
+
+## Kamenoko Tawashi
+
+Kamenoko ("baby turtle") *tawashi* scrub brushes, made famous by [*The Tatami Galaxy*](https://en.wikipedia.org/wiki/The_Tatami_Galaxy), are a replacement for icky sponges.
+Dab a little bit of dish soap and scrub away without worries. If you wash all your dishes by hand, as I do, these will surely be a delight.
+Even better, they're [only $9](https://jinenstore.com/products/kamenoko-tawashi) and last months, if not years.
+
+Here's [an ode to the kamenoko tawashi](https://catapult.co/stories/katie-okamoto-kamenoko-tawashi-turtle-brush-japanese-family), which points out that they're not actually that popular in Japan, but shh. We can love the baby turtle all the same.
+
+## Coup
+
+I am not sure that [*Coup*](https://boardgamegeek.com/boardgame/131357/coup) is my *favorite* game, but relative to price ($20 or less) and time-to-play (15 minutes a round), it may be the highest value.
+Each player is trying to collect money to assassinate their opponents, with the help of two secret character cards that give them special abilities.
+But the twist is that you can bluff as having *any* character card, at the risk of losing a character if you are correctly called out.
+I have taken multiple copies to white elephants before!
+
+## Skull
+
+[Skull](https://boardgamegeek.com/boardgame/92415/skull) is another cheap, quick party game that would be perfect for a white elephant.
+Players take turns secretly putting down skulls or roses, then take turns bidding on how many roses they can pick up without picking up a skull.
+If you win the bid, you then have to actually pick up the secret tiles; if you are successful, you're a step closer to winning, but if fail, you have to permanently discard one of your own skulls or roses for future rounds.
+
+Like *Coup*, this is widely available for less than $20, takes less than 15 minutes to play a round, and can be taught in about that time, too.
