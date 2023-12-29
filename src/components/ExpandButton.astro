@@ -6,7 +6,13 @@ export interface Props {
 const { id } = Astro.props;
 ---
 
-<button type="button" id={id} class="hidden" aria-label="Expand navigation">
+<button
+  type="button"
+  id={id}
+  class="hidden"
+  aria-label="Expand navigation"
+  title="Expand navigation"
+>
   <svg
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
