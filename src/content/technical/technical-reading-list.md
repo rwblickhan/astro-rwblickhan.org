@@ -27,6 +27,8 @@ description: "An evergreen list of technical books, papers, and talks I love."
   - Julia has an iconic "I'm just as confused as you are" style of writing about complex technical topics like networking, operating systems, and version control. Her printable zines are a handy reference for all kinds of technical topics.
 - [*Hacking with Swift*](https://www.hackingwithswift.com), Paul Hudson
   - The single best resource for iOS development (yes, even better than Apple's own docs). The free ["100 Days of SwiftUI"](https://www.hackingwithswift.com/100/swiftui) course in particular is a great place to start if you're completely new to iOS development.
+- [*Bits About Money*](https://www.bitsaboutmoney.com/archive/buy-now-pay-later/), Patrick McKenzie
+  - Explores finance and fintech from a technologist's perspective, albeit with a unique (read: sometimes hard-to-follow) style. His post about [buy-now-pay-later services](https://www.bitsaboutmoney.com/archive/buy-now-pay-later/) like Affirm and Afterpay was the first explanation of BNPL that I finally understood.
 
 ## Talks
 
