@@ -48,6 +48,7 @@ _Culture is subject to evolutionary pressures._
 ### References
 
 - _The Secret of Our Success: How Culture is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter_, Joseph Henrich
+- _War in Human Civilization_, Azar Gat
 - _Giving Up the Gun: Japan’s Reversion to the Sword, 1543-1879_, Noel Perrin
 - ["Is Cultural Change a Darwinian Process? No."](https://culture.ghost.io/is-cultural-change-a-darwinian-process-no/), W. David Marx (for a contrary take)
 
