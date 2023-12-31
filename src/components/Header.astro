@@ -17,36 +17,6 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
 }
 ---
 
-<script>
-  // Show or hide expanded state
-  const header = document.querySelector("#header") as HTMLElement;
-  const collectionElements = document.querySelectorAll(
-    "#collection"
-  ) as NodeListOf<HTMLElement>;
-  const expandButton = document.querySelector("#expandButton") as HTMLElement;
-  const collapseButton = document.querySelector(
-    "#collapseButton"
-  ) as HTMLElement;
-
-  expandButton?.addEventListener("click", () => {
-    collectionElements.forEach((el) => {
-      el.style.display = "block";
-    });
-    expandButton.style.display = "none";
-    collapseButton.style.display = "block";
-    header?.setAttribute("aria-expanded", "true");
-  });
-
-  collapseButton?.addEventListener("click", () => {
-    collectionElements.forEach((el) => {
-      el.style.display = "none";
-    });
-    expandButton.style.display = "block";
-    collapseButton.style.display = "none";
-    header?.setAttribute("aria-expanded", "false");
-  });
-</script>
-
 <nav id="header" aria-expanded="false">
   <div class="header-body">
     <a href="/index.html"> rwblickhan.org</a>
@@ -133,3 +103,33 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     }
   }
 </style>
+
+<script>
+  // Show or hide expanded state
+  const header = document.querySelector("#header") as HTMLElement;
+  const collectionElements = document.querySelectorAll(
+    "#collection"
+  ) as NodeListOf<HTMLElement>;
+  const expandButton = document.querySelector("#expandButton") as HTMLElement;
+  const collapseButton = document.querySelector(
+    "#collapseButton"
+  ) as HTMLElement;
+
+  expandButton?.addEventListener("click", () => {
+    collectionElements.forEach((el) => {
+      el.style.display = "block";
+    });
+    expandButton.style.display = "none";
+    collapseButton.style.display = "block";
+    header?.setAttribute("aria-expanded", "true");
+  });
+
+  collapseButton?.addEventListener("click", () => {
+    collectionElements.forEach((el) => {
+      el.style.display = "none";
+    });
+    expandButton.style.display = "block";
+    collapseButton.style.display = "none";
+    header?.setAttribute("aria-expanded", "false");
+  });
+</script>
