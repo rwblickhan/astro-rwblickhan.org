@@ -1,9 +1,4 @@
-<a
-  href="/search"
-  class="mr-4 lg:mr-12"
-  aria-label="Search this site"
-  title="Search this site"
->
+<a href="/search" aria-label="Search this site" title="Search this site">
   <svg
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
@@ -11,7 +6,7 @@
     stroke-width="1.5"
     stroke="currentColor"
     data-slot="icon"
-    class="w-6 h-6 lg:w-10 lg:h-10 stroke-white"
+    class="header-icon"
   >
     <path
       stroke-linecap="round"
@@ -20,3 +15,15 @@
     ></path>
   </svg>
 </a>
+
+<style>
+  a {
+    margin-right: 1rem;
+  }
+
+  @media (min-width: 1024px) {
+    a {
+      margin-right: 3rem;
+    }
+  }
+</style>

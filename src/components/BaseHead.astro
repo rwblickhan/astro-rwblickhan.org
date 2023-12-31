@@ -76,4 +76,27 @@ const { title, description, image = "/apple-touch-icon.png" } = Astro.props;
     font-size: 1.5rem;
     line-height: 2rem;
   }
+
+  .header-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    stroke: white;
+  }
+
+  .header-icon-extra {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  @media (min-width: 1024px) {
+    .header-icon {
+      width: 2.5rem;
+      height: 2.5rem;
+    }
+
+    .header-icon-extra {
+      width: 3rem;
+      height: 3rem;
+    }
+  }
 </style>

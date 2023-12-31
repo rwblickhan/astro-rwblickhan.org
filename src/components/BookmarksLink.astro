@@ -1,6 +1,5 @@
 <a
   href="https://bookmarks.rwblickhan.org"
-  class="mx-4 lg:mx-12"
   aria-label="Search my bookmarks"
   title="Search my bookmarks"
 >
@@ -11,7 +10,7 @@
     stroke-width="1.5"
     stroke="currentColor"
     data-slot="icon"
-    class="w-6 h-6 lg:w-10 lg:h-10 stroke-white"
+    class="header-icon"
   >
     <path
       stroke-linecap="round"
@@ -20,3 +19,15 @@
     ></path>
   </svg>
 </a>
+
+<style>
+  a {
+    margin-right: 1rem;
+  }
+
+  @media (min-width: 1024px) {
+    a {
+      margin-right: 3rem;
+    }
+  }
+</style>
