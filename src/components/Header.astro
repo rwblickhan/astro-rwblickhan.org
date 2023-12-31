@@ -20,29 +20,30 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
 <script>
   // Show or hide expanded state
   const header = document.querySelector("#header") as HTMLElement;
-  const collectionElements = document.querySelectorAll("#collection");
-  const expandButton = document.querySelector("#expandButton");
-  const collapseButton = document.querySelector("#collapseButton");
-
-  expandButton?.classList.remove("hidden");
+  const collectionElements = document.querySelectorAll(
+    "#collection"
+  ) as NodeListOf<HTMLElement>;
+  const expandButton = document.querySelector("#expandButton") as HTMLElement;
+  const collapseButton = document.querySelector(
+    "#collapseButton"
+  ) as HTMLElement;
 
   expandButton?.addEventListener("click", () => {
     collectionElements.forEach((el) => {
-      el.classList.remove("hidden");
+      el.style.display = "block";
     });
-    console.log(`collapseButton: ${collapseButton}`);
-    expandButton.classList.add("hidden");
-    collapseButton?.classList.remove("hidden");
-    header.setAttribute("aria-expanded", "true");
+    expandButton.style.display = "none";
+    collapseButton.style.display = "block";
+    header?.setAttribute("aria-expanded", "true");
   });
 
   collapseButton?.addEventListener("click", () => {
     collectionElements.forEach((el) => {
-      el.classList.add("hidden");
+      el.style.display = "none";
     });
-    expandButton?.classList.remove("hidden");
-    collapseButton.classList.add("hidden");
-    header.setAttribute("aria-expanded", "false");
+    expandButton.style.display = "block";
+    collapseButton.style.display = "none";
+    header?.setAttribute("aria-expanded", "false");
   });
 </script>
 

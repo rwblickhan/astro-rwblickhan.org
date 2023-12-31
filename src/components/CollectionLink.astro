@@ -8,11 +8,32 @@ export interface Props {
 const { id, slug, title } = Astro.props;
 ---
 
-<div id={id} class="px-4 lg:px-12 bg-black h-16 hidden">
-  <a
-    class="text-white dark:text-rwb-text-dark no-underline hover:underline"
-    href={`${slug}`}
-  >
+<div id={id}>
+  <a href={`${slug}`}>
     <h2>{title}</h2>
   </a>
 </div>
+
+<style>
+  div {
+    display: none;
+    padding: 0 1rem;
+    height: 4rem;
+    background-color: black;
+  }
+
+  a {
+    text-decoration: none;
+    color: var(--rwb-text-dark);
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  @media (min-width: 1024px) {
+    div {
+      padding: 0 3rem;
+    }
+  }
+</style>
