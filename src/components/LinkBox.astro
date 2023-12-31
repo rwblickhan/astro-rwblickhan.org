@@ -15,28 +15,26 @@ const { title, href, description, lastUpdatedDate } = Astro.props;
   <p>Last updated: {lastUpdatedDate.toLocaleDateString()}</p>
 </a>
 
-<style>
+<style lang="scss">
   a {
     border: 2px solid var(--rwb-text-light);
     border-radius: 0.5rem;
     padding: 1rem;
     display: flex;
     flex-direction: column;
-  }
 
-  a:hover {
-    border-color: var(--rwb-link-light);
-    color: var(--rwb-link-light);
-  }
-
-  @media (prefers-color-scheme: dark) {
-    a {
+    @media (prefers-color-scheme: dark) {
       border-color: var(--rwb-text-dark);
     }
 
-    a:hover {
-      border-color: var(--rwb-link-dark);
+    &:hover {
+      border-color: var(--rwb-link-light);
       color: var(--rwb-link-light);
+
+      @media (prefers-color-scheme: dark) {
+        border-color: var(--rwb-link-dark);
+        color: var(--rwb-link-light);
+      }
     }
   }
 

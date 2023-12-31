@@ -68,7 +68,7 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
   }
 </nav>
 
-<style is:global>
+<style is:global lang="scss">
   nav {
     color: var(--rwb-text-dark);
     background-color: black;
@@ -78,30 +78,26 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     left: 0px;
     right: 0px;
     z-index: 0;
-  }
 
-  nav a {
-    text-decoration: none;
-  }
+    a {
+      text-decoration: none;
 
-  nav a:hover {
-    text-decoration: underline;
-  }
+      &:hover {
+        text-decoration: underline;
+      }
+    }
 
-  @media (prefers-color-scheme: dark) {
-    nav {
+    @media (prefers-color-scheme: dark) {
       color: var(--rwb-text-light);
     }
-  }
 
-  @media (min-width: 768px) {
-    nav {
+    @media (min-width: 768px) {
       position: sticky;
     }
   }
 </style>
 
-<style>
+<style lang="scss">
   .header-body {
     height: 6rem;
     padding: 0 1rem;
@@ -110,11 +106,20 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+
+    @media (min-width: 1024px) {
+      padding: 0 3rem;
+    }
   }
 
   a {
     font-size: 1.875rem;
     line-height: 2.25rem;
+
+    @media (min-width: 1024px) {
+      font-size: 2.25rem;
+      line-height: 2.5rem;
+    }
   }
 
   .header-buttons {
@@ -122,19 +127,8 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     flex-direction: row;
     gap: 1rem;
     align-items: center;
-  }
 
-  @media (min-width: 1024px) {
-    .header-body {
-      padding: 0 3rem;
-    }
-
-    a {
-      font-size: 2.25rem;
-      line-height: 2.5rem;
-    }
-
-    .header-buttons {
+    @media (min-width: 1024px) {
       gap: 3rem;
     }
   }

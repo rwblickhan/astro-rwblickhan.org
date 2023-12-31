@@ -54,7 +54,7 @@ const { title, description, image = "/apple-touch-icon.png" } = Astro.props;
 <!-- Mastodon -->
 <link rel="me" href="https://mastodon.social/@rwblickhan" />
 
-<style is:global>
+<style is:global lang="scss">
   :root {
     --rwb-text-light: black;
     --rwb-text-dark: #e8e6e3;
@@ -64,10 +64,8 @@ const { title, description, image = "/apple-touch-icon.png" } = Astro.props;
 
   html {
     color: var(--rwb-text-light);
-  }
 
-  @media (prefers-color-scheme: dark) {
-    html {
+    @media (prefers-color-scheme: dark) {
       color: var(--rwb-text-dark);
     }
   }
@@ -81,20 +79,16 @@ const { title, description, image = "/apple-touch-icon.png" } = Astro.props;
     width: 1.5rem;
     height: 1.5rem;
     stroke: white;
+    @media (min-width: 1024px) {
+      width: 2.5rem;
+      height: 2.5rem;
+    }
   }
 
   .header-icon-extra {
     width: 2rem;
     height: 2rem;
-  }
-
-  @media (min-width: 1024px) {
-    .header-icon {
-      width: 2.5rem;
-      height: 2.5rem;
-    }
-
-    .header-icon-extra {
+    @media (min-width: 1024px) {
       width: 3rem;
       height: 3rem;
     }
