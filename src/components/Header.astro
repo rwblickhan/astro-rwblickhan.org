@@ -47,21 +47,10 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
   });
 </script>
 
-<nav
-  id="header"
-  class="flex flex-col md:sticky top-0 inset-x-0 z-0"
-  aria-expanded="false"
->
-  <div
-    class="px-4 lg:px-12 bg-black h-24 w-full flex items-center justify-between"
-  >
-    <a
-      class="text-white dark:text-rwb-text-dark text-3xl lg:text-4xl no-underline hover:underline"
-      href="/index.html"
-    >
-      rwblickhan.org
-    </a>
-    <div class="flex flex-row items-center">
+<nav id="header" aria-expanded="false">
+  <div class="header-body">
+    <a href="/index.html"> rwblickhan.org</a>
+    <div class="header-buttons">
       <BookmarksLink />
       <SearchLink />
       <ExpandButton id="expandButton" />
@@ -78,3 +67,75 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     ))
   }
 </nav>
+
+<style is:global>
+  nav {
+    color: var(--rwb-text-dark);
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 0;
+  }
+
+  nav a {
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    nav {
+      color: var(--rwb-text-light);
+    }
+  }
+
+  @media (min-width: 768px) {
+    nav {
+      position: sticky;
+    }
+  }
+</style>
+
+<style>
+  .header-body {
+    height: 6rem;
+    padding: 0 1rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  a {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
+  .header-buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  @media (min-width: 1024px) {
+    .header-body {
+      padding: 0 3rem;
+    }
+
+    a {
+      font-size: 2.25rem;
+      line-height: 2.5rem;
+    }
+
+    .header-buttons {
+      gap: 3rem;
+    }
+  }
+</style>
