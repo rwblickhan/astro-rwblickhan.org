@@ -11,13 +11,9 @@ const { title, href, description, lastUpdatedDate } = Astro.props;
 
 <a
   href={href}
-  class="not-prose border-2 rounded-lg border-black dark:border-gray-300 hover:border-rwb-link-light hover:dark:border-rwb-link-dark"
+  class="not-prose border-2 rounded-lg border-black dark:border-gray-300 hover:border-rwb-link-light hover:dark:border-rwb-link-dark flex flex-col items-baseline justify-between p-4 text-black dark:text-gray-300 hover:text-rwb-link-light hover:dark:text-rwb-link-dark"
 >
-  <div
-    class="flex flex-col items-baseline justify-between p-4 text-black dark:text-gray-300 hover:text-rwb-link-light hover:dark:text-rwb-link-dark"
-  >
-    <h2 class="text-2xl my-4">{title}</h2>
-    {description == null ? null : <p>{description}</p>}
-    <p>Last updated: {lastUpdatedDate.toLocaleDateString()}</p>
-  </div>
+  <h2 class="text-2xl my-4">{title}</h2>
+  {description == null ? null : <p>{description}</p>}
+  <p>Last updated: {lastUpdatedDate.toLocaleDateString()}</p>
 </a>
