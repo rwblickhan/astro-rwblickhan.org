@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-06
+lastUpdatedDate: 2024-01-08
 ---
 
 1. *Halo*, Juana Molina
@@ -10,3 +10,4 @@ lastUpdatedDate: 2024-01-06
 5. *Moss King*, Omni Gardens
 6. *Actual Life (April 14 - December 17 2020)*, Fred again..
 7. *Post*, Björk
+8. *Inland Delta*, Biosphere
