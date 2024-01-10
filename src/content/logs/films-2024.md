@@ -9,3 +9,5 @@ lastUpdatedDate: 2024-01-08
 2. *Tár* (2022)
 
 ## TV Shows
+
+1. *Jujutsu Kaisen* Season 1 (2021)
