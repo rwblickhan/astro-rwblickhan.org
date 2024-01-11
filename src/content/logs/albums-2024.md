@@ -13,3 +13,4 @@ lastUpdatedDate: 2024-01-10
 8. *Inland Delta*, Biosphere
 9. *On Giacometti*, Hania Rani
 10. *Inner Symphonies*, Hania Rani & Dobrawa Czocher
+11. *Thinking In Textures*, Chet Faker
