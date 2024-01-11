@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-08
+lastUpdatedDate: 2024-01-10
 ---
 
 1. *Halo*, Juana Molina
@@ -11,3 +11,5 @@ lastUpdatedDate: 2024-01-08
 6. *Actual Life (April 14 - December 17 2020)*, Fred again..
 7. *Post*, Björk
 8. *Inland Delta*, Biosphere
+9. *On Giacometti*, Hania Rani
+10. *Inner Symphonies*, Hania Rani & Dobrawa Czocher
