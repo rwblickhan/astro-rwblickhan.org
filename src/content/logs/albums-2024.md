@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-10
+lastUpdatedDate: 2024-01-15
 ---
 
 1. *Halo*, Juana Molina
@@ -14,3 +14,4 @@ lastUpdatedDate: 2024-01-10
 9. *On Giacometti*, Hania Rani
 10. *Inner Symphonies*, Hania Rani & Dobrawa Czocher
 11. *Thinking In Textures*, Chet Faker
+12. *Moog Indigo*, Jean-Jacques Perrey
