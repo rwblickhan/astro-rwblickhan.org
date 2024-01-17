@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-15
+lastUpdatedDate: 2024-01-16
 ---
 
 1. *Halo*, Juana Molina
@@ -16,3 +16,4 @@ lastUpdatedDate: 2024-01-15
 11. *Thinking In Textures*, Chet Faker
 12. *Moog Indigo*, Jean-Jacques Perrey
 13. *The Amazing New Electronic Pop Sound of Jean Jacques Perrey*, Jean-Jacques Perrey
+14. *First Impressions of Earth*, The Strokes
