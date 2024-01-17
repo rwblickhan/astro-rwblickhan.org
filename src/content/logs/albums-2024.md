@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-16
+lastUpdatedDate: 2024-01-17
 ---
 
 1. *Halo*, Juana Molina
@@ -18,3 +18,4 @@ lastUpdatedDate: 2024-01-16
 13. *The Amazing New Electronic Pop Sound of Jean Jacques Perrey*, Jean-Jacques Perrey
 14. *First Impressions of Earth*, The Strokes
 15. *Ladyworld*, TWRP
+16. *Secret Life*, Fred again.. & Brian Eno
