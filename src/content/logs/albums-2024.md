@@ -17,3 +17,4 @@ lastUpdatedDate: 2024-01-16
 12. *Moog Indigo*, Jean-Jacques Perrey
 13. *The Amazing New Electronic Pop Sound of Jean Jacques Perrey*, Jean-Jacques Perrey
 14. *First Impressions of Earth*, The Strokes
+15. *Ladyworld*, TWRP
