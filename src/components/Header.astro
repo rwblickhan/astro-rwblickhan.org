@@ -7,7 +7,6 @@ import {
   collectionWithGalleryMetadataMap,
   type CollectionMetadata,
 } from "../consts";
-import BookmarksLink from "./BookmarksLink.astro";
 
 const collections: CollectionMetadata[] = [];
 for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
@@ -21,7 +20,6 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
   <div class="header-body">
     <a href="/index.html"> rwblickhan.org</a>
     <div class="header-buttons">
-      <BookmarksLink />
       <SearchLink />
       <ExpandButton id="expandButton" />
       <CollapseButton id="collapseButton" />
