@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-17
+lastUpdatedDate: 2024-01-19
 ---
 
 1. *Halo*, Juana Molina
@@ -19,3 +19,6 @@ lastUpdatedDate: 2024-01-17
 14. *First Impressions of Earth*, The Strokes
 15. *Ladyworld*, TWRP
 16. *Secret Life*, Fred again.. & Brian Eno
+17. *Tales of the Nocturnal Sky EP*, Polygonia
+18. *Bloom EP*, Polygonia
+19. *Deformed Human Nature*, Polygonia
