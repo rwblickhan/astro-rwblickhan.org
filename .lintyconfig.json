@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "id": "WarnOnTodos",
+      "message": "Are you sure you meant to leave a TODO?",
+      "regex": "(TODO|todo)",
+      "severity": "warning",
+      "includes": ["*.md", "*.astro"]
+    },
+    {
+      "id": "WarnOnDates",
+      "message": "Don't forget to bump dates!",
+      "regex": "\\d\\d\\d\\d-\\d\\d-\\d\\d",
+      "severity": "warning",
+      "includes": ["*.md"]
+    }
+  ]
+}
