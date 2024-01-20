@@ -5,7 +5,7 @@ alias c := clean
 alias s := sync
 
 push message:
-    git add -A && git commit -m '{{message}}' && git push
+    git add -A && linty --pre-commit && git commit -m '{{message}}' && git push
 
 run:
     pnpm run dev
