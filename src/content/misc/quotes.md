@@ -1,6 +1,6 @@
 ---
 title: Quotes
-lastUpdatedDate: 2023-08-28
+lastUpdatedDate: 2024-01-21
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -252,5 +252,13 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 > Once upon a time, it seemed like projecting antisocial behaviours was a rebellious move, but it feels increasingly as though the countercultural statement is just being nice.
 
 - ["A Cultural Critique of the Tesla Cybertruck"](https://pxlnv.com/linklog/tesla-cybertruck-cultural-critique/), *Pixel Envy*, Nick Heer
+
+> I don't think you can win. It says on the box it's a tragedy.
+
+- [*Kentucky Route Zero*, Act I]
+
+> We saved what we could.
+
+- [*Kentucky Route Zero*, Act V]
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
