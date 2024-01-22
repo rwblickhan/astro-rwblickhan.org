@@ -1,6 +1,6 @@
 ---
 title: Technical Reading List
-lastUpdatedDate: 2023-12-29
+lastUpdatedDate: 2024-01-21
 description: "An evergreen list of technical books, papers, and talks I love."
 ---
 
@@ -34,6 +34,8 @@ description: "An evergreen list of technical books, papers, and talks I love."
 
 ## Talks
 
+- ["Is Software Engineering Real Engineering"](https://www.hillelwayne.com/talks/crossover-project/), Hillel Wayne
+  - Hint: the answer is yes. Hillel actually went and talked to "traditional" engineers who crossed over to software, or vice versa. The insights are fascinating — apparently the biggest thing missing from "traditional" engineering is version control!
 - ["Inventing on Principle"](https://www.youtube.com/watch?v=EGqwXt90ZqA), Bret Victor
   - A classic talk about deciding what to work on. The first half is a little slow, but serves as an important example for the principles Bret explores in the second half.
 - ["Email vs Capitalism, or, Why We Can't Have Nice Things"](https://youtu.be/mrGfahzt-4Q?si=sOjj_k4eGy3k2_sc), Dylan Beattie
