@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-23
+lastUpdatedDate: 2024-01-24
 ---
 
 1. *Halo*, Juana Molina
@@ -24,3 +24,4 @@ lastUpdatedDate: 2024-01-23
 19. *Deformed Human Nature*, Polygonia
 20. *The Universe Smiles Upon You*, Khruangbin
 21. *I Inside The Old Year Dying*, PJ Harvey
+22. *Did you know that there's a tunnel under Ocean Blvd*, Lana Del Rey
