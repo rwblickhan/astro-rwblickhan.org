@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-22
+lastUpdatedDate: 2024-01-23
 ---
 
 1. *Halo*, Juana Molina
@@ -23,3 +23,4 @@ lastUpdatedDate: 2024-01-22
 18. *Bloom EP*, Polygonia
 19. *Deformed Human Nature*, Polygonia
 20. *The Universe Smiles Upon You*, Khruangbin
+21. *I Inside The Old Year Dying*, PJ Harvey
