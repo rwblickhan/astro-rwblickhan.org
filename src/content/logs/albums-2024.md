@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-24
+lastUpdatedDate: 2024-01-26
 ---
 
 1. *Halo*, Juana Molina
@@ -26,3 +26,4 @@ lastUpdatedDate: 2024-01-24
 21. *I Inside The Old Year Dying*, PJ Harvey
 22. *Did you know that there's a tunnel under Ocean Blvd*, Lana Del Rey
 23. *Sundial*, Noname
+24. *Wall of Eyes*, The Smile
