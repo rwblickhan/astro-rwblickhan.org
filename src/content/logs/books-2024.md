@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-01-28
+lastUpdatedDate: 2024-01-31
 ---
 
 1. *War in Human Civilization*, Azar Gat
@@ -8,6 +8,7 @@ lastUpdatedDate: 2024-01-28
 3. *Our Share of Night*, Mariana Enriquez (trans. Megan McDowell)
 4. *Emergent Tokyo: Designing the Spontaneous City*, Jorge Amalazán
 5. *A Head Full of Ghosts*, Paul Tremblay
+6. *Seraphim: 26661336 Wings*, Mamoru Oshii & Satoshi Kon (trans. Zack Davisson)
 
 ## Skimmed
 
