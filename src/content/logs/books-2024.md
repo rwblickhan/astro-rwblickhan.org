@@ -13,3 +13,4 @@ lastUpdatedDate: 2024-01-31
 ## Skimmed
 
 - *How Infrastructure Works: Inside the Systems That Shape Our World*, Deb Chachra
+- *The Dangers of Smoking in Bed*, Mariana Enriquez (trans. Megan McDowell)
