@@ -17,3 +17,4 @@ lastUpdatedDate: 2024-02-03
 ## TV Shows
 
 1. *Jujutsu Kaisen* Season 1 (2021)
+1. *Jujutsu Kaisen* Season 2 (2023)
