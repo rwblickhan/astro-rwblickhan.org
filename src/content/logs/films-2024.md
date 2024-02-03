@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-01-24
+lastUpdatedDate: 2024-02-03
 ---
 
 ## Movies
@@ -12,6 +12,7 @@ lastUpdatedDate: 2024-01-24
 5. 🔁 *Tampopo* (1985)
 6. *The Making of Tampopo* (1986)
 7. *Yumeji* (1991)
+8. 🔁 *In the Mood for Love* (2000)
 
 ## TV Shows
 
