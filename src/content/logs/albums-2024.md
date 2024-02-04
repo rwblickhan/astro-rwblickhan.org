@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-01-31
+lastUpdatedDate: 2024-02-04
 ---
 
 1. *Halo*, Juana Molina
@@ -30,3 +30,4 @@ lastUpdatedDate: 2024-01-31
 25. *Philip Glass Solo*, Philip Glass
 26. *Red Headed Stranger*, Willie Nelson
 27. *The Eraser*, Thom Yorke
+28. *Hail to the Thief*, Radiohead
