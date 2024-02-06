@@ -1,8 +1,5 @@
 ---
-import CollapseButton from "./CollapseButton.astro";
-import ExpandButton from "./ExpandButton.astro";
 import SearchLink from "./SearchLink.astro";
-import CollectionLink from "./CollectionLink.astro";
 import {
   collectionWithGalleryMetadataMap,
   type CollectionMetadata,
@@ -16,36 +13,30 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
 }
 ---
 
-<nav id="header" aria-expanded="false">
-  <div class="header-body">
-    <a href="/index.html"> rwblickhan.org</a>
-    <div class="header-buttons">
-      <SearchLink />
-      <ExpandButton id="expandButton" />
-      <CollapseButton id="collapseButton" />
-    </div>
+<nav id="header">
+  <div class="title">
+    <span>λ</span>
+    <a href="/index.html">rwblickhan.org</a>
   </div>
-  {
-    collections.map((metadata) => (
-      <CollectionLink
-        id="collection"
-        slug={metadata.slug}
-        title={metadata.title}
-      />
-    ))
-  }
+  <SearchLink />
 </nav>
 
 <style is:global lang="scss">
   nav {
-    color: var(--rwb-text-dark);
-    background-color: black;
     display: flex;
     flex-direction: column;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    z-index: 0;
+    height: 6rem;
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+
+    @media (min-width: 1024px) {
+      padding: 0 3rem;
+    }
 
     a {
       text-decoration: none;
@@ -54,76 +45,5 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
         text-decoration: underline;
       }
     }
-
-    @media (min-width: 768px) {
-      position: sticky;
-    }
   }
 </style>
-
-<style lang="scss">
-  .header-body {
-    height: 6rem;
-    padding: 0 1rem;
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-
-    @media (min-width: 1024px) {
-      padding: 0 3rem;
-    }
-  }
-
-  a {
-    font-size: 1.875rem;
-    line-height: 2.25rem;
-
-    @media (min-width: 1024px) {
-      font-size: 2.25rem;
-      line-height: 2.5rem;
-    }
-  }
-
-  .header-buttons {
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
-    align-items: center;
-
-    @media (min-width: 1024px) {
-      gap: 3rem;
-    }
-  }
-</style>
-
-<script>
-  // Show or hide expanded state
-  const header = document.querySelector("#header") as HTMLElement;
-  const collectionElements = document.querySelectorAll(
-    "#collection"
-  ) as NodeListOf<HTMLElement>;
-  const expandButton = document.querySelector("#expandButton") as HTMLElement;
-  const collapseButton = document.querySelector(
-    "#collapseButton"
-  ) as HTMLElement;
-
-  expandButton?.addEventListener("click", () => {
-    collectionElements.forEach((el) => {
-      el.style.display = "block";
-    });
-    expandButton.style.display = "none";
-    collapseButton.style.display = "block";
-    header?.setAttribute("aria-expanded", "true");
-  });
-
-  collapseButton?.addEventListener("click", () => {
-    collectionElements.forEach((el) => {
-      el.style.display = "none";
-    });
-    expandButton.style.display = "block";
-    collapseButton.style.display = "none";
-    header?.setAttribute("aria-expanded", "false");
-  });
-</script>
