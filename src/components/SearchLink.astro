@@ -6,7 +6,6 @@
     stroke-width="1.5"
     stroke="currentColor"
     data-slot="icon"
-    class="header-icon"
   >
     <path
       stroke-linecap="round"
@@ -15,3 +14,16 @@
     ></path>
   </svg>
 </a>
+
+<style lang="scss">
+  svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    stroke: white;
+
+    @media (min-width: 1024px) {
+      width: 2.5rem;
+      height: 2.5rem;
+    }
+  }
+</style>
