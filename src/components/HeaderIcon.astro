@@ -1,0 +1,24 @@
+---
+export interface Props {
+  href: string;
+  title: string;
+}
+const { href, title } = Astro.props;
+---
+
+<a href={href} aria-label={title} title={title}>
+  <slot />
+</a>
+
+<style lang="scss">
+  a {
+    width: 1.5rem;
+    height: 1.5rem;
+    stroke: white;
+
+    @media (min-width: 1024px) {
+      width: 2.5rem;
+      height: 2.5rem;
+    }
+  }
+</style>
