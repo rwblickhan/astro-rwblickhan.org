@@ -1,5 +1,6 @@
 ---
-import SearchLink from "./SearchLink.astro";
+import SearchHeaderIcon from "./SearchHeaderIcon.astro";
+import MapHeaderIcon from "./MapHeaderIcon.astro";
 import {
   collectionWithGalleryMetadataMap,
   type CollectionMetadata,
@@ -18,7 +19,10 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     <span>λ</span>
     <a href="/index.html">rwblickhan.org</a>
   </div>
-  <SearchLink />
+  <div class="header-icons">
+    <SearchHeaderIcon />
+    <MapHeaderIcon />
+  </div>
 </nav>
 
 <style is:global lang="scss">
@@ -51,5 +55,11 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     display: flex;
     flex-direction: row;
     gap: 0.75rem;
+  }
+
+  .header-icons {
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
   }
 </style>

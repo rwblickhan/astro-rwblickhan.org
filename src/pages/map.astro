@@ -1,0 +1,39 @@
+---
+import IndexLayout from "../layouts/IndexLayout.astro";
+
+const { title = "Map", description = "Sitemap for rwblickhan.org" } =
+  Astro.props;
+---
+
+<IndexLayout title={title} description={description}>
+  <ul>
+    <li>
+      <a href="/fiction">Fiction:</a> Various short stories I've written. These days
+      I'm focused on writing novels, though.
+    </li>
+    <li>
+      <a href="/essays">Essays:</a> Non-fiction essays on various non-programming-related
+      topics.
+    </li>
+    <li>
+      <a href="/technical">Technical:</a> Articles on various programming-related
+      topics, including my TIL series.
+    </li>
+    <li>
+      <a href="/misc">Misc:</a> Miscellaneous pages, including my recommended reading
+      lists and my favourite recipes.
+    </li>
+    <li>
+      <a href="/newsletters">Newsletters:</a> An archive of all the newsletters I've
+      sent!
+    </li>
+    <li>
+      <a href="/logs">Logs:</a> I log everything I read, watch, play, and listen
+      to.
+    </li>
+    <li>
+      <a href="/gallery">Gallery:</a> I sometimes take photos, so I put my favourites
+      up here.
+    </li>
+  </ul>
+</IndexLayout>
