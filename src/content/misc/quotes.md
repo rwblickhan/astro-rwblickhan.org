@@ -46,7 +46,7 @@ lastUpdatedDate: 2024-01-21
 > Step slowly backward into their own dark hall\
 > For that final night of sleep.
 
-– anonymous (trans. Maria Dahvana Headley), *Beowulf*
+- anonymous (trans. Maria Dahvana Headley), *Beowulf*
 
 > I'd rather die deceived by dreams than give\
 > My heart to home and trade and never live.
@@ -67,11 +67,11 @@ lastUpdatedDate: 2024-01-21
 
 > May I try to tell you again where your only comfort lies? It is not in forgetting the happy past. People bring us well-meant but miserable consolations when they tell us what time will do to help our grief. We do not want to lose our grief, because our grief is bound up with our love and we could not cease to mourn without being robbed of our affections.
 
-– Phillips Brooks in a letter to a friend on the death of his mother (h/t [*Futility Closet*](https://www.futilitycloset.com/2021/04/23/remembering/))
+- Phillips Brooks in a letter to a friend on the death of his mother (h/t [*Futility Closet*](https://www.futilitycloset.com/2021/04/23/remembering/))
 
 > To his venerable master A., greeting. This is to inform you that I am studying at Oxford with great diligence, but the matter of money stands greatly in the way of my promotion, as it is now two months since I spent the last of what you sent me. The city is expensive and makes many demands. I have to rent lodgings, buy necessaries, and provide for many other things which I cannot now specify. Wherefore I respectfully beg your paternity that by the promptings of divine pity you may assist me, so that I may be able to complete what I have well begun.
 
-– From a circa 1220 form letter provided by Oxford University to students seeking money from patrons (via [*Futility Closet*](https://www.futilitycloset.com/2021/01/15/student-debt/))
+- From a circa 1220 form letter provided by Oxford University to students seeking money from patrons (via [*Futility Closet*](https://www.futilitycloset.com/2021/01/15/student-debt/))
 
 > He remembers those vanished years. As though looking through a dusty window pane, the past is something he could see, but not touch. And everything he sees is blurred and indistinct.
 
@@ -115,7 +115,7 @@ lastUpdatedDate: 2024-01-21
 
 > For me the ADD really is a part of my identity — not my persona, which is what I present to the world, but my innermost self, the way I am actually am. I would be a different person without it. I might be a better person, or a happier or more successful one (I don't know) but I'd definitely be someone different. And it's really not all bad. I understand that for many people ADD is a really major problem with no upsides. For me it's a major problem *with* upsides. \[...\] I sometimes imagine that the Devil offers me a deal: I will give up the ADD in return for a million dollars. I would have to think very, very carefully before taking that deal and I don't know whether I would say yes. But if the Devil came and offered to cure my depression, and the price was my right arm? That question is easy. I would say “sounds great, but what's the catch?” \[...\] And this is why I find it so very irritating that there is no term for my so-called ⸢attention deficit disorder⸣ that does not have the word “disorder” baked into it. I know what a disorder is, and my ADD isn't one. \[...\] Why does any deviation from the standard have to be a disorder? Why do we medicalize human variation? \[...\] I don't think “neurodivergent” is a very good term for how I'm different, not least because it's vague. But at least it doesn't frame my unusual and wonderful brain as a “disorder”.
 
-Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](https://blog.plover.com/brain/add.html), *The Universe of Discourse*
+- Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](https://blog.plover.com/brain/add.html), *The Universe of Discourse*
 
 > The rain beat against the window panes all night.
 
