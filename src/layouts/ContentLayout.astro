@@ -19,33 +19,13 @@ const parentCollectionMetadata =
   parentCollection && collectionMetadataMap.get(parentCollection);
 ---
 
-<BaseLayout title={title} description={description}>
-  <div>
-    {
-      parentCollectionMetadata && (
-        <a href={parentCollectionMetadata.slug}>
-          ← {parentCollectionMetadata.title}
-        </a>
-      )
-    }
-    <slot />
-  </div>
+<BaseLayout title={title} description={description} width="small">
+  {
+    parentCollectionMetadata && (
+      <a href={parentCollectionMetadata.slug}>
+        ← {parentCollectionMetadata.title}
+      </a>
+    )
+  }
+  <slot />
 </BaseLayout>
-
-<style lang="scss">
-  div {
-    padding: 0 1rem;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-
-    @media (min-width: 768px) {
-      max-width: 48rem;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-
-  a {
-    margin-bottom: 0.5rem;
-  }
-</style>

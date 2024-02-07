@@ -45,6 +45,28 @@ html {
   }
 }
 
+article {
+    padding: 0 1rem;
+    margin-bottom: 3rem;
+
+    @media (min-width: 768px) {
+      margin-left: auto;
+      margin-right: auto;
+
+      &.small {
+        max-width: 48rem;
+      }
+
+      &.medium {
+        max-width: 64rem;
+      }
+
+      &.large {
+        max-width: 80rem;
+      }
+    }
+}
+
 h1 {
   font-size: 2rem;
 }

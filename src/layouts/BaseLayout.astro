@@ -3,14 +3,20 @@ import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import "../styles/index.scss";
 
-const { title, description } = Astro.props;
+export interface Props {
+  title: string;
+  description: string;
+  width: "small" | "medium" | "large";
+}
+
+const { title, description, width } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
   <BaseHead title={title} description={description} />
   <Header />
-  <article>
+  <article class={width}>
     <slot />
   </article>
 </html>
