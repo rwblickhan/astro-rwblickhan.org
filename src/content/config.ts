@@ -46,6 +46,7 @@ const logs = defineCollection({
 const til = defineCollection({
   schema: z.object({
     title: z.string(),
+    description: z.string(),
     tags: z.array(z.string()),
     lastUpdatedDate: z
       .string()
@@ -57,6 +58,7 @@ const til = defineCollection({
 const misc = defineCollection({
   schema: z.object({
     title: z.string(),
+    description: z.string(),
     lastUpdatedDate: z
       .string()
       .or(z.date())
@@ -67,6 +69,7 @@ const misc = defineCollection({
 const newsletters = defineCollection({
   schema: z.object({
     title: z.string(),
+    description: z.string(),
     lastUpdatedDate: z
       .string()
       .or(z.date())

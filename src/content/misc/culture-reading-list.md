@@ -1,5 +1,6 @@
 ---
 title: Culture & Technology Reading List
+description: Recommended reading about culture & technology.
 lastUpdatedDate: 2023-03-15
 ---
 

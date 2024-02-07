@@ -21,6 +21,7 @@ const recipes = (await getCollection("recipes")).sort(
         <LinkBox
           title={post.data.title}
           href={`/misc/${post.slug}`}
+          description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
         />
       ))

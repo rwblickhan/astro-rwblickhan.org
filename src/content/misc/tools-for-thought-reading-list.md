@@ -1,5 +1,6 @@
 ---
 title: Tools for Thought Reading List
+description: Recommended reading about tools-for-thought
 lastUpdatedDate: 2023-02-12
 ---
 

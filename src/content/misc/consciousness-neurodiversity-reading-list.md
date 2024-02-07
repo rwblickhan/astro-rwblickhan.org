@@ -1,5 +1,6 @@
 ---
 title: Consciousness, Identity, & Neurodiversity Reading List
+description: Recommended reading related to consciousness, identity, and neurodiversity.
 lastUpdatedDate: 2023-08-10
 ---
 

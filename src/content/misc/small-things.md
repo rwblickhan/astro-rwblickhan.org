@@ -1,5 +1,6 @@
 ---
 title: Small Things To Make Life Better
+description: aka cheap but lovely gifts for a surprise white elephant party
 lastUpdatedDate: 2024-02-07
 ---
 

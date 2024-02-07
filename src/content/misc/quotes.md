@@ -1,5 +1,6 @@
 ---
 title: Quotes
+description: My favourite quotes
 lastUpdatedDate: 2024-02-07
 ---
 

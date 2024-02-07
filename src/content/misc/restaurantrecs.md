@@ -1,5 +1,6 @@
 ---
 title: Restaurant Recommendations
+description: My favourite restaurants
 lastUpdatedDate: 2023-08-25
 ---
 

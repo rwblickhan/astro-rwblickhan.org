@@ -1,5 +1,6 @@
 ---
 title: Pattern Language
+description: Patterns I keep coming back to
 lastUpdatedDate: 2023-09-25
 ---
 
