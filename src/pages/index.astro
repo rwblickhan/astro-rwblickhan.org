@@ -1,0 +1,162 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import IndexGrid from "../components/IndexGrid.astro";
+import LinkBox from "../components/LinkBox.astro";
+---
+
+<BaseLayout title="Index" description="Index" width="medium">
+  <h2>Hi, I'm Russell, a writer and programmer.</h2>
+
+  <p>
+    This site is my <a href="/misc/pattern-language/#digital-garden"
+      >digital garden</a
+    >. I post here maybe once a month, but pages are updated randomly. I also
+    write a <a href="https://buttondown.email/rwblickhan">newsletter</a> called <code
+      >rwblog</code
+    >, which is cross-posted <a href="/newsletters">to this site</a>.
+  </p>
+
+  <p>
+    Here are some of my favorite things I've written here or on my newsletter:
+  </p>
+
+  <IndexGrid>
+    <LinkBox
+      title="The Bridge"
+      href="/fiction/thebridge/"
+      description="Borgesian short fiction about a creepy bridge."
+    />
+    <LinkBox
+      title="Pattern Language"
+      href="/misc/pattern-language/"
+      description="A guide to some of the concepts I return to a lot."
+    />
+    <LinkBox
+      title="28 Pieces of Advice for 28"
+      href="/newsletters/28-pieces-of-advice-for-28"
+      description="Doling out advice for my 28th birthday."
+    />
+    <LinkBox
+      title="Calendrical and Cartographic Thinking"
+      href="/newsletters/theres-probably-a-metaphor-for-business-leadership-or-scientific-research-in-here/#calendrical-and-cartographic-thinking"
+      description="Comparing how we think when looking at calendars and maps."
+    />
+    <LinkBox
+      title="A REPL for Writing"
+      href="/newsletters/react-and-try-something-different/#a-repl-for-writing"
+      description="As a writer, should I deliberately practice time-to-feedback?"
+    />
+    <LinkBox
+      title="Writing Compiler"
+      href="/newsletters/in-which-i-wax-nostalgic-for-my-lost-youth/#writing-compiler"
+      description="My preferred way of thinking about large language models."
+    />
+    <LinkBox
+      title="Software Engineers and the Illusion of Explanatory Depth"
+      href="/newsletters/unsusceptibility-to-the-illusion-is-inherent/#software-engineers-and-the-illusion-of-explanatory-depth"
+      description="Are software engineers less vulnerable to this bias?"
+    />
+    <LinkBox
+      title="How many programmers does it take to fix a lightbulb?"
+      href="/newsletters/surprising-and-maybe-even-unfair/#how-many-programmers-does-it-take-to-fix-a-lightbulb-fermi-estimation-in-computer-science-interviews-as-discipline-error"
+      description=" Fermi estimation in programming interviews as discipline error."
+    />
+    <LinkBox
+      title="Cinema as the cathedral of modernity"
+      href="/newsletters/you-might-not-think-you-need-a-milk-frother/#cinema-as-the-cathedral-of-modernity"
+      description="Are films the modern equivalent of medieval cathedrals?"
+    />
+    <LinkBox
+      title="Modernism as Global Monoculture"
+      href="/newsletters/a-form-of-transcendent-mysticism/#modernism-as-global-monoculture"
+      description="Is modernity a single cultural 'package'?"
+    />
+    <LinkBox
+      title="Safari is the Lightest Browser"
+      href="/newsletters/once-the-canadians-in-the-audience-recover-from-their-shock/#safari-is-the-lightest-browser"
+      description="Explaining why I like Safari (hint: it's the vibes)."
+    />
+    <LinkBox
+      title="How to Read a Lot"
+      href="/essays/reading-lots/"
+      description="My tips on reading a lot."
+    />
+    <LinkBox
+      title="Strange Things About Melbourne"
+      href="/essays/strange-things-about-melbourne/"
+      description="Interesting things I noticed while vacationing in Melbourne."
+    />
+    <LinkBox
+      title="Communities of Practice"
+      href="/newsletters/if-you-show-still-frames-in-sequence-fast-enough/#communities-of-practice"
+      description="Why I find it hard to intentionally practice photography."
+    />
+    <LinkBox
+      title="New Absurdism"
+      href="/newsletters/eh-it-wasnt-worth-celebrating-anyway/#new-absurdism"
+      description="In which I try to give a name to a new genre I see emerging."
+    />
+    <LinkBox
+      title="What’s the use of useless questions?"
+      href="/newsletters/misplaced-institutional-incentives/#whats-the-use-of-useless-questions"
+      description="Should we care who wrote the Odyssey?"
+    />
+    <LinkBox
+      title="My Favorite Bookstore Is A Library"
+      href="/newsletters/i-should-probably-take-that-outline-more-seriously/#my-favorite-bookstore-is-a-library"
+      description="Many libraries are willing to buy books for you!"
+    />
+    <LinkBox
+      title="Small Things To Make Life Better"
+      href="/misc/small-things/"
+      description="Cheap but lovely gifts to give at a surprise white elephant party."
+    />
+    <LinkBox
+      title="In Which I Wax Nostalgic for My Lost Youth"
+      href="/newsletters/in-which-i-wax-nostalgic-for-my-lost-youth/#in-which-i-wax-nostalgic-for-my-lost-youth"
+      description="A navel-gazing quarter-life crisis post."
+    />
+  </IndexGrid>
+
+  <h2 class="cv">CV</h2>
+
+  <p>
+    Professionally, I am a product engineer at <a href="https://asana.com/"
+      >Asana</a
+    > (see <a href="/resume.pdf">my resume</a>). I have a bachelor's degree in
+    computer science & mathematics from the <a href="https://www.ubc.ca/"
+      >University of British Columbia</a
+    >. I live in San Francisco with <a href="http://sherryyuan.me"
+      >my wife Sherry</a
+    > and our small canine companion Rooibos.
+  </p>
+
+  <h2>Colophon</h2>
+
+  <p>
+    This site is built with <a href="https://astro.build">Astro</a>. It
+    primarily uses the <a
+      href="https://github.com/system-fonts/modern-font-stacks#transitional"
+      >Transitional fonts</a
+    > from <a href="https://modernfontstacks.com">Modern Font Stacks</a>. The
+    site is served via <a href="https://pages.cloudflare.com"
+      >Cloudflare Pages</a
+    >. You can see the full source on <a
+      href="https://github.com/rwblickhan/astro-rwblickhan.org">Github</a
+    >.
+  </p>
+
+  <h2>Copyright</h2>
+
+  <p>
+    Unless otherwise specified, all content on this site is licensed under a <a
+      href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a
+    > license.
+  </p>
+</BaseLayout>
+
+<style>
+  .cv {
+    margin-block-start: 1rem;
+  }
+</style>
