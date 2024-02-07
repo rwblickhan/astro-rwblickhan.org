@@ -1,6 +1,6 @@
 ---
 title: Quotes
-lastUpdatedDate: 2024-01-21
+lastUpdatedDate: 2024-02-07
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -255,17 +255,20 @@ lastUpdatedDate: 2024-01-21
 
 > I don't think you can win. It says on the box it's a tragedy.
 
-- [*Kentucky Route Zero*, Act I]
+- *Kentucky Route Zero*, Act I
 
 > We saved what we could.
 
-- [*Kentucky Route Zero*, Act V]
+- *Kentucky Route Zero*, Act V
 
 > Carrington: ... well? Did you and the young man have a heart-to-heart conversation? How is he?
+>
 > Harry: He's asleep. On the floor, with a roll of paper towels as a pillow.
+>
 > Carrington: Ah... try to remember, Harry—
+>
 > Harry: No, it's alright. Let him rest.
 
-- [*Kentucky Route Zero* Epilogue]
+- *Kentucky Route Zero* Epilogue
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
