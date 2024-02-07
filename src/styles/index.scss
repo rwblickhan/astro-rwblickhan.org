@@ -37,7 +37,6 @@ html {
   background-color: var(--rwb-background-light);
   color: var(--rwb-text-light);
   font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
-  font-size: 16px;
   line-height: 1.75rem;
 
   @media (prefers-color-scheme: dark) {
@@ -47,16 +46,7 @@ html {
 }
 
 h1 {
-  font-size: 2.25rem;
-  line-height: 2rem;
-  margin-bottom: 1.5rem;
-}
-
-h2 {
-  font-size: 1.5rem;
-  line-height: 2rem;
-  font-weight: bold;
-  margin-bottom: 1rem;
+  font-size: 2rem;
 }
 
 a {
@@ -65,10 +55,6 @@ a {
   @media (prefers-color-scheme: dark) {
     color: var(--rwb-link-dark);
   }
-}
-
-p {
-  margin: 1rem 0;
 }
 
 pre {
