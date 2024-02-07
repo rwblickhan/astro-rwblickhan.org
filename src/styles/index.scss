@@ -1,19 +1,34 @@
 :root {
-  --rwb-background-light: white;
-  --rwb-background-dark: #030404;
-  --rwb-text-light: black;
-  --rwb-text-dark: #e8e6e3;
-  --rwb-link-light: #3366cc;
-  --rwb-link-dark: #689fd9;
+  // Set up variables
+  --rwb-background: white;
+  --rwb-text: black;
+  --rwb-link: #3366cc;
+
+  @media (prefers-color-scheme: dark) {
+    --rwb-background: #030404;
+    --rwb-text: #e8e6e3;
+    --rwb-link: #689fd9;
+  }
 }
+
+// Reset based on https://keithjgrant.com/posts/2024/01/my-css-resets/
 
 *,
 *::before,
 *::after {
+  // Enable border-box everywhere
   box-sizing: border-box;
 }
 
+html {
+  // Prevent font size inflation
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
 body {
+  // Remove default <body> margin
   margin: unset;
 }
 
@@ -21,6 +36,7 @@ button,
 input,
 textarea,
 select {
+  // Controls and textareas should use the same fonts
   font: inherit;
 }
 
@@ -28,43 +44,53 @@ img,
 picture,
 svg,
 canvas {
+  // Make images behave better
   display: block;
   max-inline-size: 100%;
   block-size: auto;
 }
 
-html {
-  background-color: var(--rwb-background-light);
-  color: var(--rwb-text-light);
-  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
-  line-height: 1.75rem;
-
-  @media (prefers-color-scheme: dark) {
-    background-color: var(--rwb-background-dark);
-    color: var(--rwb-text-dark);
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    // Turn off animations if prefers-reduced-motion
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }
 
+// End reset
+
+html {
+  background-color: var(--rwb-background);
+  color: var(--rwb-text);
+  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
+  line-height: 1.75rem;
+}
+
 article {
-    padding: 0 1rem;
-    margin-bottom: 3rem;
+  padding: 0 1rem;
+  margin-bottom: 3rem;
 
-    @media (min-width: 768px) {
-      margin-left: auto;
-      margin-right: auto;
+  @media (min-width: 768px) {
+    margin-left: auto;
+    margin-right: auto;
 
-      &.small {
-        max-width: 48rem;
-      }
-
-      &.medium {
-        max-width: 64rem;
-      }
-
-      &.large {
-        max-width: 80rem;
-      }
+    &.small {
+      max-width: 48rem;
     }
+
+    &.medium {
+      max-width: 64rem;
+    }
+
+    &.large {
+      max-width: 80rem;
+    }
+  }
 }
 
 h1 {
@@ -72,11 +98,7 @@ h1 {
 }
 
 a {
-  color: var(--rwb-link-light);
-
-  @media (prefers-color-scheme: dark) {
-    color: var(--rwb-link-dark);
-  }
+  color: var(--rwb-link);
 }
 
 pre {
@@ -95,4 +117,10 @@ code:not(pre code) {
   &::after {
     content: "`";
   }
+}
+
+blockquote {
+  margin: 1em 3em;
+  border-left: 2px solid #999;
+  padding-left: 1em;
 }
