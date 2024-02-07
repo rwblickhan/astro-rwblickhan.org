@@ -1,9 +1,9 @@
 ---
 title: Small Things To Make Life Better
-lastUpdatedDate: 2023-12-27
+lastUpdatedDate: 2024-02-07
 ---
 
-Alternative title: cheaper but lovely gifts to give at a surprise white elephant party.
+Alternative title: cheap but lovely gifts for a surprise white elephant party.
 
 These are some relatively cheap, relatively small things that make life just a little bit better.
 None of these are affiliate links or paid reviews - I just really like all these.
