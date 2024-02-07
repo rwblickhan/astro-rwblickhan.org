@@ -39,7 +39,7 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     line-height: 2.25rem;
 
     @media (min-width: 1024px) {
-      padding: 0 3rem;
+      padding: 0 2rem;
     }
 
     a {
@@ -60,6 +60,10 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
   .header-icons {
     display: flex;
     flex-direction: row;
-    gap: 3rem;
+    gap: 1rem;
+
+    @media (min-width: 1024px) {
+      gap: 0 2rem;
+    }
   }
 </style>
