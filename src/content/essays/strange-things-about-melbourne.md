@@ -1,6 +1,6 @@
 ---
 title: "Strange Things About Melbourne"
-lastUpdatedDate: 2023-09-22
+lastUpdatedDate: 2024-02-07
 description: "What strange things became familiar during a trip to Melbourne"
 ---
 
@@ -32,7 +32,7 @@ However, the most interesting fact is that pre fixe menus are apparently called 
 
 ## Licensed & BYO
 
-Most restaurants in Melbourne prominently advertised themselves as “Licensed & BYO”, i.e. they have a liquor license but you can also bring your own, which seemed to be mostly for wine bottles. I can’t say I’ve ever considering bringing my own alcohol to a restaurant in the Bay Area; I’m genuinely not sure if that’s even legal.
+Most restaurants in Melbourne prominently advertised themselves as “Licensed & BYO”, i.e. they have a liquor license but you can also bring your own, which seemed to be mostly for wine bottles. I can’t say I’ve ever considering bringing my own alcohol to a restaurant in the Bay Area; I’m genuinely not sure if that’s even legal. (Update after more thought: fancy restaurants offer this for wine bottles in San Francisco, usually with a "corkage fee". That said, it's rarely advertised nearly as prominently as it is in Melbourne.)
 
 Restaurants in Toronto and, if I recall correctly, Vancouver often had similar wording, either on their doors or on their menus. Theoretically, restaurants in San Francisco require a liquor license — for instance, Bissap Baobab in the Mission only recently managed to [get a license](https://www.sfchronicle.com/food/restaurants/article/bissap-baobab-bar-drinks-18326699.php) after months of trying — but I can’t recall it ever being mentioned explicitly. I’ll certainly be on the lookout for that.
 
