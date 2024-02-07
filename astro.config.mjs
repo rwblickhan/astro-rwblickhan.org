@@ -4,11 +4,10 @@ import pagefind from "astro-pagefind";
 import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
-import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   site: "https://rwblickhan.org",
-  integrations: [mdx(), pagefind(), sitemap(), tailwind()],
+  integrations: [mdx(), pagefind(), sitemap()],
   markdown: {
     remarkPlugins: [
       // Generate a table of contents if we see a "Table of Contents" header

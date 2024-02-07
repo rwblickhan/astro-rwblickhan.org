@@ -1,0 +1,90 @@
+:root {
+  --rwb-background-light: white;
+  --rwb-background-dark: #030404;
+  --rwb-text-light: black;
+  --rwb-text-dark: #e8e6e3;
+  --rwb-link-light: #3366cc;
+  --rwb-link-dark: #689fd9;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: unset;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+img,
+picture,
+svg,
+canvas {
+  display: block;
+  max-inline-size: 100%;
+  block-size: auto;
+}
+
+html {
+  background-color: var(--rwb-background-light);
+  color: var(--rwb-text-light);
+  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
+  font-size: 16px;
+  line-height: 1.75rem;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: var(--rwb-background-dark);
+    color: var(--rwb-text-dark);
+  }
+}
+
+h1 {
+  font-size: 2.25rem;
+  line-height: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--rwb-link-light);
+
+  @media (prefers-color-scheme: dark) {
+    color: var(--rwb-link-dark);
+  }
+}
+
+p {
+  margin: 1rem 0;
+}
+
+pre {
+  padding: 1rem;
+  border-radius: 0.375rem;
+}
+
+pre code {
+  white-space: pre-wrap;
+}
+
+code:not(pre code) {
+  font-weight: bolder;
+
+  &::before,
+  &::after {
+    content: "`";
+  }
+}

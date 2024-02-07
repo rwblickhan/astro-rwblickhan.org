@@ -20,18 +20,32 @@ const parentCollectionMetadata =
 ---
 
 <BaseLayout title={title} description={description}>
-  <div
-    class="px-4 my-8 md:max-w-3xl md:mx-auto prose dark:prose-invert dark:prose-headings:text-rwb-text-dark prose-a:text-rwb-link-light dark:prose-a:text-rwb-link-dark"
-  >
+  <div>
     {
       parentCollectionMetadata && (
-        <div class="mb-2">
-          <a href={parentCollectionMetadata.slug}>
-            ← {parentCollectionMetadata.title}
-          </a>
-        </div>
+        <a href={parentCollectionMetadata.slug}>
+          ← {parentCollectionMetadata.title}
+        </a>
       )
     }
     <slot />
   </div>
 </BaseLayout>
+
+<style lang="scss">
+  div {
+    padding: 0 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+    @media (min-width: 768px) {
+      max-width: 48rem;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  a {
+    margin-bottom: 0.5rem;
+  }
+</style>

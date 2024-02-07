@@ -44,6 +44,11 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
 
     a {
       text-decoration: none;
+      color: var(--rwb-text-light);
+
+      @media (prefers-color-scheme: dark) {
+        color: var(--rwb-text-dark);
+      }
 
       &:hover {
         text-decoration: underline;
