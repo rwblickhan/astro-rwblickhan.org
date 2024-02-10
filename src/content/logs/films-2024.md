@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-02-03
+lastUpdatedDate: 2024-02-10
 ---
 
 ## Movies
@@ -13,6 +13,7 @@ lastUpdatedDate: 2024-02-03
 6. *The Making of Tampopo* (1986)
 7. *Yumeji* (1991)
 8. 🔁 *In the Mood for Love* (2000)
+9. *Guillermo del Toro's Pinocchio* (2022)
 
 ## TV Shows
 
