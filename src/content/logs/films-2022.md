@@ -4,7 +4,7 @@ lastUpdatedDate: 2022-12-31
 ---
 
 1. 🔁 *Kiki's Delivery Service* (1989) (... twice)
-2. *Evangelion: 3.0+1.0 Thrice Upon a Time* (2022) (twice!)
+2. ***Evangelion: 3.0+1.0 Thrice Upon a Time*** (2022) (twice!)
 3. *Ne Zha* (2019)
 4. *Uproar in Heaven* (1964)
 5. *Meshes of the Afternoon* (1943)
@@ -14,13 +14,13 @@ lastUpdatedDate: 2022-12-31
 9. *Pierrot le fou* (1965)
 10. *Ali Wong: Don Wong* (2022)
 11. *Mountains May Depart* (2015)
-12. *Stalker* (1979)
+12. ***Stalker*** (1979)
 13. 🔁 *Spider-Man* (2002)
 14. *Destino* (2003)
 15. *Last Year at Marienbad* (1961)
 16. *West Side Story* (2021)
-17. *Everything Everywhere All at Once* (2022)
-18. *Andrei Rublev* (1966)
+17. ***Everything Everywhere All at Once*** (2022)
+18. ***Andrei Rublev*** (1966)
 19. *Mulholland Dr.* (2001)
 20. *Dr Strange in the Multiverse of Madness* (2022)
 21. *Surname Viet Given Name Nam* (1989)
@@ -52,7 +52,7 @@ lastUpdatedDate: 2022-12-31
 47. *Jabberwocky* (1977)
 48. *Black Panther: Wakanda Forever* (2022)
 49. 🔁 *The End of Evangelion* (1997)
-50. *Hausu*
+50. ***Hausu***
 51. 🔁 *Evangelion: 2.0 You Can (Not) Advance* (2009)
 52. 🔁 *Evangelion: 3.0 You Can (Not) Redo* (2012)
 53. 🔁 *Spirited Away* (2001)
