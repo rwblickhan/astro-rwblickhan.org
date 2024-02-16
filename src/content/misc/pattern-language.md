@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2023-09-25
+lastUpdatedDate: 2024-02-15
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -182,8 +182,9 @@ _Memorize anything efficiently by reviewing at spaced intervals._
 
 ### References
 
-- ["Spaced Repetition for Efficient Learning"](https://gwern.net/spaced-repetition), Gwern
+- ["Augmenting Long-Term Memory"](https://augmentingcognition.com/ltm.html), Michael Nielsen
 - ["How to make memory systems widespread?"](https://michaelnotebook.com/mmsw/), Michael Nielsen
+- ["Spaced Repetition for Efficient Learning"](https://gwern.net/spaced-repetition), Gwern
 - ["Effective Spaced Repetition"](https://borretti.me/article/effective-spaced-repetition), Fernando Boretti
 
 ### Details
