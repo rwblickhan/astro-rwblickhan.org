@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-02-04
+lastUpdatedDate: 2024-02-17
 ---
 
 1. *Halo*, Juana Molina
@@ -31,3 +31,4 @@ lastUpdatedDate: 2024-02-04
 26. *Red Headed Stranger*, Willie Nelson
 27. *The Eraser*, Thom Yorke
 28. *Hail to the Thief*, Radiohead
+29. *American Football*, American Football
