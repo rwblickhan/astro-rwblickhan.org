@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-01-20
+lastUpdatedDate: 2024-02-19
 ---
 
 ## Video Games
@@ -9,3 +9,5 @@ lastUpdatedDate: 2024-01-20
 2. *Kentucky Route Zero*
 
 ## Traditional Games
+
+1. *Root*
