@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-02-17
+lastUpdatedDate: 2024-02-21
 ---
 
 1. *Halo*, Juana Molina
@@ -32,3 +32,4 @@ lastUpdatedDate: 2024-02-17
 27. *The Eraser*, Thom Yorke
 28. *Hail to the Thief*, Radiohead
 29. *American Football*, American Football
+30. *Cassadaga*, Bright Eyes
