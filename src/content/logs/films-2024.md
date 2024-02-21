@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-02-19
+lastUpdatedDate: 2024-02-21
 ---
 
 ## Movies
@@ -15,6 +15,7 @@ lastUpdatedDate: 2024-02-19
 8. 🔁 *In the Mood for Love* (2000)
 9. *Guillermo del Toro's Pinocchio* (2022)
 10. *No Country for Old Men* (2007)
+11. *Eternal Sunshine of the Spotless Mind* (2004)
 
 ## TV Shows
 
