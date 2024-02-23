@@ -1,7 +1,7 @@
 ---
 title: Small Things To Make Life Better
 description: aka cheap but lovely gifts for a surprise white elephant party
-lastUpdatedDate: 2024-02-07
+lastUpdatedDate: 2024-02-22
 ---
 
 Alternative title: cheap but lovely gifts for a surprise white elephant party.
@@ -50,7 +50,7 @@ as well as the one I use myself.
 ## Kamenoko Tawashi
 
 Kamenoko ("baby turtle") *tawashi* scrub brushes, made famous by [*The Tatami Galaxy*](https://en.wikipedia.org/wiki/The_Tatami_Galaxy), are a replacement for icky sponges.
-Dab a little bit of dish soap and scrub away without worries. If you wash all your dishes by hand, as I do, these will surely be a delight.
+Dab a bit of dish soap and scrub away without worries. If you wash all your dishes by hand, as I do, these will surely be a delight.
 Even better, they're [only $9](https://jinenstore.com/products/kamenoko-tawashi) and last months, if not years.
 
 Here's [an ode to the kamenoko tawashi](https://catapult.co/stories/katie-okamoto-kamenoko-tawashi-turtle-brush-japanese-family), which points out that they're not actually that popular in Japan, but shh. We can love the baby turtle all the same.
@@ -66,6 +66,10 @@ I have taken multiple copies to white elephants before!
 
 [Skull](https://boardgamegeek.com/boardgame/92415/skull) is another cheap, quick party game that would be perfect for a white elephant.
 Players take turns secretly putting down skulls or roses, then take turns bidding on how many roses they can pick up without picking up a skull.
-If you win the bid, you then have to actually pick up the secret tiles; if you are successful, you're a step closer to winning, but if fail, you have to permanently discard one of your own skulls or roses for future rounds.
+If you win the bid, you then have to pick that many secret tiles; if you are successful, you're a step closer to winning, but if you fail, you have to permanently discard one of your own skulls or roses for future rounds.
 
 Like *Coup*, this is widely available for less than $20, takes less than 15 minutes to play a round, and can be taught in about that time, too.
+
+## Choya Uji Green Tea Umeshu
+
+I’m not a fan of *umeshu* (plum wine), but [Choya’s *umeshu* blended with cold-brewed green tea](https://choyausa.com/products/choya-uji-green-tea/) is my favourite alcoholic drink — the green tea perfectly balances the tart sourness of the plum. Unfortunately, it’s not always easy to find; check your local Asian supermarket, where you should be able to find it for 20 bucks.
