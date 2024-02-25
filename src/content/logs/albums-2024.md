@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-02-21
+lastUpdatedDate: 2024-02-25
 ---
 
 1. *Halo*, Juana Molina
@@ -34,3 +34,4 @@ lastUpdatedDate: 2024-02-21
 29. *American Football*, American Football
 30. *Cassadaga*, Bright Eyes
 31. *I’m Wide Awake, It’s Morning*, Bright Eyes
+32. *Monster OST*, Ryuichi Sakamoto
