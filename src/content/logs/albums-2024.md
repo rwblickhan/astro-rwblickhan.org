@@ -35,3 +35,4 @@ lastUpdatedDate: 2024-02-25
 30. *Cassadaga*, Bright Eyes
 31. *I’m Wide Awake, It’s Morning*, Bright Eyes
 32. *Monster OST*, Ryuichi Sakamoto
+33. *The Curse OST*, John Medeski
