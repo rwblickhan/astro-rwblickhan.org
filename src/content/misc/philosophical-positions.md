@@ -1,7 +1,7 @@
 ---
 title: Philosophical Positions
 description: Things I generally believe
-lastUpdatedDate: 2024-02-18
+lastUpdatedDate: 2024-02-26
 ---
 
 This is an evergreen list of philosophical positions and beliefs I generally hold.
@@ -25,6 +25,7 @@ This is an evergreen list of philosophical positions and beliefs I generally hol
 
 - I am generally a supporter of a broad public domain with relatively limited copyright.
   - As my go-to example: I believe Batman should already be in the public domain in the United States.
+- We should not attempt to [colonize Mars](https://idlewords.com/2023/1/why_not_mars.htm). Send more drones instead.
 
 ## Programming
 
