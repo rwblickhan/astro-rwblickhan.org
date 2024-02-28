@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-02-25
+lastUpdatedDate: 2024-02-28
 ---
 
 1. *Halo*, Juana Molina
@@ -36,3 +36,4 @@ lastUpdatedDate: 2024-02-25
 31. *I’m Wide Awake, It’s Morning*, Bright Eyes
 32. *Monster OST*, Ryuichi Sakamoto
 33. *The Curse OST*, John Medeski
+34. *Black Pumas*, Black Pumas
