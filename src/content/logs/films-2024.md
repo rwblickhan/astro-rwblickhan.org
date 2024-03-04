@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-02-21
+lastUpdatedDate: 2024-03-03
 ---
 
 ## Movies
@@ -16,8 +16,11 @@ lastUpdatedDate: 2024-02-21
 9. *Guillermo del Toro's Pinocchio* (2022)
 10. *No Country for Old Men* (2007)
 11. *Eternal Sunshine of the Spotless Mind* (2004)
+12. 🔁 *Dune: Part 1* (2021)
 
 ## TV Shows
 
 1. *Jujutsu Kaisen* Season 1 (2021)
 1. *Jujutsu Kaisen* Season 2 (2023)
+2. *The Curse* (2023)
+3. *Hazbin Hotel* (2024)
