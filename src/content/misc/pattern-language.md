@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-02-15
+lastUpdatedDate: 2024-03-03
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -74,13 +74,13 @@ _Deliberately practicing skills can be the most effective way to improve them._
 
 ### Details
 
-Setting aside time (the famous "10,000 hours") to deliberately practice individuals skills can be the most effective way to improve a skillset.
+Setting aside time (the famous "10,000 hours") to deliberately practice individual skills can be the most effective way to improve a skillset.
 Indeed, as Andy Matuschak explores in "Implicit practice," relying on the "implicit practice" provided by a discipline's usual work can lead to skill gaps we're not even aware of!
 
 We should be careful taking this too far. David Epstein's _Range_ argues that breadth is a depth all its own — in many disciplines, the top performers are actually people that explored a range of topics or disciplines and _didn't_ get 10,000 hours of practice.
 In particular, he argues that deliberate practice doesn't work for "wicked problems", where feedback is delayed or hard to interpret.
 
-Still, for many disciplines, from art to writing to programming to atheletics, there are individual skills that are amenable to deliberate practice.
+Still, for many disciplines, from art to writing to programming to athletics, there are individual skills that are amenable to deliberate practice.
 
 ## Digital Garden
 
@@ -132,6 +132,24 @@ Around 1993, service providers began providing much larger numbers of users with
 
 The broader lesson here is that communities, if they are to remain communities, need time to socialize new arrivals into the culture of the community.
 Otherwise, they risk becoming a place where strangers mostly interact with strangers, where there is no sense of shared norms and few repeated interactions that would encourage politeness.
+
+## Eyes on the Street
+
+*A feeling of safety in urban environments is provided by having many “eyes on the street”.*
+
+### References
+
+- *The Death and Life of Great American Cities*, Jane Jacobs
+
+### Details
+
+What makes a neighborhood feel safe or unsafe? Why did so many of the housing projects of the mid-twentieth century fail so spectacularly?
+
+One of the major arguments of Jane Jacobs’ *Death and Life* is that neighborhoods feel safe when they are more lively — when there are a wide variety of people going about many different activities at all times of day, providing many “eyes on the street” to deter wrongdoing. After all, most humans are naturally cooperative and willing to step in if something untoward is happening.
+
+Good neighborhoods — like, say, San Francisco’s North Beach — are designed to support many uses, from children going to school in the morning to workers in the office during the day to diners eating out in the evening to revelers partying at night. Bad neighborhoods — like, say, San Francisco’s Civic Center — are often oriented around a single purpose, like civic administration or corporate offices, and remain desolate at “abnormal” times. The mid-twentieth century housing projects of high modernism, like Le Corbusier’s “tower in a park” idea, were ineffective because they segregated different purposes.
+
+When in a new neighborhood, pay attention to how many “eyes on the street” you can notice.
 
 ## Illusion of Explanatory Depth
 
@@ -189,4 +207,4 @@ _Memorize anything efficiently by reviewing at spaced intervals._
 
 ### Details
 
-[Ebbinghaus' forgetting curves](https://en.wikipedia.org/wiki/Forgetting_curve) show that the most efficient way to remember something is to test yourself at increasingly-spaced intervals. As a result, with the help of spaced-repetition software and careful choice of flashcards, you can efficiently remember virtually anything you choose to.
+[Ebbinghaus' forgetting curves](https://en.wikipedia.org/wiki/Forgetting_curve) show that the most efficient way to remember something is to test yourself at increasingly-spaced intervals. As a result, with the help of spaced-repetition software and careful choice of flashcards, you can efficiently remember virtually anything you choose to. Moreover, you can use memorized details as building blocks for more complex thoughts, allowing you to learn arbitrarily-complex topics with greater effectiveness.
