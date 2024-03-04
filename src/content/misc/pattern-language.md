@@ -208,3 +208,19 @@ _Memorize anything efficiently by reviewing at spaced intervals._
 ### Details
 
 [Ebbinghaus' forgetting curves](https://en.wikipedia.org/wiki/Forgetting_curve) show that the most efficient way to remember something is to test yourself at increasingly-spaced intervals. As a result, with the help of spaced-repetition software and careful choice of flashcards, you can efficiently remember virtually anything you choose to. Moreover, you can use memorized details as building blocks for more complex thoughts, allowing you to learn arbitrarily-complex topics with greater effectiveness.
+
+
+## Speed Matters
+
+*Working quickly is important.*
+
+### References
+
+- [“Speed matters: Why working quickly is more important than it seems”](https://jsomers.net/blog/speed-matters), James Somers
+
+### Details
+
+Working fast means you can get more done per unit time. But as James Somers points out in his essay, there’s two other benefits to working fast:
+
+1. You lower the activation energy of starting a new project — you’re less likely to start a project if you think it will take a long time.
+2. Because you can get more done in the same time, you get more [deliberate practice](https://rwblickhan.org/misc/pattern-language/#deliberate-practice).
