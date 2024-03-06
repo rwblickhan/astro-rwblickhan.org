@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-02-28
+lastUpdatedDate: 2024-03-05
 ---
 
 1. *Halo*, Juana Molina
@@ -37,3 +37,4 @@ lastUpdatedDate: 2024-02-28
 32. *Monster OST*, Ryuichi Sakamoto
 33. *The Curse OST*, John Medeski
 34. *Black Pumas*, Black Pumas
+35. *Abyss*, Pastel Ghost
