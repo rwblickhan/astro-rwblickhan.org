@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-03-03
+lastUpdatedDate: 2024-03-05
 ---
 
 ## Movies
@@ -17,6 +17,7 @@ lastUpdatedDate: 2024-03-03
 10. *No Country for Old Men* (2007)
 11. *Eternal Sunshine of the Spotless Mind* (2004)
 12. 🔁 *Dune: Part 1* (2021)
+13. *Dune: Part 2* (2024)
 
 ## TV Shows
 
