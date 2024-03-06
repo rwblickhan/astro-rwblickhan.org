@@ -38,3 +38,4 @@ lastUpdatedDate: 2024-03-05
 33. *The Curse OST*, John Medeski
 34. *Black Pumas*, Black Pumas
 35. *Abyss*, Pastel Ghost
+36. *Dune: Part 2 OST*, Hans Zimmer
