@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-03-03
+lastUpdatedDate: 2024-03-06
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -21,9 +21,9 @@ _Before you remove a fence, figure out what it's for._
 
 ### Details
 
-> In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it. (G.K. Chesterton, _The Drift from Domesticity_)
+> In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it. — G.K. Chesterton, _The Drift from Domesticity_
 
-Thanks to [cultural evolution](https://rwblickhan.org/misc/pattern-language/#cultural-evolution), many perplexing human behaviors are actually highly useful, even if participants can't actively explain themselves. If you suddenly change that behavior, you might find that it was actually load-bearing — it was completely necessary for surrounding systems to function!
+Thanks to [cultural evolution](https://rwblickhan.org/misc/pattern-language/#cultural-evolution), many perplexing human behaviors are actually adaptive, even if participants can't actively explain themselves. If you suddenly change that behavior, you might find that it was load-bearing — it was completely necessary for surrounding systems to function!
 So, it's often worthwhile to investigate before changing, especially if a behavior seems confusing.
 
 Because humans occupy the [cultural niche](https://rwblickhan.org/misc/pattern-language/#cultural-niche) and many of our behaviors can be looked at through a cultural lens, Chesterton's Fence can be applied to many different fields. Programming is a particularly fruitful field — whenever dealing with legacy code, it's always useful to ask _why_ the code behaves the way it does, even if it's strange (for instace, being written in COBOL!).
@@ -49,6 +49,7 @@ _Culture is subject to evolutionary pressures._
 ### References
 
 - _The Secret of Our Success: How Culture is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter_, Joseph Henrich
+- _Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences_, Alex Mesoudi
 - _War in Human Civilization_, Azar Gat
 - _Giving Up the Gun: Japan’s Reversion to the Sword, 1543-1879_, Noel Perrin
 - ["Is Cultural Change a Darwinian Process? No."](https://culture.ghost.io/is-cultural-change-a-darwinian-process-no/), W. David Marx (for a contrary take)
@@ -147,7 +148,7 @@ What makes a neighborhood feel safe or unsafe? Why did so many of the housing pr
 
 One of the major arguments of Jane Jacobs’ *Death and Life* is that neighborhoods feel safe when they are more lively — when there are a wide variety of people going about many different activities at all times of day, providing many “eyes on the street” to deter wrongdoing. After all, most humans are naturally cooperative and willing to step in if something untoward is happening.
 
-Good neighborhoods — like, say, San Francisco’s North Beach — are designed to support many uses, from children going to school in the morning to workers in the office during the day to diners eating out in the evening to revelers partying at night. Bad neighborhoods — like, say, San Francisco’s Civic Center — are often oriented around a single purpose, like civic administration or corporate offices, and remain desolate at “abnormal” times. The mid-twentieth century housing projects of high modernism, like Le Corbusier’s “tower in a park” idea, were ineffective because they segregated different purposes.
+Good neighborhoods — like, say, San Francisco’s North Beach — support many uses, from children going to school in the morning to workers in the office during the day to diners eating out in the evening to revelers partying at night. Bad neighborhoods — like, say, San Francisco’s Civic Center — are oriented around a single purpose, like civic administration or corporate offices, and remain desolate at “abnormal” times. The mid-twentieth century housing projects of high modernism, like Le Corbusier’s “tower in a park” idea, were ineffective because they segregated different purposes.
 
 When in a new neighborhood, pay attention to how many “eyes on the street” you can notice.
 
@@ -159,6 +160,7 @@ _Humans think they understand familiar systems better than they actually do._
 
 - ["Underrated ideas in psychology: The illusion of explanatory depth"](https://www.experimental-history.com/i/57359087/the-illusion-of-explanatory-depth), Adam Mastroianni
 - ["What scientific term or concept ought to be more widely known?: The Illusion of Explanatory Depth"](https://www.edge.org/response-detail/27117), Adam Waytz
+- [“A Rant About ‘Technology’”](https://web.archive.org/web/20230318100241/http://www.ursulakleguinarchive.com/Note-Technology.html), Ursula K. Le Guin
 
 ### Details
 
@@ -167,6 +169,24 @@ How does a toilet work? A car? A computer? The economy?
 For systems we're familiar with, we tend to rate our understanding highly, but in practice most people can barely explain the basics of how a toilet works.
 This isn't necessarily a bad thing — humans are great at compartmentalizing what we need to know and what we don't.
 However, it can backfire when we forget that we don't _really_ understand things that we think we do.
+
+## Programming as Theory Building
+
+_Programming is the process of building theory of how a problem is solved, not the production of a program._
+
+### References
+
+- [“Programming as Theory Building”](https://pages.cs.wisc.edu/~remzi/Naur.pdf), Peter Naur
+
+
+### Details
+
+Why is it difficult for a new team to take over development of a program? Why does documentation sometimes prove useless for understanding a system?
+
+Peter Naur argues in this paper that programming is often misunderstood — it is not the process of producing an artifact that we call a “program”, but rather it is the process of the programmer developing a “theory” of how a particular problem can be solved using a program. In this view, the activity of “programming” *just is* developing this theory and then applying it, with the corollaries that:
+
+- A new team cannot be productive modifying an existing program until they have developed a theory of the program themselves.
+- Documentation may be helpful during the theory-building process, but is no substitute for theory-building itself.
 
 ## Rubber Duck Problem Solving
 
@@ -222,5 +242,5 @@ _Memorize anything efficiently by reviewing at spaced intervals._
 
 Working fast means you can get more done per unit time. But as James Somers points out in his essay, there’s two other benefits to working fast:
 
-1. You lower the activation energy of starting a new project — you’re less likely to start a project if you think it will take a long time.
+1. You lower the activation energy of starting a new project — you’re more likely to start a project if you think it will be quick and effortless.
 2. Because you can get more done in the same time, you get more [deliberate practice](https://rwblickhan.org/misc/pattern-language/#deliberate-practice).
