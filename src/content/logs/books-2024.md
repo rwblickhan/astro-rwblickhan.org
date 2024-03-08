@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-01-31
+lastUpdatedDate: 2024-03-07
 ---
 
 1. *War in Human Civilization*, Azar Gat
@@ -9,6 +9,7 @@ lastUpdatedDate: 2024-01-31
 4. *Emergent Tokyo: Designing the Spontaneous City*, Jorge Amalazán
 5. *A Head Full of Ghosts*, Paul Tremblay
 6. *Seraphim: 26661336 Wings*, Mamoru Oshii & Satoshi Kon (trans. Zack Davisson)
+7. *The Weirdness of the World*, Eric Schwitzgebel
 
 ## Skimmed
 
