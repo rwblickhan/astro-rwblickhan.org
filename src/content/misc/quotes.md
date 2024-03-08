@@ -272,4 +272,8 @@ lastUpdatedDate: 2024-02-07
 
 - *Kentucky Route Zero* Epilogue
 
+> Childlike philosophy toys with wild ideas at the boundaries of our understanding. Are these ideas useful or true? Can we plug them in straightaway into our existing conceptions and put them to work? For me, if I was already sure they were false and useless, that would steal away their charm. But to be in a hurry to judge their merits, to want to expunge doubt and wonder so as to settle on a final view that we can put immediately to work, to want to close rather than open — let's not be in such a rush to grow up. What's life for if there's no time to play and explore?
+
+- *The Weirdness of the World*, Eric Schwitzgebel
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
