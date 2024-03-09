@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-03-07
+lastUpdatedDate: 2024-03-08
 ---
 
 1. *War in Human Civilization*, Azar Gat
@@ -10,6 +10,7 @@ lastUpdatedDate: 2024-03-07
 5. *A Head Full of Ghosts*, Paul Tremblay
 6. *Seraphim: 26661336 Wings*, Mamoru Oshii & Satoshi Kon (trans. Zack Davisson)
 7. *The Weirdness of the World*, Eric Schwitzgebel
+8. *Foundry*, Eliot Peper
 
 ## Skimmed
 
