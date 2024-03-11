@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-03-05
+lastUpdatedDate: 2024-03-11
 ---
 
 ## Movies
@@ -18,6 +18,11 @@ lastUpdatedDate: 2024-03-05
 11. *Eternal Sunshine of the Spotless Mind* (2004)
 12. 🔁 *Dune: Part 1* (2021)
 13. *Dune: Part 2* (2024)
+14. 🔁 *Gentlemen Prefer Blondes* (1953)
+15. *Days of Being Wild* (1990)
+16. *Chungking Express* (1994)
+17. *The Master* (2012)
+18. *Wonka* (2023)
 
 ## TV Shows
 
