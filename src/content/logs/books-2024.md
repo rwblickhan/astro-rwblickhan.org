@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-03-08
+lastUpdatedDate: 2024-03-16
 ---
 
 1. *War in Human Civilization*, Azar Gat
@@ -11,6 +11,7 @@ lastUpdatedDate: 2024-03-08
 6. *Seraphim: 26661336 Wings*, Mamoru Oshii & Satoshi Kon (trans. Zack Davisson)
 7. *The Weirdness of the World*, Eric Schwitzgebel
 8. *Foundry*, Eliot Peper
+9. 🔁 *The Great Gatsby*, F. Scott Fitzgerald
 
 ## Skimmed
 
