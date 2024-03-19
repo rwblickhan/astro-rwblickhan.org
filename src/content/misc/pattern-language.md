@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-03-06
+lastUpdatedDate: 2024-03-19
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -140,13 +140,13 @@ Otherwise, they risk becoming a place where strangers mostly interact with stran
 
 ### References
 
-- *The Death and Life of Great American Cities*, Jane Jacobs
+- _The Death and Life of Great American Cities_, Jane Jacobs
 
 ### Details
 
 What makes a neighborhood feel safe or unsafe? Why did so many of the housing projects of the mid-twentieth century fail so spectacularly?
 
-One of the major arguments of Jane Jacobs’ *Death and Life* is that neighborhoods feel safe when they are more lively — when there are a wide variety of people going about many different activities at all times of day, providing many “eyes on the street” to deter wrongdoing. After all, most humans are naturally cooperative and willing to step in if something untoward is happening.
+One of the major arguments of Jane Jacobs’ _Death and Life_ is that neighborhoods feel safe when they are more lively — when there are a wide variety of people going about many different activities at all times of day, providing many “eyes on the street” to deter wrongdoing. After all, most humans are naturally cooperative and willing to step in if something untoward is happening.
 
 Good neighborhoods — like, say, San Francisco’s North Beach — support many uses, from children going to school in the morning to workers in the office during the day to diners eating out in the evening to revelers partying at night. Bad neighborhoods — like, say, San Francisco’s Civic Center — are oriented around a single purpose, like civic administration or corporate offices, and remain desolate at “abnormal” times. The mid-twentieth century housing projects of high modernism, like Le Corbusier’s “tower in a park” idea, were ineffective because they segregated different purposes.
 
@@ -178,12 +178,11 @@ _Programming is the process of building theory of how a problem is solved, not t
 
 - [“Programming as Theory Building”](https://pages.cs.wisc.edu/~remzi/Naur.pdf), Peter Naur
 
-
 ### Details
 
 Why is it difficult for a new team to take over development of a program? Why does documentation sometimes prove useless for understanding a system?
 
-Peter Naur argues in this paper that programming is often misunderstood — it is not the process of producing an artifact that we call a “program”, but rather it is the process of the programmer developing a “theory” of how a particular problem can be solved using a program. In this view, the activity of “programming” *just is* developing this theory and then applying it, with the corollaries that:
+Peter Naur argues in this paper that programming is often misunderstood — it is not the process of producing an artifact that we call a “program”, but rather it is the process of the programmer developing a “theory” of how a particular problem can be solved using a program. In this view, the activity of “programming” _just is_ developing this theory and then applying it, with the corollaries that:
 
 - A new team cannot be productive modifying an existing program until they have developed a theory of the program themselves.
 - Documentation may be helpful during the theory-building process, but is no substitute for theory-building itself.
@@ -224,11 +223,11 @@ _Memorize anything efficiently by reviewing at spaced intervals._
 - ["How to make memory systems widespread?"](https://michaelnotebook.com/mmsw/), Michael Nielsen
 - ["Spaced Repetition for Efficient Learning"](https://gwern.net/spaced-repetition), Gwern
 - ["Effective Spaced Repetition"](https://borretti.me/article/effective-spaced-repetition), Fernando Boretti
+- ["How to write good prompts: using spaced repetition to create understanding"](https://andymatuschak.org/prompts/), Andy Matuschak
 
 ### Details
 
 [Ebbinghaus' forgetting curves](https://en.wikipedia.org/wiki/Forgetting_curve) show that the most efficient way to remember something is to test yourself at increasingly-spaced intervals. As a result, with the help of spaced-repetition software and careful choice of flashcards, you can efficiently remember virtually anything you choose to. Moreover, you can use memorized details as building blocks for more complex thoughts, allowing you to learn arbitrarily-complex topics with greater effectiveness.
-
 
 ## Speed Matters
 
@@ -237,6 +236,8 @@ _Memorize anything efficiently by reviewing at spaced intervals._
 ### References
 
 - [“Speed matters: Why working quickly is more important than it seems”](https://jsomers.net/blog/speed-matters), James Somers
+- ["Being a Fast, Cogent Writer Is Useful "](https://v5.chriskrycho.com/journal/writing-productivity/), Chris Krycho
+- ["Some reasons to work on productivity and velocity"](https://danluu.com/productivity-velocity/), Dan Luu
 
 ### Details
 
