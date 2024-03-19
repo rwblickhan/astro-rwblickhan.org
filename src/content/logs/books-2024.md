@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-03-16
+lastUpdatedDate: 2024-03-18
 ---
 
 1. *War in Human Civilization*, Azar Gat
@@ -12,6 +12,7 @@ lastUpdatedDate: 2024-03-16
 7. *The Weirdness of the World*, Eric Schwitzgebel
 8. *Foundry*, Eliot Peper
 9. 🔁 *The Great Gatsby*, F. Scott Fitzgerald
+10. *The Wonderful Wizard of Oz*, L. Frank Baum
 
 ## Skimmed
 
