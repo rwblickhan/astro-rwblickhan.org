@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-03-05
+lastUpdatedDate: 2024-03-21
 ---
 
 1. *Halo*, Juana Molina
@@ -39,3 +39,4 @@ lastUpdatedDate: 2024-03-05
 34. *Black Pumas*, Black Pumas
 35. *Abyss*, Pastel Ghost
 36. *Dune: Part 2 OST*, Hans Zimmer
+37. *Impossible à aimer*, Cœur de pirate
