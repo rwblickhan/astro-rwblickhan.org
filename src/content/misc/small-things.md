@@ -45,7 +45,7 @@ It's reasonably quality, with a magnetic latch for the lid, and it holds plenty 
 
 ### Hario Cold Brew Tea Bottle
 
-Cold-brewing tea has suddenly become popular in the Bay Area. Cold-brewing takes a few hours or even days — since hot water steeps much faster — but it results in delicious, refreshing chilled tea with a distinctive taste; I particularly like cold-brewing [Vahdam’s rose black tea](https://www.vahdam.com/products/blooming-rose-black-tea).
+Cold-brewing tea has suddenly become popular in the Bay Area. Cold-brewing takes a few hours or even days — since hot water steeps much faster — but it results in delicious, refreshing chilled tea with a distinctive taste; I particularly like cold-brewing [Vahdam’s rose black tea](https://www.vahdam.com/products/blooming-rose-black-tea) and I also use cold-brew tea to make [tea soda](https://rwblickhan.org/misc/recipes/teasoda/).
 
 [Hario’s cold-brew bottle](https://www.hario-usa.com/products/cold-brew-tea-wine-bottle-set) (only $30!) makes this process a delight. Put a few tablespoons of loose-leaf tea at the bottom and fill it up with water. Leave the bottle in the fridge for a few hours. When you take it out, pour through the filtered cap and try a sip from the included tasting glasses.
 
