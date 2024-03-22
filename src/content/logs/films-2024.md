@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-03-11
+lastUpdatedDate: 2024-03-22
 ---
 
 ## Movies
@@ -23,6 +23,7 @@ lastUpdatedDate: 2024-03-11
 16. *Chungking Express* (1994)
 17. *The Master* (2012)
 18. *Wonka* (2023)
+19. 🔁 *The Prestige* (2006)
 
 ## TV Shows
 
