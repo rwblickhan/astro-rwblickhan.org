@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-03-18
+lastUpdatedDate: 2024-03-22
 ---
 
 1. *War in Human Civilization*, Azar Gat
@@ -13,6 +13,7 @@ lastUpdatedDate: 2024-03-18
 8. *Foundry*, Eliot Peper
 9. 🔁 *The Great Gatsby*, F. Scott Fitzgerald
 10. *The Wonderful Wizard of Oz*, L. Frank Baum
+11. *The Marvelous Land of Oz*, L. Frank Baum
 
 ## Skimmed
 
