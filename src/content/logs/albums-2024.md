@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-03-22
+lastUpdatedDate: 2024-03-23
 ---
 
 1. *Halo*, Juana Molina
@@ -41,3 +41,4 @@ lastUpdatedDate: 2024-03-22
 36. *Dune: Part 2 OST*, Hans Zimmer
 37. *Impossible à aimer*, Cœur de pirate
 38. *Three*, Four Tet
+39. *Life Under The Gun*, Militarie Gun
