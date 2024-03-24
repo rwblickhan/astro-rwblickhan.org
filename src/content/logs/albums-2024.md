@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-03-23
+lastUpdatedDate: 2024-03-24
 ---
 
 1. *Halo*, Juana Molina
@@ -42,3 +42,4 @@ lastUpdatedDate: 2024-03-23
 37. *Impossible à aimer*, Cœur de pirate
 38. *Three*, Four Tet
 39. *Life Under The Gun*, Militarie Gun
+40. *Mañana Será Bonito (Bichota Season)*, Karol G
