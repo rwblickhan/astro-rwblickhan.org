@@ -45,3 +45,4 @@ lastUpdatedDate: 2024-03-24
 40. *Mañana Será Bonito (Bichota Season)*, Karol G
 41. *Mañana Será Bonito*, Karol G
 42. *Tin Drum*, Japan
+43. *Aurora*, Maxence Cyrin
