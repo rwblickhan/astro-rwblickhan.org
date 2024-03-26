@@ -1,7 +1,6 @@
 ---
 import IndexLayout from "./IndexLayout.astro";
 import IndexGrid from "../components/IndexGrid.astro";
-import LinkBox from "../components/LinkBox.astro";
 
 export interface Post {
   data: { title: string; description?: string; lastUpdatedDate: Date };
@@ -20,16 +19,5 @@ const { title, description, posts, makeHref } = Astro.props;
 
 <IndexLayout title={title} description={description}>
   <slot name="header" />
-  <IndexGrid>
-    {
-      posts.map((post) => (
-        <LinkBox
-          title={post.data.title}
-          href={makeHref(post.slug)}
-          description={post.data.description}
-          lastUpdatedDate={post.data.lastUpdatedDate}
-        />
-      ))
-    }
-  </IndexGrid>
+  <IndexGrid posts={{ posts, makeHref }} />
 </IndexLayout>
