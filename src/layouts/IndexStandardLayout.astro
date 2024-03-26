@@ -19,6 +19,7 @@ const { title, description, posts, makeHref } = Astro.props;
 ---
 
 <IndexLayout title={title} description={description}>
+  <slot name="header" />
   <IndexGrid>
     {
       posts.map((post) => (

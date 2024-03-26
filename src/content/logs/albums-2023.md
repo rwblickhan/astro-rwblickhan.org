@@ -23,8 +23,8 @@ lastUpdatedDate: 2023-12-31
 18. *Bronco*, Orville Peck
 19. *Songs The Lord Taught Us*, The Cramps
 20. *Psychedelic Jungle*, The Cramps
-21. *In Rainbow Roads*, on4words
-22. *Fleet Foxes*, Fleet Foxes
+21. ❤️ *In Rainbow Roads*, on4words
+22. ❤️ *Fleet Foxes*, Fleet Foxes
 23. *Noble Beast*, Andrew Bird
 24. *Dive Deep*, Andrew Belle
 25. *El Bueno Y El Malo*, Hermanos Gutierrez
@@ -54,7 +54,7 @@ lastUpdatedDate: 2023-12-31
 49. *Journey Through the Secret Life of Plants*, Stevie Wonder
 50. *Your Mother Should Know*, Brad Mehldau
 51. *Klaus Nomi*, Klaus Nomi
-52. *This Is Why*, Paramore
+52. ❤️ *This Is Why*, Paramore
 53. *Everything I Know About Love*, Laufey
 54. *Typical of Me EP*, Laufey
 55. *Take Me to Your Leader*, King Geedorah
@@ -81,7 +81,7 @@ lastUpdatedDate: 2023-12-31
 76. *Everything Ecstatic*, Four Tet
 77. *1996*, Ryuichi Sakamoto
 78. */05*, Ryuichi Sakamoto
-79. *async*, Ryuichi Sakamoto
+79. ❤️ *async*, Ryuichi Sakamoto
 80. *FLCL Season 1 Vol. 1 OST*, the pillows
 81. *Depression Cherry*, Beach House
 82. *Miracle-Level*, Deerhoof
@@ -89,7 +89,7 @@ lastUpdatedDate: 2023-12-31
 84. *Life Metal*, sunn O)))
 85. *Pyroclasts*, sunn O)))
 86. *A Love Supreme*, John Coltrane
-87. *The Last Black Man in San Francisco OST*, Emile Mosseri
+87. ❤️ *The Last Black Man in San Francisco OST*, Emile Mosseri
 88. *3 Feet High and Rising*, De La Soul
 89. *De La Soul Is Dead*, De La Soul
 90. *It Is What It Is*, Thundercat
@@ -106,7 +106,7 @@ lastUpdatedDate: 2023-12-31
 101. *Sowiesoso*, Cluster
 102. *Zuckerzeit*, Cluster
 103. *Cluster II*, Cluster
-104. *10,000 gecs*, 100 gecs
+104. ❤️ *10,000 gecs*, 100 gecs
 105. *The Greatest Remaining Hits*, The Cotton Modules
 106. *SPEED RUN*, Frost Children
 107. *Buhloone Mindstate*, De La Soul
@@ -197,7 +197,7 @@ lastUpdatedDate: 2023-12-31
 192. *Zephyr*, Niki
 193. *MOONCHILD*, Niki
 194. *Nicole*, Niki
-195. *The Visitors*, ABBA
+195. ❤️ *The Visitors*, ABBA
 196. *Sempiternal*, Bring Me The Horizon
 197. *NOT TiGHT*, DOMi & DJ BECK
 198. *Petit Biscuit EP*, Petit Biscuit
@@ -249,7 +249,7 @@ lastUpdatedDate: 2023-12-31
 244. *Paths*, G Jones
 245. *Like What EP*, Tennyson
 246. *Dreamland*, Zhu
-247. *Carrie & Lowell*, Sufjan Stevens
+247. ❤️ *Carrie & Lowell*, Sufjan Stevens
 248. *Virtual Self EP*, Virtual Self
 249. *Second Sky 2022 (DJ Mix)*, Virtual Self & G Jones
 250. *High Strangeness*, Tulip
@@ -291,7 +291,7 @@ lastUpdatedDate: 2023-12-31
 286. *Mahjong Room*, Ginger Root
 287. *Question No. 13*, Veltpunch
 288. *The In Sound from Way Out!*, Beastie Boys
-289. *God Is Partying*, Andrew W.K.
+289. ❤️ *God Is Partying*, Andrew W.K.
 290. *Transatlanticism*, Death Cab for Cutie
 291. *Surround*, Hiroshi Yoshimura
-292. *Wed 21*, Juana Molina
+292. ❤️ *Wed 21*, Juana Molina

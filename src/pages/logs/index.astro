@@ -13,4 +13,9 @@ const posts = (await getCollection("logs")).sort(
   description="Logs index page"
   posts={posts}
   makeHref={(slug) => `/logs/${slug}`}
-/>
+>
+  <p slot="header">
+    Logs marked ❤️ were on my favorite-of-the-year list for that year; logs
+    marked 🔁 were a repeat read/view/listen.
+  </p>
+</IndexStandardLayout>

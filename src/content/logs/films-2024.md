@@ -28,6 +28,6 @@ lastUpdatedDate: 2024-03-22
 ## TV Shows
 
 1. *Jujutsu Kaisen* Season 1 (2021)
-1. *Jujutsu Kaisen* Season 2 (2023)
-2. *The Curse* (2023)
-3. *Hazbin Hotel* Season 1 (2024)
+2. *Jujutsu Kaisen* Season 2 (2023)
+3. *The Curse* (2023)
+4. *Hazbin Hotel* Season 1 (2024)

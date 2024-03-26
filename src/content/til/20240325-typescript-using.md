@@ -28,6 +28,7 @@ using cache = Cache("cache.db");
 ```
 
 ## References
+
 - [`using`
 Declarations and Explicit Resource Management](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-2.html#using-declarations-and-explicit-resource-management), TypeScript 5.2 Release Notes
 - [“TypeScript 5.2's New Keyword: 'using’”](https://www.totaltypescript.com/typescript-5-2-new-keyword-using), Total TypeScript

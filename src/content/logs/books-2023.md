@@ -3,7 +3,7 @@ title: Books of 2023
 lastUpdatedDate: 2023-12-31
 ---
 
-1. ***The Hearing Trumpet***, Leonora Carrington
+1. ❤️ *The Hearing Trumpet*, Leonora Carrington
 2. *The Sandman Vol. 7: Brief Lives*, Neil Gaiman
 3. *How the World Really Works: The Science Behind How We Got Here and Where We're Going*, Vaclav Smil
 4. *Shuna's Journey*, Hayao Miyazaki (trans. Alex Dudok de Wit)
@@ -11,7 +11,7 @@ lastUpdatedDate: 2023-12-31
 6. *Sex Criminals Vol. 1: One Weird Trick*, Matt Fraction & Chip Zdarsky
 7. *Kill 6 Billion Demons Book 1*, Tom Parkinson-Morgan
 8. *Epicureanism: A Very Short Introduction*, Catherine Wilson
-9. ***Tomorrow, and Tomorrow, and Tomorrow***, Gabrielle Zevin
+9. ❤️ *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
 10. *Kill 6 Billion Demons Book 2: Wielder of Names*, Tom Parkinson-Morgan
 11. 🔁 *The Bloody Chamber*, Angela Carter
 12. *The Incal*, Alejandro Jodorowsky & Moebius
@@ -20,7 +20,7 @@ lastUpdatedDate: 2023-12-31
 15. *Lud-in-the-Mist*, Hope Mirrlees
 16. *How to Be Perfect: The Correct Answer to Every Moral Question*, Michael Schur
 17. *A Court of Thorns and Roses*, Sarah J. Maas
-18. ***Something To Do With Paying Attention***, David Foster Wallace
+18. ❤️ *Something To Do With Paying Attention*, David Foster Wallace
 19. *Contested Will: Who Wrote Shakespeare?*, James Shapiro
 20. *The Sandman Vol. 8: Worlds' End*, Neil Gaiman
 21. *The Tatami Galaxy*, Tomihiko Morimi (trans. Emily Balistrieri)
@@ -33,7 +33,7 @@ lastUpdatedDate: 2023-12-31
 28. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
 29. *Don't Panic: Douglas Adams & The Hitchhiker's Guide to the Galaxy*, Neil Gaiman
 30. *The Original Hitch-Hiker's Radio Scripts: 10th Anniversary Edition*, Douglas Adams
-31. ***The Magic Fish***, Trung Le Nguyen
+31. ❤️ *The Magic Fish*, Trung Le Nguyen
 32. *American Born Chinese*, Gene Luen Yang
 33. *The Sandman Vol. 10: The Wake*, Neil Gaiman
 34. *Sex Criminals Vol. 3: Three The Hard Way*, Matt Fraction & Chip Zdarsky
@@ -61,7 +61,7 @@ lastUpdatedDate: 2023-12-31
 56. *Look Back*, Tatsuki Fujimoto (trans. Amanda Haley)
 57. *The Chinese Myths: A Guide to the Gods and Legends*, Tao Tao Liu
 58. *20th Century Boys: The Perfect Edition Vol. 2*, Naoki Urasawa (trans. Akemi Wegmuller)
-59. ***The Unbearable Lightness of Being***, Milan Kundera (trans. Michael Henry Heim)
+59. ❤️ *The Unbearable Lightness of Being*, Milan Kundera (trans. Michael Henry Heim)
 60. *Range: Why Generalists Triumph in a Specialized World*, David Epstein
 61. *Opus*, Satoshi Kon (trans. Zack Davisson)
 62. *The Man Who Was Thursday: A Nightmare*, G.K. Chesterton

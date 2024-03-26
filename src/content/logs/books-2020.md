@@ -10,10 +10,10 @@ lastUpdatedDate: 2020-12-31
 3. *Maoism: A Global History*, Julia Lovell
 4. *A History of Philosophy Without Any Gaps: Volume 1 - Classical Philosophy*, Peter Adamson
 5. *Fifth Sun: A New History of the Aztecs*, Camilla Townsend
-6. ***The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter***, Joseph Henrich
+6. ❤️ The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter, Joseph Henrich
 7. *The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the 21st Century*, Thant Myint-U
 8. *Serve the People!*, Yan Lianke (trans. Julia Lovell)
-9. ***The Hungry Brain: Outsmarting the Instincts That Make Us Overeat***, Stephan Guyenet
+9. ❤️ *The Hungry Brain: Outsmarting the Instincts That Make Us Overeat*, Stephan Guyenet
 10. *Legend of the Condor Heroes #1: A Hero Born*, Jin Yong (trans. Anna Holmwood)
 11. *Introducing Daoism*, Livia Kohn
 12. 🔁 *The Westing Game*, Ellen Raskin
@@ -24,10 +24,10 @@ lastUpdatedDate: 2020-12-31
 17. *Timaeus* and *Critias*, Plato (trans. Robin Waterfield)
 18. *The Golden Ass*, Apuleius (trans. P.G. Walsh)
 19. *Handbook of Chinese Mythology*, Yang Lihui, An Deming, and Jessica Anderson Turner
-20. ***The Iliad***, Homer (trans. Caroline Alexander)
+20. ❤️ *The Iliad*, Homer (trans. Caroline Alexander)
 21. 🔁 *The Odyssey*, Homer (trans. Emily Wilson)
 22. *The Trojan Women*, Euripides (trans. Emily Wilson)
-23. ***The Peach Blossom Fan***, Kong Shangren (trans. Chen Shih-Hsiang, Harold Acton, and Cyril Birch)
+23. ❤️ *The Peach Blossom Fan*, Kong Shangren (trans. Chen Shih-Hsiang, Harold Acton, and Cyril Birch)
 24. *Myths from Mesopotamia* (trans. Stephanie Dalley)
 25. *Dao De Jing: A Philosophical Translation - “Making This Life Significant”* (trans. Roger T. Ames and David L. Hall)
 26. *Helen*, Euripides (trans. Emily Wilson)
@@ -56,6 +56,6 @@ lastUpdatedDate: 2020-12-31
 49. *The Chronicles of Narnia: The Lion, The Witch, and the Wardrobe*, C.S. Lewis
 50. *The Chronicles of Narnia: Prince Caspian*, C.S. Lewis
 51. *Notes from Underground*, Fyodor Dostoevsky (trans. Richard Pevear and Larissa Volokhonsky)
-52. ***The Kiss Quotient***, Helen Hoang
+52. ❤️ *The Kiss Quotient*, Helen Hoang
 53. *Beowulf* (trans. Seamus Heaney)
 54. *The Chronicles of Narnia: The Voyage of the Dawn Treader*, C.S. Lewis

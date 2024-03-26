@@ -7,7 +7,7 @@ lastUpdatedDate: 2022-12-31
 2. *Analects of Confucius* (trans. Edward Slingerland)
 3. *All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told*, Douglas Wolk
 4. *Dune Messiah*, Frank Herbert
-5. ***Don Quixote***, Miguel de Cervantes (trans. Edith Grossman)
+5. ❤️ *Don Quixote*, Miguel de Cervantes (trans. Edith Grossman)
 6. *Faust: A Tragedy*, Johann Wolfgang von Goethe (trans. Martin Greenberg)
 7. *The Minimalist Entrepreneur: How Great Founders Do More With Less*, Sahil Lavingia
 8. 🔁 *The Tempest*, Shakespeare
@@ -36,40 +36,40 @@ lastUpdatedDate: 2022-12-31
 31. *William Blake vs. the World*, John Higgs
 32. *Why We Fight: The Roots of War and the Paths to Peace*, Christopher Blattman
 33. *The Plague Cycle: The Unending War Between Humanity and Infectious Disease*, Charles Kenny
-34. ***A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life***, George Saunders
+34. ❤️ *A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life*, George Saunders
 35. *tmux 2: Productive Mouse-Free Development*, Brian P. Hogan
 36. *How Religion Evolved: And Why It Endures*, Robin Dunbar
 37. *The Death and Life of Great American Cities*, Jane Jacobs
-38. ***The Lathe of Heaven***, Ursula K. Le Guin
+38. ❤️ *The Lathe of Heaven*, Ursula K. Le Guin
 39. *The Bright Ages: A New History of Medieval Europe*, Matthew Gabriele & David M. Perry
 40. *The Invaders: How Humans and Their Dogs Drove Neanderthals to Extinction*, Pat Shipman
 41. *Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life*, Eric Klinenberg
-42. ***The Sandman Vol. 1: Preludes & Nocturnes***, Neil Gaiman
+42. ❤️ *The Sandman Vol. 1: Preludes & Nocturnes*, Neil Gaiman
 43. *The Light Ages: The Surprising Story of Medieval Science*, Seb Falk
 44. *Doom Patrol: Weight of the Worlds*, Gerard Way
 45. *The Umbrella Academy Vol. 1: Apocalpyse Suite*, Gerard Way & Gabriel Ba
 46. *Here*, Richard McGuire
-47. ***The Last Unicorn***, Peter S. Beagle
+47. ❤️ *The Last Unicorn*, Peter S. Beagle
 48. *Keep Sharp: Build a Better Brain at Any Age*, Sanjay Gupta & Kristin Loberg
 49. *The Checklist Manifesto: How to Get Things Right*, Atul Gawande
-50. ***The Sandman Vol. 2: The Doll’s House***, Neil Gaiman
-51. ***The Sandman Vol. 3: Dream Country***, Neil Gaiman
+50. ❤️ *The Sandman Vol. 2: The Doll’s House*, Neil Gaiman
+51. ❤️ *The Sandman Vol. 3: Dream Country*, Neil Gaiman
 52. *The Crucible*, Arthur Miller
-53. ***The Plague***, Albert Camus (trans. Laura Marris)
-54. ***Orlando: A Biography***, Virginia Woolf
+53. ❤️ *The Plague*, Albert Camus (trans. Laura Marris)
+54. ❤️ *Orlando: A Biography*, Virginia Woolf
 55. *LaserWriter II*, Tamara Shopsin
 56. *Gulliver's Travels*, Jonathan Swift
-57. ***His Dark Materials: Book 2 - The Subtle Knife***, Philip Pullman
+57. ❤️ *His Dark Materials: Book 2 - The Subtle Knife*, Philip Pullman
 58. 🔁 “Rappaccini’s Daughter”, Nathaniel Hawthorne
 59. “The Yellow Wallpaper”, Charlotte Perkins Gilman
-60. 🔁 ***Faust: A Tragedy***, Johann Wolfgang von Goethe (trans. Walter Arndt, ed. Cyrus Hamlin)
+60. 🔁 ❤️ *Faust: A Tragedy*, Johann Wolfgang von Goethe (trans. Walter Arndt, ed. Cyrus Hamlin)
 61. *Randical Candor: Be a Kick-Ass Boss Without Losing Your Humanity*, Kim Scott
-62. ***The Sandman Vol. 4: Season of Mists***, Neil Gaiman
-63. ***The Sandman Vol. 5: A Game of You***, Neil Gaiman
+62. ❤️ *The Sandman Vol. 4: Season of Mists*, Neil Gaiman
+63. ❤️ *The Sandman Vol. 5: A Game of You*, Neil Gaiman
 64. 🔁 *The Scarlet Letter*, Nathaniel Hawthorne
 65. 🔁 *A Midsummer Night's Dream*, William Shakespeare
 66. *Hell House*, Richard Matheson
-67. ***The English Understand Wool***, Helen DeWitt
+67. ❤️ *The English Understand Wool*, Helen DeWitt
 68. *Uzumaki: Spiral into Horror*, Junji Ito
 69. 🔁 *Batman: The Dark Knight Returns*, Frank Miller
 70. *The Sandman Vol. 6: Fables & Reflections*, Neil Gaiman
