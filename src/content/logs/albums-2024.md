@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-03-24
+lastUpdatedDate: 2024-03-25
 ---
 
 1. *Halo*, Juana Molina
@@ -47,3 +47,4 @@ lastUpdatedDate: 2024-03-24
 42. *Tin Drum*, Japan
 43. *Aurora*, Maxence Cyrin
 44. *Melancholy Island*, Maxence Cyrin
+45. *Springsong*, Maxence Cyrin
