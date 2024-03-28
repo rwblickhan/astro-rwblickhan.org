@@ -1,7 +1,7 @@
 ---
 title: Philosophical Positions
 description: Things I generally believe
-lastUpdatedDate: 2024-02-26
+lastUpdatedDate: 2024-03-27
 ---
 
 This is an evergreen list of philosophical positions and beliefs I generally hold.
@@ -32,3 +32,8 @@ This is an evergreen list of philosophical positions and beliefs I generally hol
 - I strongly prefer statically-typed languages and will almost always choose a statically-typed language over a dynamically-typed language.
   - I don't have a strong empirical reason for this preference; it just matches how my brain works.
 - I believe software engineering really is a form of engineering, thanks to Hillel Wayne's ["Are We Really Engineers?" crossover project](https://www.hillelwayne.com/post/are-we-really-engineers/).
+
+## Other Tools
+
+- [Checklists are great](https://atulgawande.com/book/the-checklist-manifesto/). We should use more checklists.
+- [Spaced repetition is great](https://rwblickhan.org/misc/pattern-language/#spaced-repetition). We should use more spaced repetition systems.
