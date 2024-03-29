@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-03-22
+lastUpdatedDate: 2024-03-28
 ---
 
 ## Movies
@@ -24,6 +24,7 @@ lastUpdatedDate: 2024-03-22
 17. *The Master* (2012)
 18. *Wonka* (2023)
 19. 🔁 *The Prestige* (2006)
+20. *The Zone of Interest* (2024)
 
 ## TV Shows
 
