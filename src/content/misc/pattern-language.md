@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-03-19
+lastUpdatedDate: 2024-03-29
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -71,6 +71,7 @@ _Deliberately practicing skills can be the most effective way to improve them._
 - ["The Role of Deliberate Practice in the Acquisition of Expert Performance"](https://jsomers.net/blog/deliberate-practice), James Somers
 - ["Implicit practice: a sight reading parable"](https://andymatuschak.org/sight-reading/), Andy Matuschak
 - ["Having a creative practice as a programmer"](https://the.scapegoat.dev/having-a-creative-practice-as-a-programmer/), the scapegoat dev
+- ["Some reasons to work on productivity and velocity"](https://danluu.com/productivity-velocity/), Dan Luu
 - [_Range_](https://search.worldcat.org/title/1099594495), David Epstein (for a slightly contrary take)
 
 ### Details
