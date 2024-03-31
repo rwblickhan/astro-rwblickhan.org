@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-03-25
+lastUpdatedDate: 2024-03-30
 ---
 
 1. *Halo*, Juana Molina
@@ -48,3 +48,4 @@ lastUpdatedDate: 2024-03-25
 43. *Aurora*, Maxence Cyrin
 44. *Melancholy Island*, Maxence Cyrin
 45. *Springsong*, Maxence Cyrin
+46. *3 Body Problem OST*, Ramin Djawadi
