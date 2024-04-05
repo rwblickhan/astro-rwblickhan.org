@@ -50,3 +50,4 @@ lastUpdatedDate: 2024-04-04
 45. *Springsong*, Maxence Cyrin
 46. *3 Body Problem OST*, Ramin Djawadi
 47. *Cowboy Carter*, Beyoncé
+48. *A La Sala*, Khruangbin
