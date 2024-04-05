@@ -26,8 +26,6 @@
     "sanitize-html": "^2.13.0",
     "sass": "^1.69.6",
     "sharp": "^0.32.6",
-    "stylelint": "^16.3.1",
-    "stylelint-config-standard-scss": "^13.1.0",
     "typescript": "^5.3.2"
   }
 }
