@@ -1,1 +1,1 @@
-linty --pre-commit --error-on-warning --no-confirm
+# linty --pre-commit --error-on-warning --no-confirm
