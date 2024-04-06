@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-04
+lastUpdatedDate: 2024-04-06
 ---
 
 1. *Halo*, Juana Molina
@@ -51,3 +51,4 @@ lastUpdatedDate: 2024-04-04
 46. *3 Body Problem OST*, Ramin Djawadi
 47. *Cowboy Carter*, Beyoncé
 48. *A La Sala*, Khruangbin
+49. *The Golden Renaissance: William Byrd*, Stile Antico
