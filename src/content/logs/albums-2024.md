@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-06
+lastUpdatedDate: 2024-04-07
 ---
 
 1. *Halo*, Juana Molina
@@ -52,3 +52,4 @@ lastUpdatedDate: 2024-04-06
 47. *Cowboy Carter*, Beyoncé
 48. *A La Sala*, Khruangbin
 49. *The Golden Renaissance: William Byrd*, Stile Antico
+50. *Akoma*, Jlin
