@@ -34,8 +34,8 @@ And that’s it! Seems kinda dangerous but that’s JavaScript for you 🤷‍�
 
 ```typescript
 const questions = QUESTIONS.map((question) => ({
-	...question,
-	answers: question.answers.toShuffled()
+  ...question,
+  answers: question.answers.toShuffled()
 })).toShuffled();
 ```
 
