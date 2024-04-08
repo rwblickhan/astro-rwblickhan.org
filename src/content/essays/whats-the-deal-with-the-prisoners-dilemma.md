@@ -1,6 +1,6 @@
 ---
 title: What’s the Deal with the Prisoner’s Dilemma?
-lastUpdatedDate: 2024-04-06
+lastUpdatedDate: 2024-04-07
 description: Why the Prisoner’s Dilemma is important
 ---
 
@@ -69,6 +69,8 @@ Intuitively, the “best” solution is for both players to cooperate, and indee
 
 Unfortunately, the case where both players defect is the only Nash equilibrium in this game. Defecting is *always* a better option for each player, regardless of what the other player chooses. If P2 is cooperating, then P1 can get away with the crime completely by defecting. On the other hand, if P2 is defecting, P1 is going to take the full burden of the punishment, but they can lower their own punishment by also defecting. Hence, they are both incentivized to defect. Thus, the only Nash equilibrium is not Pareto optimal, and none of the Pareto optimal states are the Nash equilibrium.
 
+<!-- markdownlint-disable no-trailing-punctuation -->
+
 ## Wait, But What About...
 
 You may have noticed we made a few assumptions in the definition of the Prisoner’s Dilemma. What if one player is altruistic and takes the blame for the whole crime? What if the players knew they were going to be faced with this choice and coordinated on a plan beforehand?
@@ -81,8 +83,8 @@ In any case, the main point stands: there are at least some conceivable situatio
 
 ## References
 
--  “Strategic-form games”, *Game Theory*, Maschler, Solan, and Zamir
--  “Dominance and best response”, *Strategy: An Introduction to Game Theory*, Joel Watson
+- “Strategic-form games”, *Game Theory*, Maschler, Solan, and Zamir
+- “Dominance and best response”, *Strategy: An Introduction to Game Theory*, Joel Watson
 
 [^nash]: It’s named after John Nash, aka the *A Beautiful Mind* guy, because he proved every competitive game has at least one Nash equilibrium, although players might have to adopt a “mixed strategy” where they partially randomize their choice of strategy.
 [^olaf]: That feels like a pretty safe assumption in the case of Olaf and Esmé.
