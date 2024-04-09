@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-07
+lastUpdatedDate: 2024-04-08
 ---
 
 1. *Halo*, Juana Molina
@@ -54,3 +54,4 @@ lastUpdatedDate: 2024-04-07
 49. *The Golden Renaissance: William Byrd*, Stile Antico
 50. *Akoma*, Jlin
 51. *Black Origami*, Jlin
+52. *Dark Energy*, Jlin
