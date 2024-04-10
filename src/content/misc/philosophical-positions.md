@@ -1,7 +1,7 @@
 ---
 title: Philosophical Positions
 description: Things I generally believe
-lastUpdatedDate: 2024-03-27
+lastUpdatedDate: 2024-04-10
 ---
 
 This is an evergreen list of philosophical positions and beliefs I generally hold.
@@ -15,6 +15,7 @@ This is an evergreen list of philosophical positions and beliefs I generally hol
 - As a corollary to the previous three bullet points, I reject the existence of [p-zombies](https://plato.stanford.edu/entries/zombies/); that is, creatures identical to humans but lacking conscious experience.
   - In particular, by the three points above, consciousness just *is* an illusion produced as a side effect of sufficiently complex information-processing systems, in which case it would not be possible to have a creature identical to humans in information-processing capability but lacking qualia.
 - As an additional corollary, I'm agnostic as to whether large language models (LLMs) are merely ["stochastic parrots"](https://dl.acm.org/doi/10.1145/3442188.3445922) or may be conscious; indeed, in the theory above, the distinction is not particularly meaningful!
+- I find the [overfitted brain hypothesis](https://pubmed.ncbi.nlm.nih.gov/34036289/) fairly convincing. It argues that dreams are an attempt to fight "overfitting" in a statistical sense by generating noisy, out-of-distribution data, similar to how deep neural networks can benefit from training on noisy or corrupted inputs.
 
 ## Epistemology
 
