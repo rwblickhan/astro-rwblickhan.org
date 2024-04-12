@@ -1,4 +1,5 @@
-import { defineCollection, z } from "astro:content";
+import { defineCollection } from "astro/content/runtime";
+import { z } from "astro/zod";
 
 const fiction = defineCollection({
   schema: z.object({
@@ -33,9 +34,11 @@ const technical = defineCollection({
   }),
 });
 
-const logs = defineCollection({
+const tilTechnical = defineCollection({
   schema: z.object({
     title: z.string(),
+    description: z.string(),
+    tags: z.array(z.string()),
     lastUpdatedDate: z
       .string()
       .or(z.date())
@@ -43,11 +46,9 @@ const logs = defineCollection({
   }),
 });
 
-const til = defineCollection({
+const logs = defineCollection({
   schema: z.object({
     title: z.string(),
-    description: z.string(),
-    tags: z.array(z.string()),
     lastUpdatedDate: z
       .string()
       .or(z.date())
@@ -93,7 +94,7 @@ const collections = {
   fiction,
   essays,
   technical,
-  til,
+  tilTechnical,
   logs,
   misc,
   newsletters,

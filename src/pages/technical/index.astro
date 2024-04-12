@@ -6,7 +6,7 @@ import IndexGrid from "../../components/IndexGrid.astro";
 const posts = (await getCollection("technical")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
-const tilPosts = (await getCollection("til")).sort(
+const tilPosts = (await getCollection("tilTechnical")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
 ---

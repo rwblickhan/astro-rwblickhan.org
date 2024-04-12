@@ -17,7 +17,9 @@ export async function GET(context: any) {
     for (const post of posts) {
       items.push({
         title:
-          collection === "til" ? `TIL: ${post.data.title}` : post.data.title,
+          collection === "tilTechnical"
+            ? `TIL: ${post.data.title}`
+            : post.data.title,
         pubDate: post.data.lastUpdatedDate,
         content: sanitizeHtml(parser.render(post.body)),
         link: `${metadata.slug}/${post.slug}/`,

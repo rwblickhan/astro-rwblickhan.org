@@ -35,7 +35,7 @@ export const collectionMetadataMap: Map<Collection, CollectionMetadata> =
       },
     ],
     [
-      "til",
+      "tilTechnical",
       {
         title: "TIL",
         slug: "/technical/til",
