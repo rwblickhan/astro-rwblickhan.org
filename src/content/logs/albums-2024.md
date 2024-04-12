@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-08
+lastUpdatedDate: 2024-04-12
 ---
 
 1. *Halo*, Juana Molina
@@ -55,3 +55,4 @@ lastUpdatedDate: 2024-04-08
 50. *Akoma*, Jlin
 51. *Black Origami*, Jlin
 52. *Dark Energy*, Jlin
+53. *Hundaes Melody Tape*, Hundaes
