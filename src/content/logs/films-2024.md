@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-03-28
+lastUpdatedDate: 2024-04-15
 ---
 
 ## Movies
@@ -32,3 +32,4 @@ lastUpdatedDate: 2024-03-28
 2. *Jujutsu Kaisen* Season 2 (2023)
 3. *The Curse* (2023)
 4. *Hazbin Hotel* Season 1 (2024)
+5. *3 Body Problem* Season 1 (2024)
