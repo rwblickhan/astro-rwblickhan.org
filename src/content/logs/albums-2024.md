@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-12
+lastUpdatedDate: 2024-04-19
 ---
 
 1. *Halo*, Juana Molina
@@ -57,3 +57,4 @@ lastUpdatedDate: 2024-04-12
 52. *Dark Energy*, Jlin
 53. *Hundaes Melody Tape*, Hundaes
 54. *Mystic Familiar*, Dan Deacon
+55. *Razzmatazz*, I Don't Know How But They Found Me
