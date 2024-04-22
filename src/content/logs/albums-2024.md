@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-19
+lastUpdatedDate: 2024-04-21
 ---
 
 1. *Halo*, Juana Molina
@@ -58,3 +58,4 @@ lastUpdatedDate: 2024-04-19
 53. *Hundaes Melody Tape*, Hundaes
 54. *Mystic Familiar*, Dan Deacon
 55. *Razzmatazz*, I Don't Know How But They Found Me
+56. *The Tortured Poets Department*, Taylor Swift
