@@ -61,3 +61,4 @@ lastUpdatedDate: 2024-04-24
 56. *The Tortured Poets Department*, Taylor Swift
 57. *Gloom Division*, I Dont Know How But They Found Me
 58. *ROLLERCOASTER*, Cadence Weapon
+59. *The Rise and Fall of a Midwest Princess*, Chappell Roan
