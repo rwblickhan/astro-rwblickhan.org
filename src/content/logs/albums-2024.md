@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-22
+lastUpdatedDate: 2024-04-24
 ---
 
 1. *Halo*, Juana Molina
@@ -60,3 +60,4 @@ lastUpdatedDate: 2024-04-22
 55. *Razzmatazz*, I Dont Know How But They Found Me
 56. *The Tortured Poets Department*, Taylor Swift
 57. *Gloom Division*, I Dont Know How But They Found Me
+58. *ROLLERCOASTER*, Cadence Weapon
