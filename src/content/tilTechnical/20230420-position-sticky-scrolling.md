@@ -1,6 +1,6 @@
 ---
 title: "position: sticky and Scrolling"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-04-20
 tags: [frontend, css, javascript]
 ---
 

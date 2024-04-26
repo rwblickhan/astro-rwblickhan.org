@@ -1,6 +1,6 @@
 ---
 title: "Web Workers"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-04-30
 tags: [frontend, javascript]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Adding Methods to Prototypes in TypeScript
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2024-04-07
 tags: [frontend, javascript]
 ---
 

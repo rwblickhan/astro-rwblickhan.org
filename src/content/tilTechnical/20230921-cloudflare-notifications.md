@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Notifications"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-09-21
 tags: [infrastructure]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Search in git log
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2024-04-10
 tags: [command-line, git]
 ---
 

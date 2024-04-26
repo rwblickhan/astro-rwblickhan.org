@@ -1,6 +1,6 @@
 ---
 title: "Adjacent Sibling Combinator in CSS"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-09-01
 tags: [frontend, css]
 ---
 

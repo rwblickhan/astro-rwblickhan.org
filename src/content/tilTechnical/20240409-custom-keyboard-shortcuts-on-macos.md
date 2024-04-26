@@ -1,6 +1,6 @@
 ---
 title: Custom Keyboard Shortcuts on macOS
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2024-04-09
 tags: [macOS, productivity-software]
 ---
 

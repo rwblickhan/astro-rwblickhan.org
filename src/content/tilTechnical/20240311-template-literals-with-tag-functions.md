@@ -1,6 +1,6 @@
 ---
 title: "Template Literals with Tag Functions in JavaScript"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2024-03-11
 tags: [frontend, javascript]
 ---
 

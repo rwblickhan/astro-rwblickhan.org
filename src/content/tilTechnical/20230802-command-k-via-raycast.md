@@ -1,6 +1,6 @@
 ---
 title: "Command K Bars in Any App via Raycast"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-08-02
 tags: [raycast, productivity-software]
 ---
 

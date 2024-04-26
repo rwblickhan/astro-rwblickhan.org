@@ -1,6 +1,6 @@
 ---
 title: "Filter by Date in Obsidian Dataview"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-05-03
 tags: [obsidian]
 ---
 

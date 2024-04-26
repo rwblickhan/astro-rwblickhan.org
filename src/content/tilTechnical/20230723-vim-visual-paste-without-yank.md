@@ -1,6 +1,6 @@
 ---
 title: "Visual Paste without Yank in Vim"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-07-23
 tags: [command-line, vim]
 ---
 

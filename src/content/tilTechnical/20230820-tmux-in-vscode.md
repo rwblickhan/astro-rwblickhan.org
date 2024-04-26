@@ -1,6 +1,6 @@
 ---
 title: "Setting Up Tmux in VS Code"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-08-20
 tags: [tmux, vscode]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Fish Shell Directory History"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2024-01-11
 tags: [command-line, shell, fish]
 ---
 

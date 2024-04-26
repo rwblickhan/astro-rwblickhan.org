@@ -1,6 +1,6 @@
 ---
 title: "Vim Text Motions"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-04-19
 tags: [command-line, vim]
 ---
 

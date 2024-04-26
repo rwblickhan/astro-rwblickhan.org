@@ -1,6 +1,6 @@
 ---
 title: "no-case-declarations in ESLint"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2024-02-19
 tags: [frontend, javascript]
 ---
 

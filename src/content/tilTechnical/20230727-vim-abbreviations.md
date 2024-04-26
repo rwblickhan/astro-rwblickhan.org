@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations in Vim"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-07-27
 tags: [command-line, vim]
 ---
 

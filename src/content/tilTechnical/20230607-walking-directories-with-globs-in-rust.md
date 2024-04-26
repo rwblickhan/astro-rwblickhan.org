@@ -1,6 +1,6 @@
 ---
 title: "Walking Directories with Globs in Rust"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-06-07
 tags: [rustlang]
 ---
 

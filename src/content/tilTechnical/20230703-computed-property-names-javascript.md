@@ -1,6 +1,6 @@
 ---
 title: "Computed Property Names in JavaScript"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-07-03
 tags: [javascript]
 ---
 

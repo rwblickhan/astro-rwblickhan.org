@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Pages Functions"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-12-29
 tags: [infrastructure]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Smartcase in Vim"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-07-17
 tags: [command-line, vim]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "fzf Preview Options"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2024-02-18
 tags: [command-line, fzf]
 ---
 

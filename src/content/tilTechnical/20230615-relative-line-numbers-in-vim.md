@@ -1,6 +1,6 @@
 ---
 title: "Relative Line Number in Vim"
-lastUpdatedDate: 2024-04-11
+lastUpdatedDate: 2023-06-15
 tags: [command-line, vim]
 ---
 
