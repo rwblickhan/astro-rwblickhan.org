@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-26
+lastUpdatedDate: 2024-04-27
 ---
 
 1. _Halo_, Juana Molina
@@ -64,3 +64,4 @@ lastUpdatedDate: 2024-04-26
 59. _The Rise and Fall of a Midwest Princess_, Chappell Roan
 60. _All Born Screaming_, St. Vincent
 61. _Hyperdrama_, Justice
+62. _This Ain't The Way You Go Out_, Lucy Rose
