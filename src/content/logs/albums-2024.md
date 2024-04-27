@@ -63,3 +63,4 @@ lastUpdatedDate: 2024-04-26
 58. _ROLLERCOASTER_, Cadence Weapon
 59. _The Rise and Fall of a Midwest Princess_, Chappell Roan
 60. _All Born Screaming_, St. Vincent
+61. _Hyperdrama_, Justice
