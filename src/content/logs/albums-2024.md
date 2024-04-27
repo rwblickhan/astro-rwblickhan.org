@@ -1,64 +1,65 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-24
+lastUpdatedDate: 2024-04-26
 ---
 
-1. *Halo*, Juana Molina
-2. *Segundo*, Juana Molina
-3. *Un Día*, Juana Molina
-4. *Golden Pear*, Omni Gardens
-5. *Moss King*, Omni Gardens
-6. *Actual Life (April 14 - December 17 2020)*, Fred again..
-7. *Post*, Björk
-8. *Inland Delta*, Biosphere
-9. *On Giacometti*, Hania Rani
-10. *Inner Symphonies*, Hania Rani & Dobrawa Czocher
-11. *Thinking In Textures*, Chet Faker
-12. *Moog Indigo*, Jean-Jacques Perrey
-13. *The Amazing New Electronic Pop Sound of Jean Jacques Perrey*, Jean-Jacques Perrey
-14. *First Impressions of Earth*, The Strokes
-15. *Ladyworld*, TWRP
-16. *Secret Life*, Fred again.. & Brian Eno
-17. *Tales of the Nocturnal Sky EP*, Polygonia
-18. *Bloom EP*, Polygonia
-19. *Deformed Human Nature*, Polygonia
-20. *The Universe Smiles Upon You*, Khruangbin
-21. *I Inside The Old Year Dying*, PJ Harvey
-22. *Did you know that there's a tunnel under Ocean Blvd*, Lana Del Rey
-23. *Sundial*, Noname
-24. *Wall of Eyes*, The Smile
-25. *Philip Glass Solo*, Philip Glass
-26. *Red Headed Stranger*, Willie Nelson
-27. *The Eraser*, Thom Yorke
-28. *Hail to the Thief*, Radiohead
-29. *American Football*, American Football
-30. *Cassadaga*, Bright Eyes
-31. *I’m Wide Awake, It’s Morning*, Bright Eyes
-32. *Monster OST*, Ryuichi Sakamoto
-33. *The Curse OST*, John Medeski
-34. *Black Pumas*, Black Pumas
-35. *Abyss*, Pastel Ghost
-36. *Dune: Part 2 OST*, Hans Zimmer
-37. *Impossible à aimer*, Cœur de pirate
-38. *Three*, Four Tet
-39. *Life Under The Gun*, Militarie Gun
-40. *Mañana Será Bonito (Bichota Season)*, Karol G
-41. *Mañana Será Bonito*, Karol G
-42. *Tin Drum*, Japan
-43. *Aurora*, Maxence Cyrin
-44. *Melancholy Island*, Maxence Cyrin
-45. *Springsong*, Maxence Cyrin
-46. *3 Body Problem OST*, Ramin Djawadi
-47. *Cowboy Carter*, Beyoncé
-48. *A La Sala*, Khruangbin
-49. *The Golden Renaissance: William Byrd*, Stile Antico
-50. *Akoma*, Jlin
-51. *Black Origami*, Jlin
-52. *Dark Energy*, Jlin
-53. *Hundaes Melody Tape*, Hundaes
-54. *Mystic Familiar*, Dan Deacon
-55. *Razzmatazz*, I Dont Know How But They Found Me
-56. *The Tortured Poets Department*, Taylor Swift
-57. *Gloom Division*, I Dont Know How But They Found Me
-58. *ROLLERCOASTER*, Cadence Weapon
-59. *The Rise and Fall of a Midwest Princess*, Chappell Roan
+1. _Halo_, Juana Molina
+2. _Segundo_, Juana Molina
+3. _Un Día_, Juana Molina
+4. _Golden Pear_, Omni Gardens
+5. _Moss King_, Omni Gardens
+6. _Actual Life (April 14 - December 17 2020)_, Fred again..
+7. _Post_, Björk
+8. _Inland Delta_, Biosphere
+9. _On Giacometti_, Hania Rani
+10. _Inner Symphonies_, Hania Rani & Dobrawa Czocher
+11. _Thinking In Textures_, Chet Faker
+12. _Moog Indigo_, Jean-Jacques Perrey
+13. _The Amazing New Electronic Pop Sound of Jean Jacques Perrey_, Jean-Jacques Perrey
+14. _First Impressions of Earth_, The Strokes
+15. _Ladyworld_, TWRP
+16. _Secret Life_, Fred again.. & Brian Eno
+17. _Tales of the Nocturnal Sky EP_, Polygonia
+18. _Bloom EP_, Polygonia
+19. _Deformed Human Nature_, Polygonia
+20. _The Universe Smiles Upon You_, Khruangbin
+21. _I Inside The Old Year Dying_, PJ Harvey
+22. _Did you know that there's a tunnel under Ocean Blvd_, Lana Del Rey
+23. _Sundial_, Noname
+24. _Wall of Eyes_, The Smile
+25. _Philip Glass Solo_, Philip Glass
+26. _Red Headed Stranger_, Willie Nelson
+27. _The Eraser_, Thom Yorke
+28. _Hail to the Thief_, Radiohead
+29. _American Football_, American Football
+30. _Cassadaga_, Bright Eyes
+31. _I’m Wide Awake, It’s Morning_, Bright Eyes
+32. _Monster OST_, Ryuichi Sakamoto
+33. _The Curse OST_, John Medeski
+34. _Black Pumas_, Black Pumas
+35. _Abyss_, Pastel Ghost
+36. _Dune: Part 2 OST_, Hans Zimmer
+37. _Impossible à aimer_, Cœur de pirate
+38. _Three_, Four Tet
+39. _Life Under The Gun_, Militarie Gun
+40. _Mañana Será Bonito (Bichota Season)_, Karol G
+41. _Mañana Será Bonito_, Karol G
+42. _Tin Drum_, Japan
+43. _Aurora_, Maxence Cyrin
+44. _Melancholy Island_, Maxence Cyrin
+45. _Springsong_, Maxence Cyrin
+46. _3 Body Problem OST_, Ramin Djawadi
+47. _Cowboy Carter_, Beyoncé
+48. _A La Sala_, Khruangbin
+49. _The Golden Renaissance: William Byrd_, Stile Antico
+50. _Akoma_, Jlin
+51. _Black Origami_, Jlin
+52. _Dark Energy_, Jlin
+53. _Hundaes Melody Tape_, Hundaes
+54. _Mystic Familiar_, Dan Deacon
+55. _Razzmatazz_, I Dont Know How But They Found Me
+56. _The Tortured Poets Department_, Taylor Swift
+57. _Gloom Division_, I Dont Know How But They Found Me
+58. _ROLLERCOASTER_, Cadence Weapon
+59. _The Rise and Fall of a Midwest Princess_, Chappell Roan
+60. _All Born Screaming_, St. Vincent
