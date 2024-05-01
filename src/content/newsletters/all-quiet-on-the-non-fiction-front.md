@@ -1,6 +1,6 @@
 ---
 title: All Quiet on the Non-Fiction Front
-lastUpdatedDate: 2020-01-06 05:49:16.211028+00:00
+lastUpdatedDate: 2024-05-01 05:49:16.211028+00:00
 season: 1
 ---
 
@@ -30,7 +30,7 @@ I got through _This Is How You Lose The Time War_ (it’s pretty short) and it d
 
 On the non-fiction front, we had _In God’s Path_ and _The Bible Unearthed_.
 
-*In God’s Path: The Arab Conquests and the Creation of an Islamic Empire* (to give it its full title) is a very readable account of, well, the Arab conquests and the creation of an Islamic empire. It treats them from a world history/political history stance, positioning the Arab conquests as a “tribal conquest” a la the Turks or Mongols, wherein marginal-but-connected nomadic peoples attempt to take over the empires that employ them. In particular, the Arabs took advantage of a Cold War of sorts between the Byzantine Romans and the Sassanian Persians and thus managed to conquer the entire Persian Empire and large parts of the Byzantine Empire, which in turn led to the creation of the Islamic civilization. It’s a really rather nice summary of early Islamic history, though I do have three complaints:
+_In God’s Path: The Arab Conquests and the Creation of an Islamic Empire_ (to give it its full title) is a very readable account of, well, the Arab conquests and the creation of an Islamic empire. It treats them from a world history/political history stance, positioning the Arab conquests as a “tribal conquest” a la the Turks or Mongols, wherein marginal-but-connected nomadic peoples attempt to take over the empires that employ them. In particular, the Arabs took advantage of a Cold War of sorts between the Byzantine Romans and the Sassanian Persians and thus managed to conquer the entire Persian Empire and large parts of the Byzantine Empire, which in turn led to the creation of the Islamic civilization. It’s a really rather nice summary of early Islamic history, though I do have three complaints:
 
 * It assumes a casual acquaintance with “traditional” Islamic history—if you don’t already know the story of the Sunni/Shi’ite split, for instance, this book _will_ explain it, but in an extremely tortured and convoluted way that makes it clear it’s supposed to be prior knowledge.
 * It doesn’t dwell on Muhammad, the early caliphs, or the textual history of the Qur’an. That’s not really the _point_ of the book, of course, and it definitely makes sense to dispatch with it when focusing on the conquests; but I do want a book dealing with it now.

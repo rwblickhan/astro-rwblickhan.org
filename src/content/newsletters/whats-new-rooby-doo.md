@@ -1,6 +1,6 @@
 ---
 title: What’s New, Rooby-Doo? (Applied Dilettantery S4E1)
-lastUpdatedDate: 2021-03-15 01:40:42.620904+00:00
+lastUpdatedDate: 2024-05-01 01:40:42.620904+00:00
 season: 4
 ---
 
@@ -29,7 +29,7 @@ I’ve dribbled life updates slowly over the course of many newsletters, but I h
 
 ## If We Are Kind And Polite, The World Will Be Alright
 
-*Paddington 2* could be argued to be a thoroughly Neo-Confucian text. The course of the film follows our beloved talking bear protagonist as he tries, in an act of filial piety, to obtain a birthday gift for the ailing aunt that raised him as a mother. Unfortunately, he is framed for stealing a one-of-a-kind pop-up book, and he is arrested and jailed with England’s most wanted criminals. Will his experiences finally break the poor bear down?
+_Paddington 2_ could be argued to be a thoroughly Neo-Confucian text. The course of the film follows our beloved talking bear protagonist as he tries, in an act of filial piety, to obtain a birthday gift for the ailing aunt that raised him as a mother. Unfortunately, he is framed for stealing a one-of-a-kind pop-up book, and he is arrested and jailed with England’s most wanted criminals. Will his experiences finally break the poor bear down?
 
 No, of course not! Paddington is a noble sage, meeting every challenge with his motto of “if we are kind and polite, the world will be alright,” cultivating such ethical behavior that he makes the world _metaphysically better_ just by being in it. And, indeed, we see him single-handedly reform the English prison system through a series of acts of small kindnesses, while outside, his adopted human family and their neighbors, away from his always-cheerful presence, begin to rudely snipe at each other and let the small day-to-day worries bring them down — at least, until Paddington inevitably escapes and the real culprit is brought to justice. But Paddington ends up in a coma, which is not particularly conducive to getting a gift, so he awakes having missed his aunt’s birthday — but his family, friends, and new prison pals have gotten something even more special, in one of my favorite scenes in all of cinema.
 
@@ -65,7 +65,7 @@ Also tangentially language-related and amusing: OpenAI’s latest image recognit
 
 Welcome to a new recurring segment, _What’s New, Rooby-Doo?_, in which we ask Rooibos what’s new and he answers in his own words (barks? howls?). So, what’s new, Rooby-Doo?
 
-*awoooo*
+_awoooo_
 
 Oh dear, it seems Rooibos did not particularly enjoy his trip to Tahoe, even if he did like having a bit more space to run around in, and took to howling in protest at night. Luckily he hasn’t kept that up since returning, but it’s terrifying to know it could restart at any minute…
 

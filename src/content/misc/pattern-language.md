@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-03-29
+lastUpdatedDate: 2024-05-01
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -138,7 +138,7 @@ Otherwise, they risk becoming a place where strangers mostly interact with stran
 
 ## Eyes on the Street
 
-*A feeling of safety in urban environments is provided by having many “eyes on the street”.*
+_A feeling of safety in urban environments is provided by having many “eyes on the street”._
 
 ### References
 
@@ -233,7 +233,7 @@ _Memorize anything efficiently by reviewing at spaced intervals._
 
 ## Speed Matters
 
-*Working quickly is important.*
+_Working quickly is important._
 
 ### References
 
