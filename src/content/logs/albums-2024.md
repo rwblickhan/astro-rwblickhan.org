@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-04-27
+lastUpdatedDate: 2024-05-02
 ---
 
 1. _Halo_, Juana Molina
@@ -65,3 +65,4 @@ lastUpdatedDate: 2024-04-27
 60. _All Born Screaming_, St. Vincent
 61. _Hyperdrama_, Justice
 62. _This Ain't The Way You Go Out_, Lucy Rose
+63. _empathogen_, WILLOW
