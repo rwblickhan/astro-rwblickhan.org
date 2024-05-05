@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-04-25
+lastUpdatedDate: 2024-05-04
 ---
 
 ## Movies
@@ -36,3 +36,4 @@ lastUpdatedDate: 2024-04-25
 4. _Hazbin Hotel_ Season 1 (2024)
 5. _3 Body Problem_ Season 1 (2024)
 6. _Our Flag Means Death_ Season 1 (2022)
+7. _Baby Reindeer_ (2024)
