@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-05-04
+lastUpdatedDate: 2024-05-05
 ---
 
 ## Movies
@@ -27,6 +27,7 @@ lastUpdatedDate: 2024-05-04
 20. _The Zone of Interest_ (2024)
 21. 🔁️ _World of Tomorrow Episode Two: The Burden of Other People's Thoughts_ (2017)
 22. _Spy x Family CODE: White_ (2024)
+23. 🔁 _Cats_ (2019)
 
 ## TV Shows
 
