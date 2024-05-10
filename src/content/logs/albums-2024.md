@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-05-03
+lastUpdatedDate: 2024-05-10
 ---
 
 1. _Halo_, Juana Molina
@@ -67,3 +67,4 @@ lastUpdatedDate: 2024-05-03
 62. _This Ain't The Way You Go Out_, Lucy Rose
 63. _empathogen_, WILLOW
 64. _emails i can't send fwd:_, Sabrina Carpenter
+65. _Challengers OST_, Trent Reznor & Atticus Ross
