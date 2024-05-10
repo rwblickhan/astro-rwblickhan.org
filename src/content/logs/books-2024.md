@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-05-05
+lastUpdatedDate: 2024-05-09
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -16,6 +16,8 @@ lastUpdatedDate: 2024-05-05
 11. _The Marvelous Land of Oz_, L. Frank Baum
 12. 🔁 _The Three-Body Problem_, Liu Cixin (trans. Ken Liu)
 13. _Dirk Gently’s Holistic Detective Agency_, Douglas Adams
+14. _How I Became A Nun_, César Aira (trans. Chris Andrews)
+15. 🔁 _The English Understand Wool_, Helen DeWitt
 
 ## Skimmed
 
