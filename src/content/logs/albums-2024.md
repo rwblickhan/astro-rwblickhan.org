@@ -68,3 +68,4 @@ lastUpdatedDate: 2024-05-10
 63. _empathogen_, WILLOW
 64. _emails i can't send fwd:_, Sabrina Carpenter
 65. _Challengers OST_, Trent Reznor & Atticus Ross
+66. _Challengers [MIXED]_, Boys Noize
