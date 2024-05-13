@@ -1,5 +1,5 @@
 pnpm exec astro check
-markdownlint src/**/*.md --disable MD045
+markdownlint src/**/*.md --disable MD045 --fix
 echo "Updating last update dates"
 files=$(git diff --name-only --staged)
 for file in $files; do

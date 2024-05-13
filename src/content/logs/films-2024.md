@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-05-05
+lastUpdatedDate: 2024-05-12
 ---
 
 ## Movies
@@ -28,6 +28,8 @@ lastUpdatedDate: 2024-05-05
 21. 🔁️ _World of Tomorrow Episode Two: The Burden of Other People's Thoughts_ (2017)
 22. _Spy x Family CODE: White_ (2024)
 23. 🔁 _Cats_ (2019)
+24. 🔁 _The Social Network_ (2010)
+25. 🔁 _Pacific Rim_ (2013)
 
 ## TV Shows
 
