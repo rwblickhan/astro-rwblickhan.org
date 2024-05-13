@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-05-10
+lastUpdatedDate: 2024-05-12
 ---
 
 1. _Halo_, Juana Molina
@@ -69,3 +69,4 @@ lastUpdatedDate: 2024-05-10
 64. _emails i can't send fwd:_, Sabrina Carpenter
 65. _Challengers OST_, Trent Reznor & Atticus Ross
 66. _Challengers [MIXED]_, Boys Noize
+67. _Big Science_, Laurie Anderson
