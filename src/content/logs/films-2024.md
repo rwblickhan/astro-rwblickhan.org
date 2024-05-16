@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-05-12
+lastUpdatedDate: 2024-05-16
 ---
 
 ## Movies
@@ -30,6 +30,7 @@ lastUpdatedDate: 2024-05-12
 23. 🔁 _Cats_ (2019)
 24. 🔁 _The Social Network_ (2010)
 25. 🔁 _Pacific Rim_ (2013)
+26. 🔁 _Millennium Actress_ (2001)
 
 ## TV Shows
 
