@@ -136,3 +136,26 @@ blockquote {
 strong {
   font-weight: 900;
 }
+
+table {
+  border-collapse: collapse;
+  margin-inline: auto;
+}
+
+thead tr {
+  background-color: var(--rwb-link);
+  color: var(--rwb-background);
+}
+
+th,
+td {
+  padding: 12px 15px;
+}
+
+tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
