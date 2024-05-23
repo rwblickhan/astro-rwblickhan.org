@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-05-14
+lastUpdatedDate: 2024-05-23
 ---
 
 1. _Halo_, Juana Molina
@@ -72,3 +72,4 @@ lastUpdatedDate: 2024-05-14
 67. _Big Science_, Laurie Anderson
 68. _Atavista_, Childish Gambino
 69. _Tales from the Loop_, Philip Glass & Paul Leonard-Morgan
+70. _Radical Optimism_, Dua Lipa
