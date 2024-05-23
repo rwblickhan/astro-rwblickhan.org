@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-05-16
+lastUpdatedDate: 2024-05-23
 ---
 
 ## Movies
@@ -31,6 +31,7 @@ lastUpdatedDate: 2024-05-16
 24. 🔁 _The Social Network_ (2010)
 25. 🔁 _Pacific Rim_ (2013)
 26. 🔁 _Millennium Actress_ (2001)
+27. _Heat_ (1995)
 
 ## TV Shows
 
