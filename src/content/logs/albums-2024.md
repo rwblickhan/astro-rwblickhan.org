@@ -75,3 +75,4 @@ lastUpdatedDate: 2024-05-24
 70. _Radical Optimism_, Dua Lipa
 71. _Lives Outgrown_, Beth Gibbons
 72. _Stampede: Vol 1_, Orville Peck
+73. _Expert in a Dying Field_, The Beths
