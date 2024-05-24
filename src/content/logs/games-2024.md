@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-03-01
+lastUpdatedDate: 2024-05-24
 ---
 
 ## Video Games
@@ -9,6 +9,7 @@ lastUpdatedDate: 2024-03-01
 2. *Kentucky Route Zero*
 3. *Disco Elysium*
 4. *Balatro*
+5. *Hades*
 
 ## Traditional Games
 
