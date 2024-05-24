@@ -32,6 +32,7 @@ lastUpdatedDate: 2024-05-23
 25. 🔁 _Pacific Rim_ (2013)
 26. 🔁 _Millennium Actress_ (2001)
 27. _Heat_ (1995)
+28. 🔁 _Mad Max: Fury Road_ (2015)
 
 ## TV Shows
 
