@@ -10,6 +10,7 @@ lastUpdatedDate: 2024-05-24
 3. *Disco Elysium*
 4. *Balatro*
 5. *Hades*
+6. 🔁 *The Norwood Suite*
 
 ## Traditional Games
 
