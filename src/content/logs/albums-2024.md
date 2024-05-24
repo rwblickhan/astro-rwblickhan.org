@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-05-23
+lastUpdatedDate: 2024-05-24
 ---
 
 1. _Halo_, Juana Molina
@@ -74,3 +74,4 @@ lastUpdatedDate: 2024-05-23
 69. _Tales from the Loop_, Philip Glass & Paul Leonard-Morgan
 70. _Radical Optimism_, Dua Lipa
 71. _Lives Outgrown_, Beth Gibbons
+72. _Stampede: Vol 1_, Orville Peck
