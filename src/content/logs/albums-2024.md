@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-05-24
+lastUpdatedDate: 2024-05-25
 ---
 
 1. _Halo_, Juana Molina
@@ -76,3 +76,4 @@ lastUpdatedDate: 2024-05-24
 71. _Lives Outgrown_, Beth Gibbons
 72. _Stampede: Vol 1_, Orville Peck
 73. _Expert in a Dying Field_, The Beths
+74. _Britpop_, A.G. Cook
