@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-05-23
+lastUpdatedDate: 2024-05-25
 ---
 
 ## Movies
@@ -33,6 +33,7 @@ lastUpdatedDate: 2024-05-23
 26. 🔁 _Millennium Actress_ (2001)
 27. _Heat_ (1995)
 28. 🔁 _Mad Max: Fury Road_ (2015)
+29. _Infernal Affairs_ (2002)
 
 ## TV Shows
 
