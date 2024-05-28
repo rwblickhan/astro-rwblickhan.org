@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-05-25
+lastUpdatedDate: 2024-05-28
 ---
 
 1. _Halo_, Juana Molina
@@ -77,3 +77,5 @@ lastUpdatedDate: 2024-05-25
 72. _Stampede: Vol 1_, Orville Peck
 73. _Expert in a Dying Field_, The Beths
 74. _Britpop_, A.G. Cook
+75. _If Orange Was A Place EP_, Tems
+76. _Keep the Ocean Inside_, The Seven Fields of Anphelion
