@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-05-30
+lastUpdatedDate: 2024-05-31
 ---
 
 1. _Halo_, Juana Molina
@@ -81,3 +81,4 @@ lastUpdatedDate: 2024-05-30
 76. _Keep the Ocean Inside_, The Seven Fields of Anphelion
 77. _Periphery_, The Seven Fields of Anphelion
 78. _Outer Wilds OST_, Andrew Prahlow
+79. _Piece of Me_, Lady Wray
