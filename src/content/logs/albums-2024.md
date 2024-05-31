@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-05-28
+lastUpdatedDate: 2024-05-30
 ---
 
 1. _Halo_, Juana Molina
@@ -79,3 +79,5 @@ lastUpdatedDate: 2024-05-28
 74. _Britpop_, A.G. Cook
 75. _If Orange Was A Place EP_, Tems
 76. _Keep the Ocean Inside_, The Seven Fields of Anphelion
+77. _Periphery_, The Seven Fields of Anphelion
+78. _Outer Wilds OST_, Andrew Prahlow
