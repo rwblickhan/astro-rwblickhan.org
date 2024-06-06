@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-05-25
+lastUpdatedDate: 2024-06-05
 ---
 
 ## Movies
@@ -34,6 +34,8 @@ lastUpdatedDate: 2024-05-25
 27. _Heat_ (1995)
 28. 🔁 _Mad Max: Fury Road_ (2015)
 29. _Infernal Affairs_ (2002)
+30. _The Royal Tenenbaums_ (2001)
+31. _Furiosa: A Mad Max Saga_ (2024)
 
 ## TV Shows
 
