@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-06-02
+lastUpdatedDate: 2024-06-05
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -21,6 +21,7 @@ lastUpdatedDate: 2024-06-02
 16. 🔁 _The Hitchhiker’s Guide to the Galaxy_, Douglas Adams
 17. _20th Century Boys: The Perfect Edition Vol. 3_, Naoki Urasawa (trans. Akemi Wegmuller)
 18. _The Five Lives of Hilma af Klint_, Philipp Deines
+19. _Tales from the Loop_, Simon Stålenhag (trans. Martin Dunelind)
 
 ## Skimmed
 
