@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-01
+lastUpdatedDate: 2024-06-06
 ---
 
 1. _Halo_, Juana Molina
@@ -83,3 +83,4 @@ lastUpdatedDate: 2024-06-01
 78. _Outer Wilds OST_, Andrew Prahlow
 79. _Piece of Me_, Lady Wray
 80. _Yesterday’s Gone_, Loyle Carner
+81. _Alchemy_, Disclosure
