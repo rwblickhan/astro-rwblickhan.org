@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-06
+lastUpdatedDate: 2024-06-08
 ---
 
 1. _Halo_, Juana Molina
@@ -84,3 +84,4 @@ lastUpdatedDate: 2024-06-06
 79. _Piece of Me_, Lady Wray
 80. _Yesterday’s Gone_, Loyle Carner
 81. _Alchemy_, Disclosure
+82. _Timeless_, Kaytranada
