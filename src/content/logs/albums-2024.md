@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-08
+lastUpdatedDate: 2024-06-09
 ---
 
 1. _Halo_, Juana Molina
@@ -85,3 +85,4 @@ lastUpdatedDate: 2024-06-08
 80. _Yesterday’s Gone_, Loyle Carner
 81. _Alchemy_, Disclosure
 82. _Timeless_, Kaytranada
+83. _Les Jardins Mystiques, Vol. 1_, Miguel Atwood-Ferguson
