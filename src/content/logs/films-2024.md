@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-06-05
+lastUpdatedDate: 2024-06-09
 ---
 
 ## Movies
@@ -36,6 +36,7 @@ lastUpdatedDate: 2024-06-05
 29. _Infernal Affairs_ (2002)
 30. _The Royal Tenenbaums_ (2001)
 31. _Furiosa: A Mad Max Saga_ (2024)
+32. 🔁 _The Lord of the Rings: The Fellowship of the Ring_ (2001)
 
 ## TV Shows
 
