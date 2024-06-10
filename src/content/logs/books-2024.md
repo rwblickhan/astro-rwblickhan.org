@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-06-08
+lastUpdatedDate: 2024-06-09
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -23,6 +23,7 @@ lastUpdatedDate: 2024-06-08
 18. _The Five Lives of Hilma af Klint_, Philipp Deines
 19. _Tales from the Loop_, Simon Stålenhag (trans. Martin Dunelind)
 20. _Fever Dream_, Samanta Schweblin (trans. Megan McDowell)
+21. _Transformers Vol. 1: Robots in Disguise_, Daniel Warren Johnson & Mike Spicer
 
 ## Skimmed
 
