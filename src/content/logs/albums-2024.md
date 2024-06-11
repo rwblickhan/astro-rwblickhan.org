@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-09
+lastUpdatedDate: 2024-06-10
 ---
 
 1. _Halo_, Juana Molina
@@ -71,7 +71,7 @@ lastUpdatedDate: 2024-06-09
 66. _Challengers [MIXED]_, Boys Noize
 67. _Big Science_, Laurie Anderson
 68. _Atavista_, Childish Gambino
-69. _Tales from the Loop_, Philip Glass & Paul Leonard-Morgan
+69. _Tales from the Loop (Solo Piano Version)_, Philip Glass & Paul Leonard-Morgan
 70. _Radical Optimism_, Dua Lipa
 71. _Lives Outgrown_, Beth Gibbons
 72. _Stampede: Vol 1_, Orville Peck
@@ -86,3 +86,4 @@ lastUpdatedDate: 2024-06-09
 81. _Alchemy_, Disclosure
 82. _Timeless_, Kaytranada
 83. _Les Jardins Mystiques, Vol. 1_, Miguel Atwood-Ferguson
+84. _Tales from the Loop OST_, Philip Glass & Paul Leonard-Morgan
