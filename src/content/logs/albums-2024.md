@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-10
+lastUpdatedDate: 2024-06-12
 ---
 
 1. _Halo_, Juana Molina
@@ -87,3 +87,4 @@ lastUpdatedDate: 2024-06-10
 82. _Timeless_, Kaytranada
 83. _Les Jardins Mystiques, Vol. 1_, Miguel Atwood-Ferguson
 84. _Tales from the Loop OST_, Philip Glass & Paul Leonard-Morgan
+85. _The Massacre_, 50 Cent
