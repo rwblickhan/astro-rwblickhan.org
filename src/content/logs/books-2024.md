@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-06-09
+lastUpdatedDate: 2024-06-12
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -24,6 +24,7 @@ lastUpdatedDate: 2024-06-09
 19. _Tales from the Loop_, Simon Stålenhag (trans. Martin Dunelind)
 20. _Fever Dream_, Samanta Schweblin (trans. Megan McDowell)
 21. _Transformers Vol. 1: Robots in Disguise_, Daniel Warren Johnson & Mike Spicer
+22. _A Paradise Built In Hell: The Extraordinary Communities That Arise in Disaster_, Rebecca Solnit
 
 ## Skimmed
 
