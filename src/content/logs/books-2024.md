@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-06-12
+lastUpdatedDate: 2024-06-15
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -26,6 +26,7 @@ lastUpdatedDate: 2024-06-12
 21. _Transformers Vol. 1: Robots in Disguise_, Daniel Warren Johnson & Mike Spicer
 22. _A Paradise Built In Hell: The Extraordinary Communities That Arise in Disaster_, Rebecca Solnit
 23. _Some Trick: Thirteen Stories_, Helen deWitt
+24. _The Electric State_, Simon Stålenhag (trans. Martin Dunelind)
 
 ## Skimmed
 
