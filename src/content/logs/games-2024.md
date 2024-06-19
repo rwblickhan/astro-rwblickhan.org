@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-06-09
+lastUpdatedDate: 2024-06-19
 ---
 
 ## Video Games
@@ -16,3 +16,4 @@ lastUpdatedDate: 2024-06-09
 ## Traditional Games
 
 1. _Root_
+2. _Betrayal at House on the Hill_
