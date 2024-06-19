@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-15
+lastUpdatedDate: 2024-06-19
 ---
 
 1. _Halo_, Juana Molina
@@ -89,3 +89,4 @@ lastUpdatedDate: 2024-06-15
 84. _Tales from the Loop OST_, Philip Glass & Paul Leonard-Morgan
 85. _The Massacre_, 50 Cent
 86. _Edge of Blue_, Bodhi
+87. _Settle_, Disclosure
