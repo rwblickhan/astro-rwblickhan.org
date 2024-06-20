@@ -1,14 +1,8 @@
 :root {
-  // Set up variables
-  --rwb-background: white;
-  --rwb-text: black;
-  --rwb-link: #3366cc;
-
-  @media (prefers-color-scheme: dark) {
-    --rwb-background: #030404;
-    --rwb-text: #e8e6e3;
-    --rwb-link: #689fd9;
-  }
+  color-scheme: light dark;
+  --rwb-background: light-dark(white, #030404);
+  --rwb-text: light-dark(black, #e8e6e3);
+  --rwb-link: light-dark(#3366cc, #689fd9);
 }
 
 // Reset based on https://keithjgrant.com/posts/2024/01/my-css-resets/
