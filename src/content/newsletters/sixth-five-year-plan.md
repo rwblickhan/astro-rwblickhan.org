@@ -6,7 +6,7 @@ season: 7
 
 Hello frens,
 
-I recently put in my two-weeks notice.
+I recently put in my two weeks’ notice.
 
 When I joined Asana in the summer of 2019 as a fresh-faced new grad, my plan was to stay for four or five years, make it to senior engineer, then return “home” via a Vancouver-based team, preferably with enough saved for a downpayment.
 
@@ -20,15 +20,15 @@ So I put in my two weeks’ notice, and as of June 22 I will no longer be employ
 
 The mood? Anti-climactic. Relieved. Bittersweet.
 
-I spent something like 10,000 hours working at Asana. Sherry recently noted that I spent longer at Asana than I did at UBC (it certainly does not feel like it). No matter the ups and downs, employment at Asana was a major part of my life.
+I spent something like 10,000 hours[^calc] working at Asana. Sherry recently noted that I spent longer at Asana than I did at UBC (it certainly does not feel like it). No matter the ups and downs, employment at Asana was a major part of my life.
 
 Accepting an offer at another company does not, by itself, constitute a five-year plan, however. The next few years will be particularly interesting, because, [as I noted on my 27th birthday](https://rwblickhan.org/newsletters/in-which-i-wax-nostalgic-for-my-lost-youth/#in-which-i-wax-nostalgic-for-my-lost-youth) (almost a year and a half ago!), I am now reaching an age where choices will definitively close off other choices at an accelerating rate. I strongly suspect I already know the contents of the *next* five-year plan, after all.
 
 I am still thinking about what I’d like to do over the next few years. Should I take my career more seriously than I have recently — aim for staff engineer, start giving conference talks, obsessively build side projects? Is it still worth taking up illustration, as I planned to do at the start of this year? Whatever happened to my love of music?
 
-One thing is sure, though: I will finish my latest manuscript, *Psyche & Mnemosyne*. I haven’t talked about this much publicly, since I don’t want to become the kind of person that constantly talks about writing a novel and never actually writes a novel. More importantly, I have a habit of saying that “this one is the one,” yet you’ve likely never seen any of the other novels I wrote (for good reason, and bad).
+One thing is sure, though: I will finish my latest manuscript, *Psyche & Mnemosyne*. I haven’t talked about this much publicly, since I don’t want to become the kind of person that constantly talks about writing a novel and never actually writes a novel. More importantly, I have a habit of saying that “this one is the one,” yet you’ve likely never seen any of the other novels I wrote (for good reasons and bad).
 
-But this one... this one is the one 🙂
+But this one... this one is the one 😉
 
 Oh, also, I got married, but maybe I’ll talk about that another time. Or, perhaps, never, because, to [paraphrase John Green](https://youtu.be/mq8I4aTBwcQ?si=W0opc5Y-kA5yZXHG), once something is public, it can never be private again.
 
@@ -36,3 +36,5 @@ You’ll hear from me again in two weeks,\
 Russell
 
 P.S. You may have noticed this newsletter has a different style than previous ones. I’m going to try writing these as actual *letters* from now on, which also means this is the start of a new season of rwblog, just like *House of the Dragon*.
+
+[^calc]: 5 years *52 weeks per year* 5 days per week * 8 hours per day = ~10,000 hours
