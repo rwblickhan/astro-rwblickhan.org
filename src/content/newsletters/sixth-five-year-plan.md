@@ -1,6 +1,6 @@
 ---
 title: The Sixth Five-Year Plan
-lastUpdatedDate: 2024-06-19
+lastUpdatedDate: 2024-06-21
 season: 7
 ---
 
@@ -37,4 +37,4 @@ Russell
 
 P.S. You may have noticed this newsletter has a different style than previous ones. I’m going to try writing these as actual *letters* from now on, which also means this is the start of a new season of rwblog, just like *House of the Dragon*.
 
-[^calc]: 5 years *52 weeks per year* 5 days per week * 8 hours per day = ~10,000 hours
+[^calc]: 5 years \* 52 weeks per year \* 5 days per week \* 8 hours per day = ~10,000 hours
