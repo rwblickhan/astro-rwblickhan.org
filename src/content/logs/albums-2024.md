@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-19
+lastUpdatedDate: 2024-06-22
 ---
 
 1. _Halo_, Juana Molina
@@ -90,3 +90,4 @@ lastUpdatedDate: 2024-06-19
 85. _The Massacre_, 50 Cent
 86. _Edge of Blue_, Bodhi
 87. _Settle_, Disclosure
+88. _Never Coming Back_, Miaux
