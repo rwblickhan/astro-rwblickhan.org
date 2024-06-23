@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favourite quotes
-lastUpdatedDate: 2024-02-07
+lastUpdatedDate: 2024-06-22
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -276,9 +276,13 @@ lastUpdatedDate: 2024-02-07
 
 - *The Weirdness of the World*, Eric Schwitzgebel
 
-> Plagued as they are by drought and wildfire, Californians love to talk about how water is power. They talk less about how power is water. Power flows through the social hierarchies we build to channel it, eroding them along the way. Sometimes it picks up silt over thousands of cycles, depositing it into the deltas we call institutions. You can dam it up to create authority or share it with irrigation.
-Every once in a while an unexpected earthquake like the invention of agriculture or nuclear weapons changes the landscape abruptly, but all that power never stops flowing, it just finds a new route back to the source.
+> Plagued as they are by drought and wildfire, Californians love to talk about how water is power. They talk less about how power is water. Power flows through the social hierarchies we build to channel it, eroding them along the way. Sometimes it picks up silt over thousands of cycles, depositing it into the deltas we call institutions. You can dam it up to create authority or share it with irrigation.\
+> Every once in a while an unexpected earthquake like the invention of agriculture or nuclear weapons changes the landscape abruptly, but all that power never stops flowing, it just finds a new route back to the source.
 
 - *Foundry*, Eliot Peper
+
+> If the robot had opened the way with kindness, then they had sealed the deal with the essential glue of friendship: long hours together, doing nothing much.
+
+- “Clovis, Alone”, *Moonbound*, Robin Sloan
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
