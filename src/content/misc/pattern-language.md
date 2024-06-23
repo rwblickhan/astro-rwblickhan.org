@@ -68,12 +68,13 @@ _Deliberately practicing skills can be the most effective way to improve them._
 
 ### References
 
+- [“The Role of Deliberate Practice in the Acquisition of Expert Performance”](https://www.researchgate.net/publication/224827585_The_Role_of_Deliberate_Practice_in_the_Acquisition_of_Expert_Performance), Ericsson et. al.
 - ["The Role of Deliberate Practice in the Acquisition of Expert Performance"](https://jsomers.net/blog/deliberate-practice), James Somers
 - ["Implicit practice: a sight reading parable"](https://andymatuschak.org/sight-reading/), Andy Matuschak
 - ["Having a creative practice as a programmer"](https://the.scapegoat.dev/having-a-creative-practice-as-a-programmer/), the scapegoat dev
 - ["Some reasons to work on productivity and velocity"](https://danluu.com/productivity-velocity/), Dan Luu
 - ["95%-ile isn't that good"](https://danluu.com/p95-skill/), Dan Luu
-- [_Range_](https://search.worldcat.org/title/1099594495), David Epstein (for a slightly contrary take)
+- [_Range_](https://search.worldcat.org/title/1099594495), David Epstein (for a contrary take)
 
 ### Details
 
