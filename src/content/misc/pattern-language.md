@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-05-01
+lastUpdatedDate: 2024-06-23
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -171,6 +171,21 @@ How does a toilet work? A car? A computer? The economy?
 For systems we're familiar with, we tend to rate our understanding highly, but in practice most people can barely explain the basics of how a toilet works.
 This isn't necessarily a bad thing — humans are great at compartmentalizing what we need to know and what we don't.
 However, it can backfire when we forget that we don't _really_ understand things that we think we do.
+
+## Magical Number Seven, Plus or Minus Two
+
+_Human short-term memory is limited to seven (plus or minus two) “chunks”._
+
+### References
+
+- [“The Magical Number Seven, Plus or Minus Two: Some Limits on our Capacity for Processing Information”](http://psychclassics.yorku.ca/Miller/), George A. Miller
+- [“The Source of Readability”](https://loup-vaillant.fr/articles/source-of-readability), Loup Vaillant
+
+### Details
+
+Extensive research has shown that human short-term memory is limited to about seven items. Importantly, this doesn’t mean seven _bits_ — experts are able to construct higher-level representations or “chunks” that allow them to remember more.
+
+This principle can be applied widely anywhere human cognition is important. For instance, as Loup Vallaint argues, “readability” in software engineering is simply a function of limited short-term memory. Global variables are hard to understand because they take up precious memory space. Composition is better than inheritance because inheritance inherently requires keeping track of multiple interacting parent and children classes.
 
 ## Programming as Theory Building
 
