@@ -93,3 +93,4 @@ lastUpdatedDate: 2024-06-25
 88. _Never Coming Back_, Miaux
 89. _Eden’s Island_, Eden Ahbez
 90. _Eden Ahbez’s Dharmaland_, Ìxtahuele
+91. _Wild Boy: The Lost Songs of Eden Ahbez_, Eden Ahbez
