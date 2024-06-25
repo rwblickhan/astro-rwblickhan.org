@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favourite quotes
-lastUpdatedDate: 2024-06-22
+lastUpdatedDate: 2024-06-25
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -284,5 +284,13 @@ lastUpdatedDate: 2024-06-22
 > If the robot had opened the way with kindness, then they had sealed the deal with the essential glue of friendship: long hours together, doing nothing much.
 
 - “Clovis, Alone”, *Moonbound*, Robin Sloan
+
+> "I was born in San Francisco, the city the future reached back and made, because it was going to be needed."
+
+- "The Treasure", *Moonbound*, Robin Sloan
+
+> "The caterpillars are very familiar to me... but perhaps they are strange. Everything is strange, in this world. Wherever you look, strangeness blooms."
+
+- "The Procession", *Moonbound*, Robin Sloan
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
