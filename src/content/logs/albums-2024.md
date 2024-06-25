@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-22
+lastUpdatedDate: 2024-06-25
 ---
 
 1. _Halo_, Juana Molina
@@ -91,3 +91,4 @@ lastUpdatedDate: 2024-06-22
 86. _Edge of Blue_, Bodhi
 87. _Settle_, Disclosure
 88. _Never Coming Back_, Miaux
+89. _Eden’s Island_, Eden Abhez
