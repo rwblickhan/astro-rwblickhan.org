@@ -1,6 +1,7 @@
 ---
 import SearchHeaderIcon from "./SearchHeaderIcon.astro";
 import MapHeaderIcon from "./MapHeaderIcon.astro";
+import SubscribeHeaderIcon from "./SubscribeHeaderIcon.astro";
 import {
   collectionWithGalleryMetadataMap,
   type CollectionMetadata,
@@ -20,6 +21,7 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     <a href="/index.html">rwblickhan.org</a>
   </div>
   <div class="header-icons">
+    <SubscribeHeaderIcon />
     <SearchHeaderIcon />
     <MapHeaderIcon />
   </div>

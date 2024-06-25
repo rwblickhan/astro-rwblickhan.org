@@ -29,6 +29,7 @@ export async function GET(context: any) {
   return rss({
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
+    stylesheet: "pretty-feed-v3.xsl",
     site: context.site,
     items,
   });
