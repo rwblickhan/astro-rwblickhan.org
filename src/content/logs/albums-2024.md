@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-26
+lastUpdatedDate: 2024-06-27
 ---
 
 1. _Halo_, Juana Molina
@@ -95,3 +95,4 @@ lastUpdatedDate: 2024-06-26
 90. _Eden Ahbez’s Dharmaland_, Ìxtahuele
 91. _Wild Boy: The Lost Songs of Eden Ahbez_, Eden Ahbez
 92. _House of the Dragon Season 1 OST_, Ramin Djawadi
+93. _Hideaway_, Miaux
