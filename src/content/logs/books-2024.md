@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-06-19
+lastUpdatedDate: 2024-06-28
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -28,6 +28,7 @@ lastUpdatedDate: 2024-06-19
 23. _Some Trick: Thirteen Stories_, Helen deWitt
 24. _The Electric State_, Simon Stålenhag (trans. Martin Dunelind)
 25. _The Labryinth_, Simon Stålenhag (trans. Ebba Segerberg)
+26. _Moonbound_, Robin Sloan
 
 ## Skimmed
 

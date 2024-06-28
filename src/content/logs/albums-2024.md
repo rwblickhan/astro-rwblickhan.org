@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-27
+lastUpdatedDate: 2024-06-28
 ---
 
 1. _Halo_, Juana Molina
@@ -97,3 +97,4 @@ lastUpdatedDate: 2024-06-27
 92. _House of the Dragon Season 1 OST_, Ramin Djawadi
 93. _Hideaway_, Miaux
 94. _Black Space White Cloud_, Miaux
+95. _ENERGY_, Disclosure
