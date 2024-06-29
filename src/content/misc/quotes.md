@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favourite quotes
-lastUpdatedDate: 2024-06-25
+lastUpdatedDate: 2024-06-29
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -292,5 +292,21 @@ lastUpdatedDate: 2024-06-25
 > "The caterpillars are very familiar to me... but perhaps they are strange. Everything is strange, in this world. Wherever you look, strangeness blooms."
 
 - "The Procession", *Moonbound*, Robin Sloan
+
+> A western coast: the great psychic battery of the Anth. Eastern coasts are fine, but western coasts had always been richer in both adventurism and melancholy. It was the California feeling, all throughout history, before and after California.
+
+- "An Urgent Project", *Moonbound*, Robin Sloan
+
+> There is nothing more human than the experience of lying in the dark, wondering: What if I don't wake up? In that way, sleep becomes existential cross-training: dread faced nightly, and nightly overcome.
+
+- "Summer's End", *Moonbound*, Robin Sloan
+
+> "Of course we are friends," Ingrid said. "We have sat and talked for no reason, about nothing in particular. That's what friends do."
+
+- "The Wyrm's Gift", *Moonbound*, Robin Sloan
+
+> The boy had never seen any bird at all, never in his life, but his mind was a human mind, and now it crackled with bird-feeling. He watched the creature's sharp movements, the saccade of its approach; it switched poses without seeming to occupy the space between them. Here was a creature running at a different frame rate.
+
+- "The Messenger", *Moonbound*, Robin Sloan
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
