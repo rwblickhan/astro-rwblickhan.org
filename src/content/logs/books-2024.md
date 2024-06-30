@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-06-28
+lastUpdatedDate: 2024-06-30
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -29,6 +29,7 @@ lastUpdatedDate: 2024-06-28
 24. _The Electric State_, Simon Stålenhag (trans. Martin Dunelind)
 25. _The Labryinth_, Simon Stålenhag (trans. Ebba Segerberg)
 26. _Moonbound_, Robin Sloan
+27. _Death and the King’s Horseman_, Wole Soyinka
 
 ## Skimmed
 
