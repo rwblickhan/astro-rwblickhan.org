@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-06-28
+lastUpdatedDate: 2024-07-01
 ---
 
 1. _Halo_, Juana Molina
@@ -99,3 +99,4 @@ lastUpdatedDate: 2024-06-28
 94. _Black Space White Cloud_, Miaux
 95. _ENERGY_, Disclosure
 96. _Caracal_, Disclosure
+97. _Orblivion_, The Orb
