@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favourite quotes
-lastUpdatedDate: 2024-06-29
+lastUpdatedDate: 2024-07-02
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -308,5 +308,9 @@ lastUpdatedDate: 2024-06-29
 > The boy had never seen any bird at all, never in his life, but his mind was a human mind, and now it crackled with bird-feeling. He watched the creature's sharp movements, the saccade of its approach; it switched poses without seeming to occupy the space between them. Here was a creature running at a different frame rate.
 
 - "The Messenger", *Moonbound*, Robin Sloan
+
+> I **like** the stars. It's the illusion of permanence, I think. I mean, they're **always** flaring up and caving in and going out. But from **here**, I can pretend... I can pretend that things **last**. I can pretend that lives last longer than moments. Gods come, and gods go. Mortals flicker and flash and fade. Worlds don't last; and stars and galaxies are transient, fleeting things that twinkle like fireflies and vanish into cold and dust. But I can pretend.
+
+- *The Sandman*, Neil Gaiman
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
