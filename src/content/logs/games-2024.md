@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-06-29
+lastUpdatedDate: 2024-07-01
 ---
 
 ## Video Games
@@ -11,6 +11,7 @@ lastUpdatedDate: 2024-06-29
 4. _Hades_
 5. 🔁 _The Norwood Suite_
 6. _Outer Wilds_
+7. _Umurangi Generation_
 
 ## Traditional Games
 
