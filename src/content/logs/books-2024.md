@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-06-30
+lastUpdatedDate: 2024-07-03
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -30,6 +30,7 @@ lastUpdatedDate: 2024-06-30
 25. _The Labryinth_, Simon Stålenhag (trans. Ebba Segerberg)
 26. _Moonbound_, Robin Sloan
 27. _Death and the King’s Horseman_, Wole Soyinka
+28. _Amphigorey: Fifteen Books_, Edward Gorey
 
 ## Skimmed
 
