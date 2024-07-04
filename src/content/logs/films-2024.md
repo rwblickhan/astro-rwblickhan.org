@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-06-22
+lastUpdatedDate: 2024-07-03
 ---
 
 ## Movies
@@ -41,7 +41,7 @@ lastUpdatedDate: 2024-06-22
 34. 🔁 _World of Tomorrow_ (2015)
 35. 🔁 _World of Tomorrow Episode 2: The Burden of Other People's Thoughts_ (2017)
 36. 🔁 _World of Tomorrow Episode 3: The Absent Destination of David Prime_ (2020)
-37. _Fargo_（1996）
+37. _Fargo_（1996)
 
 ## TV Shows
 
@@ -52,3 +52,4 @@ lastUpdatedDate: 2024-06-22
 5. _3 Body Problem_ Season 1 (2024)
 6. _Our Flag Means Death_ Season 1 (2022)
 7. _Baby Reindeer_ (2024)
+8. _House of the Dragon_ Season 1 (2022)
