@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-07-03
+lastUpdatedDate: 2024-07-04
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -31,6 +31,7 @@ lastUpdatedDate: 2024-07-03
 26. _Moonbound_, Robin Sloan
 27. _Death and the King’s Horseman_, Wole Soyinka
 28. _Amphigorey: Fifteen Books_, Edward Gorey
+29. 🔁 _His Dark Materials: Book 1 - The Golden Compass_, Philip Pullman
 
 ## Skimmed
 
