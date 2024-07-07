@@ -6,12 +6,14 @@ import BaseLayout from "./BaseLayout.astro";
 export interface Props {
   title: string;
   description: string;
+  lastUpdatedDate?: Date;
   parentCollection?: Collection;
 }
 
 const {
   title = "R. W. Blickhan",
   description = "The personal site of R. W. Blickhan",
+  lastUpdatedDate,
   parentCollection,
 } = Astro.props;
 
@@ -27,5 +29,7 @@ const parentCollectionMetadata =
       </a>
     )
   }
+  <h1>{title}</h1>
+  {lastUpdatedDate && <h3>Last updated: {lastUpdatedDate.toDateString()}</h3>}
   <slot />
 </BaseLayout>
