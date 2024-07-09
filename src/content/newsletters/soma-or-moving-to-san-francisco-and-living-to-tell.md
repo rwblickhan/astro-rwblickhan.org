@@ -1,10 +1,10 @@
 ---
 title: Soma; Or, Moving to San Francisco and Living to Tell
-lastUpdatedDate: 2019-08-05 04:43:38.674489+00:00
+lastUpdatedDate: 2024-07-09 04:43:38.674489+00:00
 season: 1
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/891f1c3b-2797-441c-a4f0-c3cc3d298264.jpg)
+![Transamerica Pyramid and surrounding buildings](../../assets/newsletters/transamerica.jpeg)
 
 So, I've gone and done it—I’ve moved to San Francisco.
 
@@ -16,14 +16,14 @@ So, what else is new? I started at [Asana](https://asana.com/), which is about a
 
 As one final housekeeping note, I switched the newsletter to [Buttondown](https://buttondown.email/). It seems everybody has left TinyLetter, mostly for the VC-funded Substack, but I prefer to support the small guy (who even has a [neat graph](https://buttondown.email/running-costs) of his running costs, topped off with a description of what those costs are going towards). In any case, if this email looks strange (or, worse yet, went straight to your spam folder), that's probably why.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c248813d-bb4e-48e4-92e9-5de874ce391d.jpg)
+![A street in Chinatown](../../assets/newsletters/chinatown.jpg)
 
 To my surprise, I find myself thinking about *The Shining* a lot. I watched it for the first time last Halloween and definitely enjoyed it, though I wouldn't have rated it as a favourite. But given how often I find myself drawn to it—the image of Jack limping around with an axe in particular—I think I should probably upgrade its status in my mind. It's just such a tightly-crafted machine. And, like all great horror films, the ghosts or zombies or aliens are just set dressing; the real horror, in this case, is domestic abuse—yes, there's competing theories, like how it's actually about American Indian genocide, but at least in this case I prefer to hold to the surface reading. (As an aside, I recently read Bart Ehrman’s *Lost Christianities*, in which he briefly speculated about what would have happened if some form of Gnosticism had won over orthodox Christianity, and concludes that we would focus much more on extracting the “real,” hidden meaning of our media. Speculative, of course, but interesting!). I also find it interesting that it's set in a hotel, since one of my *other* favourite movies, *The Grand Budapest Hotel*, is obviously about a hotel, and so is my favourite game, *The Norwood Suite*. Maybe I just like fiction about hotels. (Of course my other favourite movies are *Pan’s Labyrinth*, because it's a Spanish Civil War-set fairytale chock full of religious imagery so of *course* I love it, *Dr Strangelove*, because it’s a Cold War-set black comedy full of sexual imagery so of *course* I love it, and *Princess Mononoke*, because it’s a pacifist fantasy chock full of wolf imagery so of *course* I love it.)
 
 On the other hand, I also watched Alfred Hitchcock’s *Vertigo*, allegedly one of the best films of all time (or so Wikipedia’s summary would claim, citing the 2012 Sight & Sound poll) and... honestly, it left me pretty cold. Watching it blind a week before the move, it was a nice surprise to find that it's basically a tour of historic San Francisco landmarks, but overall I found it mediocre. Certainly part of the problem is the very '50s attitude towards gender relations (which makes large parts of the film all-but-incomprehensible to a 2019 audience), but even then I found the plot fairly flimsy, especially after the big reveal that, strangely, comes about two-thirds into the film. I *really* struggled to stay awake after that—the (possibly supernatural) mystery at the core of the story is exactly what I was interested in!
 Apparently, putting the big twist reveal a good 40 minutes from the end was quite controversial, but in any case, it was the wrong decision.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/f0425c04-9c1e-4b36-ac54-a307e3b36aa6.jpg)
+![Salesforce Tower](../../assets/newsletters/salesforce_tower.jpg)
 
 ### What I’m Reading
 
@@ -43,6 +43,6 @@ I'm following along with Bob Nystrom’s [*Crafting Intepreters*](http://www.cra
 
 I'm not building it *yet*, but Goodreads is kind of garbage, no? I'm sure alternatives exist, but it would be an interesting challenge to build a fully-featured competitor, complete with mobile apps.
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/7652c743-8766-49a0-90a9-c34099d84f3f.jpg)
+![Cathedral of Saint Mary of the Assumption](../../assets/newsletters/saint_mary.jpg)
 
 Well, that's all, folks. I'll be back in *hopefully* a week with more to say. *Hopefully.*

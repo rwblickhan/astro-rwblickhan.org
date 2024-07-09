@@ -1,6 +1,6 @@
 ---
 title: Wait! This Sounds Familiar (rwblog S6E22)
-lastUpdatedDate: 2024-04-01
+lastUpdatedDate: 2024-07-09
 season: 6
 ---
 
@@ -20,7 +20,7 @@ Anyway: all this to say that I’m really into *cards* right now. I’m thinking
 
 On a tangentially related note: check out [this *wild* playing card set](https://www.wopc.co.uk/france/grimaud/le-jeu-de-marseille) drawn by André Breton and pals while trying to escape Nazi-occupied Europe (featuring a cameo from [Ubu Roi](https://en.wikipedia.org/wiki/Ubu_Roi)).
 
-![Magus of Locks from the Jeu de Marseille](../../assets/newsletters/magus-locks.jpg)
+![Magus of Locks from the Jeu de Marseille](../../assets/newsletters/magus_locks.jpg)
 
 ## In Other News
 
