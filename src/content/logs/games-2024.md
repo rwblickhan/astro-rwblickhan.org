@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-07-01
+lastUpdatedDate: 2024-07-08
 ---
 
 ## Video Games
@@ -12,6 +12,7 @@ lastUpdatedDate: 2024-07-01
 5. 🔁 _The Norwood Suite_
 6. _Outer Wilds_
 7. _Umurangi Generation_
+8. _Tales from Off-Peak City Vol. 1_
 
 ## Traditional Games
 
