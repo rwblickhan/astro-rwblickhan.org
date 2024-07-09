@@ -8,7 +8,7 @@ season: 1
 
 *By the way, I’d love to have a recurring mailbag segment, but that would require I actually get mail. So, if you have any thoughts, feelings, or questions about this issue, fire away and (with your permission, of course), maybe I’ll include it in a future issue.*
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/a8fea4b2-98b6-4480-83d5-ea4d029869bc.jpg)
+![”Temptation of Buddha by the Evil Forces of Mara”, Northern India, Kashmir, 8th century](../../assets/newsletters/temptation_of_buddha.jpg)
 [”Temptation of Buddha by the Evil Forces of Mara”, Northern India, Kashmir, 8th century](https://www.clevelandart.org/art/1971.18)
 
 I hope quarantine is treating you all well. Or, at least, not badly. It’s been another two weeks (has it really?) and the world keeps spinning, more or less.
@@ -19,7 +19,7 @@ Also, in [Robin Sloan’s last newsletter](https://www.robinsloan.com), he menti
 
 Oh, you know, the usual. Website revamp is coming along, piano is occasionally played, Buttonup now has tabs:
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c301ca46-6154-4cfc-9ae5-f49e110ffda9.png)
+![Screenshot of Buttonup app showing tabs](../../assets/newsletters/tabs.png)
 
 Tabs that don’t do anything, but…
 
@@ -31,7 +31,7 @@ Rolling Stone had a feature on [“The Unsolved Case of the Most Mysterious Song
 
 Also, Sherry started a newsletter, [Flash Fiction from Frostyshadows](https://buttondown.email/frostyshadows). I highly recommend subscribing 😉
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/b338aa23-efb1-4c90-a884-1f449a654164.jpg)
+![“Knight, Death, and the Devil”, Albrecht Dürer, 1513](../../assets/newsletters/knight_death_devil.jpg)
 [“Knight, Death, and the Devil”, Albrecht Dürer, 1513](https://www.clevelandart.org/art/1965.231) (this is relevant to the next section.)
 
 ### What I’m Watching
@@ -63,7 +63,7 @@ Also, George Harrison’s [“Art of Dying”](https://youtu.be/EqLf2vgrymU) is 
 
 Finally, [here’s a really good mashup](https://youtu.be/JR3uz8rq4ng) of The Temptations’ “Get Ready” and Black Sabbath’s “Children of the Grave”. One of the comments says “I unironically want Soul Metal to become a thing,” which… yes please.
 
-<https://www.instagram.com/p/B9YjztUAKvv/>
+![Trees growing on the High Line in New York City](../../assets/newsletters/high_line.jpg)
 
 ### What I’m Playing
 
@@ -81,7 +81,7 @@ Friends and I also tried [Tabletopia’s online version of *Secret Hitler*](http
 
 On the topic of all these online versions of games, is there an online version of *Love Letter* (my other favorite tabletop game)? It should be extremely easy to clone, but it seems like nobody’s done it yet. Anybody want to work on that? 😃
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/6f015e3a-6114-464f-8783-9496bab097c2.jpg)
+![“Album of Landscape Paintings Illustrating Old Poems: An Old Man with a Staff walks a Wooded Path”, Hua Yan, 1700s](../../assets/newsletters/old_man_with_staff.jpg)
 [“Album of Landscape Paintings Illustrating Old Poems: An Old Man with a Staff walks a Wooded Path”, Hua Yan, 1700s](https://www.clevelandart.org/art/1982.68.3)
 
 Whew, this was quite a long edition. Sorry about that, folks! Thanks for sticking with it to the end; hopefully you’ve enjoyed my ramblings. Hope you all have two good weeks until the next one 🙂

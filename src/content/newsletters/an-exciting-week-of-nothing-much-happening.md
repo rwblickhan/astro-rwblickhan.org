@@ -6,7 +6,7 @@ season: 1
 
 This week I messed things up. A bit, not too much. But I guess that’s life, right? We pick ourselves up and dust ourselves off and get back to work.
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/3738f4a6-d578-4fa6-bdc8-520db4a11cd3.jpg)
+![Standing stones at Lands End](../../assets/newsletters/standing_stones.jpg)
 
 ### What I’m Watching
 

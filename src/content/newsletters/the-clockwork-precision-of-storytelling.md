@@ -6,7 +6,7 @@ season: 1
 
 Hello, one and all, from the latter half of a delightful four day weekend (that nevertheless feels just a little too short to be entirely satisfying). I started mentoring an intern _and_ interview training at the same time this week, so needless to say I did need some time for rest and recuperation.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/3cf7b8a1-e946-4147-b9cb-4295c44a0274.jpg)
+![_View of a City at Night_, Camille Roqueplan, 1831](../../assets/newsletters/view_of_a_city_at_night.jpg)
 
 [_View of a City at Night_, Camille Roqueplan, 1831](https://www.clevelandart.org/art/2015.586)
 
@@ -18,7 +18,7 @@ As alluded to last time, I felt dissatisfied with the Charlemagne’s-grandkids-
 
 For some reason, I’ve suddenly started to be tempted by game design, for the first time in a long time, likely because of my newfound fondness for _Runeterra_ (below). Perhaps I’ll be cracking open Unity soon…
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/456f0fd4-c3a2-4c49-abe9-f3e4f813d183.jpg)
+![_Smelting Works at Denver_, Thomas Moran, 1892](../../assets/newsletters/smelting_works_at_denver.jpg)
 
 [_Smelting Works at Denver_, Thomas Moran, 1892](https://www.clevelandart.org/art/1938.56)
 
@@ -32,7 +32,7 @@ What _does_ have good (fantastic, _impeccable_) timing is _Avatar: The Last Airb
 
 From the maker of [“hangman is a weird game”](https://youtu.be/le5uGqHKll8) comes this (apparently serious?) examination of [”the original Mario Bros.”](https://www.youtube.com/watch?v=NYZOngyZvaI), which is to say the Game & Watch game. It’s hard to tell whether it’s satire or sincere[^3] which I think is why I found it so engaging.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/6c388a57-46b3-4235-877a-a9b013795ca7.jpg)
+![_Nocturne: Blue and Gold—Southampton Water_, James McNeill Whistler, 1872](../../assets/newsletters/nocturne.jpg)
 
 [_Nocturne: Blue and Gold—Southampton Water_, James McNeill Whistler, 1872](https://www.artic.edu/artworks/56905/nocturne-blue-and-gold-southampton-water)
 
@@ -46,7 +46,7 @@ Mainly, _Legends of Runeterra_, which to my mind is exactly what _Hearthstone_ _
 
 Mikey Neumann’s beautiful [tribute to _Breath of the Wild_](https://youtu.be/suiVi4kjvbI) encouraged me to finally start it up again, after having not touched it basically since moving to San Francisco. It’s nice! It’s nice. Especially for our newly-quarantined world.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/1524e598-edb2-4fd9-8136-28c55c3b67a1.jpg)
+![_Le Pont des Arts_, Maxime Lalanne, 1869](../../assets/newsletters/le_pont_des_arts.jpg)
 
 [_Le Pont des Arts_, Maxime Lalanne, 1869](https://www.artic.edu/artworks/61557/le-pont-des-arts)
 
@@ -61,7 +61,7 @@ But, though I personally found value in the text, I can’t really recommend it 
 
 And, of course, I did my yearly reread of _Hitchhiker’s Guide to the Galaxy_, which for me sits somewhere between “modern classic” and “holy scripture”. Happy early [Towel Day](http://towelday.org), everyone!
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/445abebe-121c-4bd4-975a-f5980c1e0c52.jpg)
+![Don't Panic](../../assets/newsletters/dont_panic.jpg)
 
 [^1]: Protip: Go to View -\> “Show section breaks” to… show the section breaks. I haven’t the slightest clue why Google Docs would include the option to include sections breaks that you _can’t even see by default_, but there you go 🤷‍♀️
 

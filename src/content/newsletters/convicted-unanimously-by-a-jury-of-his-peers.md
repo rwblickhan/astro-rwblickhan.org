@@ -8,7 +8,7 @@ Happy Easter one and all! It’s not actually a holiday here in California, but 
 
 Images today are [plague doctors from Public Domain Review](https://publicdomainreview.org/collection/plague-doctor-costumes/). Fun fact: plague doctors were not present for the Black Death (14th century), rather coming about some three centuries later (17th century), which just goes to show how not-static the pre-modern world was.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/6ac6be46-cdc4-428f-9d48-530e2159fd10.png)
+![Historical image of a plague doctor](../../assets/newsletters/plague_doctor1.png)
 
 ### What I Read
 
@@ -18,7 +18,7 @@ I finally got around to reading the copy of Ellen Raskin’s *The Westing Game* 
 
 [This article](https://www.spur.org/publications/urbanist-article/2008-06-01/eye-street), from the San Francisco Bay Area Planning and Urban Research Association, talks about why San Francisco streets feel so... depressing? Spoiler alert: they're badly designed!
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/7166114d-16b8-4a5f-8e20-b7218bb44a7b.png)
+![Historical image of a plague doctor](../../assets/newsletters/plague_doctor2.png)
 
 ### What I Watched￼￼￼￼
 
@@ -28,7 +28,7 @@ Bong Joon-ho’s *Snowpiercer* never quite reaches the mastercraft status of its
 
 We, like most of America, watched the Netflix original *Tiger King: Murder, Mayhem, & Madness*, chronicling the rise and fall of tiger zoo owner Joe Exotic. We chewed through the whole series in a week, which I suppose is some kind of stamp of approval, but I walked away feeling rather uneasy, especially after watching part of the Joel McHale-hosted “after show” released today. [This piece](https://www.nytimes.com/2020/04/09/science/tiger-king-joe-exotic-conservation.html) in the New York Times captures that feeling well—it feels more like a reality show than a considered documentary, with the intent of making stars of its subjects (some of whom, it is rumoured, were paid for participation); the welfare of the animals only occasionally peeks through the human drama of duelling zoo leaders; and Carole Baskin, who’s no angel but probably not the devil either[^1], is villainized in almost the same light Joe Exotic painted her in, at least going by the number of people I've seen that joking-not-joking say “Carole did it.”[^2] I wouldn't go so far as to call the show “irresponsible,” though if there ends up being a “Free Joe” campaign it may well be (as he was, remember, convicted unanimously by a jury of his peers after admitting to animal abuse!). It makes an interesting contrast with the first episode of *Don’t Fuck with Cats*, which is much more careful to present a balanced picture (and explicitly says “maybe mob justice is bad”!).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/7a1ec5df-fefb-4b43-92d7-92f75ab60fe1.jpg)
+![Historical image of a plague doctor](../../assets/newsletters/plague_doctor3.jpg)
 
 ### What I'm Listening To
 
@@ -38,9 +38,9 @@ I don't know how I found it, but I've been hung up on this folk album, *Folkesan
 
 ### The Rooibos Corner
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/78c391b2-0dde-4306-b86b-3f605ede27fa.png)
+![Rooibos sitting on his blanket](../../assets/newsletters/rooibos_blanket.png)
 
- He's not usually *this* photogenic.
+He's not usually *this* photogenic.
 
 ### What I'm Working On
 
@@ -50,7 +50,7 @@ I’m working on a project with [Rob](https://buttondown.email/bobheadxi) and so
 
 Then there’s the revamp of [rwblickhan.org](https://rwblickhan.org) which I’m still dragging my feet on… but it is getting closer.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/9437b281-2518-4a40-a2af-98a15cf1bdb9.jpg)
+![Historical image of a plague doctor](../../assets/newsletters/plague_doctor4.jpg)
 
 [^1]: She’s domineering to a fault and swindled some people out of their rightful inheritance, and I have no doubt she threatened her then-husband—but the case that she actually murdered him and fed him to tigers seems much murkier than the show lets on.
 

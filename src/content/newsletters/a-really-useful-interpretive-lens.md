@@ -4,9 +4,9 @@ lastUpdatedDate: 2020-02-03 07:12:29.961044+00:00
 season: 1
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/0f3716a4-462c-4323-bf8d-d472abc84794.jpg)
+![Sherry's artwork hanging on our wall](../../assets/newsletters/sherry_art.jpg)
 
- Sherry’s new artwork on our wall.
+Sherry’s new artwork on our wall.
 
 ### What I’m Reading
 
@@ -28,6 +28,6 @@ This week (or maybe last week, I can’t remember) [Flow State](https://flowstat
 
 Related to the book of the week, I listened to Fall of Civilizations’ episode on [the conquest of the Aztec empire](https://fallofcivilizationspodcast.com/2019/12/16/%F0%9F%94%A5episode-9-is-now-live%F0%9F%94%A5/). At 4 hours (!) it’s about as long as just reading *Fifth Sun*, but it’s interesting to compare and contrast what they each focus on (needless to say, Malintzin plays a much smaller role in his telling of the story).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/7d941038-cb27-4693-b8fe-1f6d9ecccb43.jpg)
+![A fake castle at a Napa winery](../../assets/newsletters/napa_castle.jpg)
 
- An authentic fake 13th century Tuscan castle, complete with emus!
+An authentic fake 13th century Tuscan castle, complete with emus!

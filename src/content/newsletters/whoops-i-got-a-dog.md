@@ -37,4 +37,4 @@ Thanks to [Publish](https://github.com/JohnSundell/Publish/blob/master/README.md
 
 Meet the newly-adopted Rooibos 🙂
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/60b0505a-216d-43cf-9cdf-34c792c7c33d.jpg)
+![Rooibos](../../assets/newsletters/rooibos.jpg)

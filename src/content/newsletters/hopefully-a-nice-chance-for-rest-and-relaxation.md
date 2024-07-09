@@ -6,7 +6,7 @@ season: 1
 
 Hello all and hopefully you’re all staying safe and sane. Personally, I (and, it seems, most of my coworkers) am finally feeling the strain of work-from-home; admittedly, having a partner but no children does relieve most of the burden, so in practice my day-to-day routine is practically unchanged, but there is still a strain. Luckily, May 1 has been declared a company-wide holiday, so that’s hopefully a nice chance for rest and relaxation.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/681c0c9d-207f-4c8c-9bbe-a99e7fbb492c.jpg)
+![The Fountains, Hubert Robert, 1787-88](../../assets/newsletters/the_fountains.jpg)
 
 [The Fountains, Hubert Robert, 1787-88](https://www.artic.edu/artworks/57051/the-fountains)
 
@@ -50,7 +50,7 @@ I’ve also _once again_ starting a writing project that will probably never go 
 >
 > “Then let us go.”
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/197e7da8-c7a8-456e-b05b-ddb108af28f4.jpg)
+![The Obelisk, Hubert Robert, 1787-88](../../assets/newsletters/the_obelisk.jpg)
 
 [The Obelisk, Hubert Robert, 1787-88](https://www.artic.edu/artworks/57049/the-obelisk)
 
@@ -68,7 +68,7 @@ But just as much so I’m excited to see where this newsletter goes; even if the
 
 Finally, here’s a random Wikipedia page on the [Yarsani religion](https://en.wikipedia.org/wiki/Yarsanism). The only reason I link to this is as a reminder (for myself more so than for you, dear reader) that religious diversity, even today, is much higher than perhaps expected.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/d0120923-81c7-4194-93ca-525eb6db1c14.jpg)
+![The Landing Place, Hubert Robert, 1787-88](../../assets/newsletters/the_landing_place.jpg)
 
 [The Landing Place, Hubert Robert, 1787-88](https://www.artic.edu/artworks/57050/the-landing-place)
 
@@ -82,7 +82,7 @@ As a palette cleanser, here’s [“Marcy Learns Something New”](https://kottk
 
 Finally, something educational: [Hillel Wayne](https://www.hillelwayne.com/about/), a software consultant specializing in formal methods (and who has a very nice [blog](https://www.hillelwayne.com/post/)) gave a talk at the Deconstruct conference last year titled [“What We Can Learn From Software History”](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history?utm_source=hillelwayne&utm_medium=email) (sorry, that spoils the joke at the beginning… but then again, that’s in the title of the page, too). It’s a lovely explanation of the historical method (which only professional historians and regular visitors to [r/AskHistorians](https://www.reddit.com/r/askhistorians) pay much attention to otherwise) and its relevance to software engineering, focusing on the case study of “why is reversing a linked-list a common interview problem?” The answer (well, a strongly-supported hypothesis, which is about as far as “answers” go in history) probably won’t surprise you overmuch, but the real interest lay in how he goes about supporting that strongly-supported hypothesis.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/ba04735c-3e98-41e5-b809-1c99f2c19fdb.jpg)
+![The Old Temple, Hubert Robert, 1787-88](../../assets/newsletters/the_old_temple.jpg)
 
 [The Old Temple, Hubert Robert, 1787-88](https://www.artic.edu/artworks/57048/the-old-temple)
 
@@ -96,7 +96,7 @@ I’ve also just started (and consumed half of) the [_History of Persia_ podcast
 
 ### The Rooibos Corner
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/01afc5c8-a7b9-4a2a-b1ab-92521c206b54.jpg)
+![Rooibos sleeping](../../assets/newsletters/rooibos_sleeping.jpg)
 
 Well, poor reader, you’re probably just about as tired as Rooibos—this has now clocked in at over 2000 words of ramble (if you include the story snippet) which was hopefully of some use or value to your or someone. In any case, stay safe, stay sane, stay inside—and here’s to [meeting again](https://youtu.be/HsM_VmN6ytk).[^5]
 

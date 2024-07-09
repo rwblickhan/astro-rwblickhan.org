@@ -4,7 +4,7 @@ lastUpdatedDate: 2024-07-09
 season: 6
 ---
 
-![Ace of Flames from the Jeu de Marseille](../../assets/newsletters/ace-flames.jpg)
+![Ace of Flames from the Jeu de Marseille](../../assets/newsletters/ace_flames.jpg)
 
 ## Balatro and Deliberate Practice
 

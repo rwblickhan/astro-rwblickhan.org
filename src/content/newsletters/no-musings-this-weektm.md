@@ -4,7 +4,7 @@ lastUpdatedDate: 2019-08-19 04:53:44.826321+00:00
 season: 1
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/eaea7e52-1c2e-4c50-b3c4-d9402b5b4bad.JPG)
+![A waterfall in Yosemite](../../assets/newsletters/yosemite1.jpg)
 
 No musings his (bi)week. I (perhaps sadly) haven't been up to much in the past couple weeks, aside from my day job, of course 🙃
 
@@ -32,6 +32,6 @@ I've also been using Duolingo to learn Mandarin. Or, perhaps more truthfully, to
 
 I had taken up guitar again sometime around starting work, but then put it back down sometime between then and now. I intend to pick it back up again, hopefully to more productivity this time.
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/95549d8c-0e4c-4fc9-ae20-845337e62e46.JPG)
+![A sapling in Yosemite](../../assets/newsletters/yosemite2.jpg)
 
 And that's about it. Thanks for reading! I'm not sure anybody besides me gets any value out of this newsletter, but if you're reading this at the bottom, I suppose it must be the case that you are, in point of fact, getting some value out of this newsletter. But, in any case, thanks.

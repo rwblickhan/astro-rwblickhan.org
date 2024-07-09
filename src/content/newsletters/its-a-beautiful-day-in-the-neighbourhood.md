@@ -4,7 +4,7 @@ lastUpdatedDate: 2019-09-16 06:06:21.541740+00:00
 season: 1
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/4b1e0af6-f76d-43e9-8a19-985e69da3209.jpg)
+![A building built along a parallel street](../../assets/newsletters/edge_building.jpg)
 
 ### What I’m Watching
 
@@ -60,4 +60,4 @@ I’ve been working on a horror story (novel?) slowly (as in, it’s been more t
 
 Thoughts? Feelings? Late-night stealings?
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/cfbab318-3b42-4818-91bd-1574eb419da1.jpg)
+![Safeway](../../assets/newsletters/safeway.jpg)

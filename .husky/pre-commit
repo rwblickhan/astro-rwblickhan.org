@@ -1,8 +1,8 @@
 pnpm exec astro check
 markdownlint src/**/*.md --disable MD045 --fix
-echo "Updating last update dates"
-files=$(git diff --name-only --staged)
-for file in $files; do
-    sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: $(date +%Y-%m-%d)" $file
-    git add "$file"
-done
+# echo "Updating last update dates"
+# files=$(git diff --name-only --staged)
+# for file in $files; do
+#     sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: $(date +%Y-%m-%d)" $file
+#     git add "$file"
+# done

@@ -6,7 +6,7 @@ season: 1
 
 It’s been a bit of a long two weeks, so this issue is rather short, if you discount the (very) short story I’ve attached to the end 🙂 So, without further ado…
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/bc1bd0df-3cd0-4e01-a0c2-111673e5cf09.jpg)
+![“The Monkey Bridge”, Katsushika Taito II, early 1830s](../../assets/newsletters/the_monkey_bridge.jpg)
 
 [“The Monkey Bridge”, Katsushika Taito II, early 1830s](https://www.clevelandart.org/art/1921.413)
 
@@ -18,7 +18,7 @@ Ars Technical ran an article on [“The Internet’s most important—and misund
 
 Finally, Slate Star Codex had [“Slightly Skew Systems of Government”](https://slatestarcodex.com/2020/06/17/slightly-skew-systems-of-government/), where he comes up with novel new government forms that are both silly and yet also surprisingly insightful. I do wish there was more fiction exploring “imaginary legal and political systems”—surely some science fiction/fantasy does that, but I want something that’s focused *exclusively* on that.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/bca8a96f-124b-4016-8d59-52d353ed59cf.jpg)
+![“Etchings of Paris: The Little Bridge”, Charles Meryon, 1850](../../assets/newsletters/etchings_of_paris.jpg)
 
 [“Etchings of Paris: The Little Bridge”, Charles Meryon, 1850](https://www.clevelandart.org/art/1954.881)
 
@@ -30,7 +30,7 @@ Adam Robinson-Yu’s [*A Short Hike*](https://adamgryu.itch.io/a-short-hike) (in
 
 Even if you don’t play *A Short Hike* (which you should, because it’s lovely), it’s worth taking the half hour to appreciate [this postmortem](https://youtu.be/ZW8gWgpptI8), which focuses both on why the developer decided to build it (skipping out on a complex RPG he had been working on) and also many of the “tricks” that make the game tick, like the pixelating filter[^2] that gives the game its unique vibe or the clever way some items are duplicated around the island so that players can “just happen” to find them (despite being virtually guaranteed to do so). In short, if you have any interest in game design at all, it’s well worth a watch.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/0b0e5f19-9e2d-40f2-bc2c-8018008b3af0.jpg)
+![”Sudden Shower over Shin-Ohashi Bridge and Atake”, from the series *One Hundred Famous Views of Edo*, Utagawa Hiroshige, 1857](../../assets/newsletters/sudden_shower.jpg)
 
 [”Sudden Shower over Shin-Ohashi Bridge and Atake”, from the series *One Hundred Famous Views of Edo*, Utagawa Hiroshige, 1857](https://www.clevelandart.org/art/1921.318)
 
@@ -44,7 +44,7 @@ Meanwhile, I’ve continued my write-500-words-a-day experiment, only missing a 
 
 I’ve occasionally been writing very short (flash?) fiction on days where I didn’t feel particularly “inspired.” Most of those had a nice hook but could use a few more revisions before they’re ready for public (public?) consumption. However, I am fairly happen with how one particular story turned out, which I’ll attach here as a goodbye treat.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/e9a48256-7136-4dfd-a56d-3990f754ca7c.jpg)
+![”Stopham Bridge”, Edward Louis Laurenson, 19th century](../../assets/newsletters/stopham_bridge.jpg)
 
 [”Stopham Bridge”, Edward Louis Laurenson, 19th century](https://www.clevelandart.org/art/2014.222)
 

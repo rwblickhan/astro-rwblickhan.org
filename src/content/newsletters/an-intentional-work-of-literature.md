@@ -4,7 +4,7 @@ lastUpdatedDate: 2019-12-23 08:29:11.405137+00:00
 season: 1
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/5de340ba-4ddb-44eb-b110-3626d90dba59.JPG)
+![Apartments in Duboce](../../assets/newsletters/duboce_apartments.jpg)
 
 This is quite long! I apologize! Just think of it as an early Christmas/Hanukkah/Kwanzaa/Chunjie/insert-other-winter-holidays-here present.
 
@@ -50,4 +50,4 @@ On the non-fiction front, I’ve been trundling through Michael Gomez’ *Africa
 
 Also, since I read a bit more on Pocket this week than I have in a while, I’d like to make note of [A Constructive Look At TempleOS](http://www.codersnotes.com/notes/a-constructive-look-at-templeos/), in which Richard Mitton takes a look at the *good* parts of [TempleOS](https://en.wikipedia.org/wiki/TempleOS), an infamously Bible-themed operating system built from the ground up by Terry Davis, a sufferer of schizophrenia prone to racist outbursts and, apparently, divine revelation, who died last year. It’s probably the closest programming gets to “outsider art” or “outsider music” (like The Shaggs, above)—it’s especially fascinating to try to *appreciate* it for what it does, genuinely, get right.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/65afb3f6-ed79-471e-aea5-1ed2685d6858.JPG)
+![A mansion near Sutro Tower](../..//assets/newsletters/sutro_mansion.jpg)

@@ -4,7 +4,7 @@ lastUpdatedDate: 2024-05-01 05:49:16.211028+00:00
 season: 1
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/db4593b3-3a76-4477-bdb5-debccc78b629.jpg)
+![Building in Soma](../../assets/newsletters/soma_buildings.jpg)
 
 Happy New Year, one and all! I’ve had a nice two weeks off (exactly coinciding, I am now realizing, with these newsletters) and I’m not preparing to head back to work.
 
@@ -22,7 +22,7 @@ On the topic of shows by adults for kids but really also for adults (or, perhaps
 
 On the other hand, with nothing else going on during Christmas, I somehow got sucked into a showing of the _Minions_ movie on some cable channel. Half-watching it during the post-Christmas-dinner food coma is probably the closest I’ll ever get to being on acid.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/65c805ae-f608-494e-b7fe-abb165170146.jpg)
+![Long shadows along Market St](../../assets/newsletters/long_shadows.jpg)
 
 ### What I’m Reading
 
@@ -40,4 +40,4 @@ On the other hand, we have _The Bible Unearthed: Archaeology's New Vision of Anc
 
 And that’s it for these two weeks! Toodle-oo!
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/9338f432-8296-4afb-bd85-627ab3aada9e.jpg)
+![A sign reading "Trucks Not Advised"](../../assets/newsletters/trucks_not_advised.jpg)

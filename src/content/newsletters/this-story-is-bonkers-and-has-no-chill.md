@@ -4,7 +4,7 @@ lastUpdatedDate: 2020-03-16 04:04:01.604495+00:00
 season: 1
 ---
 
-<https://www.instagram.com/p/B9JKIMCAYOK/>
+![A mirrored view of the skyline in New York City](../../assets/newsletters/mirrored_buildings.jpg)
 
 Hello all from a world that looks considerably scarier than my last missive two weeks ago. San Francisco finally seemed to panic this weekend, although happily I can report Sherry and Rooibos and I are fine. Hopefully you’re all taking care of yourselves on this otherwise beautiful Sunday night. Stay inside and wash your hands! 😷
 
@@ -39,6 +39,6 @@ I’ve slowly continued work on the new site. Things are sorta-kinda working now
 
 I’m also toying with building a Buttondown client for iOS. I even went so far as to create a new project in Xcode. And… that’s about it 🙂
 
-<https://www.instagram.com/p/B9V7aHOAzZE/>
+![The Zoetrope Building](../../assets/newsletters/zoetrope.jpg)
 
 Alright, bye for now. Stay safe!

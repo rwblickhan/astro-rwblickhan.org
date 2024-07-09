@@ -8,7 +8,7 @@ Hello all! It’s that Sunday again—another weekend, another adventure in dile
 
 The art this week is various pieces by Romantic painter [John Martin](https://en.wikipedia.org/wiki/John_Martin_(painter)). I first took notice of him from the genuinely breathtaking [*Belshazzar’s Feast*](https://en.wikipedia.org/wiki/Belshazzar%27s_Feast_(Martin)), which is used on the Wikipedia page for [“the writing on the wall”](https://en.wikipedia.org/wiki/Belshazzar%27s_feast). Apparently he took much criticism from contemporary critics—Wikipedia almost makes him sound like a Victorian [Thomas Kinkade](https://en.wikipedia.org/wiki/Thomas_Kinkade)—and, in fairness, his paintings are definitely very melodramatic; but then again, sometimes melodrama is nice, and seeing as how he clearly influenced all the epic fantasy concept art I’m so fond of, I of course adore these as well. Plus, the Biblical themes tie into *Paradise Lost* (see below), so…
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/405aad3e-8573-4da7-aa5b-5f651e802d45.jpg)
+![*Belshazzar’s Feast*, John Martin, 1821](../../assets/newsletters/belshazzars_feast.jpg)
 
 [*Belshazzar’s Feast*, John Martin, 1821](https://en.wikipedia.org/wiki/Belshazzar%27s_Feast_(Martin))
 
@@ -20,7 +20,7 @@ Traditionally, my “reading list” was a series of slightly disorganized Amazo
 
 On a semi-related note, for my book-buying needs (not that I… have book buying needs, of course 🙂), I’m thinking of trying out [Bookshop](https://bookshop.org), an online bookstore that gives a cut to local indie bookstores. I’ve heard pretty good things about it! You can even [become an affiliate](https://bookshop.org/affiliates/profile/introduction) and make a pretty penny off your book recommendations; that being said, I wouldn’t ever expect anybody to buy off an affiliate link, but I am tempted by having a public list of “recommendations”/reading lists, a la [Robin Sloan](https://bookshop.org/shop/robinsloan).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/8a2e7e99-3d00-492b-b7fd-371048d49796.JPG)
+![*Le Pandemonium*, John Martin, 1841](../../assets/newsletters/le_pandemonium.jpg)
 
 [*Le Pandemonium*, John Martin, 1841](https://en.wikipedia.org/wiki/File:John_Martin_Le_Pandemonium_Louvre.JPG)
 
@@ -28,11 +28,11 @@ On a semi-related note, for my book-buying needs (not that I… have book buying
 
 Since this year is apparently turning into a “year of classics”, I checked off a prominent member of the cinematic canon, Kurosawa’s *Rashomon*, in which four eyewitnesses tell differing, contradictory accounts of a sexual assault and murder. It is, indeed, a very good movie—it somehow manages to be a Thinky Movie that you could watch in a media studies class, while also being an enjoyable murder-mystery-ish yarn that’s done and through in just 90 minutes. On the other hand, as the comments on Kanopy pointed out[^1], it can be a bit hard to stomach a story of sexual assault[^2] that’s essentially ‘50s attitudes projected back on the Sengoku-era past, with not a little victim-blaming and obnoxious obsession with honor—this is definitely a film that would deserve a content warning in a film studies class. On the *other* other hand, you could also read the film as a critique of those attitudes—definitely, none of the characters come out looking particularly noble, especially as the film repeatedly tells us they are *all* lying, with one of the fight scenes in which the dueling characters are visibly shaking being especially shocking. I also found the ending, which concludes the frame story, rather disturbing; I’m not sure this was entirely the intention (Wikipedia seems to frame it as a “happy ending”), but then again, I’m not sure it’s *not* intended either. In any case, I would tentatively recommend it.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/63e5a599-2303-4a10-bbff-fe96fe8899e9.jpg)
+![Zdzisław Beksiński playing with discarded ordnance](../..//assets/newsletters/discarded_ordnance.jpg)
 
 In video essay land, here’s one titled [“The Nightmare Artist”](https://youtu.be/dxRB4sdbIcw), exploring the life and work of deeply influential horror painter Zdzisław Beksiński. The only thing I have to add here is that you should definitely see the above picture of him and his friend playing with discarded ordnance in 1941, [found on Wikipedia](https://commons.wikimedia.org/wiki/File:Zdzisek_1941.jpg).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/46114484-e7a9-4194-98be-c367fd6b9dba.jpg)
+![*The Seventh Plague of Egypt*, John Martin, 1823](../../assets/newsletters/the_seventh_plague_of_egypt.jpg)
 
 [*The Seventh Plague of Egypt*, John Martin, 1823](https://en.wikipedia.org/wiki/File:Martin,_John_-_The_Seventh_Plague_-_1823.jpg)
 
@@ -42,7 +42,7 @@ Thank goodness, there’s [someone else](https://longreads.com/2020/05/04/i-dont
 
 On the other hand, I have been enjoying Grimes’ *Visions* quite a bit—turns out she makes really nice weird-but-danceable synthpop in the vein of, say, Chrvches or Gazelle Twin?
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/ea114721-fb8c-4747-9030-582d98a042b4.jpg)
+![*The Evening of The Deluge*, John Martin, 1828](../../assets/newsletters/the_evening_of_the_deluge.jpg)
 
 [*The Evening of The Deluge*, John Martin, 1828](https://en.wikipedia.org/wiki/File:The_Deluge_engraving_by_WIlliam_Miller_after_J_Martin.jpg)
 
@@ -54,7 +54,7 @@ So, I’ve split the work about 80/20 between the Charlemagne-inspired story I t
 
 I’ve not bothered doing any non-trivial work on buttonup for the past two weeks (hence why there was no newsletter sent out), though to my surprise Sherry has really taken off with [her Android version](https://github.com/frostyshadows/buttonup). The past few weeks at work have been somewhat intense and, with an intern and interview training starting, I expect the next month or so to be intense as well[^4], so I don’t imagine I’ll get much more done anytime soon (and, in any case, I’d rather write more instead).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/5918a98d-859d-4bac-a8fa-7e85ee9f27fd.jpg)
+![*The Destruction of Tyre*, John Martin, 1840](../../assets/newsletters/the_destruction_of_tyre.jpg)
 
 [*The Destruction of Tyre*, John Martin, 1840](https://en.wikipedia.org/wiki/File:John_Martin_-_Destruction_of_Tyre_-_Google_Art_Project.jpg)
 

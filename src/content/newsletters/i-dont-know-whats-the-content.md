@@ -4,7 +4,7 @@ lastUpdatedDate: 2019-09-02 07:26:04.506995+00:00
 season: 1
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/7486efb1-04d6-4ecb-8b6e-296dfcc1f340.jpg)
+![A building in Soma](../../assets/newsletters/soma.jpg)
 
  I [made a small tweet](https://twitter.com/rwblickhan/status/1160719432789794817?s=12) a few weeks ago (before the last newsletter, actually, I think) that I want to revisit, where I said that it would be interesting to have a field of systems design (more than that is already a field, that is). This was in response to [a (really good!) article](https://tech.davis-hansson.com/p/congress-is-a-vm.html) making a metaphor between United States congressional procedures and programming language interpreters. I found this interesting because something I've been thinking about on and off a lot is how technology has politics and culture, of course, but a lot of what we all technology could also rightfully be considered technology as well, such as, well, the US Congress. More generally, though, I wonder if there's a lot of value in considering related “systems” fields together, like (parts of) computer science, biology, economics, and political science.
 
@@ -42,4 +42,4 @@ I've picked up *Dota Underlords*, as opposed to any of the other Autochess clone
 
 I also picked up *Cultist Simulator* for iPad, since it was only $5 or so, even though I already picked it up for desktop in a Humble Bundle or something. Having it on iPad (convenient *and* tactile!) really unlocked it for me—I just spent an hour and a half trying (and, ultimately, failing) to raise up my cult, and I don't get addicted to games like that anymore. In any case, the writing is really stellar and the almost complete lack of explanation (annoying, in most cases) fits well with the themes and story. It's the most engrossed I've been since *80 Days*, or maybe *The Norwood Suite*.
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/a1d0470b-f50d-4107-8337-07624171c73c.jpg)
+![Mission Bay](../../assets/newsletters/mission_bay.jpg)

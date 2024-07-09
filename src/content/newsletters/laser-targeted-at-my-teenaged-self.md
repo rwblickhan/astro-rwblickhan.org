@@ -4,7 +4,7 @@ lastUpdatedDate: 2019-10-28 04:31:06.512579+00:00
 season: 1
 ---
 
-<https://www.instagram.com/p/B36Oev4gPlX/>
+![A treasure chest that opens onto a set of stairs](../../assets/newsletters/sherry_inktober3.jpg)
 
 Busy week—guests over and work ramping up—so not much to say by way of introduction. But, again, I’m featuring Sherry’s Inktober artwork [from Instagram](https://www.instagram.com/frostyshadows/).
 
@@ -40,4 +40,4 @@ We bought a digital piano—a [Yamaha P71](https://www.amazon.com/gp/product/B07
 
 I’m still working on _Beautiful Racket_ and _100 Days of SwiftUI_ (though I haven’t exactly been keeping up with the latter), though I took a break to check out _Beautiful Racket_ author Matthew Butterick’s other book, [_Butterick’s Practical Typography_](https://practicaltypography.com), which was nice, though it’s a little too “practical” for my tastes.
 
-<https://www.instagram.com/p/B3lGv2ogu_z/>
+![A Chinese dragon](../../assets/newsletters/sherry_inktober4.jpg)

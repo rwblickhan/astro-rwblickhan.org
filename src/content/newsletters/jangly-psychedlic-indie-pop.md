@@ -4,7 +4,7 @@ lastUpdatedDate: 2019-12-09 06:34:20.911876+00:00
 season: 1
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/33bd352f-aee0-47b0-b1f1-a850b5951baf.JPG)
+![Warning lights along Caltrain](../../assets/newsletters/train_warning_lights.jpg)
 
  Short one this week because I’m lazy, sorry.
 
