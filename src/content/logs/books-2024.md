@@ -33,7 +33,7 @@ lastUpdatedDate: 2024-07-08
 28. _Amphigorey: Fifteen Books_, Edward Gorey
 29. 🔁 _His Dark Materials: Book 1 - The Golden Compass_, Philip Pullman
 30. _The World Doesn’t End_, Charles Simic
-31. *The Theoretical Minimum: What You Need to Know to Start Doing Physics*, Leonard Susskind & George Hrabovsky
+31. _The Theoretical Minimum: What You Need to Know to Start Doing Physics_, Leonard Susskind & George Hrabovsky
 
 ## Skimmed
 
