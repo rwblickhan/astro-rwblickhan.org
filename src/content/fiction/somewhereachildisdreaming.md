@@ -5,5 +5,5 @@ description: Poetry
 ---
 
 Somewhere a child is dreaming\
-There are dreaming of a city\
+They are dreaming of a city\
 that we will never see
