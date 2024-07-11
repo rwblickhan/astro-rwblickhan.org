@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-03
+lastUpdatedDate: 2024-07-11
 ---
 
 1. _Halo_, Juana Molina
@@ -104,3 +104,4 @@ lastUpdatedDate: 2024-07-03
 99. _A Year with 13 Moons_, Jefre Cantu-Ledesma
 100. _Tri Repetae_, Autechre
 101. _Panda Bear Meets The Grim Reaper_, Panda Bear
+102. _What’s Tonight To Eternity_, Cindy Lee
