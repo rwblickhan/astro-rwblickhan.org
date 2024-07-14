@@ -41,3 +41,9 @@ lastUpdatedDate: 2024-07-13
 - _How Infrastructure Works: Inside the Systems That Shape Our World_, Deb Chachra
 - _The Dangers of Smoking in Bed_, Mariana Enriquez (trans. Megan McDowell)
 - _A \*New\* Program for Graphic Design_, David Reinfurt
+
+## Papers
+
+1. “The Magical Number Seven, Plus or Minus Two: Some Limits on our Capacity for Processing Information”, George A. Miller
+2. “The Role of Deliberate Practice in the Acquisition of Expert Performance”, Ericsson et. al.
+3. “Puritans and Prigs: An Anatomy of Zealotry”, Marilynne Robinson
