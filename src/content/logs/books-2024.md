@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-07-08
+lastUpdatedDate: 2024-07-13
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -34,6 +34,7 @@ lastUpdatedDate: 2024-07-08
 29. 🔁 _His Dark Materials: Book 1 - The Golden Compass_, Philip Pullman
 30. _The World Doesn’t End_, Charles Simic
 31. _The Theoretical Minimum: What You Need to Know to Start Doing Physics_, Leonard Susskind & George Hrabovsky
+32. 🔁 _His Dark Materials: Book 2 - The Subtle Knife_, Philip Pullman
 
 ## Skimmed
 
