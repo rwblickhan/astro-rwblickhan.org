@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-07-03
+lastUpdatedDate: 2024-07-15
 ---
 
 ## Movies
@@ -42,6 +42,7 @@ lastUpdatedDate: 2024-07-03
 35. 🔁 _World of Tomorrow Episode 2: The Burden of Other People's Thoughts_ (2017)
 36. 🔁 _World of Tomorrow Episode 3: The Absent Destination of David Prime_ (2020)
 37. _Fargo_（1996)
+38. _Moonlight_ (2016)
 
 ## TV Shows
 
