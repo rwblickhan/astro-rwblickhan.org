@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-12
+lastUpdatedDate: 2024-07-15
 ---
 
 1. _Halo_, Juana Molina
@@ -106,3 +106,4 @@ lastUpdatedDate: 2024-07-12
 101. _Panda Bear Meets The Grim Reaper_, Panda Bear
 102. _What’s Tonight To Eternity_, Cindy Lee
 103. _Confidenza OST_, Thom Yorke
+104. _Capsule Losing Contact_, Duster
