@@ -107,4 +107,5 @@ lastUpdatedDate: 2024-07-15
 102. _What’s Tonight To Eternity_, Cindy Lee
 103. _Confidenza OST_, Thom Yorke
 104. _Capsule Losing Contact_, Duster
-105. _Andor Vol. 1. OST_, Nicholas Britell
+105. _Andor Vol. 1 OST_, Nicholas Britell
+106. _Andor Vol. 2 OST_, Nicholas Britell
