@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-07-15
+lastUpdatedDate: 2024-07-16
 ---
 
 ## Movies
@@ -43,6 +43,7 @@ lastUpdatedDate: 2024-07-15
 36. 🔁 _World of Tomorrow Episode 3: The Absent Destination of David Prime_ (2020)
 37. _Fargo_（1996)
 38. _Moonlight_ (2016)
+39. 🔁 _Princess Mononoke_ (1997)
 
 ## TV Shows
 
