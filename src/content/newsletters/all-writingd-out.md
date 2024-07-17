@@ -6,7 +6,7 @@ season: 4
 
 16,776 words out of 50,000, or about a third of the way done!
 
- ![](https://buttondown-attachments.s3.amazonaws.com/images/07353fc6-0c08-42c4-9bb8-1c313c0ad9d7.jpg)
+![“Guanyin (Avalokiteshvara) Standing before Flaming Aureole and Holding a Water Bottle”, Eastern or Western Wei dynasty, c. mid–5th century (rededicated 594)](../../assets/newsletters/guanyin_flame.jpg)
 [“Guanyin (Avalokiteshvara) Standing before Flaming Aureole and Holding a Water Bottle”, Eastern or Western Wei dynasty, c. mid–5th century (rededicated 594)](https://www.artic.edu/artworks/11151/guanyin-avalokiteshvara-standing-before-flaming-aureole-and-holding-a-water-bottle)
 
 Unfortunately I am all writing’d out so this is more of a “yes, I’m still alive” newsletter. One interesting link this week:
@@ -17,4 +17,4 @@ Unfortunately I am all writing’d out so this is more of a “yes, I’m still 
 
 Still a sleepy pup.
 
- ![](https://buttondown-attachments.s3.amazonaws.com/images/58e3b975-da39-4dac-9bff-5eb1413cda42.jpg)
+![Rooibos sleeping](../../assets/newsletters/rooibos_sleeping2.png)

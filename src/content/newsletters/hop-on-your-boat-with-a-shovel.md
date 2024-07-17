@@ -6,7 +6,7 @@ season: 4
 
 I had a nice offsprint — I started Moss Roberts’ very long translation of *Romance of the Three Kingdoms* — but tomorrow it’s back to writing. I wasn’t totally happy with how the first part turned out so I’m going to take another crack at it over the next two weeks — stay tuned!
 
- ![](https://buttondown-attachments.s3.amazonaws.com/images/a7ed5871-3ed9-4859-b9d5-7c89f2165799.jpg)
+![“The Fall of Simon Magus”, studio of Pompeo Batoni, c. 1745- 1750](../../assets/newsletters/fall_of_simon_magus.jpg)
 [“The Fall of Simon Magus”, studio of Pompeo Batoni, c. 1745- 1750](https://www.clevelandart.org/art/1983.217)
 
 ## Russell’s Fun Facts Corner
@@ -21,4 +21,4 @@ I had a nice offsprint — I started Moss Roberts’ very long translation of *R
 
 It has been *hot* in San Francisco this past week (well, as hot as San Francisco gets, anyway) and Rooibos has not been enjoying it.
 
- ![](https://buttondown-attachments.s3.amazonaws.com/images/a5edf246-e66b-406b-899f-322d2be2d55b.jpg)
+![Rooibos feeling hot](../../assets/newsletters/rooibos_hot.jpg)

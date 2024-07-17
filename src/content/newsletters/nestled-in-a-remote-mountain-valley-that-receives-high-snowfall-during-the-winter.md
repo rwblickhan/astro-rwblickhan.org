@@ -6,7 +6,7 @@ season: 4
 
 Writing update: I hit 22k words, but I’m feeling a bit burnt out, so I’ve decided to adopt a concept of “writing sprints” — I’ll take the next week off to revise and rework what I’ve already got before spending another 2 weeks sprinting at 1,666 words per day. Notably, that will let me fix some issues in the outline that have become apparent while sprinting to the first draft.
 
- ![](https://buttondown-attachments.s3.amazonaws.com/images/efc70de8-f62f-428c-9a7e-975c62052005.jpg)
+![”A prince riding a composite elephant”, India, Golconda, Deccan, 16th century](../../assets/newsletters/composite_elephant.jpg)
 [”A prince riding a composite elephant”, India, Golconda, Deccan, 16th century](https://www.clevelandart.org/art/2013.282#)
 
 ## Russell’s Fun Facts Corner
@@ -24,4 +24,4 @@ Let’s try out a new format: introducing Russell’s Fun Facts Corner!
 
 I found and returned a Loofa dog to him, which he was carefully guarding, even though I’m not sure he particularly cares about it 🤷‍♀️
 
- ![](https://buttondown-attachments.s3.amazonaws.com/images/358d5f2f-6fc2-454c-9e73-88486f482bca.jpg)
+![Rooibos cuddling with a toy](../../assets/newsletters/rooibos_toy.jpg)

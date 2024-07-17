@@ -12,7 +12,7 @@ So, with that, we finish off the short-lived season 3 and begin season 4, bringi
 
 So, without further ado…
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/19cf0fa1-cf52-4d63-aeca-427962334567.jpg)
+![Chinese imperial examination candidates gathering around the wall where the results are posted, Qiu Ying, c. 1540](../../assets/newsletters/imperial_examinations.jpg)
 
 [Chinese imperial examination candidates gathering around the wall where the results are posted, Qiu Ying, c. 1540](https://commons.wikimedia.org/wiki/File:Ming-Beamtenpr%C3%BCfungen1.jpg)
 
@@ -69,7 +69,7 @@ _awoooo_
 
 Oh dear, it seems Rooibos did not particularly enjoy his trip to Tahoe, even if he did like having a bit more space to run around in, and took to howling in protest at night. Luckily he hasn’t kept that up since returning, but it’s terrifying to know it could restart at any minute…
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/ee62f8da-d939-4c09-a3e3-ccdd81baf393.jpg)
+![Rooibos stretching](../../assets/newsletters/rooibos_stretching.jpg)
 
 [^1]: Season 3 also, er, lost me followers 😅
 

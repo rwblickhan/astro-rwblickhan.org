@@ -8,7 +8,7 @@ I finally got around to finishing that outline! So, now I just need to write lik
 
 In good news, more than half the city of San Francisco has been vaccinated against Covid-19, and general availability (or close enough, anyway) opens on Thursday. So hopefully by the next newsletter I’ll have my first vaccine.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/4a1e06a7-c616-4eb3-b077-ce0c87d479b5.jpg)
+!["Guanyin (Avalokiteshvara)”, Yuan/early Ming dynasty, late 14th century](../../assets/newsletters/avalokiteshvara.jpg)
 ["Guanyin (Avalokiteshvara)”, Yuan/early Ming dynasty, late 14th century](https://www.artic.edu/artworks/28158/guanyin-avalokiteshvara)
 
 ## In Which I Realize It’s Not Me, It’s The Translation
@@ -34,4 +34,4 @@ And, on another note, here’s a brief note in the Economist about the [Calcutta
 
 He’s patiently waiting for us to get our vaccines so we can finally have some people over.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/dae61c5f-9538-4f38-86d4-564dae184fe1.jpg)
+![Rooibos looking eager for us to get our vaccines](../../assets/newsletters/rooibos_vaccine.jpg)

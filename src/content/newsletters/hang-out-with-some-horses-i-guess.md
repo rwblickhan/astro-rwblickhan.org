@@ -6,7 +6,7 @@ season: 4
 
 I don’t really have much to talk about this week so this is going to be a short issue mostly focused on links that caught my attention, sorry!
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/48338d22-d326-4641-afa0-6be344d8232c.jpg)
+![“Dragon in the clouds”,  1832, Totoya Hokkei](../../assets/newsletters/dragon_in_the_clouds.jpg)
 [“Dragon in the clouds”,  1832, Totoya Hokkei](https://www.artic.edu/artworks/36318/dragon-in-the-clouds)
 
 ## Neat Linguistic Theory of the Week
@@ -35,4 +35,4 @@ Here’s a Wikipedia article about a court case titled [*United States vs. One P
 
 It’s been nice and sunny in San Francisco this week, so Rooibos has been enjoying sunning himself:
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/f0fe7049-c8e0-4b8c-899f-3883a9c13fe9.jpg)
+![Rooibos sunning himself on the couch](../../assets/newsletters/rooibos_sunning.jpg)
