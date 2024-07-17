@@ -20,6 +20,6 @@ Anyway, this kind of goal-setting is common in corporate settings, but it seems 
 
 ## Rooibos Corner
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/0aeae72a-7c37-4f0d-a85b-6ad184bcc111.png)
+![Rooibos standing on a couch](../../assets/newsletters/rooibos_eager.jpg)
 
 [^1]: Inspired partly by Sherry and partly by the [KRs](https://en.wikipedia.org/wiki/OKR) we set for our team at work.

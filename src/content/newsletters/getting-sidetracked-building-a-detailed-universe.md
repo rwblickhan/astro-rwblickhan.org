@@ -15,23 +15,23 @@ But I have been finding it harder and harder to force myself to come up with top
 
 All images are from [this Twitter thread](https://mobile.twitter.com/CGdrawing/status/1308110464056844289) about late-19th-century ukiyo-e artist Kobayashi Kiyochika.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c52e7822-b618-4e38-877b-19742a90d1f4.jpeg)
+![An image by late 1800s *ukiyo-e* artist Kobayashi Kiyochika](../../assets/newsletters/kiyochika1.jpg)
 
 I just returned home from a (rather cold) weekend road trip to Monterey. The main purpose of the trip was to take surf lessons, which has now been achieved, although perhaps the more pertinent lesson was how little I like the taste of seawater.
 
 There's that old canard about how travel isn't really about the destination but the return — to find that the home you set out from has regained some of the mystery it had when you first set foot there.[^2] Sure enough, the little 3x3 block that Rooibos and I have mostly stuck to since the pandemic started feels a bit... different somehow. A little more mysterious, a little more foreign, but also a little more cozy.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/f1853002-a4fe-46ef-8b8d-69ee7bc6ea3d.jpeg)
+![An image by late 1800s *ukiyo-e* artist Kobayashi Kiyochika](../../assets/newsletters/kiyochika2.jpg)
 
 The other night I was rolling around, trying to sleep, letting thoughts wander, as one does, and a little thought struck me. Perhaps death is really a form of fear-of-missing-out. Perhaps what we ever-sociable humans fear is not so much not existing as missing out on all the time our friends and loved ones could have spent with us, had we lived further. When we think of death, what we really fear is not the inky blackness of non-existence (after all, we calmly wade into those waters every night) but rather the thought of a world without us — the ultimate form of FOMO.
 
 The modern world has a rather unhealthy relationship with death. One of my major disappointments with *Midsommar*[^3] was that it didn't lean far enough into this idea. There is a moment, about a third of the way in, where two elders commit ritual suicide, the natural span of their lives over. The main characters are horrified, but one of their hosts calmly explains to them that this is a *joy* for them, that they have lived long, fulfilling lives and can now give that life to continue the great cycle. After all, as the audience, hadn't we suffered through an exquisitely masochistic suicide earlier, the camera lingering on the main character’s sister and the hose of gas carefully taped to her mouth?[^4] Can we really say those deaths were less horrifying, more meaningful? For a moment I thought the film was going to be extra special clever — the real horror is not a murderous cult, but rather the as-yet-unresolved contradictions of modernity; the only monsters are the ones the main character brought with her. But, no, the film is about a murderous, even sadistic, cult. Oh well.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/b5746d74-09c0-4ead-b3ad-b2eecaef9020.jpeg)
+![An image by late 1800s *ukiyo-e* artist Kobayashi Kiyochika](../../assets/newsletters/kiyochika3.jpg)
 
 Lately I've been thinking about worldbuilding. This is, perhaps, brought about by reading *Mistborn* — the author of which, Brandon Sanderson, is the source for the distinction between “hard” and “soft” magic — as well as the potential for playing *Dungeons & Dragons* with some friends soon. I realized that, at some point, I put aside recreational worldbuilding — creating a world with creatures and cultures and characters — perhaps due to the common advice that you should focus on the story, not the worldbuilding, when writing fantasy. And, to be clear, I think that advice is true; if you are writing a story, the end product is, well, the story, and its often not worth getting sidetracked building a detailed universe when only hints of it will shine through. But that ignores the fact that worldbuilding can be *fun*, even if not strictly productive — it can be even more fun than actually, say, playing *D&D*! I might take it up again — after all, play is practice for the imaginative mind.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/bcaed6ff-0020-49d5-bf53-9ea080475b80.png)
+![An image by late 1800s *ukiyo-e* artist Kobayashi Kiyochika](../../assets/newsletters/kiyochika4.jpg)
 
 [^1]: I have yet to start seriously editing the novel, though, and we're already a quarter of the way through the month 😬
 

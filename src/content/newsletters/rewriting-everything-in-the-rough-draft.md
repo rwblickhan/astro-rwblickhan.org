@@ -14,11 +14,12 @@ In particular, perhaps with our C-like languages we’re stuck in the equivalent
 
 Well, that was a short missive, but you’ve made it this far, so he’s your obligatory photo of Rooibos:
 
+![Rooibos sleeping in his bed](../../assets/newsletters/rooibos_bed.jpg)
  ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c24164d7-327d-4cfc-b2d4-abc79b095c8f.png)
 
 Heck, have two:
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/49ae2c2b-7613-455e-9fa2-af382b6ab345.png)
+![Rooibos standing on the couch](../../assets/newsletters/rooibos_eager.jpg)
 
 Now, back to work!
 

@@ -8,7 +8,7 @@ Hello again and welcome back to half-baked essay land. This is a _long_ one (sor
 
 I’ve been working on a [SwiftUI version](https://github.com/rwblickhan/Emomo) of Sherry’s [EmomTimer](https://github.com/frostyshadows/EmomTimer), which (struggles with Core Data beside) has been making some non-trivial progress. I also finally have a solid cover-to-cover, beat-by-beat outline and a solid 10,000 first-draft words of the book I’ve been working on, on and off, for more than a year now—so prepare to hear more about that soon 😉
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/fab6bfed-a3f4-4a85-a23a-cab9bf1a0c6e.jpg)
+![Orson Welles telling reporters he had no idea _War of the Worlds_ would cause a panic](../../assets/newsletters/orson_welles.jpg)
 
 [Orson Welles telling reporters he had no idea _War of the Worlds_ would cause a panic](https://commons.wikimedia.org/wiki/File:Orson_Welles_War_of_the_Worlds_1938.jpg)
 
@@ -38,7 +38,7 @@ I think the answer might be the skepticism. _F for Fake_ openly encourages skept
 
 So I think where I land is that fakery is natural and has its uses, but we must be careful to always be skeptical, and yet not replace that skepticism with too-solid beliefs.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/f28bcd1b-3d16-46ed-9440-5ed2936a49ab.jpg)
+![An infamous image of a "liminal space"](../../assets/newsletters/liminal_spaces.jpg)
 
 ## Miscellanea
 

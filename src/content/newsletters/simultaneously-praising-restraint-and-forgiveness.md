@@ -8,7 +8,7 @@ Another two weeks of work and pandemic boredom.
 
 All images this week are stills from *Tokyo Story*, which you’ll read about below.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/b208b5a4-3ffa-46d2-95a0-7bf0ade1a9fa.jpg)
+![A still from Ozu's *Tokyo Story*](../../assets/newsletters/tokyo_story1.jpg)
 
 ## That which is spontaneously so: the *Daodejing*
 
@@ -24,7 +24,7 @@ Is that a fair rendering of their arguments, let alone the *Daodejing* itself? I
 
 In any case, one connection I *did* make was with [field theory](https://en.wikipedia.org/wiki/Field_(physics)) in physics. I’m obviously not a physicist, but my understanding is that these days it’s popular to express physical problems as the time evolution of a field, with e.g. photons not being “particles” at all but rather [bundles of energy in a particular field](https://en.wikipedia.org/wiki/Force_carrier). And, of course, there’s quantum mechanics, where quantum systems are “fuzzy” and [interconnected](https://en.wikipedia.org/wiki/Quantum_entanglement) [until “measured”](https://en.wikipedia.org/wiki/Quantum_decoherence). Both of these have obvious parallels with the classic Daoist continuous/processual worldview noted above, so perhaps this still has some relevance today.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/bb7bea5f-2661-4612-a434-51bd351e9c4c.jpg)
+![A still from Ozu's *Tokyo Story*](../../assets/newsletters/tokyo_story2.jpg)
 
 ## “I can’t stand that sound”: Ancestral rites in *Tokyo Story*
 
@@ -34,7 +34,7 @@ I sometimes wonder if the pointedly death-negative (death-fearing, death-avoidin
 
 But *Tokyo Story* is no conservative story, pining for an imagined pastoral past where children had perfect filial piety. It does not provide easy answers. After the funeral, the couple’s youngest daughter (who looked after her parents) rages that her older siblings, in their modern lives, couldn’t be bothered to stay more than a day or two. But the couple’s widowed daughter-in-law Noriko, the only one to pay them any attention, points out to her that she should be understanding—someday, she too would have a life of her own (and, as we eventually learn, Noriko is herself desperately lonely in the wake of her husband’s death). And then:
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/cb59cb08-6e27-4f31-9830-08670aaf8cc8.jpg)
+![A still from Ozu's *Tokyo Story*](../../assets/newsletters/tokyo_story3.jpg)
 
 Which, despite its simplicity, is probably the most profound thing I’ve ever seen a film say.
 
@@ -52,7 +52,7 @@ So my hypothesis, then, would be that civilization has brought us to a point whe
 
 Anyway, that probably didn’t make a whole lot of sense, and I should probably clean it up. But that’s a peek into the inner workings of my mind for you 😛
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/0543ea0d-f861-47f5-8101-b51d57b8e5b5.jpg)
+![A still from Ozu's *Tokyo Story*](../../assets/newsletters/tokyo_story4.jpg)
 
 ## Miscellanea
 
@@ -62,7 +62,7 @@ I also watched two more late-‘60s King Hu wuxia films, both fairly acclaimed, 
 
 I’ve exclusively listened to albums on repeat all week, Philip Glass’ 1985 soundtrack to *Mishima* and Taylor Swift’s recent *folklore*, which makes an interesting contrast. Not much to add other than to say that both are excellent and well worth the time.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/252f774b-2100-4f9c-8507-e5cd57d113ea.jpg)
+![A still from Ozu's *Tokyo Story*](../../assets/newsletters/tokyo_story5.jpg)
 
 [^1]: Perhaps consider this the inaugural “random Zettelkasten note”.
 
