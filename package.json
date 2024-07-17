@@ -14,22 +14,22 @@
   "dependencies": {
     "@astrojs/check": "^0.3.4",
     "@astrojs/mdx": "^2.3.1",
-    "@astrojs/rss": "^4.0.5",
-    "@astrojs/sitemap": "^3.1.4",
-    "astro": "^4.11.0",
+    "@astrojs/rss": "^4.0.7",
+    "@astrojs/sitemap": "^3.1.6",
+    "astro": "^4.11.6",
     "astro-pagefind": "^1.5.0",
-    "husky": "^9.0.11",
+    "husky": "^9.1.0",
     "markdown-it": "^14.1.0",
     "pagefind": "^1.1.0",
     "remark-collapse": "^0.1.2",
     "remark-toc": "^8.0.1",
     "sanitize-html": "^2.13.0",
-    "sass": "^1.75.0",
+    "sass": "^1.77.8",
     "sharp": "^0.32.6",
-    "typescript": "^5.4.5"
+    "typescript": "^5.5.3"
   },
   "devDependencies": {
-    "@types/markdown-it": "^14.0.1",
+    "@types/markdown-it": "^14.1.1",
     "@types/sanitize-html": "^2.11.0"
   }
 }
