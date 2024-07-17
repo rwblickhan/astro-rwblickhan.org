@@ -8,8 +8,7 @@ Hello all, and welcome back to a new year and a new season of `rwblog`, née App
 
 So, without further ado, here are my reflections on my reading for the past year. I managed to read about [56 books this year](https://rwblickhan.org/52books/2021) and intend to read at least 52 next year as well. I expect to follow up with reflections on the films I watched in the past year in the coming weeks as well. Also, as that old canard goes, I apologize for such a long letter — I didn’t have time to write a short one 🙂
 
- ![25263635563_18a7b70512_c.jpg](https://buttondown-attachments.s3.amazonaws.com/images/8a429942-f56b-497f-b0f9-b828ed6b254c.jpg)
-
+!["Difference is Time", San Francisco Public Library, Thomas Hawk](../../assets/newsletters/difference_is_time.jpg)
 ["Difference is Time", San Francisco Public Library, Thomas Hawk](https://www.flickr.com/photos/thomashawk/25263635563/in/photolist-EusJFv-2j1kuXa-2hqEoyX-2iGBaXi-2hSVCXw-2mQq9jY-2exZ2sA-2mGtGs9-2kGrGCq-2gPBQuX-8QAwu-2ky4vPt-2jjKVm4-2i9fzqi-8QAxZ-2gkeVhZ-2i8nFbT-2i9r6KX-2kvPNkz-2ifasUW-2kVWf82-RHXGNx-SCyxFU-23F1itB-2jy1pp8-2gb2dA6-9CG6kz-2jo6q9n-2mygVeF-nzvsD-2katncw-2ifBqhq-QdD4iC-2ivKmdh-JzQsp-2mLxJes-2dSG9Pi-2kTbfoz-2g9vFbZ-2hPDPLe-a8B7HB-2hmxCv2-6j4ieS-R6aYRF-N8gxf3-TNtL3E-2gRHqSw-J1yD8B-2kFJjb6-8QArC)
 
 ## Fab Five of 2021
@@ -114,8 +113,7 @@ Instead, the book was... *not* that, instead introducing a mysterious undergroun
 4. *The Kiss Quotient*: Lan is literally just Stella Lane-but-fantasy. I will not be explaining further.
 5. *The Peach Blossom Fan*: I haven’t thought as much about *The Peach Blossom Fan* as the others on this list, but this bittersweet play about a doomed romance in the ashes of the Ming dynasty’s collapse deserves to be *much* better known.
 
- ![1940.841 - Library of Winchester College.jpg](https://buttondown-attachments.s3.amazonaws.com/images/caba9f03-ea0a-41eb-b2d0-880b8252d5e6.jpg)
-
+!["Library of Winchester College", c. 1816, Frederick MacKenzie](../../assets/newsletters/winchester_college.jpg)
 ["Library of Winchester College", c. 1816, Frederick MacKenzie](https://www.artic.edu/artworks/39011/library-of-winchester-college)
 
 [^1]: DeWitt and her characters would, I suspect, appreciate the choice of a library.

@@ -6,7 +6,7 @@ season: 5
 
 Hello friendos!
 
-![6.jpg](https://buttondown-attachments.s3.amazonaws.com/images/a21fd208-26a8-4c97-bf27-45f5c9818572.jpg)
+![Korean Community Christian Church in Oakland](../../assets/newsletters/korean_community_christian_church.jpg)
 
 ## General Site Updates
 

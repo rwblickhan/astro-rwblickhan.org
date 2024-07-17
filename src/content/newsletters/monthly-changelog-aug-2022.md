@@ -4,7 +4,7 @@ lastUpdatedDate: 2022-09-02 04:08:15.806345+00:00
 season: 5
 ---
 
-![5.jpg](https://buttondown-attachments.s3.amazonaws.com/images/49325919-fdd6-4637-bbb3-0a757b4b52e0.jpg)
+![The sign for Columbus Cafe in North Beach](../../assets/newsletters/columbus_cafe.jpg)
 
 Hey all, here's what's new on [rwblickhan.org](https://rwblickhan.org) this month!
 
