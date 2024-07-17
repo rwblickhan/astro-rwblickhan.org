@@ -1,0 +1,16 @@
+---
+import { getCollection } from "astro:content";
+
+import IndexStandardLayout from "../../layouts/IndexStandardLayout.astro";
+
+const posts = (await getCollection("poetry")).sort(
+  (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
+);
+---
+
+<IndexStandardLayout
+  title="Poetry"
+  description="Poetry index page"
+  posts={posts}
+  makeHref={(slug) => `/poetry/${slug}`}
+/>

@@ -1,7 +1,6 @@
 ---
 title: Hold the glass in your hand
-lastUpdatedDate: 2024-07-10
-description: Poetry
+lastUpdatedDate: 2024-07-17
 ---
 
 Hold the glass in your hand\

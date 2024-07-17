@@ -12,6 +12,16 @@ const fiction = defineCollection({
   }),
 });
 
+const poetry = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    lastUpdatedDate: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val)),
+  }),
+});
+
 const essays = defineCollection({
   schema: z.object({
     title: z.string(),
@@ -92,6 +102,7 @@ const recipes = defineCollection({
 
 const collections = {
   fiction,
+  poetry,
   essays,
   technical,
   tilTechnical,

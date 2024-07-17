@@ -22,6 +22,15 @@ export const collectionMetadataMap: Map<Collection, CollectionMetadata> =
       },
     ],
     [
+      "poetry",
+      {
+        title: "Poetry",
+        slug: "/poetry",
+        isInHeader: true,
+        isInRSSFeed: true,
+      },
+    ],
+    [
       "essays",
       { title: "Essays", slug: "/essays", isInHeader: true, isInRSSFeed: true },
     ],
