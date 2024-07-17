@@ -12,7 +12,7 @@ I have a lot of honorable mentions but if I included them all this newsletter wo
 
 ### 5. _Something To Do With Paying Attention_, David Foster Wallace
 
-![59441851.f947aec4afeb472cad846760fe70f0fb.jpg](https://assets.buttondown.email/images/0a9538da-e2e5-4a28-b974-f9b4d3b39dd1.jpg?w=960&fit=max)
+![Cover of *Something To Do With Paying Attention*](../../assets/newsletters/something_to_do_with_paying_attention.jpg)
 
 Yes yes I know it’s 2023 and it’s passé to read David Foster Wallace, let alone include him on a best-of-the-year list. [“Where be your jibes now?”](https://www.lrb.co.uk/the-paper/v45/n14/patricia-lockwood/where-be-your-jibes-now) and all that.[^1]
 
@@ -22,7 +22,7 @@ I can’t quite account (pun intended) for why I liked this novella so much, but
 
 ### 4. _The Unbearable Lightness of Being_, Milan Kundera
 
-![9717.4c59d5d733a3479eafbc18b18b362409.jpg](https://assets.buttondown.email/images/5a6d369e-eb39-4a76-923b-8a495653421e.jpg?w=960&fit=max)
+![Cover of *The Unbearable Lightness of Being*](../../assets/newsletters/unbearable_lightness_of_being.jpg)
 
 I’m still trying to unpack how I feel about Kundera, who coulda-shoulda won the Nobel Prize — here’s a good [critical essay](https://drb.ie/articles/the-two-milan-kunderas/) and [one more sympathetic to Kundera](https://compactmag.com/article/why-kundera-never-went-home).
 
@@ -34,13 +34,13 @@ Just imagine reading a book that’s sentence after sentence of that quality! Th
 
 ### 3. _The Magic Fish_, Trung Le Nguyen
 
-![42394599.9e30470a4a304b2c83705b19b6736261.jpg](https://assets.buttondown.email/images/cd484773-865d-4e8b-9e75-3b9fe3c82bfe.jpg?w=960&fit=max)
+![Cover of *The Magic Fish*](../../assets/newsletters/the_magic_fish.jpg)
 
 I read a lot of comics this year, but _The Magic Fish_ was obviously the best — I even [wrote about it before](https://rwblickhan.org/newsletters/as-promised-a-very-dumb-frog/#you-should-read-the-magic-fish)! All you really need to know is that it’s about a gay Vietnamese teen and his refugee mother bonding over fairy tales, it’s extremely charming and heartwarming while also bittersweet, and it has some of the most gorgeous illustrations I’ve ever seen, with a completely different style for each of the fairy tales and the real world.
 
 ### 2. _The Hearing Trumpet_, Leonora Carrington
 
-![46987.509ef950b47941b39c604a0db325f7bc.jpg](https://assets.buttondown.email/images/cceaec5b-e4d7-4a39-97e0-fc82bdccd644.jpg?w=960&fit=max)
+![Cover of *The Hearing Trumpet*](../../assets/newsletters/the_hearing_trumpet.jpg)
 
 I am still not sure if _The Hearing Trumpet_ was the best book I read this year or merely the strangest — or whether I even see a distinction.
 
@@ -57,7 +57,7 @@ What I’m trying to say is, this is a novel that _goes places_, and those place
 
 ### 1. _Tomorrow, and Tomorrow, and Tomorrow_, Gabrielle Zevin
 
-![58784475.0f1b62d4ce664b2088ff40c5f51b2b3a.jpg](https://assets.buttondown.email/images/5b35288b-b5ed-4f40-b416-777f8f3ab914.jpg?w=960&fit=max)
+![Cover of _Tomorrow, and Tomorrow, and Tomorrow_](../../assets/newsletters/tomorrow_and_tomorrow_and_tomorrow.jpg)
 
 Come on, you all knew this was coming.
 
@@ -73,7 +73,7 @@ You should at least give it a try.
 
 ### 5. _Mishima: A Life in Four Chapters_ (1985)
 
-![Mishima.ab4af844e6b349c08a3d2232c8f0fbd9.jpg](https://assets.buttondown.email/images/74441366-1c9a-4148-8eb8-d671ea5534d2.jpg?w=960&fit=max)
+![Cover of _Mishima: A Life in Four Chapters_](../../assets/newsletters/mishima.jpg)
 
 These days, this film about [Japanese-novelist-turned-ultra-right-wing-militia-leader Yukio Mishima](https://en.wikipedia.org/wiki/Yukio_Mishima) is probably best known for its Philip Glass soundtrack, which is one of the all-time greats, but the film really does hold up. It interlaces Mishima’s last day with his troubled upbringing, then combines that with staged versions of some of his short stories, which underline the themes of the other parts of the film.
 
@@ -81,7 +81,7 @@ More importantly, though, it has some of the most fantastic set design I’ve ev
 
 ### 4. _Twilight_ (2008)
 
-![Twilight_(2008_film)_poster.b7022f4677ed42f8afa39f4b92bc667c.jpg](https://assets.buttondown.email/images/52b294d7-a88f-4215-90fa-640b49f3d0be.jpg?w=960&fit=max)
+![Cover of _Twilight_](../../assets/newsletters/twilight.jpg)
 
 Watching _Twilight_ in an indie theater full of screaming fans is possibly my favorite moviegoing experience ever.
 
@@ -89,19 +89,19 @@ I am convinced everything about this film was completely intentional. It goes ri
 
 ### 3. _Safe_ (1995)
 
-![Safe_ver1.3fe680778094439881578e35dfc7a1b4.jpg](https://assets.buttondown.email/images/d00ddd46-f0d9-44b6-87c6-9bffcac2590e.jpg?w=960&fit=max)
+![Cover of _Safe_](../../assets/newsletters/safe.jpg)
 
 _Safe_ is one of the most quietly terrifying films I’ve ever seen. A suburban housewife (in one of Julianne Moore’s defining roles) comes down with inexplicable, horrifying allergies, so she joins a cult, which doesn’t really hurt but also doesn’t help. And that’s it, that’s the movie. But, much like _Serial Experiments Lain_, it gets so much mileage just out of long takes of buzzing electrical lines and a woman who’s just as confused as we are.
 
 ### 2. _World of Tomorrow_ (2015)
 
-![World_of_Tomorrow_(film)_POSTER.c0bd048f19a34e3dbd1893d014f3e910.jpg](https://assets.buttondown.email/images/4158019a-b8f5-4b64-893d-489c2920a2e3.jpg?w=960&fit=max)
+![Cover of _World of Tomorrow_](../../assets/newsletters/world_of_tomorrow.jpg)
 
 Instead of describing _World of Tomorrow_, one of the most transcendent film experiences I’ve ever head, you can [just watch it](https://youtu.be/4PUIxEWmsvI?si=TOkjZIFCx9oanvyo)! 15 mins for free on YouTube. The sequels are fantastic as well.
 
 ### 1. Satoshi Kon
 
-![Perfectblueposter.a00c283db53b411dbee7e9e52df88a88.png](https://assets.buttondown.email/images/56c64368-a583-4432-98fa-f5f6b5cad395.png?w=960&fit=max)
+![Cover of _Perfect Blue_](../../assets/newsletters/perfect_blue.png)
 
 I have to include Satoshi Kon as a single entry, or this entire top 5 list would just be his movies.
 

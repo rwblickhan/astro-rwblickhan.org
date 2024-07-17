@@ -4,7 +4,7 @@ lastUpdatedDate: 2023-11-15
 season: 6
 ---
 
-![54.c52f58a5_1kN1qT.png](https://assets.buttondown.email/images/53dc4b8b-e9bd-4d96-a51c-d56ffebde4af.png?w=960&fit=max)
+![A Magic: The Gathering card stuck in a Muni station](../../assets/newsletters/magic_card.webp)
 
 ## A REPL for Writing
 

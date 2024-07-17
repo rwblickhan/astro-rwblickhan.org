@@ -4,7 +4,7 @@ lastUpdatedDate: 2023-12-15
 season: 6
 ---
 
-![56.niQIHfqP_Z2vNdas.png](https://assets.buttondown.email/images/815938a1-dc08-4262-96e7-41ab824cd830.png?w=960&fit=max)
+![Graffiti on a bunker in Hawaii](../../assets/newsletters/hawaii_bunker_graffiti.jpg)
 
 ## Miyazaki and Allowing Artists To Make Bad Art
 
