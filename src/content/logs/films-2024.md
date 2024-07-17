@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-07-16
+lastUpdatedDate: 2024-07-17
 ---
 
 ## Movies
@@ -44,6 +44,7 @@ lastUpdatedDate: 2024-07-16
 37. _Fargo_（1996)
 38. _Moonlight_ (2016)
 39. 🔁 _Princess Mononoke_ (1997)
+40. _Don’t Look Now_ (1973)
 
 ## TV Shows
 
