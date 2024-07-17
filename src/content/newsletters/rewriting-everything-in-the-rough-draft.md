@@ -15,7 +15,6 @@ In particular, perhaps with our C-like languages we’re stuck in the equivalent
 Well, that was a short missive, but you’ve made it this far, so he’s your obligatory photo of Rooibos:
 
 ![Rooibos sleeping in his bed](../../assets/newsletters/rooibos_bed.jpg)
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c24164d7-327d-4cfc-b2d4-abc79b095c8f.png)
 
 Heck, have two:
 
