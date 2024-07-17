@@ -12,7 +12,7 @@ One other change: I think I’ll want to send out stories faster, so, for this s
 
 So, without further ado, here is the first dispatch — the first part of a short horror story titled *The House*.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c5797597-8764-4dfe-9f2f-a4e02ed70b95.jpg)
+![*The Haunted House: We Both Saw a Large Pale Light*, Odilon Redon, 1896](../../assets/newsletters/haunted_house.jpg)
 
 [*The Haunted House: We Both Saw a Large Pale Light*, Odilon Redon, 1896](https://www.clevelandart.org/art/1966.413.3)
 

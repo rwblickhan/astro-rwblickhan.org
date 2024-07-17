@@ -4,7 +4,7 @@ lastUpdatedDate: 2021-03-07 20:30:00+00:00
 season: 3
 ---
 
-![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/2e7697e0-e6e5-4783-8eb5-48243953d510.jpg)
+![“Panel from Model Cooking Stove: Fairy Feeding Lingzhi Fungus to a Dragon”, 101-100 BC](../../assets/newsletters/fairy_feeding_lingzhi_fungus_to_a_dragon.jpg)
 
 [“Panel from Model Cooking Stove: Fairy Feeding Lingzhi Fungus to a Dragon”, 101-100 BC](https://www.clevelandart.org/art/1925.134)
 

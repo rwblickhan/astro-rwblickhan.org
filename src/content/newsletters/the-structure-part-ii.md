@@ -6,7 +6,7 @@ season: 3
 
 Part I can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/4652d9c9-f9f2-4d7d-be14-1c15eafbf2c6.jpg)
+![Celestograph by August Strindberg](../../assets/newsletters/celestograph.jpg)
 
 [Celestograph by August Strindberg](https://publicdomainreview.org/collection/august-strindberg-s-celestographs-1893-4)
 

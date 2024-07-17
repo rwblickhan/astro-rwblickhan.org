@@ -6,7 +6,7 @@ season: 3
 
 The complete story can be found [here](https://rwblickhan.org/stories/thestructure/).
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/779d389f-b7ef-49b4-b104-32c563d4e006.jpg)
+![Celestograph by August Strindberg](../../assets/newsletters/celestograph.jpg)
 
 [Celestograph by August Strindberg](https://publicdomainreview.org/collection/august-strindberg-s-celestographs-1893-4)
 

@@ -6,7 +6,7 @@ season: 3
 
 You can find the entirety of [*The House*](https://rwblickhan.org/stories/thehouse/), lightly edited, on my website.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/ec36b4cd-b129-4f14-afac-29a769eb2287.jpg)
+![*The Haunted House: We Both Saw a Large Pale Light*, Odilon Redon, 1896](../../assets/newsletters/haunted_house.jpg)
 
 [*The Haunted House: We Both Saw a Large Pale Light*, Odilon Redon, 1896](https://www.clevelandart.org/art/1966.413.3)
 
