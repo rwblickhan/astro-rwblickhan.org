@@ -6,7 +6,7 @@ season: 6
 
 Last month I introduced a 500-word cap. I’ll keep the cap and try to make this newsletter biweekly. Let’s go!
 
-![47.a288f6eb_1xS5OS.53ef3eb06f8f48c2adc3dba2b146af38.webp.png](https://buttondown.imgix.net/images/bdc420f2-9edf-4f01-b9c0-07103ff188e7.png?w=960&fit=max)
+![Negroni cat decorations at a bar in Melbourne](../../assets/newsletters/negroni_cats.webp)
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Recently I’ve been thinking about communities of practice (somewhat related to
 
 For instance, I set a goal to try out photography this year. I’ve actually kept up with this goal — specifically, edit 50 photos and put them up on [my gallery](https://rwblickhan.org/gallery/) — but I haven’t been motivated to really focus on it, since I know so few people interested in photography. On the other hand, I swore off music for the year — I once again tried music production for an hour and decided I wanted to spend time elsewhere — but I’m embedded in such a Scott Pilgrim-esque group of music nerds that I’m always tempted to join jam sessions. So perhaps if I want to pick up a hobby (say, illustration — which I actually do) then the first step is to find a community of practice surrounding it.
 
-![48.acf626e9_ZOVrRt.60e16cd58cc746369a17c56785308580.webp.png](https://buttondown.imgix.net/images/a1acdfbc-9987-4227-879b-536571a74c1d.png?w=960&fit=max)
+![The ceiling of a mall in Melbourne](../../assets/newsletters/melbourne_mall.webp)
 
 ## Pareidolia
 

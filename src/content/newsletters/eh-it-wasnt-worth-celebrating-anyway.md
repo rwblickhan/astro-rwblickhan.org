@@ -8,7 +8,7 @@ So, I completely missed March, did I? Oh well, nobody really needed March anyway
 
 I’m writing to you here, from the safe side of April Fools Day, a day which seems to be marked by less and less celebration every year. Perhaps that is how Saturnalia died, slowly petering out, as a generation of Romans decided, “eh, it wasn’t worth celebrating anyway.” Perhaps that is how every holiday dies, as the would-be celebrants find they no longer care.
 
-![claymation julius caesar partying at saturnalia](https://buttondown.imgix.net/images/f994cbec-4d70-4416-830f-d6355da9d773.png?w=960&fit=max)
+![claymation julius caesar partying at saturnalia](../../assets/newsletters/claymation_julius_caesar_stable_diffusion.png)
 “claymation julius caesar partying at saturnalia”, Stable Diffusion[^1]
 
 ## Table of Contents
@@ -27,7 +27,7 @@ But New Absurdism says that life is inherently meaningless _and also really weir
 
 The great exponent of this thought is, of course, most-awarded-film-of-all-time _Everything Everywhere All At Once_, which combines existentialism and Mahayana Buddhism’s _sunyata_ and butt plugs into a touching, humanistic story. But I also see touches of this in, say, 100 gecs or the hyperpop genre generally, who make extremely _weird_ music and seem to be having a great time doing it. And of course there’s other antecedents — particularly relevant might be Andrew W.K.’s album _You’re Not Alone_, including spoken word tracks about finding the purpose of life through partying, or _Hitchhiker’s Guide to the Galaxy_, with its nonchalant attitude of “eh, the Earth just blew up, let’s go get Pan-Galactic Gargle Blasters”. But it definitely feels like this attitude has become more common recently.
 
-![artificial intelligence taking over the world but like in a nice way](https://buttondown.imgix.net/images/e26ca433-1a3e-4cf6-8a5a-164b4aec5c46.png?w=960&fit=max)
+![artificial intelligence taking over the world but like in a nice way](../../assets/newsletters/artificial_intelligence_stable_diffusion.png)
 “artificial intelligence taking over the world but like in a nice way”, Stable Diffusion[^2]
 
 ## Has Artificial Intelligence Taken Over The World Yet?

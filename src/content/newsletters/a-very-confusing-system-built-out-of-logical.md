@@ -8,7 +8,7 @@ season: 6
 
 Hello from a very windy, and not particularly summery, San Francisco. Was it always this windy in San Francisco? I certainly don’t remember it being this windy the past three years. Now I can barely stand up for all the wind. And it’s not just my neighborhood (Mission Bay) — the Mission, and Richmond district, and Japantown alike are all cursed with howling wind.
 
- ![A view down a street near Union Square](https://buttondown.imgix.net/images/0ef67c47-c950-4cbf-b539-eea203e15f0d.jpeg?w=960&fit=max)
+ ![A view down a street near Union Square](../../assets/newsletters/union_square.webp)
 
 ## Pahlavi is the Worst Script
 
@@ -20,7 +20,7 @@ However, Japanese is a fairly inflected language, using changes in word form to 
 
 Anyway, apparently you can’t do an analysis like that for Pahlavi, the main writing system for Middle Persian. It’s actually just [the worst writing system ever invented](https://twitter.com/iwsfutcmd/status/1666585955107520518). (Warning: Twitter link! Read it while you still can, I suppose?)
 
-![Collected in “Medieval Illustrations of Bonnacons”, _Public Domain Review_](https://buttondown.imgix.net/images/d6410e8c-4221-4e4b-839b-75fd1488a398.jpg?w=960&fit=max)
+![Collected in “Medieval Illustrations of Bonnacons”, _Public Domain Review_](../../assets/newsletters/bonnacon.jpg)
 
 ## Do You Want To Read About A Farting Mythical Creature? Of Course You Do
 
@@ -46,4 +46,4 @@ Which is, firstly, absolutely lovely, and secondly, wait, I _love_ those videos 
 
 So I’m playing around with a little site to aggregate them, or at least the ones I come across. I imagine it will be a simple site - just a list of videos with thumbnails, maybe a simple tagging system, a link to a Google Form to submit more recommendations. Which, if you have them (recommendations I mean) — please send them my way!
 
- ![Rooibos squinting into the sun](https://buttondown.imgix.net/images/32ef1f81-80c3-40e9-9f24-ef5b01e02059.jpeg?w=960&fit=max)
+![Rooibos squinting into the sun](../../assets/newsletters/rooibos_staring.webp)

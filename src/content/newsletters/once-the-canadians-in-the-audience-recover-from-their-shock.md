@@ -6,7 +6,7 @@ season: 6
 
 New experiment: to keep this newsletter fairly lightweight — easy to write, easy to read — I’m going to try capping it at about 500 words. So here goes!
 
-![The facade of a new building under construction in Mission Bay](https://buttondown.imgix.net/images/1c350300-7712-4bcc-b94b-97a0632e7e44.jpg?w=960&fit=max)
+![The facade of a new building under construction in Mission Bay](../../assets/newsletters/mission_rock.webp)
 
 ## Table of Contents
 

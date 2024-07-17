@@ -8,7 +8,7 @@ season: 6
 
 This issue is an old-school linkblog. Not a whole lot of thoughts on my end, just a lot of web [bricolage](https://en.wikipedia.org/wiki/Bricolage). Share and Enjoy![^2]
 
-![Electrical lighting in Mission Bay](https://buttondown.imgix.net/images/703f657d-44cb-4366-8ebe-439d85967eb7.jpg?w=960&fit=max)
+![Electrical lighting in Mission Bay](../../assets/newsletters/mission_bay.jpg)
 
 ## The Web Is A Great Platform, Actually
 
@@ -20,7 +20,7 @@ Also neat from a frontend perspective is the upcoming [scroll-driven animations]
 
 Honestly, I didn’t really have a point with this section, other than to point out that web technologies are really cool?
 
-![A tree in Lafayette Park](https://buttondown.imgix.net/images/c538c968-1b16-4160-8dee-23e1ffc1161a.jpg?w=960&fit=max)
+![A tree in Lafayette Park](../../assets/newsletters/lafayette_park.jpg)
 
 ## Russell’s LLM Corner
 
@@ -38,7 +38,7 @@ Finally, here’s [“Numbers Every LLM Developer Should Know”](https://github
 
 As promised, a very dumb frog:
 
-![A pumpkin toadlet frog jumping and landing on its head](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/1690f901-ac7c-4713-bb48-9fc9e8c22b36.gif?w=960&fit=max)
+![A pumpkin toadlet frog jumping and landing on its head](../../assets/newsletters/very_dumb_frog.gif)
 
 It’s so small that the fluid in its ears doesn’t work right, so it has no sense of balance and just kind of falls on its head, which would seem like a problem vis a vis predation, but apparently it’s so poisonous nothing eats it.
 
@@ -55,7 +55,7 @@ You should read _The Magic Fish_ by Trung Le Nguyen! Drop everything and read it
 - UX designer Erica Heinz introduces the [“Craigslist test”](https://ericaheinz.com/notes/give-it-the-craigslist-test/#.ZFp8MKTMLVa). You can make a product beautiful, but what’s the point if it’s not useful? Folks use Craigslist, even though it’s… Craigslist. So perhaps it makes sense to make a barely-functional prototype to try to find product-market fit first.
 - [Eyecandy](https://eycndy.co) is a “visual thesaurus” of filmmaking techniques. Just… go stare at the gifs for a bit. It’s hypnotic.
 
-![Light-up fire escape stairs along Market St](https://buttondown.imgix.net/images/0d2ee3ea-75f2-4523-92b3-24aa4cfa8ae9.jpg?w=960&fit=max)
+![Light-up fire escape stairs along Market St](../../assets/newsletters/50_jones.jpg)
 
 ## Today I Learned I Know Nothing
 

@@ -22,7 +22,7 @@ What was especially interesting is that, in iCalendar, if you add an address, yo
 
 Anyway: what other “types” of thinking might be out there, powered by tools? Spreadsheetically thinking, perhaps?
 
- ![37.4b197ab2_7PDxg.c65b6822cb65434bb92f649c7a853546.png](https://buttondown.imgix.net/images/e0cc3983-166c-41a9-9a16-692e84dcf50b.png?w=960&fit=max)
+![de Young Museum](../../assets/newsletters/de_young_museum.png)
 
 ## Agelasty
 
@@ -52,6 +52,6 @@ There’s probably a metaphor for business leadership or scientific research in 
 
 I think the subheadline says it all, right? You deserve a Rooibos picture.
 
- ![39.f881b460_2v1PKp.4c9e083ec8054149a86c2ca2c57c0b79.png](https://buttondown.imgix.net/images/51850420-1ca3-4630-9c30-f8809f5a3e02.png?w=960&fit=max)
+![Rooibos walking around Mission Bay](../../assets/newsletters/rooibos_walking.png)
 
 [^1]: Album of the year??

@@ -16,7 +16,8 @@ I’ll still include occasional updates, but I’m hoping this issue serves a te
 
 A fresh, clean start! A day full of possibilities! [It’s a magical world... let’s go exploring!](https://3.bp.blogspot.com/-T4RNWSzyxJA/UowxHWRlPYI/AAAAAAAAGq0/o4iTUYPAPPs/s1600/Scan0003.jpg)
 
-!["Flammarion Engraving" (ca. 1888)](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/836bedb5-b23f-4bf8-bae5-12e53f781aba.jpg) [“Flammarion Engraving” (ca. 1888)](https://publicdomainreview.org/collection/flammarion-engraving)
+!["Flammarion Engraving" (ca. 1888)](../../assets/newsletters/flammarion_engraving.jpg)
+[“Flammarion Engraving” (ca. 1888)](https://publicdomainreview.org/collection/flammarion-engraving)
 
 ## Cinema as the cathedral of modernity
 
@@ -26,7 +27,8 @@ Occasionally, you can read an article arguing that modernity has lost something 
 
 The full end credits of *Avengers Endgame* are literally tens of minutes long! A small city of actors, visual effects artists, and production assistants was kept employed for *years* at a cost of hundreds of millions of dollars, to produce a film that — artistic merits aside — can certainly be called monumental, as the capstone of a decade-plus of filmmaking efforts. That’s a cathedral right there!
 
-![F. H. C. Mey's velocipede. “Two twenty-five pound dogs would hardly tread-mill a hundred-pound vehicle and a hundred-and-fifty pound female up some of the Baltimore hills.”](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/4ec104ed-c388-4a04-9fb0-336c4e7efe15.jpg) [From *Cycling Art, Energy, and Locomotion* (1889)](https://publicdomainreview.org/collection/cycling-art)
+![F. H. C. Mey's velocipede. “Two twenty-five pound dogs would hardly tread-mill a hundred-pound vehicle and a hundred-and-fifty pound female up some of the Baltimore hills.”](../../assets/newsletters/cycling_art_energy_and_locomotion.jpg)
+[From *Cycling Art, Energy, and Locomotion* (1889)](https://publicdomainreview.org/collection/cycling-art)
 
 ## Transmuting calories into time
 
@@ -65,7 +67,8 @@ But I simply don’t use that many web apps that heavily, since I strongly prefe
 
 That said, I’m still excited that folks are still willing to try something new — in many ways, the world of web browsers still feels like it’s stuck with Chrome circa 2010.
 
-![Monk Selling Ceremonial Tea Whisks](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/0c0ea9e0-b351-463a-b913-2ef7b56595f2.jpg) [“Monk Selling Ceremonial Tea Whisks”, c. 1802, Katsushika Hokusai](https://www.artic.edu/artworks/23983/monk-selling-ceremonial-tea-whisks)
+![Monk Selling Ceremonial Tea Whisks](../../assets/newsletters/monk_selling_ceremonial_tea_whisks.jpg)
+[“Monk Selling Ceremonial Tea Whisks”, c. 1802, Katsushika Hokusai](https://www.artic.edu/artworks/23983/monk-selling-ceremonial-tea-whisks)
 
 ## Small Things That Make Life Better
 

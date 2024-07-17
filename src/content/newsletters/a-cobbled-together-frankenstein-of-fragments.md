@@ -8,7 +8,7 @@ Hello all and welcome back to rwblog. This time I’m revealing my top 10 books 
 
 Note that I’m only including books or films that were new to me this year. On rwblickhan.org you can find my complete [book log](https://rwblickhan.org/logs/books-2022/) and [film log](https://rwblickhan.org/logs/films-2022/) for 2022!
 
-![Portadaorlando.jpg "First-edition cover of *Orlando: A Biography*"](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/b6b55d6b-a964-4dde-acf9-7fbfb1775006.jpg)
+![Cover of *Orlando: A Biography*](../../assets/newsletters/orlando.jpg)
 [Cover of *Orlando: A Biography*](https://en.wikipedia.org/wiki/Orlando:_A_Biography#/media/File:Portadaorlando.jpg)
 
 ## Books
@@ -24,7 +24,7 @@ Note that I’m only including books or films that were new to me this year. On 
 9. *The Lathe of Heaven*, Ursula K. Le Guin: This is perhaps the most “very Russell” book I read this year. It won’t be for everyone, but if you’re interested in dreams (check), Daoism (check), the nature of power (check), or simply like wild avant-garde stories (check!), then it might be “very you” as well.
 10. *His Dark Materials Book 2: The Subtle Knife*, Philip Pullman: I only regret that I came to *His Dark Materials* as an adult and not an impressionable tween. Had I read this series at age 12 or 13, I have no doubt it would occupy the all-time-favorite position now occupied by *The Hitchhiker’s Guide to the Galaxy*. Unfortunately, as an adult, I can’t help but notice that it’s sometimes just a little bit janky — an “off” line of dialogue here, an underdeveloped character there, a cheap plot trick in between. Nonetheless, I love this series; *The Subtle Knife* starts at a whippet pace and never slows down, featuring some of the wildest worldbuilding out there — it has witches and steampunk balloons and a knife that can open portals to another world and a war in Heaven and what’s not to love.
 
-![Johann_Heinrich_Wilhelm_Tischbein_-*Goethe_in_the_Roman_Campagna*-_Google_Art_Project.jpg "Goethe in the Roman Campagna"](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/150928cc-04a9-4a6d-a5e2-4cf3aa9b684e.jpg)
+![“Goethe in the Roman Campagna”, Johann Heinrich Wilhelm Tischbein (1787)](../../assets/newsletters/goethe.jpg)
 [“Goethe in the Roman Campagna”, Johann Heinrich Wilhelm Tischbein (1787)](https://en.wikipedia.org/wiki/File:Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg)
 
 ## Films
