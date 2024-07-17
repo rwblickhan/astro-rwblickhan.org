@@ -1,6 +1,6 @@
 ---
 title: Yes Yes I Know It’s Passé (rwblog S6E16)
-lastUpdatedDate: 2024-01-01
+lastUpdatedDate: 2024-07-17
 season: 6
 ---
 
@@ -12,7 +12,7 @@ I have a lot of honorable mentions but if I included them all this newsletter wo
 
 ### 5. _Something To Do With Paying Attention_, David Foster Wallace
 
-![Cover of *Something To Do With Paying Attention*](../../assets/newsletters/something_to_do_with_paying_attention.jpg)
+![Cover of _Something To Do With Paying Attention_](../../assets/newsletters/something_to_do_with_paying_attention.jpg)
 
 Yes yes I know it’s 2023 and it’s passé to read David Foster Wallace, let alone include him on a best-of-the-year list. [“Where be your jibes now?”](https://www.lrb.co.uk/the-paper/v45/n14/patricia-lockwood/where-be-your-jibes-now) and all that.[^1]
 
@@ -22,7 +22,7 @@ I can’t quite account (pun intended) for why I liked this novella so much, but
 
 ### 4. _The Unbearable Lightness of Being_, Milan Kundera
 
-![Cover of *The Unbearable Lightness of Being*](../../assets/newsletters/unbearable_lightness_of_being.jpg)
+![Cover of _The Unbearable Lightness of Being_](../../assets/newsletters/unbearable_lightness_of_being.jpg)
 
 I’m still trying to unpack how I feel about Kundera, who coulda-shoulda won the Nobel Prize — here’s a good [critical essay](https://drb.ie/articles/the-two-milan-kunderas/) and [one more sympathetic to Kundera](https://compactmag.com/article/why-kundera-never-went-home).
 
@@ -34,13 +34,13 @@ Just imagine reading a book that’s sentence after sentence of that quality! Th
 
 ### 3. _The Magic Fish_, Trung Le Nguyen
 
-![Cover of *The Magic Fish*](../../assets/newsletters/the_magic_fish.jpg)
+![Cover of _The Magic Fish_](../../assets/newsletters/the_magic_fish.jpg)
 
 I read a lot of comics this year, but _The Magic Fish_ was obviously the best — I even [wrote about it before](https://rwblickhan.org/newsletters/as-promised-a-very-dumb-frog/#you-should-read-the-magic-fish)! All you really need to know is that it’s about a gay Vietnamese teen and his refugee mother bonding over fairy tales, it’s extremely charming and heartwarming while also bittersweet, and it has some of the most gorgeous illustrations I’ve ever seen, with a completely different style for each of the fairy tales and the real world.
 
 ### 2. _The Hearing Trumpet_, Leonora Carrington
 
-![Cover of *The Hearing Trumpet*](../../assets/newsletters/the_hearing_trumpet.jpg)
+![Cover of _The Hearing Trumpet_](../../assets/newsletters/the_hearing_trumpet.jpg)
 
 I am still not sure if _The Hearing Trumpet_ was the best book I read this year or merely the strangest — or whether I even see a distinction.
 
