@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-07-16
+lastUpdatedDate: 2024-07-18
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -36,6 +36,7 @@ lastUpdatedDate: 2024-07-16
 31. _The Theoretical Minimum: What You Need to Know to Start Doing Physics_, Leonard Susskind & George Hrabovsky
 32. 🔁 _His Dark Materials: Book 2 - The Subtle Knife_, Philip Pullman
 33. _Malgudi Days_, R. K. Narayan
+34. _Be Prepared_, Vera Brosgol
 
 ## Skimmed
 
