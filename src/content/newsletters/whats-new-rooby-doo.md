@@ -1,6 +1,6 @@
 ---
 title: What’s New, Rooby-Doo? (Applied Dilettantery S4E1)
-lastUpdatedDate: 2024-05-01 01:40:42.620904+00:00
+lastUpdatedDate: 2021-03-15 01:40:42.620904+00:00
 season: 4
 ---
 
