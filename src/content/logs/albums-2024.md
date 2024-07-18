@@ -111,3 +111,4 @@ lastUpdatedDate: 2024-07-18
 106. _Andor Vol. 2 OST_, Nicholas Britell
 107. _Moonlight OST_, Nicholas Britell
 108. _Blurryface_, twenty one pilots
+109. _Trench_, twenty one pilots
