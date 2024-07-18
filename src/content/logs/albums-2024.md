@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-16
+lastUpdatedDate: 2024-07-18
 ---
 
 1. _Halo_, Juana Molina
@@ -110,3 +110,4 @@ lastUpdatedDate: 2024-07-16
 105. _Andor Vol. 1 OST_, Nicholas Britell
 106. _Andor Vol. 2 OST_, Nicholas Britell
 107. _Moonlight OST_, Nicholas Britell
+108. _Blurryface_, twenty one pilots
