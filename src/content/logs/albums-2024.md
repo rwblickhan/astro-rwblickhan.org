@@ -112,3 +112,4 @@ lastUpdatedDate: 2024-07-18
 107. _Moonlight OST_, Nicholas Britell
 108. _Blurryface_, twenty one pilots
 109. _Trench_, twenty one pilots
+110. _Clancy_, twenty one pilots
