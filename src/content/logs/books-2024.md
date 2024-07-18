@@ -37,6 +37,7 @@ lastUpdatedDate: 2024-07-18
 32. 🔁 _His Dark Materials: Book 2 - The Subtle Knife_, Philip Pullman
 33. _Malgudi Days_, R. K. Narayan
 34. _Be Prepared_, Vera Brosgol
+35. _Plain Jane and the Mermaid_, Vera Brosgol
 
 ## Skimmed
 
