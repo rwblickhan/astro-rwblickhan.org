@@ -1,6 +1,7 @@
 ---
 title: Convicted Unanimously by a Jury of His Peers
-lastUpdatedDate: 2020-04-13 02:11:58.758246+00:00
+lastUpdatedDate: 2024-07-17 02:11:58.758246+00:00
+publicationDate: 2020-04-13 02:11:58.758246+00:00
 season: 1
 ---
 

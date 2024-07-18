@@ -1,6 +1,7 @@
 ---
 title: A Long-Term Target for Reading (AiD \#23)
-lastUpdatedDate: 2020-05-10 22:23:34.700545+00:00
+lastUpdatedDate: 2024-07-17 22:23:34.700545+00:00
+publicationDate: 2020-05-10 22:23:34.700545+00:00
 season: 1
 ---
 

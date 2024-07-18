@@ -1,6 +1,7 @@
 ---
 title: All Quiet on the Non-Fiction Front
-lastUpdatedDate: 2024-05-01 05:49:16.211028+00:00
+lastUpdatedDate: 2024-07-17 05:49:16.211028+00:00
+publicationDate: 2024-05-01 05:49:16.211028+00:00
 season: 1
 ---
 

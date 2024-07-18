@@ -1,6 +1,7 @@
 ---
 title: The House, Part II (S3E2)
-lastUpdatedDate: 2020-12-14 00:08:59.604723+00:00
+lastUpdatedDate: 2024-07-17 00:08:59.604723+00:00
+publicationDate: 2020-12-14 00:08:59.604723+00:00
 season: 3
 ---
 

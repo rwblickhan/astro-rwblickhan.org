@@ -1,6 +1,7 @@
 ---
 title: I Should Probably Take That Outline More Seriously (AD S4E2)
-lastUpdatedDate: 2021-03-22 00:02:33.407410+00:00
+lastUpdatedDate: 2024-07-17 00:02:33.407410+00:00
+publicationDate: 2021-03-22 00:02:33.407410+00:00
 season: 4
 ---
 

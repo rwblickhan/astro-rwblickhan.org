@@ -1,6 +1,7 @@
 ---
 title: Yes Yes I Know It’s Passé (rwblog S6E16)
-lastUpdatedDate: 2024-01-01
+lastUpdatedDate: 2024-07-17
+publicationDate: 2024-01-01
 season: 6
 ---
 

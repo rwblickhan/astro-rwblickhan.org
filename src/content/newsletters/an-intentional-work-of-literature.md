@@ -1,6 +1,7 @@
 ---
 title: An Intentional Work of Literature
-lastUpdatedDate: 2019-12-23 08:29:11.405137+00:00
+lastUpdatedDate: 2024-07-17 08:29:11.405137+00:00
+publicationDate: 2019-12-23 08:29:11.405137+00:00
 season: 1
 ---
 

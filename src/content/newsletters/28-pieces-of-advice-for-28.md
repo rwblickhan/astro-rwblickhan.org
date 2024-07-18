@@ -1,6 +1,7 @@
 ---
 title: 28 Pieces of Advice for 28 (rwblog S6E18)
-lastUpdatedDate: 2024-02-05
+lastUpdatedDate: 2024-07-17
+publicationDate: 2024-02-05
 season: 6
 ---
 

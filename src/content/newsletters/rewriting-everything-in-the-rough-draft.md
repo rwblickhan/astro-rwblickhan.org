@@ -1,6 +1,7 @@
 ---
 title: Rewriting Everything in the Rough Draft (AD S2E11)
-lastUpdatedDate: 2020-11-23 05:16:16.739597+00:00
+lastUpdatedDate: 2024-07-17 05:16:16.739597+00:00
+publicationDate: 2020-11-23 05:16:16.739597+00:00
 season: 2
 ---
 

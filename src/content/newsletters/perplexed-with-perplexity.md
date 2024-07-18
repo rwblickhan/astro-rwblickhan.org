@@ -1,6 +1,7 @@
 ---
 title: Perplexed with Perplexity
-lastUpdatedDate: 2024-06-30 01:40:42.620904+00:00
+lastUpdatedDate: 2024-07-17 01:40:42.620904+00:00
+publicationDate: 2024-06-30 01:40:42.620904+00:00
 season: 7
 ---
 

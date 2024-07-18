@@ -1,6 +1,7 @@
 ---
 title: The Structure, Part III (S3E6)
-lastUpdatedDate: 2021-01-10 18:38:50.335086+00:00
+lastUpdatedDate: 2024-07-17 18:38:50.335086+00:00
+publicationDate: 2021-01-10 18:38:50.335086+00:00
 season: 3
 ---
 

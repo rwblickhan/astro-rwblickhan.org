@@ -1,6 +1,7 @@
 ---
 title: The Structure, Part IV (S3E7)
-lastUpdatedDate: 2021-01-18 04:59:20.666279+00:00
+lastUpdatedDate: 2024-07-17 04:59:20.666279+00:00
+publicationDate: 2021-01-18 04:59:20.666279+00:00
 season: 3
 ---
 

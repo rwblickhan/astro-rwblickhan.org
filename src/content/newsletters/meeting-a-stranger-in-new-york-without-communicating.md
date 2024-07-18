@@ -1,6 +1,7 @@
 ---
 title: Meeting A Stranger In New York Without Communicating (rwblog S6E21)
-lastUpdatedDate: 2024-03-19
+lastUpdatedDate: 2024-07-17
+publicationDate: 2024-03-19
 season: 6
 ---
 

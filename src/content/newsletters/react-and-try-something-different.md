@@ -1,6 +1,7 @@
 ---
 title: React and Try Something Different (rwblog S6E13)
-lastUpdatedDate: 2023-11-15
+lastUpdatedDate: 2024-07-17
+publicationDate: 2023-11-15
 season: 6
 ---
 

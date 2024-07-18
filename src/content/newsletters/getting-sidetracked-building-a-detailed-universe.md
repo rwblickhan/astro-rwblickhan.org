@@ -1,6 +1,7 @@
 ---
 title: Getting Sidetracked Building A Detailed Universe (AD S2E10)
-lastUpdatedDate: 2020-11-09 02:19:17.433809+00:00
+lastUpdatedDate: 2024-07-17 02:19:17.433809+00:00
+publicationDate: 2020-11-09 02:19:17.433809+00:00
 season: 2
 ---
 

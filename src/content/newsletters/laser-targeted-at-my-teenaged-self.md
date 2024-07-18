@@ -1,6 +1,7 @@
 ---
 title: Laser Targeted At My Teenaged Self
-lastUpdatedDate: 2019-10-28 04:31:06.512579+00:00
+lastUpdatedDate: 2024-07-17 04:31:06.512579+00:00
+publicationDate: 2019-10-28 04:31:06.512579+00:00
 season: 1
 ---
 

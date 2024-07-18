@@ -4,9 +4,11 @@ export interface Props {
   href: string;
   description?: string;
   lastUpdatedDate?: Date;
+  publicationDate?: Date;
 }
 
-const { title, href, description, lastUpdatedDate } = Astro.props;
+const { title, href, description, lastUpdatedDate, publicationDate } =
+  Astro.props;
 ---
 
 <a href={href} class="not-prose">
@@ -15,6 +17,11 @@ const { title, href, description, lastUpdatedDate } = Astro.props;
   {
     lastUpdatedDate && (
       <p>Last updated: {lastUpdatedDate.toLocaleDateString()}</p>
+    )
+  }
+  {
+    publicationDate && (
+      <p>Originally published: {publicationDate.toLocaleDateString()}</p>
     )
   }
 </a>

@@ -1,6 +1,7 @@
 ---
 title: Whoops I Got A Dog
-lastUpdatedDate: 2020-01-20 07:30:57.729185+00:00
+lastUpdatedDate: 2024-07-17 07:30:57.729185+00:00
+publicationDate: 2020-01-20 07:30:57.729185+00:00
 season: 1
 ---
 

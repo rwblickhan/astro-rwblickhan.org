@@ -1,6 +1,7 @@
 ---
 title: The Structure, Part V (S3E8)
-lastUpdatedDate: 2021-01-25 01:38:58.997266+00:00
+lastUpdatedDate: 2024-07-17 01:38:58.997266+00:00
+publicationDate: 2021-01-25 01:38:58.997266+00:00
 season: 3
 ---
 

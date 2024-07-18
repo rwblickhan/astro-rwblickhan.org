@@ -1,6 +1,7 @@
 ---
 title: A Form of Transcendent Mysticism (S2E6)
-lastUpdatedDate: 2020-09-14 04:32:16.808646+00:00
+lastUpdatedDate: 2024-07-17 04:32:16.808646+00:00
+publicationDate: 2020-09-14 04:32:16.808646+00:00
 season: 2
 ---
 

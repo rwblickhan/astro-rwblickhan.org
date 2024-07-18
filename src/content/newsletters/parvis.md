@@ -1,6 +1,7 @@
 ---
 title: Parvis (AD S3E10)
-lastUpdatedDate: 2021-02-08 02:02:40.890513+00:00 
+lastUpdatedDate: 2024-07-17 02:02:40.890513+00:00 
+publicationDate: 2021-02-08 02:02:40.890513+00:00 
 season: 3
 ---
 

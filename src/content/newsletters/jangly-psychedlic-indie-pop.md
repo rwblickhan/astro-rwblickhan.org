@@ -1,6 +1,7 @@
 ---
 title: Jangly Psychedelic Indie Pop
-lastUpdatedDate: 2019-12-09 06:34:20.911876+00:00
+lastUpdatedDate: 2024-07-17 06:34:20.911876+00:00
+publicationDate: 2019-12-09 06:34:20.911876+00:00
 season: 1
 ---
 

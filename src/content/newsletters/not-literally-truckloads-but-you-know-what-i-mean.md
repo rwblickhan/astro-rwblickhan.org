@@ -1,6 +1,7 @@
 ---
 title: Not Literally Truckloads, But You Know What I Mean (rwblog S6E24)
-lastUpdatedDate: 2024-05-04
+lastUpdatedDate: 2024-07-17
+publicationDate: 2024-05-04
 season: 6
 ---
 

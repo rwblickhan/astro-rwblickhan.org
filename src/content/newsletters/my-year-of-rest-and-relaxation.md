@@ -1,6 +1,7 @@
 ---
 title: My Year of Rest and Relaxation (rwb S6E17)
-lastUpdatedDate: 2024-01-15
+lastUpdatedDate: 2024-07-17
+publicationDate: 2024-01-15
 season: 6
 ---
 

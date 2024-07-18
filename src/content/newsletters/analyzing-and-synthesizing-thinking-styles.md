@@ -1,6 +1,7 @@
 ---
 title: Analyzing and Synthesizing Thinking Styles
-lastUpdatedDate: 2022-08-08 04:50:56.254024+00:00
+lastUpdatedDate: 2024-07-17 04:50:56.254024+00:00
+publicationDate: 2022-08-08 04:50:56.254024+00:00
 season: 5
 ---
 

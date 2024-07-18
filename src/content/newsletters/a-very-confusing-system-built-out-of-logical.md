@@ -1,6 +1,7 @@
 ---
 title: A Very Confusing System Built Out Of Logical Components (rwblog S6E7)
-lastUpdatedDate: 2023-07-10 00:01:49.063534+00:00 
+lastUpdatedDate: 2024-07-17 00:01:49.063534+00:00 
+publicationDate: 2023-07-10 00:01:49.063534+00:00 
 season: 6
 ---
 

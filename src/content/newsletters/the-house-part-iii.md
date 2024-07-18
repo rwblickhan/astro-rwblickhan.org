@@ -1,6 +1,7 @@
 ---
 title: The House, Part III (S3E3)
-lastUpdatedDate: 2020-12-21 05:21:01.389022+00:00 
+lastUpdatedDate: 2024-07-17 05:21:01.389022+00:00 
+publicationDate: 2020-12-21 05:21:01.389022+00:00 
 season: 3
 ---
 

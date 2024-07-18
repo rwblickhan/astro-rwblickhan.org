@@ -1,6 +1,7 @@
 ---
 title: A Giant Continuous Blob of Semantic Functions (rwblog S6E12)
-lastUpdatedDate: 2023-11-01
+lastUpdatedDate: 2024-07-17
+publicationDate: 2023-11-01
 season: 6
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Simultaneously Praising Restraint and Forgiveness While Also Drenching Audiences in Gallons of Stage Blood (AD S2E3)
-lastUpdatedDate: 2020-08-02 23:36:18.078463+00:00
+lastUpdatedDate: 2024-07-17 23:36:18.078463+00:00
+publicationDate: 2020-08-02 23:36:18.078463+00:00
 season: 2
 ---
 

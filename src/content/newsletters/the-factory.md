@@ -1,6 +1,7 @@
 ---
 title: The Factory (AD S3E11)
-lastUpdatedDate: 2021-02-15 07:09:14.653866+00:00
+lastUpdatedDate: 2024-07-17 07:09:14.653866+00:00
+publicationDate: 2021-02-15 07:09:14.653866+00:00
 season: 3
 ---
 

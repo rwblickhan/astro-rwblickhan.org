@@ -1,6 +1,7 @@
 ---
 title: Command Line Tools I Like (2022)
-lastUpdatedDate: 2022-06-21 00:34:54.497672+00:00
+lastUpdatedDate: 2024-07-17 00:34:54.497672+00:00
+publicationDate: 2022-06-21 00:34:54.497672+00:00
 season: 5
 ---
 

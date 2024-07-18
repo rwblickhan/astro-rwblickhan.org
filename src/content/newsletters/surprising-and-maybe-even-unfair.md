@@ -1,6 +1,7 @@
 ---
 title: Surprising, and Maybe Even Unfair (AD S2E8)
-lastUpdatedDate: 2020-10-12 04:16:02.085650+00:00
+lastUpdatedDate: 2024-07-17 04:16:02.085650+00:00
+publicationDate: 2020-10-12 04:16:02.085650+00:00
 season: 2
 ---
 

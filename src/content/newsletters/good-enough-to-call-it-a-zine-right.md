@@ -1,6 +1,7 @@
 ---
 title: Good Enough To Call It A Zine, Right? (rwblog S6E14)
-lastUpdatedDate: 2023-12-04
+lastUpdatedDate: 2024-07-17
+publicationDate: 2023-12-04
 season: 6
 ---
 

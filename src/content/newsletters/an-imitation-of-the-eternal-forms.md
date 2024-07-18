@@ -1,6 +1,7 @@
 ---
 title: An Imitation of the Eternal Forms (AiD S1E25)
-lastUpdatedDate: 2020-06-08 05:10:42.357065+00:00
+lastUpdatedDate: 2024-07-17 05:10:42.357065+00:00
+publicationDate: 2020-06-08 05:10:42.357065+00:00
 season: 1
 ---
 

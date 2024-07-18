@@ -1,6 +1,7 @@
 ---
 title: Monthly Changelog (Aug 2022)
-lastUpdatedDate: 2022-09-02 04:08:15.806345+00:00 
+lastUpdatedDate: 2024-07-17 04:08:15.806345+00:00 
+publicationDate: 2022-09-02 04:08:15.806345+00:00 
 season: 5
 ---
 

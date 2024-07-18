@@ -1,6 +1,7 @@
 ---
 title: Perhaps The LLM Juice Isn’t Worth The Electrical Squeeze (rwblog S6E23)
-lastUpdatedDate: 2024-04-17
+lastUpdatedDate: 2024-07-17
+publicationDate: 2024-04-17
 season: 6
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Picking and Choosing Elements of Western Culture to Adopt (AD S4E4)
-lastUpdatedDate: 2021-04-04 17:09:39.918272+00:00
+lastUpdatedDate: 2024-07-17 17:09:39.918272+00:00
+publicationDate: 2021-04-04 17:09:39.918272+00:00
 season: 4
 ---
 

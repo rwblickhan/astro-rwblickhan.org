@@ -1,6 +1,7 @@
 ---
 title: If You Show Still Frames In Sequence Fast Enough (rwblog S6E10)
-lastUpdatedDate: 2023-10-04 04:33:07.736323+00:00
+lastUpdatedDate: 2024-07-17 04:33:07.736323+00:00
+publicationDate: 2023-10-04 04:33:07.736323+00:00
 season: 6
 ---
 

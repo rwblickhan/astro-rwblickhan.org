@@ -1,6 +1,7 @@
 ---
 title: Canine Cognition of Conveyances
-lastUpdatedDate: 2024-07-14 01:40:42.620904+00:00
+lastUpdatedDate: 2024-07-17 01:40:42.620904+00:00
+publicationDate: 2024-07-14 01:40:42.620904+00:00
 season: 7
 ---
 

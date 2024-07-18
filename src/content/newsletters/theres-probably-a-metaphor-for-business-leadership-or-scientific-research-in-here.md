@@ -1,6 +1,7 @@
 ---
 title: There’s Probably a Metaphor for Business Leadership or Scientific Research in Here (rwblog S6E8)
-lastUpdatedDate: 2023-07-29 06:07:58.892888+00:00
+lastUpdatedDate: 2024-07-17 06:07:58.892888+00:00
+publicationDate: 2023-07-29 06:07:58.892888+00:00
 season: 6
 ---
 

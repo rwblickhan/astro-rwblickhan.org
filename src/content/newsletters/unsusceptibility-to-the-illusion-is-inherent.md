@@ -1,6 +1,7 @@
 ---
 title: Unsusceptibility to the Illusion is Inherent (rwblog S6E11)
-lastUpdatedDate: 2023-10-21 18:12:28.254790+00:00
+lastUpdatedDate: 2024-07-17 18:12:28.254790+00:00
+publicationDate: 2023-10-21 18:12:28.254790+00:00
 season: 6
 ---
 

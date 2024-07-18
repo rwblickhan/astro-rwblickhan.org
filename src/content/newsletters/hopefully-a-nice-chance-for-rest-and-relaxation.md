@@ -1,6 +1,7 @@
 ---
 title: Hopefully A Nice Chance for Rest and Relaxation (AiD #22)
-lastUpdatedDate: 2020-04-27 05:24:12.314458+00:00
+lastUpdatedDate: 2024-07-17 05:24:12.314458+00:00
+publicationDate: 2020-04-27 05:24:12.314458+00:00
 season: 1
 ---
 

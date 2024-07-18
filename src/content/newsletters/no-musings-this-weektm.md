@@ -1,6 +1,7 @@
 ---
 title: No Musings This Week™️
-lastUpdatedDate: 2019-08-19 04:53:44.826321+00:00
+lastUpdatedDate: 2024-07-17 04:53:44.826321+00:00
+publicationDate: 2019-08-19 04:53:44.826321+00:00
 season: 1
 ---
 

@@ -85,6 +85,10 @@ const newsletters = defineCollection({
       .string()
       .or(z.date())
       .transform((val) => new Date(val)),
+    publicationDate: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val)),
     season: z.number(),
   }),
 });

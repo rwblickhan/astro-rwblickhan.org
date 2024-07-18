@@ -1,6 +1,7 @@
 ---
 title: The Structure, Part II (S3E5)
-lastUpdatedDate: 2021-01-03 22:19:19.234832+00:00
+lastUpdatedDate: 2024-07-17 22:19:19.234832+00:00
+publicationDate: 2021-01-03 22:19:19.234832+00:00
 season: 3
 ---
 

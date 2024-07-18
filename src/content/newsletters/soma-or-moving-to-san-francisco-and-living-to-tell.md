@@ -1,6 +1,7 @@
 ---
 title: Soma; Or, Moving to San Francisco and Living to Tell
-lastUpdatedDate: 2019-08-05 04:43:38.674489+00:00
+lastUpdatedDate: 2024-07-17 04:43:38.674489+00:00
+publicationDate: 2019-08-05 04:43:38.674489+00:00
 season: 1
 ---
 

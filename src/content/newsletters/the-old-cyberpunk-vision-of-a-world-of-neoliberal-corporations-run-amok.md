@@ -1,6 +1,7 @@
 ---
 title: The Old Cyberpunk Vision of a World of Neoliberal Corporations Run Amok (rwblog S6E19)
-lastUpdatedDate: 2024-02-17
+lastUpdatedDate: 2024-07-17
+publicationDate: 2024-02-17
 season: 6
 ---
 

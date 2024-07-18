@@ -1,6 +1,7 @@
 ---
 title: The Structure, Part I (S3E4)
-lastUpdatedDate: 2020-12-28 04:42:37.885794+00:00
+lastUpdatedDate: 2024-07-17 04:42:37.885794+00:00
+publicationDate: 2020-12-28 04:42:37.885794+00:00
 season: 3
 ---
 

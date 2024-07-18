@@ -1,6 +1,7 @@
 ---
 title: A Cobbled-Together Frankenstein of Fragments (rwblog S6E2)
-lastUpdatedDate: 2023-01-07 22:57:58.187211+00:00 
+lastUpdatedDate: 2024-07-17 22:57:58.187211+00:00 
+publicationDate: 2023-01-07 22:57:58.187211+00:00 
 season: 6
 ---
 

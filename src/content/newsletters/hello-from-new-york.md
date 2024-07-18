@@ -1,6 +1,7 @@
 ---
 title: Hello from New York
-lastUpdatedDate: 2020-02-17 03:48:23.424785+00:00 
+lastUpdatedDate: 2024-07-17 03:48:23.424785+00:00 
+publicationDate: 2020-02-17 03:48:23.424785+00:00 
 season: 1
 ---
 

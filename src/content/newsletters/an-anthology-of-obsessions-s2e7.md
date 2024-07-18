@@ -1,6 +1,7 @@
 ---
 title: An Anthology of Obsessions (S2E7)
-lastUpdatedDate: 2020-09-28 05:33:14.218673+00:00
+lastUpdatedDate: 2024-07-17 05:33:14.218673+00:00
+publicationDate: 2020-09-28 05:33:14.218673+00:00
 season: 2
 ---
 

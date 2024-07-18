@@ -1,6 +1,7 @@
 ---
 title: Mindbending Escheresque Puzzle World Works of Art
-lastUpdatedDate: 2020-03-30 05:45:01.804427+00:00
+lastUpdatedDate: 2024-07-17 05:45:01.804427+00:00
+publicationDate: 2020-03-30 05:45:01.804427+00:00
 season: 1
 ---
 

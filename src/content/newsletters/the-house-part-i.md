@@ -1,6 +1,7 @@
 ---
 title: The House, Part I (S3E1)
-lastUpdatedDate: 2020-12-07 04:35:00.781227+00:00
+lastUpdatedDate: 2024-07-17 04:35:00.781227+00:00
+publicationDate: 2020-12-07 04:35:00.781227+00:00
 season: 3
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "How I Built It: rwblickhan.org (2022)"
-lastUpdatedDate: 2022-05-15 23:57:33.012600+00:00 
+lastUpdatedDate: 2024-07-17 23:57:33.012600+00:00 
+publicationDate: 2022-05-15 23:57:33.012600+00:00 
 season: 5
 ---
 

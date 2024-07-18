@@ -1,6 +1,7 @@
 ---
 title: A Really Useful Interpretive Lens
-lastUpdatedDate: 2020-02-03 07:12:29.961044+00:00
+lastUpdatedDate: 2024-07-17 07:12:29.961044+00:00
+publicationDate: 2020-02-03 07:12:29.961044+00:00
 season: 1
 ---
 

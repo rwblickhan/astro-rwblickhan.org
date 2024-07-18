@@ -1,6 +1,7 @@
 ---
 title: All Writing’d Out (AD S4E7)
-lastUpdatedDate: 2021-04-26 00:02:31.178204+00:00
+lastUpdatedDate: 2024-07-17 00:02:31.178204+00:00
+publicationDate: 2021-04-26 00:02:31.178204+00:00
 season: 4
 ---
 

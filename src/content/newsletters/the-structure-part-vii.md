@@ -1,6 +1,7 @@
 ---
 title: The Structure, Part VII (AD S3E12)
-lastUpdatedDate: 2021-02-22 04:06:53.808228+00:00
+lastUpdatedDate: 2024-07-17 04:06:53.808228+00:00
+publicationDate: 2021-02-22 04:06:53.808228+00:00
 season: 3
 ---
 

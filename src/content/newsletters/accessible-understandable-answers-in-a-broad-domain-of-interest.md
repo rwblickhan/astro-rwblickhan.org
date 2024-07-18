@@ -1,6 +1,7 @@
 ---
 title: Accessible, Understandable Answers in a Broad Domain of Interest (rwblog S6E20)
-lastUpdatedDate: 2024-03-05
+lastUpdatedDate: 2024-07-17
+publicationDate: 2024-03-05
 season: 6
 ---
 

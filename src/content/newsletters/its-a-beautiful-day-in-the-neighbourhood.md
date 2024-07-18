@@ -1,6 +1,7 @@
 ---
 title: It's A Beautiful Day In The Neighbourhood
-lastUpdatedDate: 2019-09-16 06:06:21.541740+00:00
+lastUpdatedDate: 2024-07-17 06:06:21.541740+00:00
+publicationDate: 2019-09-16 06:06:21.541740+00:00
 season: 1
 ---
 

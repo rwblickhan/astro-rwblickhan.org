@@ -1,6 +1,7 @@
 ---
 title: In Which I Wax Nostalgic for My Lost Youth (rwblog S6E3) 
-lastUpdatedDate: 2023-02-09 05:48:44.084227+00:00
+lastUpdatedDate: 2024-07-17 05:48:44.084227+00:00
+publicationDate: 2023-02-09 05:48:44.084227+00:00
 season: 6
 ---
 
