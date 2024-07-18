@@ -2,6 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import IndexGrid from "../components/IndexGrid.astro";
 import LinkBox from "../components/LinkBox.astro";
+import type { defineScriptVars } from "astro/compiler-runtime";
 ---
 
 <BaseLayout title="Index" description="Index" width="medium">
@@ -46,6 +47,11 @@ import LinkBox from "../components/LinkBox.astro";
       title="Calendrical and Cartographic Thinking"
       href="/newsletters/theres-probably-a-metaphor-for-business-leadership-or-scientific-research-in-here/#calendrical-and-cartographic-thinking"
       description="Comparing how we think when looking at calendars and maps."
+    />
+    <LinkBox
+      title="Folk Mental Models"
+      href="/newsletters/accessible-understandable-answers-in-a-broad-domain-of-interest/#folk-mental-models"
+      description="Exploring how folk mental models develop."
     />
     <LinkBox
       title="A REPL for Writing"
@@ -96,6 +102,11 @@ import LinkBox from "../components/LinkBox.astro";
       title="Communities of Practice"
       href="/newsletters/if-you-show-still-frames-in-sequence-fast-enough/#communities-of-practice"
       description="Why I find it hard to intentionally practice photography."
+    />
+    <LinkBox
+      title="Region-Based Undos"
+      href="/newsletters/when-i-hit-cmd-z-one-too-many-times/#region-based-undos"
+      description="A concept for better undos"
     />
     <LinkBox
       title="New Absurdism"
