@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-07-18
+lastUpdatedDate: 2024-07-19
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -38,6 +38,7 @@ lastUpdatedDate: 2024-07-18
 33. _Malgudi Days_, R. K. Narayan
 34. _Be Prepared_, Vera Brosgol
 35. _Plain Jane and the Mermaid_, Vera Brosgol
+36. _A Contract with God: And Other Tenement Stories_, Will Eisner
 
 ## Skimmed
 
