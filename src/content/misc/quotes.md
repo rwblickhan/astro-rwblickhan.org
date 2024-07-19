@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favourite quotes
-lastUpdatedDate: 2024-07-02
+lastUpdatedDate: 2024-07-19
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -31,6 +31,14 @@ lastUpdatedDate: 2024-07-02
 > So Lyra and her daemon turned away from the world they were born in, and looked toward the sun, and walked into the sky.
 
 - Philip Pullman, *The Golden Compass*
+
+> "The Specters feast as vampires feast on blood, but the Specters' food is attention. A conscious and informed interest in the world. The immaturity of children is less attractive to them."
+
+- Philip Pullman, *The Subtle Knife*
+
+> “Maybe sometimes we don't do the right thing because the wrong thing looks more dangerous, and we don't want to look scared, so we go and do the wrong thing just because it's dangerous. We're more concerned with not looking scared than with judging right. It's very hard.”
+
+- Philip Pullman, *The Amber Spyglass*
 
 > Next time you hear someone say 'he’s such a gossip', understand the statement to be 'he’s such an effective processor of socially-embedded information.'
 
