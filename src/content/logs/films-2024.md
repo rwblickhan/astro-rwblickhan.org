@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-07-17
+lastUpdatedDate: 2024-07-19
 ---
 
 ## Movies
@@ -45,6 +45,7 @@ lastUpdatedDate: 2024-07-17
 38. _Moonlight_ (2016)
 39. 🔁 _Princess Mononoke_ (1997)
 40. _Don’t Look Now_ (1973)
+41. 🔁 _Twisted: The Untold Story of a Royal Vizier_ (2013)
 
 ## TV Shows
 
