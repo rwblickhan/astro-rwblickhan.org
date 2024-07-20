@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-18
+lastUpdatedDate: 2024-07-19
 ---
 
 1. _Halo_, Juana Molina
@@ -113,3 +113,4 @@ lastUpdatedDate: 2024-07-18
 108. _Blurryface_, twenty one pilots
 109. _Trench_, twenty one pilots
 110. _Clancy_, twenty one pilots
+111. _brat_, Charli xcx
