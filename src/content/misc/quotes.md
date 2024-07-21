@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favourite quotes
-lastUpdatedDate: 2024-07-19
+lastUpdatedDate: 2024-07-20
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -320,5 +320,13 @@ lastUpdatedDate: 2024-07-19
 > I **like** the stars. It's the illusion of permanence, I think. I mean, they're **always** flaring up and caving in and going out. But from **here**, I can pretend... I can pretend that things **last**. I can pretend that lives last longer than moments. Gods come, and gods go. Mortals flicker and flash and fade. Worlds don't last; and stars and galaxies are transient, fleeting things that twinkle like fireflies and vanish into cold and dust. But I can pretend.
 
 - *The Sandman*, Neil Gaiman
+
+> It's tempting to feel that if a passage of writing is obscure, it must be very deep. But if the water is murky, the bottom might be only an inch below the surface — you just can't tell.
+
+- "Magic Carpets: The Writer's Responsibilities", *Daemon Voices*, Philip Pullman
+
+> And there is a joy too in responsibility itself — in the knowledge that what we're doing on earth, while we live, is being done to the best of our ability, and in the light of everything we know about what is good and true. Art, whatever kind of art it is, is like the mysterious music described in the words of the greatest writer of all, the "sounds and sweet airs, that give delight and hurt not."
+
+- "Magic Carpets: The Writer's Responsibilities", *Daemon Voices*, Philip Pullman
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
