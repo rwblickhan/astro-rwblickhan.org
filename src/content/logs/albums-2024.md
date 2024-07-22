@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-21
+lastUpdatedDate: 2024-07-22
 ---
 
 1. _Halo_, Juana Molina
@@ -115,3 +115,4 @@ lastUpdatedDate: 2024-07-21
 110. _Clancy_, twenty one pilots
 111. _brat_, Charli xcx
 112. _Let Her Burn_, Rebecca Black
+113. _Prince_, Prince
