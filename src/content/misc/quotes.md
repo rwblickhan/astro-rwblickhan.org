@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favourite quotes
-lastUpdatedDate: 2024-07-20
+lastUpdatedDate: 2024-07-22
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -328,5 +328,9 @@ lastUpdatedDate: 2024-07-20
 > And there is a joy too in responsibility itself — in the knowledge that what we're doing on earth, while we live, is being done to the best of our ability, and in the light of everything we know about what is good and true. Art, whatever kind of art it is, is like the mysterious music described in the words of the greatest writer of all, the "sounds and sweet airs, that give delight and hurt not."
 
 - "Magic Carpets: The Writer's Responsibilities", *Daemon Voices*, Philip Pullman
+
+> Optimization today is an empirical science. Our program is a border collie sprinting through the hardware’s obstacle course. If we want her to reach the end faster, we can’t just sit and ruminate on canine physiology until enlightenment strikes. Instead, we need to observe her performance, see where she stumbles, and then find faster paths for her to take.
+
+- "Optimization", *Crafting Interpreters*, Bob Nystrom
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
