@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-07-19
+lastUpdatedDate: 2024-07-25
 ---
 
 ## Movies
@@ -57,3 +57,4 @@ lastUpdatedDate: 2024-07-19
 6. _Our Flag Means Death_ Season 1 (2022)
 7. _Baby Reindeer_ (2024)
 8. _House of the Dragon_ Season 1 (2022)
+9. _Andor_ Season 1 (2022)
