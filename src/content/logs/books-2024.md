@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-07-24
+lastUpdatedDate: 2024-07-25
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -41,6 +41,7 @@ lastUpdatedDate: 2024-07-24
 36. _A Contract with God: And Other Tenement Stories_, Will Eisner
 37. _Crafting Interpreters_, Robert Nystrom
 38. _The Swamp Dwellers_, Wole Soyinka
+39. _His Dark Materials: Book 3 - The Amber Spyglass_, Philip Pullman
 
 ## Skimmed
 
