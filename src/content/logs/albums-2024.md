@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-22
+lastUpdatedDate: 2024-07-25
 ---
 
 1. _Halo_, Juana Molina
@@ -117,3 +117,5 @@ lastUpdatedDate: 2024-07-22
 112. _Let Her Burn_, Rebecca Black
 113. _Prince_, Prince
 114. _I Feel for You_, Chaka Khan
+115. _Ocean Cup EP_, Willows8ng
+116. _Mahaya_, Willows8ng
