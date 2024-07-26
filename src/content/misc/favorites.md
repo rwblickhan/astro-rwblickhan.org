@@ -1,7 +1,7 @@
 ---
 title: Favorites
 description: A brief list of my favorite fiction
-lastUpdatedDate: 2024-07-25
+lastUpdatedDate: 2024-07-26
 ---
 
 These are the ten storytellers or works that have probably had the most influence on me:
@@ -11,7 +11,7 @@ These are the ten storytellers or works that have probably had the most influenc
 - Helen deWitt (_The Last Samurai_, _The English Understand Wool_)
 - Satoshi Kon (_Perfect Blue_, _Millennium Actress_, _Paranoia Agent_, _Tokyo Godfathers_, _Paprika_)
 - Don Hertzfeldt (_It’s Such A Beautiful Day_, _World of Tomorrow_)
-- Hideaki Anno's _Neon Genesis Evangelion_
+- Hideaki Anno's _Neon Genesis Evangelion_ (+ _FLCL_ which is thematically related if not actually production-related)
 - Wong Kar Wai's _In the Mood for Love_
 - Was Anderson's _Grand Budapest Hotel_
 - Jorge Luis Borges (_Collected Fictions_)
