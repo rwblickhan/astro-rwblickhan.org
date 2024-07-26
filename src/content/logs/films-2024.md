@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-07-25
+lastUpdatedDate: 2024-07-26
 ---
 
 ## Movies
@@ -46,6 +46,7 @@ lastUpdatedDate: 2024-07-25
 39. 🔁 _Princess Mononoke_ (1997)
 40. _Don’t Look Now_ (1973)
 41. 🔁 _Twisted: The Untold Story of a Royal Vizier_ (2013)
+42. 🔁 _Alien_ (1979)
 
 ## TV Shows
 
