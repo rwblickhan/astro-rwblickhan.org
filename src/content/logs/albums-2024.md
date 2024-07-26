@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-25
+lastUpdatedDate: 2024-07-26
 ---
 
 1. _Halo_, Juana Molina
@@ -119,3 +119,4 @@ lastUpdatedDate: 2024-07-25
 114. _I Feel for You_, Chaka Khan
 115. _Ocean Cup EP_, Willows8ng
 116. _Mahaya_, Willows8ng
+117. _I Love You So F_**ing Much*, Glass Animals
