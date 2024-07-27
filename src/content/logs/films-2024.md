@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-07-26
+lastUpdatedDate: 2024-07-27
 ---
 
 ## Movies
@@ -47,6 +47,7 @@ lastUpdatedDate: 2024-07-26
 40. _Don’t Look Now_ (1973)
 41. 🔁 _Twisted: The Untold Story of a Royal Vizier_ (2013)
 42. 🔁 _Alien_ (1979)
+43. _Casablanca_ (1942)
 
 ## TV Shows
 
