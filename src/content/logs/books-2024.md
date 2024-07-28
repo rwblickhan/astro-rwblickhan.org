@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-07-25
+lastUpdatedDate: 2024-07-27
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -42,6 +42,7 @@ lastUpdatedDate: 2024-07-25
 37. _Crafting Interpreters_, Robert Nystrom
 38. _The Swamp Dwellers_, Wole Soyinka
 39. _His Dark Materials: Book 3 - The Amber Spyglass_, Philip Pullman
+40. _Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences_, Alex Mesoudi
 
 ## Skimmed
 

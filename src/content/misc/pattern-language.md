@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-06-23
+lastUpdatedDate: 2024-07-27
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
