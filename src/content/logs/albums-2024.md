@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-26
+lastUpdatedDate: 2024-07-29
 ---
 
 1. _Halo_, Juana Molina
@@ -120,3 +120,4 @@ lastUpdatedDate: 2024-07-26
 115. _Ocean Cup EP_, Willows8ng
 116. _Mahaya_, Willows8ng
 117. _I Love You So F_**ing Much*, Glass Animals
+118. _ORQUÍDEAS_, Kali Uchis
