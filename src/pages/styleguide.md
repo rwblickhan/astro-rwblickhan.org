@@ -1,7 +1,11 @@
 ---
-layout: ../layouts/ContentLayout.astro
+layout: ../layouts/BaseLayout.astro
+title: ""
+description: "Style guide for rwblickhan.org"
+width: "small"
 ---
 
+<!-- markdownlint-disable single-title -->
 <!-- markdownlint-disable no-inline-html -->
 <!-- markdownlint-disable no-duplicate-heading -->
 <!-- markdownlint-disable no-empty-links -->

@@ -3,13 +3,13 @@ import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import "../styles/index.scss";
 
-export interface Props {
-  title: string;
-  description: string;
-  width: "small" | "medium" | "large";
-}
+// export interface Props {
+//   title: string;
+//   description: string;
+//   width: "small" | "medium" | "large";
+// }
 
-const { title, description, width } = Astro.props;
+const { title, description, width } = Astro.props.frontmatter || Astro.props;
 ---
 
 <!doctype html>
