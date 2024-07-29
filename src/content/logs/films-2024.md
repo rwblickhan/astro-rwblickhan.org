@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-07-27
+lastUpdatedDate: 2024-07-29
 ---
 
 ## Movies
@@ -49,6 +49,9 @@ lastUpdatedDate: 2024-07-27
 42. 🔁 _Alien_ (1979)
 43. _Casablanca_ (1942)
 44. 🔁 _World of Tomorrow_ (2015)
+45. _The Holy Mountain_ (1973)
+46. _The Wicker Man_ (1973)
+47. 🔁 _World of Tomorrow Episode 3: The Absent Destination of David Prime_ (2020)
 
 ## TV Shows
 
