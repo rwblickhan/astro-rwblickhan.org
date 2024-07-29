@@ -35,6 +35,7 @@ _Humans are uniquely successful due to our social learning ability._
 ### References
 
 - _The Secret of Our Success: How Culture is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter_, Joseph Henrich
+- _Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences_, Alex Mesoudi
 - [“A Rant About ‘Technology’”](https://web.archive.org/web/20230318100241/http://www.ursulakleguinarchive.com/Note-Technology.html), Ursula K. Le Guin
 - My own [culture & technology reading list](https://rwblickhan.org/misc/culture-reading-list/)
 
