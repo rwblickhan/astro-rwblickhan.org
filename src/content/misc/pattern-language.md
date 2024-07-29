@@ -57,11 +57,20 @@ _Culture is subject to evolutionary pressures._
 
 ### Details
 
-Culture, as described above, ends up subject to evolutionary pressures. Three important points:
+The logic of Darwin's theory of natural selection only requires three preconditions:
 
-- Many cultural behaviors are (mal)adaptive to some problem in the environment, but the individuals engaging in the culture may have no understanding of _why_ they behave the way they do! Henrich uses the example of manioc, a tuber native to the Americas that contains cyanide, but is happily consumed by native peoples of the Amazon thanks to a convoluted multistep leaching process that nobody understood until the introduction of modern scientific instruments.
-- Additionally, different cultures are adapted to different environments in non-obvious ways. Henrich uses the example of the many European explorers who died in the Arctic, in contrast to the Inuit.
-- Culture is sensitive to interventions and broken chains of transmission. The Baffin Island Inuit lost kayaks as a technology and didn’t regain it until accidentally contacting other Inuit groups. Japan had a massive influx of firearms in the 16th century, but they were banned and mostly forgot about a century later.
+- Variation in traits across a population.
+- Inheritance of traits across generations, with modification between generations.
+- Differential fitness — some traits are more likely to be inherited across generations than others.
+
+If a trait meets these three preconditions, we should expect to see _evolution_ — a directed change in the proportions of a trait across a population across time.
+Notably, as Mesoudi's _Cultural Evolution_ points out, Darwin's logic does not rule out Lamarckian (within-generation) evolution or require particulate inheritance, both of which are parts of biology's modern synthesis.
+As a result, human cultural behaviors can also be considered as subject to evolutionary pressures, albeit following a different model than the biological synthesis.
+
+This has all kinds of implications; for instance:
+
+- Many cultural behaviors are adaptive, but individuals in the population may have no understanding of _why_ they follow the behaviors they do! Henrich uses the example of manioc, a tuber native to the Americas that contains cyanide, but is happily consumed by native peoples of the Amazon thanks to a convoluted multistep leaching process that nobody understood until the introduction of modern scientific instruments.
+- Culture is sensitive to interventions and broken chains of transmission, causing _cultural drift_, where traits are randomly lost due to small population size. The Baffin Island Inuit lost kayaks as a technology and didn’t regain it until accidentally contacting other Inuit groups. Japan had a massive influx of firearms in the 16th century, but they were banned by the victorious _bakufu_ and mostly forgotten a century later.
 
 ## Deliberate Practice
 
