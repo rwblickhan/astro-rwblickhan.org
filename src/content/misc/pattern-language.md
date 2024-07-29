@@ -266,6 +266,7 @@ _Working quickly is important._
 - [“Speed matters: Why working quickly is more important than it seems”](https://jsomers.net/blog/speed-matters), James Somers
 - ["Being a Fast, Cogent Writer Is Useful "](https://v5.chriskrycho.com/journal/writing-productivity/), Chris Krycho
 - ["Some reasons to work on productivity and velocity"](https://danluu.com/productivity-velocity/), Dan Luu
+- ["Fast Tools are Wonderful "](https://v5.chriskrycho.com/journal/fast-tools-are-wonderful/), Chris Krycho
 
 ### Details
 
