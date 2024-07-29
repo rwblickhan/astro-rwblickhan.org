@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-07-27
+lastUpdatedDate: 2024-07-29
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -26,7 +26,7 @@ _Before you remove a fence, figure out what it's for._
 Thanks to [cultural evolution](https://rwblickhan.org/misc/pattern-language/#cultural-evolution), many perplexing human behaviors are actually adaptive, even if participants can't actively explain themselves. If you suddenly change that behavior, you might find that it was load-bearing — it was completely necessary for surrounding systems to function!
 So, it's often worthwhile to investigate before changing, especially if a behavior seems confusing.
 
-Because humans occupy the [cultural niche](https://rwblickhan.org/misc/pattern-language/#cultural-niche) and many of our behaviors can be looked at through a cultural lens, Chesterton's Fence can be applied to many different fields. Programming is a particularly fruitful field — whenever dealing with legacy code, it's always useful to ask _why_ the code behaves the way it does, even if it's strange (for instace, being written in COBOL!).
+Because humans occupy the [cultural niche](https://rwblickhan.org/misc/pattern-language/#cultural-niche) and many of our behaviors can be looked at through a cultural lens, Chesterton's Fence can be applied to many different fields. Programming is a particularly fruitful field — whenever dealing with legacy code, it's always useful to ask _why_ the code behaves the way it does, even if it's strange (for instance, being written in COBOL!).
 
 ## Cultural Niche
 
