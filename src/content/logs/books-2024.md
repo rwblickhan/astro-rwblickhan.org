@@ -44,6 +44,7 @@ lastUpdatedDate: 2024-07-30
 39. _His Dark Materials: Book 3 - The Amber Spyglass_, Philip Pullman
 40. _Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences_, Alex Mesoudi
 41. *The Strong Breed*, Wole Soyinka
+42. *The Bacchae of Euripides*, Wole Soyinka
 
 ## Skimmed
 
