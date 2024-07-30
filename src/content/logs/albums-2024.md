@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-29
+lastUpdatedDate: 2024-07-30
 ---
 
 1. _Halo_, Juana Molina
@@ -119,7 +119,8 @@ lastUpdatedDate: 2024-07-29
 114. _I Feel for You_, Chaka Khan
 115. _Ocean Cup EP_, Willows8ng
 116. _Mahaya_, Willows8ng
-117. _I Love You So F_**ing Much*, Glass Animals
+117. _I Love You So F_\*\*\*ing Much_, Glass Animals
 118. _ORQUÍDEAS_, Kali Uchis
 119. _Stardust in Blue_, Kaede & Lamp
 120. *Disco Elysium OST*, Sea Power
+121. *Where I’ve Been, Isn’t Where I’m Going*, Shaboozey
