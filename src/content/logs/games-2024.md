@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-07-24
+lastUpdatedDate: 2024-07-31
 ---
 
 ## Video Games
@@ -14,6 +14,7 @@ lastUpdatedDate: 2024-07-24
 7. _Umurangi Generation_
 8. _Tales from Off-Peak City Vol. 1_
 9. _Paratopic_
+10. *Disco Elysium*
 
 ## Traditional Games
 
