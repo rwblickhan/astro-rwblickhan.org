@@ -1,24 +1,23 @@
 ---
 title: Restaurant Recommendations
 description: My favourite restaurants
-lastUpdatedDate: 2023-08-25
+lastUpdatedDate: 2024-07-31
 ---
 
 ## Table of Contents
 
 ## San Francisco
 
-- [Saap Ver](https://www.saapver.com): Country-style Thai street food that's arguably my favorite restaurant in San Francisco and possibly the world. Their specialities include variants of papaya salad and extremely spicy sausage, but I'm personally fond of their crispy pork belly fried rice and duck curry - make sure to get the latter with some sticky rice.
+- [Boichik Bagels](https://boichikbagels.com): The clear winner of the Bay Area bagel game; easily competitive with New York bagels (no matter what New Yorkers will tell you), although you pay for the quality ($3 a bagel or so). They've even available frozen in some Bay Area grocery stores.
+- [Schlok's Bagels & Lox](https://www.schloks.com): The number two bagel place in San Francisco, though again, you're paying for quality. Conveniently, Schlok's is located on one end of the [the Wiggle](https://en.wikipedia.org/wiki/The_Wiggle), about a block away from [the Panhandle](https://en.wikipedia.org/wiki/Panhandle_(San_Francisco)).
+- [Saap Ver](https://www.saapver.com): Probably the collective favorite of my group of friends. Saap Ver has a lot of less-common, northeastern-style Thai food, but personally I vouch for the house-special pork belly fried rice or the duck curry.
+- Saigon Sandwich: Not the best banh mi in the Bay Area, but at $4 (cash-only!) it's probably the best value-for-money in the city.
+- [Yarsa Nepalese Cuisine](https://www.yarsanepalesecuisine.com): The second best value-for-money in San Francisco and the restaurant I always end up ordering for parties when we can't decide what to get. Twenty bucks buys you spicy chicken chilli momos, fantastic mango lassi, and a heaping pile of garlic-cheese naan, and there's a wide variety of vegetarian options too.
+- Aaha Indian Cuisinse: The third best value-for-money in San Francisco. Fifteen bucks gets you flavorful, spicy biryani that's big enough to share with two.
+- [Señor Sisig](https://www.senorsisig.com): The hype has long since died down for this Filipino fusion food truck, but I'd argue it's underrated at this point. It's pricey, but a French-fry-filled sisig burrito is an only-in-California experience.
+- [Reem's](https://www.reemscalifornia.com): Reem's is fantastic — I like the za'atar mana'eesh and the labneh — but I mostly come here for the minty-fresh Damascus lemonade, which is one of my favorite drinks in the world.
 - [Kin Khao](https://www.kinkhao.com): Michelin-starred contemporary Thai in a tiny corner of a downtown Hilton by local-culinary-hero Chef Pim Techamuanvivit. For a Michelin-starred restaurant, it's not too crowded (you _can_ get 8pm reservations on two days notice), not too pricey (usually in the $40-60 per person range), and has a reasonable range of vegetarian plates (about a third of the menu). They're famous for the rabbit green curry, where an entire rabbit leg is dipped in mild green curry, but the real standout is the mushroom hor mok, where you ladle mushroom-curry-in-a-jar over crispy rice cakes.
-- Delah Coffee: Yemeni coffee shop that stays open until 10pm (in San Francisco!). Trying a pot of the spiced coffee is a must, but I go back for the wide variety of pastries, especially the hot pink rose-petal milk cake.
-- Saigon Sandwich: Cash-only $4 banh mi in the Tenderloin, so you _know_ it's good.
-- [Boichik Bagels](https://boichikbagels.com): Ten seconds after putting a Boichik bagel in my mouth, I declared it the best thing I had ever tasted - Boichik is the clear winner of the Bay Area bagel game, though Schlok's is a close second. Unfortunately, they're currently only open in Berkeley and Palo Alto, so I've only ever had it when someone brings it to the office.
-- [Schlok's Bagels & Lox](https://www.schloks.com): Yes, the bagels are $3 a piece, but they're worth it. I typically get the egg & cheese sandwich with ham on an untoasted plain bagel, alongside an everything bagel with cream cheese. It's also convenient to bike to, sitting at one end of [the Wiggle](https://en.wikipedia.org/wiki/The_Wiggle) and a block away from [the Panhandle](https://en.wikipedia.org/wiki/Panhandle_(San_Francisco)).
-- [Señor Sisig](https://www.senorsisig.com): Some would say this Filipino fusion food truck is overrated - peak hype was in 2019 - but it's still a solid only-in-San-Francisco experience and probably the restaurant I've been to the most, thanks to proximity. Most swear by the French-fry-filled California Sisig Burrito, but I prefer the Tosilog Burrito with its side of peppered vinegar.
-- [Daeho Kalbijjim](https://daehokalbijjim.com): Likely the trendiest Bay Area restaurant of the 2020s - expect a 40-minute wait - but well worth it. $80 buys you the signature food-for-four (or more) kalbijjim, made up of braised barbecue beef rib mixed with veggies and rice cakes, all topped with a mountain of cheese that's blowtorched at the table.
 - [Oren's Hummus](https://orenshummus.com): The hummus here is lovely, but what keeps me coming back is the fluffy, soft-as-a-cloud white pita - sometimes I order extra to freeze for my own meals at home. Unfortunately, they've significantly cut portion sizes since the pandemic, so it's not as good a deal as it once was, but I still often find myself bringing out-of-towners around.
-- [Reem's](https://www.reemscalifornia.com): The flagship restaurant of local celebrity chef Reem Assil, I come here for the surprisingly cheap za'atar mana'eesh - 10" of flatbread topped with thyme and sumac - and the labneh, particularly the egg-and-chile-oil-topped Some Like It Harra. I also love the minty-fresh Damascus lemonade.
-- [Yarsa Nepalese Cuisine](https://www.yarsanepalesecuisine.com): Arguably the best value-for-money of any restaurant I've had in San Francisco. The spicy chili chicken momos are the speciality here, but they also boast some of the best mango lassi I've tried in the Bay Area, and $6 will get you a massive garlic-cheese naan.
 
 ## Vancouver
 
