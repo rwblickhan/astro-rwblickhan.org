@@ -125,4 +125,4 @@ lastUpdatedDate: 2024-08-01
 120. _Disco Elysium OST_, Sea Power
 121. _Where I’ve Been, Isn’t Where I’m Going_, Shaboozey
 122. _Black Girl Magic_, Honey Dijon
-123. *What Came Before*, Chase & Status
+123. _What Came Before_, Chase & Status
