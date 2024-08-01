@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-07-30
+lastUpdatedDate: 2024-08-01
 ---
 
 1. _Halo_, Juana Molina
@@ -122,5 +122,6 @@ lastUpdatedDate: 2024-07-30
 117. _I Love You So F_\*\*\*ing Much_, Glass Animals
 118. _ORQUÍDEAS_, Kali Uchis
 119. _Stardust in Blue_, Kaede & Lamp
-120. *Disco Elysium OST*, Sea Power
-121. *Where I’ve Been, Isn’t Where I’m Going*, Shaboozey
+120. _Disco Elysium OST_, Sea Power
+121. _Where I’ve Been, Isn’t Where I’m Going_, Shaboozey
+122. _Black Girl Magic_, Honey Dijon
