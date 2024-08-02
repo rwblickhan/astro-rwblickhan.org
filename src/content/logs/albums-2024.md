@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-01
+lastUpdatedDate: 2024-08-02
 ---
 
 1. _Halo_, Juana Molina
@@ -126,3 +126,4 @@ lastUpdatedDate: 2024-08-01
 121. _Where I’ve Been, Isn’t Where I’m Going_, Shaboozey
 122. _Black Girl Magic_, Honey Dijon
 123. _What Came Before_, Chase & Status
+124. *SMILE! :D*, Porter Robinson
