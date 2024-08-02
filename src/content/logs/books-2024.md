@@ -45,6 +45,7 @@ lastUpdatedDate: 2024-08-01
 40. _Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences_, Alex Mesoudi
 41. _The Strong Breed_, Wole Soyinka
 42. _The Bacchae of Euripides_, Wole Soyinka
+43. *The Farthest Shore*, Ursula K. Le Guin
 
 ## Skimmed
 
