@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-07-29
+lastUpdatedDate: 2024-08-03
 ---
 
 ## Movies
@@ -52,6 +52,7 @@ lastUpdatedDate: 2024-07-29
 45. _The Holy Mountain_ (1973)
 46. _The Wicker Man_ (1973)
 47. 🔁 _World of Tomorrow Episode 3: The Absent Destination of David Prime_ (2020)
+48. *Frances Ha* (2012)
 
 ## TV Shows
 
