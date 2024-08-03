@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-08-01
+lastUpdatedDate: 2024-08-03
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -58,3 +58,4 @@ lastUpdatedDate: 2024-08-01
 1. “The Magical Number Seven, Plus or Minus Two: Some Limits on our Capacity for Processing Information”, George A. Miller
 2. “The Role of Deliberate Practice in the Acquisition of Expert Performance”, Ericsson et. al.
 3. “Puritans and Prigs: An Anatomy of Zealotry”, Marilynne Robinson
+4. “Do Artifacts Have Politics?”, Landon Winner
