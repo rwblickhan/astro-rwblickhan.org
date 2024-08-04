@@ -65,3 +65,4 @@ lastUpdatedDate: 2024-08-03
 7. _Baby Reindeer_ (2024)
 8. _House of the Dragon_ Season 1 (2022)
 9. _Andor_ Season 1 (2022)
+10. *The Acolyte* Season 1 (2024)
