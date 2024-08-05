@@ -1,4 +1,5 @@
 pnpm exec astro check
+echo "Checking markdownlint..."
 markdownlint src/**/*.md --fix
 echo "Updating last update dates"
 files=$(git diff --name-only --staged)

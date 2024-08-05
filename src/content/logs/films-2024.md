@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-08-03
+lastUpdatedDate: 2024-08-04
 ---
 
 ## Movies
@@ -52,7 +52,7 @@ lastUpdatedDate: 2024-08-03
 45. _The Holy Mountain_ (1973)
 46. _The Wicker Man_ (1973)
 47. 🔁 _World of Tomorrow Episode 3: The Absent Destination of David Prime_ (2020)
-48. *Frances Ha* (2012)
+48. _Frances Ha_ (2012)
 
 ## TV Shows
 
@@ -65,4 +65,5 @@ lastUpdatedDate: 2024-08-03
 7. _Baby Reindeer_ (2024)
 8. _House of the Dragon_ Season 1 (2022)
 9. _Andor_ Season 1 (2022)
-10. *The Acolyte* Season 1 (2024)
+10. _The Acolyte_ Season 1 (2024)
+11. _Atlanta_ Season 1 (2016)

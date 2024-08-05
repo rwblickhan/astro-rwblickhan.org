@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-08-03
+lastUpdatedDate: 2024-08-04
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -45,7 +45,7 @@ lastUpdatedDate: 2024-08-03
 40. _Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences_, Alex Mesoudi
 41. _The Strong Breed_, Wole Soyinka
 42. _The Bacchae of Euripides_, Wole Soyinka
-43. *The Farthest Shore*, Ursula K. Le Guin
+43. _The Farthest Shore_, Ursula K. Le Guin
 
 ## Skimmed
 
