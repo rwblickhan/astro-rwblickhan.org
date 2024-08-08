@@ -128,3 +128,4 @@ lastUpdatedDate: 2024-08-08
 123. _What Came Before_, Chase & Status
 124. _SMILE! :D_, Porter Robinson
 125. *Versions of Modern Performance*, Horsegirl
+126. *Rough Trade Super-Disc*, Horsegirl
