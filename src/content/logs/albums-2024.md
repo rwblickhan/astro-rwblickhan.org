@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-04
+lastUpdatedDate: 2024-08-08
 ---
 
 1. _Halo_, Juana Molina
@@ -127,3 +127,4 @@ lastUpdatedDate: 2024-08-04
 122. _Black Girl Magic_, Honey Dijon
 123. _What Came Before_, Chase & Status
 124. _SMILE! :D_, Porter Robinson
+125. *Versions of Modern Performance*, Horsegirl
