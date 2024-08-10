@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-08
+lastUpdatedDate: 2024-08-10
 ---
 
 1. _Halo_, Juana Molina
@@ -127,6 +127,7 @@ lastUpdatedDate: 2024-08-08
 122. _Black Girl Magic_, Honey Dijon
 123. _What Came Before_, Chase & Status
 124. _SMILE! :D_, Porter Robinson
-125. *Versions of Modern Performance*, Horsegirl
-126. *Rough Trade Super-Disc*, Horsegirl
-127. *Spice Up My Life*, Sammy Virji
+125. _Versions of Modern Performance_, Horsegirl
+126. _Rough Trade Super-Disc_, Horsegirl
+127. _Spice Up My Life_, Sammy Virji
+128. _Vertigo_, Wand

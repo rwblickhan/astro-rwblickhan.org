@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-08-09
+lastUpdatedDate: 2024-08-10
 ---
 
 ## Movies
@@ -67,4 +67,4 @@ lastUpdatedDate: 2024-08-09
 9. _Andor_ Season 1 (2022)
 10. _The Acolyte_ Season 1 (2024)
 11. _Atlanta_ Season 1 (2016)
-12. *Key & Peele* Season 1 (2012)
+12. _Key & Peele_ Season 1 (2012)
