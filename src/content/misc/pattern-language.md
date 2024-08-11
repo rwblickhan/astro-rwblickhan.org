@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-07-29
+lastUpdatedDate: 2024-08-11
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -154,6 +154,7 @@ _A feeling of safety in urban environments is provided by having many “eyes on
 ### References
 
 - _The Death and Life of Great American Cities_, Jane Jacobs
+- _Seeing Like A State_, James C. Scott
 
 ### Details
 
