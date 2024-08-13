@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-08-04
+lastUpdatedDate: 2024-08-12
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -52,6 +52,7 @@ lastUpdatedDate: 2024-08-04
 - _How Infrastructure Works: Inside the Systems That Shape Our World_, Deb Chachra
 - _The Dangers of Smoking in Bed_, Mariana Enriquez (trans. Megan McDowell)
 - _A \*New\* Program for Graphic Design_, David Reinfurt
+- _High Growth Handbook: Scaling Startups from 10 to 10,000 People_, Elad Gil
 
 ## Papers
 
