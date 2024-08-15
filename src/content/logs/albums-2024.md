@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-10
+lastUpdatedDate: 2024-08-15
 ---
 
 1. _Halo_, Juana Molina
@@ -132,3 +132,5 @@ lastUpdatedDate: 2024-08-10
 127. _Spice Up My Life_, Sammy Virji
 128. _Vertigo_, Wand
 129. _+/-_, Boys Noize
+130. _Brando Stone and the New World_, Childish Gambino
+131. _I Lay Down My Life For You_, JPEGMAFIA
