@@ -8,6 +8,9 @@ import remarkCollapse from "remark-collapse";
 export default defineConfig({
   site: "https://rwblickhan.org",
   integrations: [mdx(), pagefind(), sitemap()],
+  experimental: {
+    contentIntellisense: true,
+  },
   markdown: {
     remarkPlugins: [
       // Generate a table of contents if we see a "Table of Contents" header
