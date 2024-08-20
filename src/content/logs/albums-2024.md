@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-15
+lastUpdatedDate: 2024-08-20
 ---
 
 1. _Halo_, Juana Molina
@@ -135,3 +135,4 @@ lastUpdatedDate: 2024-08-15
 130. _Brando Stone and the New World_, Childish Gambino
 131. _I Lay Down My Life For You_, JPEGMAFIA
 132. _Wallsocket (Director’s Cut)_, underscores
+133. _Dot_, Vulfmon
