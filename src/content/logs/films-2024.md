@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-08-10
+lastUpdatedDate: 2024-08-21
 ---
 
 ## Movies
@@ -53,6 +53,7 @@ lastUpdatedDate: 2024-08-10
 46. _The Wicker Man_ (1973)
 47. 🔁 _World of Tomorrow Episode 3: The Absent Destination of David Prime_ (2020)
 48. _Frances Ha_ (2012)
+49. _Only the River Flows_ (2023)
 
 ## TV Shows
 
