@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-20
+lastUpdatedDate: 2024-08-21
 ---
 
 1. _Halo_, Juana Molina
@@ -137,3 +137,4 @@ lastUpdatedDate: 2024-08-20
 132. _Wallsocket (Director’s Cut)_, underscores
 133. _Dot_, Vulfmon
 134. _hortelã_, MARO
+135. _Opus_, Ryuichi Sakamoto
