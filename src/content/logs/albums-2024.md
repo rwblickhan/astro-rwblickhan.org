@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-21
+lastUpdatedDate: 2024-08-22
 ---
 
 1. _Halo_, Juana Molina
@@ -138,3 +138,4 @@ lastUpdatedDate: 2024-08-21
 133. _Dot_, Vulfmon
 134. _hortelã_, MARO
 135. _Opus_, Ryuichi Sakamoto
+136. _Hogtied Revisited_, The White Buffalo
