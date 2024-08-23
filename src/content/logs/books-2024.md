@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-08-19
+lastUpdatedDate: 2024-08-22
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -47,6 +47,7 @@ lastUpdatedDate: 2024-08-19
 42. _The Bacchae of Euripides_, Wole Soyinka
 43. _The Farthest Shore_, Ursula K. Le Guin
 44. _The King in Yellow_, Robert W. Chambers
+45. _A Study in Scarlet_, Arthur Conan Doyle
 
 ## Skimmed
 
