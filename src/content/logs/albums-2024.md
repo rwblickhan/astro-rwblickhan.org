@@ -141,3 +141,4 @@ lastUpdatedDate: 2024-08-24
 136. _Hogtied Revisited_, The White Buffalo
 137. _Good Company_, The Dead South
 138. _Imaginary Appalachia_, Colter Wall
+139. _Reckless_, The SteelDrivers
