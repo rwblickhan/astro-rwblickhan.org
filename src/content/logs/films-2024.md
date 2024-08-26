@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-08-21
+lastUpdatedDate: 2024-08-26
 ---
 
 ## Movies
@@ -54,6 +54,7 @@ lastUpdatedDate: 2024-08-21
 47. 🔁 _World of Tomorrow Episode 3: The Absent Destination of David Prime_ (2020)
 48. _Frances Ha_ (2012)
 49. _Only the River Flows_ (2023)
+50. _Get Out_ (2017)
 
 ## TV Shows
 
