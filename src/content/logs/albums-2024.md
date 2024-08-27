@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-24
+lastUpdatedDate: 2024-08-27
 ---
 
 1. _Halo_, Juana Molina
@@ -142,3 +142,4 @@ lastUpdatedDate: 2024-08-24
 137. _Good Company_, The Dead South
 138. _Imaginary Appalachia_, Colter Wall
 139. _Reckless_, The SteelDrivers
+140. _Veteran_, JPEGMAFIA
