@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-27
+lastUpdatedDate: 2024-08-29
 ---
 
 1. _Halo_, Juana Molina
@@ -144,3 +144,4 @@ lastUpdatedDate: 2024-08-27
 139. _Reckless_, The SteelDrivers
 140. _Veteran_, JPEGMAFIA
 141. _Scaring the Hoes_, JPEGMAFIA
+142. _Atrocity Exhibition_, Danny Brown
