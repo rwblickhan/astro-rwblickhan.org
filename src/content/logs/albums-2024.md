@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-29
+lastUpdatedDate: 2024-08-30
 ---
 
 1. _Halo_, Juana Molina
@@ -145,3 +145,4 @@ lastUpdatedDate: 2024-08-29
 140. _Veteran_, JPEGMAFIA
 141. _Scaring the Hoes_, JPEGMAFIA
 142. _Atrocity Exhibition_, Danny Brown
+143. _Short n’ Sweet_, Sabrina Carpenter
