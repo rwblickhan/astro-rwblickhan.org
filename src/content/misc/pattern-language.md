@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-08-11
+lastUpdatedDate: 2024-08-31
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -123,6 +123,7 @@ _Stable human social groups are limited to about 150 people._
 - [“Dunbar’s number and how speaking is 2.8x better than picking fleas”](https://interconnected.org/home/2022/04/05/dunbar), Matt Webb's Interconnected
 - [“Platoons - a natural unit size for a modern army”](https://youtu.be/a15gihWu1SM), Lindybeige
 - _Friends: Understanding the Power of our Most Important Relationships_, Robin Dunbar
+- ["Dunbar's Number is Quadratic"](https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic), Johnny Nelson
 
 ### Details
 
