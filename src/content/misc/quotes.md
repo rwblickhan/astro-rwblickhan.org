@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favourite quotes
-lastUpdatedDate: 2024-07-22
+lastUpdatedDate: 2024-08-31
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -332,5 +332,17 @@ lastUpdatedDate: 2024-07-22
 > Optimization today is an empirical science. Our program is a border collie sprinting through the hardware’s obstacle course. If we want her to reach the end faster, we can’t just sit and ruminate on canine physiology until enlightenment strikes. Instead, we need to observe her performance, see where she stumbles, and then find faster paths for her to take.
 
 - "Optimization", *Crafting Interpreters*, Bob Nystrom
+
+> But science, specifically the science of disease, was *all* delicious secrets, dark oily pockets of mystery.
+
+- *The People in the Trees*, Hanya Yanagihara
+
+> I'd always thought, really, that I would treasure a period of unceasing emptiness, that I would easily fill it. But time, I've come to realize, is not for us to fill in such great, blank slabs: we speak of managing time, but it is the opposite — our lives are filled with busyness because those thin chinks of time are all we can truly master.
+
+- *The People in the Trees*, Hanya Yanagihara
+
+> And then there would be Eve, an explorer searching for nothing, adrift in a sea without any memory of what she had once sought or of what she wished to return to.
+
+- *The People in the Trees*, Hanya Yanagihara
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
