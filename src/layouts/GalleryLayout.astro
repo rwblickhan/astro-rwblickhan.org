@@ -11,14 +11,16 @@ const { title, description } = Astro.props;
   </div>
 </BaseLayout>
 
-<style lang="scss">
+<style>
   div {
     display: grid;
     gap: 1rem;
     grid-template-columns: repeat(1, minmax(0, 1fr));
     grid-template-rows: none;
+  }
 
-    @media (min-width: 768px) {
+  @media (min-width: 768px) {
+    div {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
   }

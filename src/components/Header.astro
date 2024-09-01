@@ -27,7 +27,7 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
   </div>
 </nav>
 
-<style is:global lang="scss">
+<style is:global>
   nav {
     display: flex;
     flex-direction: column;
@@ -40,10 +40,6 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     font-size: 1.875rem;
     line-height: 2.25rem;
 
-    @media (min-width: 1024px) {
-      padding: 0 2rem;
-    }
-
     a {
       text-decoration: none;
       color: var(--rwb-text);
@@ -51,6 +47,12 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
       &:hover {
         text-decoration: underline;
       }
+    }
+  }
+
+  @media (min-width: 1024px) {
+    nav {
+      padding: 0 2rem;
     }
   }
 
@@ -64,8 +66,10 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     display: flex;
     flex-direction: row;
     gap: 1rem;
+  }
 
-    @media (min-width: 1024px) {
+  @media (min-width: 1024px) {
+    .header-icons {
       gap: 0 2rem;
     }
   }

@@ -13,14 +13,16 @@
   </form>
 </div>
 
-<style lang="scss">
+<style>
   div {
     padding: 1rem 1.25rem 0.375rem 1.25rem;
     margin: 1rem auto;
     border-radius: 0.25rem;
     background-color: #ebedef;
+  }
 
-    @media (prefers-color-scheme: dark) {
+  @media (prefers-color-scheme: dark) {
+    div {
       background-color: rgb(38 38 38);
     }
   }
@@ -45,8 +47,10 @@
     cursor: pointer;
     border-width: 0px;
     background-color: var(--rwb-link);
+  }
 
-    @media (prefers-color-scheme: dark) {
+  @media (prefers-color-scheme: dark) {
+    .bd-submit {
       background-color: var(#254a93);
     }
   }

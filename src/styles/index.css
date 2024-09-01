@@ -5,24 +5,24 @@
   --rwb-link: light-dark(#3366cc, #689fd9);
 }
 
-// Reset based on https://keithjgrant.com/posts/2024/01/my-css-resets/
+/* Reset based on https://keithjgrant.com/posts/2024/01/my-css-resets/ */
 
 *,
 *::before,
 *::after {
-  // Enable border-box everywhere
+  /* Enable border-box everywhere */
   box-sizing: border-box;
 }
 
 html {
-  // Prevent font size inflation
+  /* Prevent font size inflation */
   -moz-text-size-adjust: none;
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
 }
 
 body {
-  // Remove default <body> margin
+  /* Remove default <body> margin */
   margin: unset;
 }
 
@@ -30,7 +30,7 @@ button,
 input,
 textarea,
 select {
-  // Controls and textareas should use the same fonts
+  /* Controls and textareas should use the same fonts */
   font: inherit;
 }
 
@@ -38,7 +38,7 @@ img,
 picture,
 svg,
 canvas {
-  // Make images behave better
+  /* Make images behave better */
   display: block;
   max-inline-size: 100%;
   block-size: auto;
@@ -48,7 +48,7 @@ canvas {
   *,
   *::before,
   *::after {
-    // Turn off animations if prefers-reduced-motion
+    /* Turn off animations if prefers-reduced-motion */
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
@@ -56,12 +56,12 @@ canvas {
   }
 }
 
-// End reset
+/* End reset */
 
 html {
   background-color: var(--rwb-background);
   color: var(--rwb-text);
-  // Transitional from https://modernfontstacks.com
+  /* Transitional from https://modernfontstacks.com */
   font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
   font-weight: normal;
   line-height: 1.75rem;
@@ -70,8 +70,10 @@ html {
 article {
   padding: 0 1rem;
   margin-bottom: 3rem;
+}
 
-  @media (min-width: 768px) {
+@media (min-width: 768px) {
+  article {
     margin-left: auto;
     margin-right: auto;
 
