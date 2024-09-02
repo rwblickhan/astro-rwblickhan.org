@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-08-28
+lastUpdatedDate: 2024-09-02
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -50,6 +50,7 @@ lastUpdatedDate: 2024-08-28
 45. _A Study in Scarlet_, Arthur Conan Doyle
 46. _101 Things I Learned in Culinary School (Second Edition)_, Louis Eguaras & Matthew Frederick
 47. _the curious incident of the dog in the night-time_, Mark Haddon
+48. 🔁 _The Tempest_, William Shakespeare
 
 ## Skimmed
 
