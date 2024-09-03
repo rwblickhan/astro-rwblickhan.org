@@ -58,6 +58,7 @@ lastUpdatedDate: 2024-09-02
 - _The Dangers of Smoking in Bed_, Mariana Enriquez (trans. Megan McDowell)
 - _A \*New\* Program for Graphic Design_, David Reinfurt
 - _High Growth Handbook: Scaling Startups from 10 to 10,000 People_, Elad Gil
+- _101 Things I Learned in Product Design School_, Sung Jang, Martin Thaler, & Matthew Frederick
 
 ## Papers
 
