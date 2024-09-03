@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-08-31
+lastUpdatedDate: 2024-09-03
 ---
 
 1. _Halo_, Juana Molina
@@ -147,3 +147,4 @@ lastUpdatedDate: 2024-08-31
 142. _Atrocity Exhibition_, Danny Brown
 143. _Short n’ Sweet_, Sabrina Carpenter
 144. _XXX_, Danny Brown
+145. _This Is How Tomorrow Moves_, beabadoobee
