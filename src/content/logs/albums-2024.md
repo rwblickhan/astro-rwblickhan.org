@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-09-03
+lastUpdatedDate: 2024-09-05
 ---
 
 1. _Halo_, Juana Molina
@@ -148,3 +148,4 @@ lastUpdatedDate: 2024-09-03
 143. _Short n’ Sweet_, Sabrina Carpenter
 144. _XXX_, Danny Brown
 145. _This Is How Tomorrow Moves_, beabadoobee
+146. _Normal Sounds_, Lia Kohl
