@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-09-05
+lastUpdatedDate: 2024-09-06
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -52,6 +52,7 @@ lastUpdatedDate: 2024-09-05
 47. _the curious incident of the dog in the night-time_, Mark Haddon
 48. 🔁 _The Tempest_, William Shakespeare
 49. _101 Things I Learned in Law School_, Vibeke Norgaard Martin & Matthew Frederick
+50. _Lightning Rods_, Helen deWitt
 
 ## Skimmed
 
