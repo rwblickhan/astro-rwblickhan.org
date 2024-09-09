@@ -13,7 +13,7 @@ These are the ten storytellers or works that have probably had the most influenc
 - Don Hertzfeldt (_It’s Such A Beautiful Day_, _World of Tomorrow_)
 - Hideaki Anno's _Neon Genesis Evangelion_ (+ _FLCL_ which is thematically related if not actually production-related)
 - Wong Kar Wai's _In the Mood for Love_
-- Was Anderson's _Grand Budapest Hotel_
+- Wes Anderson's _Grand Budapest Hotel_
 - Jorge Luis Borges (_Collected Fictions_)
 - Warhammer 40,000 (yes, really)
 
@@ -28,7 +28,7 @@ As well as a few honorable mentions that didn't quite make the top ten:
 - Mark Z. Danielewski (_House of Leaves_)
 - Leonora Carrington (_The Hearing Trumpet_, _Complete Stories_)
 - Marjane Satrapi (_Persepolis_)
-- _Everything Everywhere All At Once_
+- The Daniels' _Everything Everywhere All At Once_
 
 There's also a few Western classics that I reference incessantly:
 
