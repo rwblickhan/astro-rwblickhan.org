@@ -1,7 +1,7 @@
 ---
 title: Favorites
 description: A brief list of my favorite fiction
-lastUpdatedDate: 2024-07-26
+lastUpdatedDate: 2024-09-08
 ---
 
 These are the ten storytellers or works that have probably had the most influence on me:
@@ -23,10 +23,12 @@ As well as a few honorable mentions that didn't quite make the top ten:
 - Mikhail Bulgakov (_The Master & Margarita_)
 - Phillip Pullman (_His Dark Materials_)
 - Voltaire (_Candide_)
+- Sarah Ruhl (_Eurydice: A Play_)
 - Ursula K. Le Guin (_The Left Hand of Darkness_, _The Lathe of Heaven_, _A Wizard of Earthsea_)
 - Mark Z. Danielewski (_House of Leaves_)
 - Leonora Carrington (_The Hearing Trumpet_, _Complete Stories_)
 - Marjane Satrapi (_Persepolis_)
+- _Everything Everywhere All At Once_
 
 There's also a few Western classics that I reference incessantly:
 
