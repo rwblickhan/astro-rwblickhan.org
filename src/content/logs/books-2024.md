@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-09-06
+lastUpdatedDate: 2024-09-08
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -53,6 +53,7 @@ lastUpdatedDate: 2024-09-06
 48. 🔁 _The Tempest_, William Shakespeare
 49. _101 Things I Learned in Law School_, Vibeke Norgaard Martin & Matthew Frederick
 50. _Lightning Rods_, Helen deWitt
+51. _Eurydice: A Play_, Sarah Ruhl
 
 ## Skimmed
 
