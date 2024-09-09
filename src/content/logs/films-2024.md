@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-08-26
+lastUpdatedDate: 2024-09-09
 ---
 
 ## Movies
@@ -55,6 +55,7 @@ lastUpdatedDate: 2024-08-26
 48. _Frances Ha_ (2012)
 49. _Only the River Flows_ (2023)
 50. _Get Out_ (2017)
+51. _Portrait of a Lady on Fire_ (2019)
 
 ## TV Shows
 
