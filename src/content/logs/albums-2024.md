@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-09-09
+lastUpdatedDate: 2024-09-10
 ---
 
 1. _Halo_, Juana Molina
@@ -151,3 +151,4 @@ lastUpdatedDate: 2024-09-09
 146. _Normal Sounds_, Lia Kohl
 147. _ten days_, Fred again..
 148. _B-sides, B-dies_, Disasterpeace
+149. _II_, Kiasmos
