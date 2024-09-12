@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-09-01
+lastUpdatedDate: 2024-09-11
 ---
 
 ## Video Games
@@ -15,6 +15,7 @@ lastUpdatedDate: 2024-09-01
 8. _Tales from Off-Peak City Vol. 1_
 9. _Paratopic_
 10. _Disco Elysium_
+11. 🔁 _holedown_
 
 ## Traditional Games
 
