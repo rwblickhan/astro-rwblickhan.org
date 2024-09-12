@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-09-10
+lastUpdatedDate: 2024-09-12
 ---
 
 1. _Halo_, Juana Molina
@@ -153,3 +153,4 @@ lastUpdatedDate: 2024-09-10
 148. _B-sides, B-dies_, Disasterpeace
 149. _II_, Kiasmos
 150. _Starship Syncopation_, Cory Wong, Metropole Orkest, & Jules Buckley
+151. _Space 1.8_, Nala Sinephro
