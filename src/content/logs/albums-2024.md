@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-09-12
+lastUpdatedDate: 2024-09-13
 ---
 
 1. _Halo_, Juana Molina
@@ -156,3 +156,4 @@ lastUpdatedDate: 2024-09-12
 151. _Space 1.8_, Nala Sinephro
 152. _Endlessness_, Nala Sinephro
 153. _Savage Sinusoid_, Igorrr
+154. _I’d Love To Fly EP_, nthng
