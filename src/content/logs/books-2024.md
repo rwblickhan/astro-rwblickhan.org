@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-09-08
+lastUpdatedDate: 2024-09-13
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -54,6 +54,7 @@ lastUpdatedDate: 2024-09-08
 49. _101 Things I Learned in Law School_, Vibeke Norgaard Martin & Matthew Frederick
 50. _Lightning Rods_, Helen deWitt
 51. _Eurydice: A Play_, Sarah Ruhl
+52. 🔁 _Macbeth_, William Shakespeare
 
 ## Skimmed
 
