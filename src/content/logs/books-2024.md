@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-09-13
+lastUpdatedDate: 2024-09-15
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -55,6 +55,7 @@ lastUpdatedDate: 2024-09-13
 50. _Lightning Rods_, Helen deWitt
 51. _Eurydice: A Play_, Sarah Ruhl
 52. 🔁 _Macbeth_, William Shakespeare
+53. _The Castle of Crossed Destinies_, Italo Calvino (trans. William Weaver)
 
 ## Skimmed
 
