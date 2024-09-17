@@ -57,6 +57,7 @@ lastUpdatedDate: 2024-09-16
 52. 🔁 _Macbeth_, William Shakespeare
 53. _The Castle of Crossed Destinies_, Italo Calvino (trans. William Weaver)
 54. _The Art of Gathering: How We Meet and Why It Matters_, Priya Parker
+55. “The Masque of the Red Death”, Edgar Allen Poe
 
 ## Skimmed
 
