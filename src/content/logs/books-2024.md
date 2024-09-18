@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-09-16
+lastUpdatedDate: 2024-09-17
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -73,3 +73,4 @@ lastUpdatedDate: 2024-09-16
 2. “The Role of Deliberate Practice in the Acquisition of Expert Performance”, Ericsson et. al.
 3. “Puritans and Prigs: An Anatomy of Zealotry”, Marilynne Robinson
 4. “Do Artifacts Have Politics?”, Landon Winner
+5. “Technology and History: ‘Kranzberg’s Laws’”, Melvin Kranzberg
