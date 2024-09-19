@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-09-17
+lastUpdatedDate: 2024-09-19
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -58,6 +58,7 @@ lastUpdatedDate: 2024-09-17
 53. _The Castle of Crossed Destinies_, Italo Calvino (trans. William Weaver)
 54. _The Art of Gathering: How We Meet and Why It Matters_, Priya Parker
 55. “The Masque of the Red Death”, Edgar Allen Poe
+56. _Rare Flavours_, Ram V & Filipe Andrade
 
 ## Skimmed
 
