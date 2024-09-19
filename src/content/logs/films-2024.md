@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-09-14
+lastUpdatedDate: 2024-09-19
 ---
 
 ## Movies
@@ -56,6 +56,8 @@ lastUpdatedDate: 2024-09-14
 49. _Only the River Flows_ (2023)
 50. _Get Out_ (2017)
 51. _Portrait of a Lady on Fire_ (2019)
+52. 🔁 _Howl’s Moving Castle_ (2004)
+53. _Sorry to Bother You_ (2018)
 
 ## TV Shows
 
