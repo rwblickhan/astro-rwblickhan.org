@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-09-19
+lastUpdatedDate: 2024-09-26
 ---
 
 ## Movies
@@ -58,6 +58,9 @@ lastUpdatedDate: 2024-09-19
 51. _Portrait of a Lady on Fire_ (2019)
 52. 🔁 _Howl’s Moving Castle_ (2004)
 53. _Sorry to Bother You_ (2018)
+54. _My Cousin Vinny_ (1992)
+55. _Days of Heaven_ (1978)
+56. _Godzilla Minus One_ (2023)
 
 ## TV Shows
 

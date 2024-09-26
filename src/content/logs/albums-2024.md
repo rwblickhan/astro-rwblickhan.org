@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-09-25
+lastUpdatedDate: 2024-09-26
 ---
 
 1. _Halo_, Juana Molina
@@ -164,3 +164,4 @@ lastUpdatedDate: 2024-09-25
 159. _Pulsar_, L’Impératrice
 160. _Dolphin_, Tennyson & Leslie
 161. _Songs from the Bardo_, Laurie Anderson, Tenzin Choegyal, & Jesse Paris Smith
+162. _Something Ephemeral_, Alaskan Tapes
