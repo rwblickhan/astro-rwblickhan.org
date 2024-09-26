@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-09-13
+lastUpdatedDate: 2024-09-25
 ---
 
 1. _Halo_, Juana Molina
@@ -158,3 +158,9 @@ lastUpdatedDate: 2024-09-13
 153. _Savage Sinusoid_, Igorrr
 154. _I’d Love To Fly EP_, nthng
 155. _Hypnotherapy_, nthng
+156. _The Gods We Can Touch_, AURORA
+157. _What Happened To The Heart?_, AURORA
+158. _Living Circle_, Shida Shahabi
+159. _Pulsar_, L’Impératrice
+160. _Dolphin_, Tennyson & Leslie
+161. _Songs from the Bardo_, Laurie Anderson, Tenzin Choegyal, & Jesse Paris Smith
