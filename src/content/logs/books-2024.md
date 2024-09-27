@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-09-19
+lastUpdatedDate: 2024-09-27
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -59,6 +59,7 @@ lastUpdatedDate: 2024-09-19
 54. _The Art of Gathering: How We Meet and Why It Matters_, Priya Parker
 55. “The Masque of the Red Death”, Edgar Allen Poe
 56. _Rare Flavours_, Ram V & Filipe Andrade
+57. _The Sign of the Four_, Arthur Conan Doyle
 
 ## Skimmed
 
