@@ -21,3 +21,6 @@ clean:
 
 sync:
     pnpm run astro sync
+
+log:
+  git camp "Log"
