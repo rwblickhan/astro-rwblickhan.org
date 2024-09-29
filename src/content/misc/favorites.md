@@ -1,7 +1,7 @@
 ---
 title: Favorites
 description: A brief list of my favorite fiction
-lastUpdatedDate: 2024-09-27
+lastUpdatedDate: 2024-09-29
 ---
 
 These are the ten storytellers or works that have probably had the most influence on me:
@@ -36,6 +36,7 @@ There's also a few "internet writers" who have had an outsize impact on me:
 - Jason Kottke, [_Kottke.org_](https://kottke.org)
 - Ryan North, [_Dinosaur Comics_](https://qwantz.com)
 - Trudy Cooper and Doug Bayne, [_Oglaf_](https://www.oglaf.com/) (_very_ NSFW)
+- [Simon Willison](https://simonwillison.net)
 
 There's also a few Western classics that I reference incessantly:
 
