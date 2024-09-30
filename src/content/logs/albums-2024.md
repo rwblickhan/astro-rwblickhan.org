@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-09-27
+lastUpdatedDate: 2024-09-30
 ---
 
 1. _Halo_, Juana Molina
@@ -167,3 +167,4 @@ lastUpdatedDate: 2024-09-27
 162. _Something Ephemeral_, Alaskan Tapes
 163. _Homes_, Shida Shahabi
 164. _Sylph (Original Score)_, Shida Shahabi
+165. _In Waves_, Jamie xx
