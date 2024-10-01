@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-09-30
+lastUpdatedDate: 2024-10-01
 ---
 
 1. _Halo_, Juana Molina
@@ -169,3 +169,4 @@ lastUpdatedDate: 2024-09-30
 164. _Sylph (Original Score)_, Shida Shahabi
 165. _In Waves_, Jamie xx
 166. _Volta_, Loula Yorke
+167. _Florescence_, Loula Yorke
