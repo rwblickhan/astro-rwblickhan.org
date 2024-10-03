@@ -349,4 +349,26 @@ lastUpdatedDate: 2024-10-02
 
 - *Rare Flavours*, Ram V & Filipe Andrade
 
+> We live in the kind of world where people end up with their third or fourth or fifth choice because there just isn't the money in their first choice. Every once in a while you get this glimpse of what the world would be like, not if everyone was perfect, but if just a few more people were just a little bit better than they are. You get this glimpse of a world where people could get by, maybe not with their first choice, but with a close second.
+
+- *Lightning Rods*, Helen deWitt
+
+> This is what it is to love an artist: The moon is always rising above your house. The houses of your neighbors look dull and lacking in moonlight. But he is always going away from you. Inside his head there is always something more beautiful.
+
+- *Eurydice*, Sarah Ruhl
+
+> Loud Stone: Didn't you already mourn for your father, young lady?\
+> Little Stone: Some things should be left well enough alone.\
+> Big Stone: To mourn twice is excessive.\
+> Little Stone: To mourn three times a sin.\
+> Loud Stone: Life is like a good meal.\
+> Big Stone: Only gluttons want more food when they finish their helping.\
+> Little Stone: Learn to be more moderate.\
+> Big Stone: It's weird for a dead person to be morbid.\
+> Little Stone: We don't like to watch it!\
+> Loud Stone: We don't like to see it!\
+> Big Stone: It makes me uncomfortable.
+
+- *Eurydice*, Sarah Ruhl
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
