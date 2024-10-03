@@ -1,7 +1,7 @@
 ---
 title: Quotes
-description: My favourite quotes
-lastUpdatedDate: 2024-08-31
+description: My favorite quotes
+lastUpdatedDate: 2024-10-02
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -344,5 +344,9 @@ lastUpdatedDate: 2024-08-31
 > And then there would be Eve, an explorer searching for nothing, adrift in a sea without any memory of what she had once sought or of what she wished to return to.
 
 - *The People in the Trees*, Hanya Yanagihara
+
+> It is in our nature to be such ungainly, consumptive beasts. To live and labour so we may eat and be eaten. To consume and be consumed in eternity. And to this end, we have built around ourselves the machinery of consumption. It becomes easy to forget, then, that there is true flavour yet, beneath it all. In the fact of such despair, our one saving grace is the ability to make things. And as long as it comes from a place of honesty, fascination, and true flavour... There will always be room for more."
+
+- *Rare Flavours*, Ram V & Filipe Andrade
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
