@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-09-26
+lastUpdatedDate: 2024-10-08
 ---
 
 ## Movies
@@ -51,7 +51,7 @@ lastUpdatedDate: 2024-09-26
 44. 🔁 _World of Tomorrow_ (2015)
 45. _The Holy Mountain_ (1973)
 46. _The Wicker Man_ (1973)
-47. 🔁 _World of Tomorrow Episode 3: The Absent Destination of David Prime_ (2020)
+47. 🔁 _World of Tomorrow Episode 3: The Absent Destinations of David Prime_ (2020)
 48. _Frances Ha_ (2012)
 49. _Only the River Flows_ (2023)
 50. _Get Out_ (2017)
@@ -61,6 +61,8 @@ lastUpdatedDate: 2024-09-26
 54. _My Cousin Vinny_ (1992)
 55. _Days of Heaven_ (1978)
 56. _Godzilla Minus One_ (2023)
+57. _Megalopolis_ (2024)
+58. _Look Back_ (2024)
 
 ## TV Shows
 
