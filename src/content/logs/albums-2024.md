@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-10-08
+lastUpdatedDate: 2024-10-09
 ---
 
 1. _Halo_, Juana Molina
@@ -176,3 +176,4 @@ lastUpdatedDate: 2024-10-08
 171. _Mongkok Duel_, Mong Tong & Gong Gong Gong
 172. _Mystery 秘神_, Mong Tong
 173. _The New Sound_, Geordie Greep
+174. _Vincebus Eruptum_, Blue Cheer
