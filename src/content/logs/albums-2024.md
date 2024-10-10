@@ -177,3 +177,4 @@ lastUpdatedDate: 2024-10-09
 172. _Mystery 秘神_, Mong Tong
 173. _The New Sound_, Geordie Greep
 174. _Vincebus Eruptum_, Blue Cheer
+175. _Today & Tomorrow_, Sault
