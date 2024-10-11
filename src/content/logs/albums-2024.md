@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-10-10
+lastUpdatedDate: 2024-10-11
 ---
 
 1. _Halo_, Juana Molina
@@ -179,3 +179,4 @@ lastUpdatedDate: 2024-10-10
 174. _Vincebus Eruptum_, Blue Cheer
 175. _Today & Tomorrow_, Sault
 176. _Submarine_, The Marías
+177. _brat and it’s completely different but also still brat_, Charli xcx
