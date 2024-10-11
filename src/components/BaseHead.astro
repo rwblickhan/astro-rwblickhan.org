@@ -94,6 +94,7 @@ const blogJsonLd = lastUpdatedDate && {
     blogJsonLd && (
       <script
         type="application/ld+json"
+        is:inline
         set:html={JSON.stringify(blogJsonLd)}
       />
     )
