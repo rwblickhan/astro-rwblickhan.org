@@ -2,12 +2,46 @@
 export interface Props {
   title: string;
   description: string;
+  lastUpdatedDate?: Date;
   image?: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = "/apple-touch-icon.png" } = Astro.props;
+const {
+  title,
+  description,
+  lastUpdatedDate,
+  image = "/apple-touch-icon.png",
+} = Astro.props;
+
+const blogJsonLd = lastUpdatedDate && {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": canonicalURL,
+  },
+  headline: title,
+  description: description,
+  image,
+  author: {
+    "@type": "Person",
+    name: "R.W. Blickhan",
+    url: "https://rwblickhan.org",
+  },
+  publisher: {
+    "@type": "Person",
+    name: "R.W. Blickhan",
+
+    logo: {
+      "@type": "ImageObject",
+      url: "https://rwblickhan.org/favicon.ico",
+    },
+  },
+  datePublished: lastUpdatedDate.toISOString(),
+  dateModified: lastUpdatedDate.toISOString(),
+};
 ---
 
 <head>
@@ -54,4 +88,14 @@ const { title, description, image = "/apple-touch-icon.png" } = Astro.props;
 
   <!-- Mastodon -->
   <link rel="me" href="https://mastodon.social/@rwblickhan" />
+
+  <!-- JSON-LD -->
+  {
+    blogJsonLd && (
+      <script
+        type="application/ld+json"
+        set:html={JSON.stringify(blogJsonLd)}
+      />
+    )
+  }
 </head>

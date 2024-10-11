@@ -9,12 +9,17 @@ import "../styles/index.css";
 //   width: "small" | "medium" | "large";
 // }
 
-const { title, description, width } = Astro.props.frontmatter || Astro.props;
+const { title, description, width, lastUpdatedDate } =
+  Astro.props.frontmatter || Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
-  <BaseHead title={title} description={description} />
+  <BaseHead
+    title={title}
+    description={description}
+    lastUpdatedDate={lastUpdatedDate}
+  />
   <Header />
   <article class={width}>
     <slot />

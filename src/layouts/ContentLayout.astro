@@ -21,7 +21,12 @@ const parentCollectionMetadata =
   parentCollection && collectionMetadataMap.get(parentCollection);
 ---
 
-<BaseLayout title={title} description={description} width="small">
+<BaseLayout
+  title={title}
+  description={description}
+  lastUpdatedDate={lastUpdatedDate}
+  width="small"
+>
   {
     parentCollectionMetadata && (
       <a href={parentCollectionMetadata.slug}>
