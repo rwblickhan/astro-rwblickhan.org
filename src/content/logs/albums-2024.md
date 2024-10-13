@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-10-11
+lastUpdatedDate: 2024-10-12
 ---
 
 1. _Halo_, Juana Molina
@@ -180,3 +180,5 @@ lastUpdatedDate: 2024-10-11
 175. _Today & Tomorrow_, Sault
 176. _Submarine_, The Marías
 177. _brat and it’s completely different but also still brat_, Charli xcx
+178. _Mahal EP_, Glass Beams
+179. _Mirage EP_, Glass Beams
