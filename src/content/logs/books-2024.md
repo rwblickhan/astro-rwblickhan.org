@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-09-27
+lastUpdatedDate: 2024-10-13
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -60,6 +60,7 @@ lastUpdatedDate: 2024-09-27
 55. “The Masque of the Red Death”, Edgar Allen Poe
 56. _Rare Flavours_, Ram V & Filipe Andrade
 57. _The Sign of the Four_, Arthur Conan Doyle
+58. _Tea: A User’s Guide_, Tony Gebely
 
 ## Skimmed
 
