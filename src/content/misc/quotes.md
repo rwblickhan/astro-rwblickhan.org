@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2024-10-02
+lastUpdatedDate: 2024-10-14
 ---
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -370,5 +370,9 @@ lastUpdatedDate: 2024-10-02
 > Big Stone: It makes me uncomfortable.
 
 - *Eurydice*, Sarah Ruhl
+
+> Fyodor Pavlovich was drunk when he heard the news of her death; they say he ran through the streets and began shouting, raising his hands to the sky in joy: “Lord, now lettest Thou Thy servant depart in peace.” But according to other people, he wept like a little child, so much so, it was said, that it was pitiful even to look at him, in spite of all the disgust with him one might feel. It’s very possible that both versions are true — that is, he rejoiced at his liberation and wept for his liberator, at the same time. Indeed, in most cases, even criminals are more naïve and openhearted than we suppose. And we are, too.
+
+- *The Brothers Karamazov*, Fyodor Dostoevsky (trans. Michael R. Katz)
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
