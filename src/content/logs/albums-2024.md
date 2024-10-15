@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-10-12
+lastUpdatedDate: 2024-10-14
 ---
 
 1. _Halo_, Juana Molina
@@ -182,3 +182,4 @@ lastUpdatedDate: 2024-10-12
 177. _brat and it’s completely different but also still brat_, Charli xcx
 178. _Mahal EP_, Glass Beams
 179. _Mirage EP_, Glass Beams
+180. _Ten Ragas to a Disco Beat_, Charanjit Singh
