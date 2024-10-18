@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-10-17
+lastUpdatedDate: 2024-10-18
 ---
 
 1. _Halo_, Juana Molina
@@ -184,3 +184,4 @@ lastUpdatedDate: 2024-10-17
 179. _Mirage EP_, Glass Beams
 180. _Ten Ragas to a Disco Beat_, Charanjit Singh
 181. _Shadow Light_, Julia Gjertsen
+182. _Magic Hour_, Satoshi Tomiie
