@@ -29,6 +29,7 @@
     "typescript": "^5.5.3"
   },
   "devDependencies": {
+    "@fec/remark-a11y-emoji": "^4.0.2",
     "@types/markdown-it": "^14.1.1",
     "@types/sanitize-html": "^2.11.0"
   }
