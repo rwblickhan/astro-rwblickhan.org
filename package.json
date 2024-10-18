@@ -14,23 +14,23 @@
   "dependencies": {
     "@astrojs/check": "^0.3.4",
     "@astrojs/mdx": "^2.3.1",
-    "@astrojs/rss": "^4.0.7",
-    "@astrojs/sitemap": "^3.1.6",
-    "astro": "^4.15.1",
-    "astro-pagefind": "^1.5.0",
-    "husky": "^9.1.0",
+    "@astrojs/rss": "^4.0.9",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^4.16.6",
+    "astro-pagefind": "^1.6.0",
+    "husky": "^9.1.6",
     "markdown-it": "^14.1.0",
-    "pagefind": "^1.1.0",
+    "pagefind": "^1.1.1",
     "remark-collapse": "^0.1.2",
     "remark-toc": "^8.0.1",
-    "sanitize-html": "^2.13.0",
-    "sass": "^1.77.8",
+    "sanitize-html": "^2.13.1",
+    "sass": "^1.80.2",
     "sharp": "^0.32.6",
-    "typescript": "^5.5.3"
+    "typescript": "^5.6.3"
   },
   "devDependencies": {
     "@fec/remark-a11y-emoji": "^4.0.2",
-    "@types/markdown-it": "^14.1.1",
-    "@types/sanitize-html": "^2.11.0"
+    "@types/markdown-it": "^14.1.2",
+    "@types/sanitize-html": "^2.13.0"
   }
 }
