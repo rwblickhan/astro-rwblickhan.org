@@ -14,7 +14,7 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [
       // Generate a table of contents if we see a "Table of Contents" header
-      [remarkToc, { maxDepth: 3, skip: "References|Details" }],
+      [remarkToc, { maxDepth: 3, skip: "See Also|Details" }],
       [
         // Collapse the generated table of contents into a <details> tag
         remarkCollapse,
