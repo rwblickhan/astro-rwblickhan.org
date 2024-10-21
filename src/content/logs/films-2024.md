@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-10-08
+lastUpdatedDate: 2024-10-20
 ---
 
 ## Movies
@@ -63,6 +63,7 @@ lastUpdatedDate: 2024-10-08
 56. _Godzilla Minus One_ (2023)
 57. _Megalopolis_ (2024)
 58. _Look Back_ (2024)
+59. 🔁 _Perfect Blue_ (1997)
 
 ## TV Shows
 
