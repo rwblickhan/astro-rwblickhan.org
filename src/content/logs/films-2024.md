@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-10-20
+lastUpdatedDate: 2024-10-22
 ---
 
 ## Movies
@@ -64,6 +64,7 @@ lastUpdatedDate: 2024-10-20
 57. _Megalopolis_ (2024)
 58. _Look Back_ (2024)
 59. 🔁 _Perfect Blue_ (1997)
+60. _Jennifer’s Body_ (2009)
 
 ## TV Shows
 
