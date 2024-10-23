@@ -44,12 +44,6 @@ canvas {
   block-size: auto;
 }
 
-blockquote,
-figure {
-  margin-inline: 0;
-  margin-block: 0;
-}
-
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -136,6 +130,25 @@ blockquote {
   margin-block: 1em;
   border-left: 2px solid #999;
   padding-left: 1em;
+}
+
+figure {
+  border: 1px solid black;
+  border-radius: 20px;
+  margin-block: 8px;
+}
+
+figure blockquote {
+  margin-inline: 1em;
+  padding-left: 0;
+  border-bottom: 1px solid #ccc;
+  border-left: none;
+}
+
+figure figcaption {
+  margin-inline-start: 2em;
+  margin-inline-end: 1em;
+  margin-block: 1em;
 }
 
 strong {
