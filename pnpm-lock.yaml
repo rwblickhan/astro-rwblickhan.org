@@ -35,6 +35,9 @@ importers:
       pagefind:
         specifier: ^1.1.1
         version: 1.1.1
+      rehype-blockquote-figures:
+        specifier: ^1.0.0
+        version: 1.0.0
       remark-collapse:
         specifier: ^0.1.2
         version: 0.1.2
@@ -1927,6 +1930,9 @@ packages:
 
   regex@4.3.3:
     resolution: {integrity: sha512-r/AadFO7owAq1QJVeZ/nq9jNS1vyZt+6t1p/E59B56Rn2GCya+gr1KSyOzNL/er+r+B7phv5jG2xU2Nz1YkmJg==}
+
+  rehype-blockquote-figures@1.0.0:
+    resolution: {integrity: sha512-NoCPHWtEOzQ+cbtlSqXiLyU+lTxjkSmy/NRRiVZNtaPgWBVJVfl00uOzkmK+m1ptdEdxOX+nsZOjx+MUv9CRog==}
 
   rehype-parse@9.0.1:
     resolution: {integrity: sha512-ksCzCD0Fgfh7trPDxr2rSylbwq9iYDkSn8TCDmEJ49ljEUBxDVCzCHv7QNzZOfODanX4+bWQ4WZqLCRWYLfhag==}
@@ -4852,6 +4858,10 @@ snapshots:
   readdirp@4.0.2: {}
 
   regex@4.3.3: {}
+
+  rehype-blockquote-figures@1.0.0:
+    dependencies:
+      unist-util-visit: 5.0.0
 
   rehype-parse@9.0.1:
     dependencies:

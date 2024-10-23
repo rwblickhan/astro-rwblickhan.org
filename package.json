@@ -21,6 +21,7 @@
     "husky": "^9.1.6",
     "markdown-it": "^14.1.0",
     "pagefind": "^1.1.1",
+    "rehype-blockquote-figures": "^1.0.0",
     "remark-collapse": "^0.1.2",
     "remark-toc": "^8.0.1",
     "sanitize-html": "^2.13.1",
