@@ -20,7 +20,7 @@ Apropos of nothing, here are event or icebreaker ideas I want to pursue:
 - Bar crawl mixer, where random groups are formed at each bar and attendees have to answer a spicy question thematically related to the bar or neighborhood.
 - Cocktail party where each person is handed a unique tarot card without context. The host watches what happens next.
 - [Wrapped book exchange](https://x.com/m1shti/status/1562891601008947200), where everyone brings a book wrapped in a brown paper bag with a brief sales pitch; everyone picks a book white elephant-style.
-- [Letter circle](https://lostgarden.com/2023/02/26/the-letter-circle/), where all the members send each other long-form letters on a particular topic. Bonus points if its physical mail!
+- [Letter circle](https://lostgarden.com/2023/02/26/the-letter-circle/), where all the members send each other long-form letters on a particular topic. Bonus points if it’s physical mail!
 
 <hr />
 
