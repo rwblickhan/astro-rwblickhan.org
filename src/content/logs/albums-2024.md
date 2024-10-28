@@ -189,3 +189,4 @@ lastUpdatedDate: 2024-10-28
 184. _SABLE, EP_, Bon Iver
 185. _Cut Paper Flowers_, øjeRum
 186. _Forgotten Works_, øjeRum
+187. _Scavengers Reign OST_, Nicolas Synder
