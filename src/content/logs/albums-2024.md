@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-10-24
+lastUpdatedDate: 2024-10-28
 ---
 
 1. _Halo_, Juana Molina
@@ -187,3 +187,4 @@ lastUpdatedDate: 2024-10-24
 182. _Magic Hour_, Satoshi Tomiie
 183. _You Want It Darker_, Leonard Cohen
 184. _SABLE, EP_, Bon Iver
+185. _Cut Paper Flowers_, øjeRum
