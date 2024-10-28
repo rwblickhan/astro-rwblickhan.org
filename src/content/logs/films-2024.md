@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-10-24
+lastUpdatedDate: 2024-10-28
 ---
 
 ## Movies
@@ -65,6 +65,7 @@ lastUpdatedDate: 2024-10-24
 58. _Look Back_ (2024)
 59. 🔁 _Perfect Blue_ (1997)
 60. _Jennifer’s Body_ (2009)
+61. _Rosemary’s Baby_ (1968)
 
 ## TV Shows
 
