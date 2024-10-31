@@ -7,56 +7,71 @@
 
 /* Reset based on https://keithjgrant.com/posts/2024/01/my-css-resets/ */
 
-*,
-*::before,
-*::after {
-  /* Enable border-box everywhere */
-  box-sizing: border-box;
-}
-
-html {
-  /* Prevent font size inflation */
-  -moz-text-size-adjust: none;
-  -webkit-text-size-adjust: none;
-  text-size-adjust: none;
-}
-
-body {
-  /* Remove default <body> margin */
-  margin: unset;
-}
-
-button,
-input,
-textarea,
-select {
-  /* Controls and textareas should use the same fonts */
-  font: inherit;
-}
-
-img,
-picture,
-svg,
-canvas {
-  /* Make images behave better */
-  display: block;
-  max-inline-size: 100%;
-  block-size: auto;
-}
-
-@media (prefers-reduced-motion: reduce) {
+@layer reset {
   *,
   *::before,
   *::after {
-    /* Turn off animations if prefers-reduced-motion */
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
+    /* Enable border-box everywhere */
+    box-sizing: border-box;
+  }
+
+  html {
+    /* Prevent font size inflation */
+    -moz-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+  }
+
+  * {
+    /* Remove default margins */
+    margin: unset;
+    padding: unset;
+  }
+
+  button,
+  input,
+  textarea,
+  select {
+    /* Controls and textareas should use the same typography */
+    font: inherit;
+    letter-spacing: inherit;
+    word-spacing: inherit;
+    color: currentColor;
+  }
+
+  img,
+  picture,
+  svg,
+  canvas {
+    /* Make images behave better */
+    display: block;
+    max-inline-size: 100%;
+    block-size: auto;
+  }
+
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    /* Wrap long words instead of overflowing */
+    overflow-wrap: break-word;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      /* Turn off animations if prefers-reduced-motion */
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
   }
 }
-
-/* End reset */
 
 html {
   background-color: var(--rwb-background);
@@ -64,7 +79,48 @@ html {
   /* Transitional from https://modernfontstacks.com */
   font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
   font-weight: normal;
-  line-height: 1.75rem;
+  line-height: 1.5rem;
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 1.25em;
+  margin-block-start: 0.25em;
+  text-wrap: balance;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-block: 1em;
+  text-wrap: balance;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  margin-block: 1em;
+  text-wrap: balance;
+}
+
+h1 + h2,
+h1 + h3 {
+  margin-block-start: 0.5em;
+}
+
+p,
+ol,
+ul {
+  margin-block: 1em;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+li {
+  margin-block: 0.5em;
 }
 
 article {
@@ -89,18 +145,6 @@ article {
       max-width: 80rem;
     }
   }
-}
-
-h1 {
-  font-size: 2rem;
-  margin-block-start: 0.5rem;
-  margin-block-end: 0.5rem;
-}
-
-h2 {
-  font-size: 1.5rem;
-  margin-block-start: 0.5rem;
-  margin-block-end: 0.5rem;
 }
 
 a {
