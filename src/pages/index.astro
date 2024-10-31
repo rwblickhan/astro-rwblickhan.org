@@ -5,13 +5,7 @@ import LinkBox from "../components/LinkBox.astro";
 ---
 
 <BaseLayout title="Index" description="Index" width="medium">
-  <h2>Hi, I'm Russell, a writer and programmer.</h2>
-
-  <blockquote>
-    "That is well said," Candide replied, "but we must cultivate our garden." — <em
-      >Candide</em
-    >, Voltaire (trans. Peter Constantine)
-  </blockquote>
+  <h1>Hi, I'm Russell, a writer and programmer.</h1>
 
   <p>
     This site is my <a href="/misc/pattern-language/#digital-garden"
@@ -21,6 +15,20 @@ import LinkBox from "../components/LinkBox.astro";
       >rwblog</code
     >.
   </p>
+
+  <figure>
+    <blockquote>
+      <p>
+        "That is well said," Candide replied, "but we must cultivate our
+        garden."
+      </p>
+    </blockquote>
+    <figcaption>
+      <em>Candide</em>, Voltaire (trans. Peter Constantine)
+    </figcaption>
+  </figure>
+
+  <h2>Favorites</h2>
 
   <p>
     Here are some of my favorite things I've written here or on my newsletter:
@@ -172,15 +180,22 @@ import LinkBox from "../components/LinkBox.astro";
     > license.
   </p>
 
-  <blockquote>
-    After an initial flurry of opening hellos, he and Russell — the wonderful
-    girl's brother's name was Russell, a name which to Arthur's mind always
-    suggested burly men with blond mustaches and blow-dried hair who would at
-    the slightest provocation start wearing velvet tuxedos and frilly shirt
-    fronts and would then have to be forcibly restrained from commentating on
-    billiards matches — had quickly discovered they didn't like each other at
-    all. — <em>So Long, and Thanks for All the Fish</em>, Douglas Adams
-  </blockquote>
+  <figure>
+    <blockquote>
+      <p>
+        After an initial flurry of opening hellos, he and Russell — the
+        wonderful girl's brother's name was Russell, a name which to Arthur's
+        mind always suggested burly men with blond mustaches and blow-dried hair
+        who would at the slightest provocation start wearing velvet tuxedos and
+        frilly shirt fronts and would then have to be forcibly restrained from
+        commentating on billiards matches — had quickly discovered they didn't
+        like each other at all.
+      </p>
+    </blockquote>
+    <figcaption>
+      <em>So Long, and Thanks for All the Fish</em>, Douglas Adams
+    </figcaption>
+  </figure>
 </BaseLayout>
 
 <style>

@@ -82,36 +82,42 @@ html {
   line-height: 1.5rem;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.25em;
+  text-wrap: balance;
+}
+
 h1 {
   font-size: 2rem;
-  line-height: 1.25em;
   margin-block-start: 0.25em;
-  text-wrap: balance;
 }
 
 h2 {
   font-size: 1.5rem;
-  margin-block: 1em;
-  text-wrap: balance;
+  margin-block-start: 1em;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  margin-block: 1em;
-  text-wrap: balance;
-}
-
-h1 + h2,
-h1 + h3 {
-  margin-block-start: 0.5em;
+  margin-block: 0.5em;
 }
 
 p,
 ol,
 ul {
   margin-block: 1em;
+}
+
+h2 + p,
+h3 + p {
+  margin-block-start: 0.5em;
 }
 
 ol,
