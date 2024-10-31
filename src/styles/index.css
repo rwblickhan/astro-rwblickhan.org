@@ -169,13 +169,6 @@ code:not(pre code) {
   }
 }
 
-blockquote {
-  margin-inline: 3em;
-  margin-block: 1em;
-  border-left: 2px solid #999;
-  padding-left: 1em;
-}
-
 figure {
   border: 1px solid black;
   border-radius: 20px;
@@ -184,9 +177,11 @@ figure {
 
 figure blockquote {
   margin-inline: 1em;
-  padding-left: 0;
+  margin-block: 1em;
+}
+
+figure:has(figcaption) blockquote {
   border-bottom: 1px solid #ccc;
-  border-left: none;
 }
 
 figure figcaption {
