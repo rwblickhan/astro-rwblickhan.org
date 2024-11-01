@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-10-29
+lastUpdatedDate: 2024-11-01
 ---
 
 ## Movies
@@ -84,4 +84,5 @@ lastUpdatedDate: 2024-10-29
 12. _Key & Peele_ Season 1 (2012)
 13. _Key & Peele_ Season 2 (2012)
 14. _Atlanta_ Season 2 (2018)
-15. _The Untamed_ （2019）
+15. _The Untamed_ （2019)
+16. _Over the Garden Wall_ (2014)
