@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-10-13
+lastUpdatedDate: 2024-10-31
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -61,6 +61,7 @@ lastUpdatedDate: 2024-10-13
 56. _Rare Flavours_, Ram V & Filipe Andrade
 57. _The Sign of the Four_, Arthur Conan Doyle
 58. _Tea: A User’s Guide_, Tony Gebely
+59. _The Daughters of Ys_, M. T. Anderson & Jo Rioux
 
 ## Skimmed
 
