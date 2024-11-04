@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-10-31
+lastUpdatedDate: 2024-11-03
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -62,6 +62,7 @@ lastUpdatedDate: 2024-10-31
 57. _The Sign of the Four_, Arthur Conan Doyle
 58. _Tea: A User’s Guide_, Tony Gebely
 59. _The Daughters of Ys_, M. T. Anderson & Jo Rioux
+60. _The Tea Enthusiast's Handbook: A Guide to Enjoying the World's Best Teas_, Mary Lou Heiss & Robert J. Heiss
 
 ## Skimmed
 
