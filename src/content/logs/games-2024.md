@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-09-11
+lastUpdatedDate: 2024-11-06
 ---
 
 ## Video Games
@@ -23,3 +23,5 @@ lastUpdatedDate: 2024-09-11
 2. _Betrayal at House on the Hill_
 3. _Disney Villainous_
 4. _Spirit Island_
+5. _Devil’s Dice_
+6. _Harmonies_
