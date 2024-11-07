@@ -1,6 +1,6 @@
 ---
 title: A Cancer on Liberalism
-lastUpdatedDate: 2024-11-04
+lastUpdatedDate: 2024-11-06
 publicationDate: 2024-11-04
 season: 7
 ---
@@ -16,9 +16,3 @@ Fascism is different. Fascism is difficult to even define — Umberto Eco’s ic
 Fascism is not an ideology. Fascism is a tendency, a way of thinking. Fascism is eternal, because fascism is the modern, industrialized version of a very old belief: that our tribe, the Right People, will prosper, if only we had a Big Man to apply violence to the Wrong People.
 
 Fascism is a cancer on liberalism — a latent tendency ready to metastasize at any time and consume the entire system. In a political system fundamentally structured on tolerance, some will always seek to benefit by the violent application of intolerance. The stability of a liberal polity can never be taken for granted; the wolves are always happy to be invited in by the sheep.
-
-At this point history is locked in one way or the other, but still, let it be said:
-
-[Donald Trump, in 2024, on this campaign trail, is a fascist.](https://acoup.blog/2024/10/25/new-acquisitions-1933-and-the-definition-of-fascism/)
-
-Vote Kamala.
