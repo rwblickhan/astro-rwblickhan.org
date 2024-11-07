@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2024-10-22
+lastUpdatedDate: 2024-11-06
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote-->
@@ -12,7 +12,7 @@ lastUpdatedDate: 2024-10-22
 
 > Humility is not the opposite of confidence. They are duals. Confidence is knowing your abilities. Humility is knowing your limits.
 >
-> Hillel Wayne, *Computer Things* \#64
+> Hillel Wayne, *Computer Things* #64
 
 > From Louisiana, he followed the hyphens in the road that blurred together toward a faraway place, bridging unrelated things as hyphens do.
 >
