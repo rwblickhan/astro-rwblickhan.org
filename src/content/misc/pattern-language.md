@@ -183,9 +183,9 @@ Still, we should be careful which measures we pick and how seriously we take the
 
 ### See Also
 
-- [“Goodhart's Law in Software Engineering”](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering), _Computer Things_
-- [“In Defense of Slow Feedback Loops”](https://buttondown.com/hillelwayne/archive/in-defense-of-slow-feedback-loops), _Computer Things_
-- [“Goodhart's Law Isn't as Useful as You Might Think”](https://commoncog.com/goodharts-law-not-useful/), _Commoncog_
+- [“Goodhart's Law in Software Engineering”](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering), Hillel Wayne
+- [“In Defense of Slow Feedback Loops”](https://buttondown.com/hillelwayne/archive/in-defense-of-slow-feedback-loops), Hillel Wayne
+- [“Goodhart's Law Isn't as Useful as You Might Think”](https://commoncog.com/goodharts-law-not-useful/), Cedric Chin
 
 ## Illusion of Explanatory Depth
 
