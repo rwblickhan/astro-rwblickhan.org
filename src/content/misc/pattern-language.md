@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2024-10-30
+lastUpdatedDate: 2024-11-06
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -169,6 +169,24 @@ When in a new neighborhood, pay attention to how many “eyes on the street” y
 - _The Death and Life of Great American Cities_, Jane Jacobs
 - _Seeing Like A State_, James C. Scott
 
+## Goodhart’s Law
+
+_When a measure becomes a target, it ceases to be a good measure._
+
+### Details
+
+We have some property of the world we want to change. It’s difficult, or impossible, to measure, so we instead focus on a proxy that we _can_ measure. But then we’re optimizing exactly the wrong thing, and we end up with nonsensical results!
+
+We should, however, be careful of taking this idea too far. As Cedric Chin points out in “Goodhart's Law Isn't as Useful as You Might Think”, more limited instances of Goodhart’s law _are_ solvable via the techniques of Deming’s statistical process control. Additionally, picking _some_ measure has benefits — otherwise, how would we know we’re changing anything at all?
+
+Still, we should be careful which measures we pick and how seriously we take them. We should never pursue optimization for its own sake.
+
+### See Also
+
+- [“Goodhart's Law in Software Engineering”](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering), _Computer Things_
+- [“In Defense of Slow Feedback Loops”](https://buttondown.com/hillelwayne/archive/in-defense-of-slow-feedback-loops), _Computer Things_
+- [“Goodhart's Law Isn't as Useful as You Might Think”](https://commoncog.com/goodharts-law-not-useful/), _Commoncog_
+
 ## Illusion of Explanatory Depth
 
 _Humans think they understand familiar systems better than they actually do._
@@ -201,6 +219,21 @@ This principle can be applied widely anywhere human cognition is important. For 
 
 - [“The Magical Number Seven, Plus or Minus Two: Some Limits on our Capacity for Processing Information”](http://psychclassics.yorku.ca/Miller/), George A. Miller
 - [“The Source of Readability”](https://loup-vaillant.fr/articles/source-of-readability), Loup Vaillant
+
+## Principal-Agent Problems
+
+_When an agent takes actions on behalf of a principal, care must be taken to align incentives._
+
+### Details
+
+In social life, it is often the case that one party (the principal) has access to capital or other resources and uses these to hire the services of another party (the agent). However, how does the principal know the agent will actually do as they wish, and how does the agent know the principal will likewise maintain their commitments? This is a fundamental issue that requires careful mechanism design.
+
+One of the most famous examples is stock-option-based compensation for early startup employees in the tech industry. Venture capitalists invest millions of dollars in startups. Why don’t the founders take the money and run? Why do early employees put up with harsh working conditions, when the company can barely afford to pay them? Their primary compensation comes in the form of stock options, which are only valuable insofar as the company itself is valuable, aligning incentives between the funders and the founders. (Tom Nicholas points out in _VC: An American History_ that early-19th-century American whaling expeditions settled on an identical solution.)
+
+### See Also
+
+- [“The Principal-Agent Problem: You're Always Solving Multiple Problems at Once”](https://capitalgains.thediff.co/p/principal-agent-problem), Byrne Hobart
+- _VC: An American History_, Tom Nicholas
 
 ## Programming as Theory Building
 
