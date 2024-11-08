@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-10-28
+lastUpdatedDate: 2024-11-08
 ---
 
 1. _Halo_, Juana Molina
@@ -190,3 +190,4 @@ lastUpdatedDate: 2024-10-28
 185. _Cut Paper Flowers_, øjeRum
 186. _Forgotten Works_, øjeRum
 187. _Scavengers Reign OST_, Nicolas Synder
+188. _Hash-Bar Loops_, Deepchord
