@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-11-08
+lastUpdatedDate: 2024-11-09
 ---
 
 1. _Halo_, Juana Molina
@@ -192,3 +192,4 @@ lastUpdatedDate: 2024-11-08
 187. _Scavengers Reign OST_, Nicolas Synder
 188. _Hash-Bar Loops_, Deepchord
 189. _Auratones_, Deepchord
+190. _Relativity 3 Ep_, Lemaitre
