@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-11-01
+lastUpdatedDate: 2024-11-10
 ---
 
 ## Movies
@@ -67,6 +67,7 @@ lastUpdatedDate: 2024-11-01
 60. _Jennifer’s Body_ (2009)
 61. _Rosemary’s Baby_ (1968)
 62. _Scream_ (2022)
+63. _Barton Fink_ (1991)
 
 ## TV Shows
 
