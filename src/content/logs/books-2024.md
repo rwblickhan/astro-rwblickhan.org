@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-11-03
+lastUpdatedDate: 2024-11-14
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -63,6 +63,7 @@ lastUpdatedDate: 2024-11-03
 58. _Tea: A User’s Guide_, Tony Gebely
 59. _The Daughters of Ys_, M. T. Anderson & Jo Rioux
 60. _The Tea Enthusiast's Handbook: A Guide to Enjoying the World's Best Teas_, Mary Lou Heiss & Robert J. Heiss
+61. _My Favorite Thing is Monsters: Book One_, Emil Ferris
 
 ## Skimmed
 
