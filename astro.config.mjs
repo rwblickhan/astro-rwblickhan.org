@@ -1,5 +1,4 @@
 import { defineConfig } from "astro/config";
-import mdx from "@astrojs/mdx";
 import pagefind from "astro-pagefind";
 import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";
@@ -9,7 +8,7 @@ import rehypeBlockquoteFigures from "rehype-blockquote-figures";
 
 export default defineConfig({
   site: "https://rwblickhan.org",
-  integrations: [mdx(), pagefind(), sitemap()],
+  integrations: [pagefind(), sitemap()],
   experimental: {
     contentIntellisense: true,
   },
