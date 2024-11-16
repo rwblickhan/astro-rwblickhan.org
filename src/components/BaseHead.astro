@@ -6,14 +6,15 @@ export interface Props {
   image?: string;
 }
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-
 const {
   title,
   description,
   lastUpdatedDate,
-  image = "/apple-touch-icon.png",
+  image = "/.well-known/avatar.png",
 } = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const imageProfileURL = new URL(image, Astro.url);
 
 const blogJsonLd = lastUpdatedDate && {
   "@context": "https://schema.org",
@@ -24,7 +25,7 @@ const blogJsonLd = lastUpdatedDate && {
   },
   headline: title,
   description: description,
-  image: "/.well-known/avatar.png",
+  image: imageProfileURL,
   author: {
     "@type": "Person",
     name: "R.W. Blickhan",
@@ -36,7 +37,7 @@ const blogJsonLd = lastUpdatedDate && {
 
     logo: {
       "@type": "ImageObject",
-      url: "https://rwblickhan.org/.well-known/avatar.png",
+      url: imageProfileURL,
     },
   },
   datePublished: lastUpdatedDate.toISOString(),
@@ -63,7 +64,7 @@ const blogJsonLd = lastUpdatedDate && {
   <meta property="og:url" content={Astro.url} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
-  <meta property="og:image" content={new URL(image, Astro.url)} />
+  <meta property="og:image" content={imageProfileURL} />
 
   <!-- Favicon -->
   <!-- https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs -->
@@ -84,7 +85,7 @@ const blogJsonLd = lastUpdatedDate && {
   <meta property="twitter:url" content={Astro.url} />
   <meta property="twitter:title" content={title} />
   <meta property="twitter:description" content={description} />
-  <meta property="twitter:image" content={new URL(image, Astro.url)} />
+  <meta property="twitter:image" content={imageProfileURL} />
 
   <!-- Mastodon -->
   <link rel="me" href="https://mastodon.social/@rwblickhan" />
