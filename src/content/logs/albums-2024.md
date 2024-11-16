@@ -194,3 +194,4 @@ lastUpdatedDate: 2024-11-15
 189. _Auratones_, Deepchord
 190. _Relativity 3 Ep_, Lemaitre
 191. _MASS (Extended + Remastered)_, Sara Belle Reid
+192. _From Zero_, Linkin Park
