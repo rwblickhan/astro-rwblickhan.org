@@ -24,7 +24,7 @@ const blogJsonLd = lastUpdatedDate && {
   },
   headline: title,
   description: description,
-  image,
+  image: "/.well-known/avatar.png",
   author: {
     "@type": "Person",
     name: "R.W. Blickhan",
@@ -36,7 +36,7 @@ const blogJsonLd = lastUpdatedDate && {
 
     logo: {
       "@type": "ImageObject",
-      url: "https://rwblickhan.org/favicon.ico",
+      url: "https://rwblickhan.org/.well-known/avatar.png",
     },
   },
   datePublished: lastUpdatedDate.toISOString(),
