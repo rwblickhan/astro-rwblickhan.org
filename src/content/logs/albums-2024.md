@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-11-09
+lastUpdatedDate: 2024-11-15
 ---
 
 1. _Halo_, Juana Molina
@@ -193,3 +193,4 @@ lastUpdatedDate: 2024-11-09
 188. _Hash-Bar Loops_, Deepchord
 189. _Auratones_, Deepchord
 190. _Relativity 3 Ep_, Lemaitre
+191. _MASS (Extended + Remastered)_, Sara Belle Reid
