@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-11-13
+lastUpdatedDate: 2024-11-18
 ---
 
 ## Movies
@@ -68,6 +68,7 @@ lastUpdatedDate: 2024-11-13
 61. _Rosemary’s Baby_ (1968)
 62. _Scream_ (2022)
 63. _Barton Fink_ (1991)
+64. _The Sacrifice_ (1986)
 
 ## TV Shows
 
