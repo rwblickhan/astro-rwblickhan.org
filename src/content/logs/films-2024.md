@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-11-18
+lastUpdatedDate: 2024-11-19
 ---
 
 ## Movies
@@ -69,6 +69,7 @@ lastUpdatedDate: 2024-11-18
 62. _Scream_ (2022)
 63. _Barton Fink_ (1991)
 64. _The Sacrifice_ (1986)
+65. _Y Tu Mamá También_ (2001)
 
 ## TV Shows
 
