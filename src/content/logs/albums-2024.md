@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-11-15
+lastUpdatedDate: 2024-11-22
 ---
 
 1. _Halo_, Juana Molina
@@ -195,3 +195,4 @@ lastUpdatedDate: 2024-11-15
 190. _Relativity 3 Ep_, Lemaitre
 191. _MASS (Extended + Remastered)_, Sara Belle Reid
 192. _From Zero_, Linkin Park
+193. _Raw Energy Movements EP_, Tim Reaper
