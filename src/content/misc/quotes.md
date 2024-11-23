@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2024-11-06
+lastUpdatedDate: 2024-11-23
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote-->
@@ -376,5 +376,9 @@ lastUpdatedDate: 2024-11-06
 > Fyodor Pavlovich was drunk when he heard the news of her death; they say he ran through the streets and began shouting, raising his hands to the sky in joy: “Lord, now lettest Thou Thy servant depart in peace.” But according to other people, he wept like a little child, so much so, it was said, that it was pitiful even to look at him, in spite of all the disgust with him one might feel. It’s very possible that both versions are true — that is, he rejoiced at his liberation and wept for his liberator, at the same time. Indeed, in most cases, even criminals are more naïve and openhearted than we suppose. And we are, too.
 >
 > *The Brothers Karamazov*, Fyodor Dostoevsky (trans. Michael R. Katz)
+
+> The advice I give you now is the advice I remember receiving from myself at your age in this moment, so I cannot be certain where it actually originated from: Do not lose time on daily trivialities. Do not dwell on petty detail. For all of these things melt away and drift apart within the obscure traffic of time. Live well and live broadly. You are alive and living now. Now is the envy of all of the dead.
+>
+> *World of Tomorrow*
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
