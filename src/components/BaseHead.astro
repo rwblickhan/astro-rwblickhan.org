@@ -1,6 +1,6 @@
 ---
 export interface Props {
-  title: string;
+  title?: string;
   description: string;
   lastUpdatedDate?: Date;
   image?: string;
@@ -55,7 +55,7 @@ const blogJsonLd = lastUpdatedDate && {
   <link rel="canonical" href={canonicalURL} />
 
   <!-- Primary Meta Tags -->
-  <title>{`${title} · rwblickhan.org`}</title>
+  <title>{title ? `${title} · rwblickhan.org` : `rwblickhan.org`}</title>
   <meta name="title" content={title} />
   <meta name="description" content={description} />
 
