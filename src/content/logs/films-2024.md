@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-11-19
+lastUpdatedDate: 2024-11-23
 ---
 
 ## Movies
@@ -90,3 +90,4 @@ lastUpdatedDate: 2024-11-19
 15. _The Untamed_ （2019)
 16. _Over the Garden Wall_ (2014)
 17. _Scavengers Reign_ (2023)
+18. _Batman: Caped Crusader_ Season 1 (2024)
