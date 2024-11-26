@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-11-25
+lastUpdatedDate: 2024-11-26
 ---
 
 1. _Halo_, Juana Molina
@@ -199,3 +199,4 @@ lastUpdatedDate: 2024-11-25
 194. _In Full Effect_, Tim Reaper & Kloke
 195. _GNX_, Kendrick Lamar
 196. _Africa Must Be Free By 1983_, Hugh Mundell
+197. _Self Control_, Raf
