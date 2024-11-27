@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-11-25
+lastUpdatedDate: 2024-11-26
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -66,6 +66,7 @@ lastUpdatedDate: 2024-11-25
 61. _My Favorite Thing is Monsters: Book One_, Emil Ferris
 62. _The People in the Trees_, Hanya Yanagihara
 63. _My Favorite Thing is Monsters: Book Two_, Emil Ferris
+64. _The Many Deaths of Laila Starr_, Ram V & Filipe Andrade
 
 ## Skimmed
 
