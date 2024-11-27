@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2024-11-23
+lastUpdatedDate: 2024-11-26
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote-->
@@ -380,5 +380,17 @@ lastUpdatedDate: 2024-11-23
 > The advice I give you now is the advice I remember receiving from myself at your age in this moment, so I cannot be certain where it actually originated from: Do not lose time on daily trivialities. Do not dwell on petty detail. For all of these things melt away and drift apart within the obscure traffic of time. Live well and live broadly. You are alive and living now. Now is the envy of all of the dead.
 >
 > *World of Tomorrow*
+
+> But this is it, isn't it? This is the miracle. This place, the sand, the sky, the sea beyond. No grand magic, just a quiet breath taken to yourself. I sought the greatest feat — to cheat death. And here, the real miracle is a three-legged pup clinging desperately to life.
+>
+> *The Many Deaths of Laila Starr*, Ram V. and Filipe Andrade
+
+> Who is to say exactly how things end? If there is one thing we have learned, it is that life's endings are bereft of answers.
+>
+> *The Many Deaths of Laila Starr*, Ram V. and Filipe Andrade
+
+> Perhaps such things are better left in closed boxes and set adrift out into the sea. Perhaps it is enough to remember at story's end the miracle that it was simply to have lived.
+>
+> *The Many Deaths of Laila Starr*, Ram V. and Filipe Andrade
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
