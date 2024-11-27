@@ -393,4 +393,13 @@ lastUpdatedDate: 2024-11-26
 >
 > *The Many Deaths of Laila Starr*, Ram V. and Filipe Andrade
 
+> She was sitting there in her little housedress. He knew she'd done what she
+> could to avoid becoming luminous and unattainable. Timidly and with respect, he
+> was looking at her. He'd grown older, weary, curious. But he didn't have a
+> single word to say. From the open doorway he saw his wife on the sofa without
+> leaning back, once again alert and tranquil, as if on a train.
+> That had already departed.
+>
+> *The Imitation of the Rose*, Clarice Lispector (trans. Katrina Dodson)
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
