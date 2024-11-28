@@ -1,7 +1,7 @@
 ---
 title: Philosophical Positions
 description: Things I generally believe
-lastUpdatedDate: 2024-04-10
+lastUpdatedDate: 2024-11-28
 ---
 
 This is an evergreen list of philosophical positions and beliefs I generally hold.
@@ -27,6 +27,8 @@ This is an evergreen list of philosophical positions and beliefs I generally hol
 - I am generally a supporter of a broad public domain with relatively limited copyright.
   - As my go-to example: I believe Batman should already be in the public domain in the United States.
 - We should not attempt to [colonize Mars](https://idlewords.com/2023/1/why_not_mars.htm). Send more drones instead.
+- I’m a supporter of neurodiversity, which I would broadly define as the view that differences in mental functioning (including “mental illness” such as autism, ADHD, or bipolar, but also other conditions like synesthesia, aphantasia, or dyslexia) are natural, that differences in mental functioning are gradations or spectra with no hard cutoff between “normal” and “abnormal” functionality, and that stigmatizing and medicalizing differences in mental functioning is generally counterproductive (albeit potentially productive in individual cases).
+  - Notably: Mental illness may still be a disability or potentially destructive, and medicalization (including medication) may be useful or necessary in many cases — but not in every case!
 
 ## Programming
 
