@@ -2,6 +2,11 @@ files=$(git diff --name-only --staged)
 run_astro_check=false
 
 for file in $files; do
+    if [ ! -f "$file" ]; then
+        echo "Skipping deleted file: $file"
+        continue
+    fi
+    
     if [[ $file == *.md || $file == *.mdx ]]; then
         echo "Linting $file"
         markdownlint $file --fix
