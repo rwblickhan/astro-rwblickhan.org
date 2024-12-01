@@ -147,15 +147,6 @@ a {
 
 img {
   margin-inline: auto;
-  float: none;
-  max-width: 70%;
-}
-
-@container (min-width: calc(100% / 0.7)) {
-  img {
-    margin-inline: unset;
-    float: right;
-  }
 }
 
 pre {
