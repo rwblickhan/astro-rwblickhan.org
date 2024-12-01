@@ -79,7 +79,14 @@ html {
   /* Transitional from https://modernfontstacks.com */
   font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
   font-weight: normal;
-  line-height: 1.5rem;
+  font-size: 17px;
+  line-height: 1.45em;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 20px;
+  }
 }
 
 h1,
@@ -88,36 +95,14 @@ h3,
 h4,
 h5,
 h6 {
-  line-height: 1.25em;
+  margin-block: 1rem;
   text-wrap: balance;
-}
-
-h1 {
-  font-size: 2rem;
-  margin-block-start: 0.25em;
-}
-
-h2 {
-  font-size: 1.5rem;
-  margin-block-start: 1em;
-}
-
-h3,
-h4,
-h5,
-h6 {
-  margin-block: 0.5em;
 }
 
 p,
 ol,
 ul {
-  margin-block: 1em;
-}
-
-h2 + p,
-h3 + p {
-  margin-block-start: 0.5em;
+  margin-block: 1rem;
 }
 
 ol,
@@ -125,7 +110,9 @@ ul {
   padding-inline-start: 1.5em;
 }
 
-li {
+li,
+dl,
+dt {
   margin-block: 0.5em;
 }
 
@@ -167,7 +154,7 @@ pre code {
 }
 
 code:not(pre code) {
-  font-weight: bolder;
+  font-weight: bold;
 
   &::before,
   &::after {
