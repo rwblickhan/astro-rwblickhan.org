@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-11-23
+lastUpdatedDate: 2024-12-01
 ---
 
 ## Movies
@@ -91,3 +91,4 @@ lastUpdatedDate: 2024-11-23
 16. _Over the Garden Wall_ (2014)
 17. _Scavengers Reign_ (2023)
 18. _Batman: Caped Crusader_ Season 1 (2024)
+19. _Arcane: League of Legends_ Season 2 (2024)

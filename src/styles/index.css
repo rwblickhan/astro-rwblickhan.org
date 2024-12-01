@@ -119,6 +119,7 @@ dt {
 article {
   padding: 0 1rem;
   margin-bottom: 3rem;
+  container-type: inline-size;
 }
 
 @media (min-width: 768px) {
@@ -142,6 +143,19 @@ article {
 
 a {
   color: var(--rwb-link);
+}
+
+img {
+  margin-inline: auto;
+  float: none;
+  max-width: 70%;
+}
+
+@container (min-width: calc(100% / 0.7)) {
+  img {
+    margin-inline: unset;
+    float: right;
+  }
 }
 
 pre {
