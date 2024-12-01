@@ -9,7 +9,7 @@ import "../styles/index.css";
 //   width: "small" | "medium" | "large";
 // }
 
-const { title, description, width, lastUpdatedDate } =
+const { title, description, width, lastUpdatedDate, parentCollection } =
   Astro.props.frontmatter || Astro.props;
 ---
 
@@ -20,7 +20,7 @@ const { title, description, width, lastUpdatedDate } =
     description={description}
     lastUpdatedDate={lastUpdatedDate}
   />
-  <Header />
+  <Header parentCollection={parentCollection} />
   <article class={width}>
     <slot />
   </article>

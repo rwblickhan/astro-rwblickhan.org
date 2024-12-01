@@ -16,9 +16,6 @@ const {
   lastUpdatedDate,
   parentCollection,
 } = Astro.props;
-
-const parentCollectionMetadata =
-  parentCollection && collectionMetadataMap.get(parentCollection);
 ---
 
 <BaseLayout
@@ -26,14 +23,8 @@ const parentCollectionMetadata =
   description={description}
   lastUpdatedDate={lastUpdatedDate}
   width="small"
+  parentCollection={parentCollection}
 >
-  {
-    parentCollectionMetadata && (
-      <a href={parentCollectionMetadata.slug}>
-        ← {parentCollectionMetadata.title}
-      </a>
-    )
-  }
   <h1>{title}</h1>
   {lastUpdatedDate && <h3>Last updated: {lastUpdatedDate.toDateString()}</h3>}
   <slot />

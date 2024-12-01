@@ -6,6 +6,7 @@ import {
   collectionWithGalleryMetadataMap,
   type CollectionMetadata,
 } from "../consts";
+import { collectionMetadataMap } from "../consts";
 
 const collections: CollectionMetadata[] = [];
 for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
@@ -13,10 +14,25 @@ for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
     collections.push(collectionMetadata);
   }
 }
+
+const { parentCollection } = Astro.props;
+const parentCollectionMetadata =
+  parentCollection && collectionMetadataMap.get(parentCollection);
 ---
 
 <nav id="header">
   <div class="title">
+    {
+      parentCollection && (
+        <a
+          href={parentCollectionMetadata.slug}
+          title={`Return to ${parentCollectionMetadata.title}`}
+          aria-label={`Return to ${parentCollectionMetadata.title}`}
+        >
+          ←
+        </a>
+      )
+    }
     <span>λ</span>
     <a href="/index.html">rwblickhan.org</a>
   </div>
