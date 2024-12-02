@@ -102,6 +102,8 @@ const blogJsonLd = lastUpdatedDate && {
   }
 
   <script>
+    let floatDirection = "right";
+
     function handleImageFloat() {
       const images = document.querySelectorAll("img");
       images.forEach((image) => {
@@ -109,9 +111,17 @@ const blogJsonLd = lastUpdatedDate && {
           const container = image.closest("article");
           const containerWidth = container?.offsetWidth ?? 0;
           if (image.naturalWidth < containerWidth * 0.6) {
-            image.style.float = "right";
+            image.style.float = floatDirection;
+            image.style.marginInlineStart =
+              floatDirection === "left" ? "0" : "1rem";
+            image.style.marginInlineEnd =
+              floatDirection === "right" ? "0" : "1rem";
+            image.style.marginBlockEnd = "1rem";
+            floatDirection = floatDirection === "right" ? "left" : "right";
           } else {
             image.style.float = "none";
+            image.style.marginInline = "auto";
+            image.style.marginBlockEnd = "0";
           }
         };
       });
