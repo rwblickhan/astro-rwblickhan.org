@@ -6,9 +6,11 @@ import remarkCollapse from "remark-collapse";
 import remarkA11yEmoji from "@fec/remark-a11y-emoji";
 import rehypeBlockquoteFigures from "rehype-blockquote-figures";
 
+import mdx from "@astrojs/mdx";
+
 export default defineConfig({
   site: "https://rwblickhan.org",
-  integrations: [pagefind(), sitemap()],
+  integrations: [pagefind(), sitemap(), mdx()],
   experimental: {
     contentIntellisense: true,
   },
