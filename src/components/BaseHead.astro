@@ -100,4 +100,24 @@ const blogJsonLd = lastUpdatedDate && {
       />
     )
   }
+
+  <script>
+    function handleImageFloat() {
+      const images = document.querySelectorAll("img");
+      images.forEach((image) => {
+        image.onload = function () {
+          const container = image.closest("article");
+          const containerWidth = container?.offsetWidth ?? 0;
+          if (image.naturalWidth < containerWidth * 0.6) {
+            image.style.float = "right";
+          } else {
+            image.style.float = "none";
+          }
+        };
+      });
+    }
+
+    handleImageFloat();
+    window.addEventListener("resize", handleImageFloat);
+  </script>
 </head>
