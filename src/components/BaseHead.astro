@@ -108,14 +108,16 @@ const blogJsonLd = lastUpdatedDate && {
       const images = document.querySelectorAll("img");
       images.forEach((image) => {
         image.onload = function () {
+          if (
+            image.classList.contains("force-float-left") ||
+            image.classList.contains("force-float-right")
+          ) {
+            return;
+          }
+
           const container = image.closest("article");
           const containerWidth = container?.offsetWidth ?? 0;
-          if (image.classList.contains("force-float-left")) {
-            image.style.float = "left";
-            image.style.marginInlineStart = "0";
-            image.style.marginInlineEnd = "1rem";
-            image.style.marginBlockEnd = "1rem";
-          } else if (image.naturalWidth < containerWidth * 0.6) {
+          if (image.naturalWidth < containerWidth * 0.6) {
             image.style.float = floatDirection;
             image.style.marginInlineStart =
               floatDirection === "left" ? "0" : "1rem";
