@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-11-26
+lastUpdatedDate: 2024-12-01
 ---
 
 1. _Halo_, Juana Molina
@@ -200,3 +200,4 @@ lastUpdatedDate: 2024-11-26
 195. _GNX_, Kendrick Lamar
 196. _Africa Must Be Free By 1983_, Hugh Mundell
 197. _Self Control_, Raf
+198. _LABYRINTHITIS_, Destroyer
