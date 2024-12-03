@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-12-01
+lastUpdatedDate: 2024-12-02
 ---
 
 1. _Halo_, Juana Molina
@@ -201,3 +201,4 @@ lastUpdatedDate: 2024-12-01
 196. _Africa Must Be Free By 1983_, Hugh Mundell
 197. _Self Control_, Raf
 198. _LABYRINTHITIS_, Destroyer
+199. _Argot_, Passepartout Duo
