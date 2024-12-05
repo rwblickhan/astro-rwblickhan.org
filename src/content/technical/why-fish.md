@@ -1,4 +1,8 @@
-# Why I Use Fish Shell
+---
+title: Why I Use Fish Shell
+lastUpdatedDate: 2024-12-04
+description: Finally, a command line shell for the 90s
+---
 
 For a few years now, I’ve primarily used [fish shell](https://fishshell.com/) on the command line, instead of the more standard bash or zsh. Fish cheekily refers to itself as “finally, a command line shell for the 90s”, but I’ve found it quite effective. Here’s a few reasons I use it.
 
