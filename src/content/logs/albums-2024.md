@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-12-02
+lastUpdatedDate: 2024-12-06
 ---
 
 1. _Halo_, Juana Molina
@@ -204,3 +204,4 @@ lastUpdatedDate: 2024-12-02
 199. _Argot_, Passepartout Duo
 200. _This Night_, Destroyer
 201. _Radio Yugawara_, Passepartout Duo & INOYAMALAND
+202. _One Day_, Loidis
