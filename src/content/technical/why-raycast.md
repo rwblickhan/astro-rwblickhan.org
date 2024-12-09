@@ -75,7 +75,7 @@ I’ve completely replaced Apple’s built-in emoji picker with Raycast’s emoj
 
 ## Window Management
 
-I’m not actually a heavy window management user — I never adopted any of those apps — and the more advanced window management commands in Raycast are behind the paywall. But the basic window management commands like Maximize and Left Half often come in handy.
+I’m not actually a heavy window management user — I never adopted BetterSnapTool or Rectangle or any of those apps — and the more advanced window management commands in Raycast are behind the paywall. But the basic window management commands like Maximize and Left Half often come in handy.
 
 ## Extensions
 
