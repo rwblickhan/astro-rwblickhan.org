@@ -6,6 +6,8 @@ description: Keyboard shortcuts for days
 
 A couple years ago, I started using [Raycast](https://www.raycast.com), which quickly became indispensable. It started as, roughly, a replacement for macOS’ Spotlight or a modern version of [Alfred](https://www.alfredapp.com), but has slowly grown more features over time. Here’s a few of the ways I use it.
 
+## Table of Contents
+
 ## File and Application Search That Actually Works
 
 ![Raycast's search feature](../../assets/technical/why-raycast/search.png)
