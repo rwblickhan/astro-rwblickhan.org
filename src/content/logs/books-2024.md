@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-12-05
+lastUpdatedDate: 2024-12-10
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -57,17 +57,16 @@ lastUpdatedDate: 2024-12-05
 52. 🔁 _Macbeth_, William Shakespeare
 53. _The Castle of Crossed Destinies_, Italo Calvino (trans. William Weaver)
 54. _The Art of Gathering: How We Meet and Why It Matters_, Priya Parker
-55. “The Masque of the Red Death”, Edgar Allen Poe
-56. _Rare Flavours_, Ram V & Filipe Andrade
-57. _The Sign of the Four_, Arthur Conan Doyle
-58. _Tea: A User’s Guide_, Tony Gebely
-59. _The Daughters of Ys_, M. T. Anderson & Jo Rioux
-60. _The Tea Enthusiast's Handbook: A Guide to Enjoying the World's Best Teas_, Mary Lou Heiss & Robert J. Heiss
-61. _My Favorite Thing is Monsters: Book One_, Emil Ferris
-62. _The People in the Trees_, Hanya Yanagihara
-63. _My Favorite Thing is Monsters: Book Two_, Emil Ferris
-64. _The Many Deaths of Laila Starr_, Ram V & Filipe Andrade
-65. _Mengzi with Selections from Traditional Commentaries_ (trans. Bryan W. Van Norden)
+55. _Rare Flavours_, Ram V & Filipe Andrade
+56. _The Sign of the Four_, Arthur Conan Doyle
+57. _Tea: A User’s Guide_, Tony Gebely
+58. _The Daughters of Ys_, M. T. Anderson & Jo Rioux
+59. _The Tea Enthusiast's Handbook: A Guide to Enjoying the World's Best Teas_, Mary Lou Heiss & Robert J. Heiss
+60. _My Favorite Thing is Monsters: Book One_, Emil Ferris
+61. _The People in the Trees_, Hanya Yanagihara
+62. _My Favorite Thing is Monsters: Book Two_, Emil Ferris
+63. _The Many Deaths of Laila Starr_, Ram V & Filipe Andrade
+64. _Mengzi with Selections from Traditional Commentaries_ (trans. Bryan W. Van Norden)
 
 ## Skimmed
 
@@ -76,6 +75,13 @@ lastUpdatedDate: 2024-12-05
 - _A \*New\* Program for Graphic Design_, David Reinfurt
 - _High Growth Handbook: Scaling Startups from 10 to 10,000 People_, Elad Gil
 - _101 Things I Learned in Product Design School_, Sung Jang, Martin Thaler, & Matthew Frederick
+
+## Short Stories
+
+1. 🔁 “The Masque of the Red Death”, Edgar Allen Poe
+2. “The Imitation of the Rose”, Clarice Lispector
+3. “A Chicken”, Clarice Lispector
+4. “The Egg and the Chicken”, Clarice Lispector
 
 ## Papers
 
