@@ -146,88 +146,93 @@ a {
   color: var(--rwb-link);
 }
 
-img {
-  margin-inline: auto;
-}
-
-@media (min-width: 768px) {
-  .force-float-left {
-    float: left;
-    margin-inline: 0 1rem;
-    margin-block-end: 1rem;
-    max-width: 40%;
+@layer images {
+  img {
+    margin-inline: auto;
   }
 
-  .force-float-right {
-    float: right;
-    margin-inline: 1rem 0;
-    margin-block-end: 1rem;
-    max-width: 40%;
-  }
-}
+  @media (min-width: 768px) {
+    .force-float-left {
+      float: left;
+      margin-inline: 0 1rem;
+      margin-block-end: 1rem;
+      max-width: 40%;
+    }
 
-pre {
-  padding: 1rem;
-  border-radius: 0.375rem;
-}
-
-pre code {
-  white-space: pre-wrap;
-}
-
-code:not(pre code) {
-  font-weight: bold;
-
-  &::before,
-  &::after {
-    content: "`";
+    .force-float-right {
+      float: right;
+      margin-inline: 1rem 0;
+      margin-block-end: 1rem;
+      max-width: 40%;
+    }
   }
 }
 
-figure {
-  border: 1px solid black;
-  border-radius: 20px;
-  margin-block: 8px;
+@layer code {
+  pre {
+    padding: 1rem;
+    border-radius: 0.375rem;
+  }
+
+  pre code {
+    white-space: pre-wrap;
+  }
+
+  code:not(pre code) {
+    font-weight: bold;
+    font-size: 0.9rem;
+
+    &::before,
+    &::after {
+      content: "`";
+    }
+  }
 }
 
-figure blockquote {
-  margin-inline: 1em;
-  margin-block: 1em;
+@layer blockquotes {
+  figure {
+    border: 1px solid var(--rwb-text);
+    border-radius: 20px;
+    margin-block: 8px;
+  }
+
+  figure blockquote {
+    margin-inline: 1em;
+    margin-block: 1em;
+  }
+
+  figure:has(figcaption) blockquote {
+    border-bottom: 1px solid var(--rwb-text);
+  }
+
+  figure figcaption {
+    margin-inline-start: 2em;
+    margin-inline-end: 1em;
+    margin-block: 1em;
+  }
 }
 
-figure:has(figcaption) blockquote {
-  border-bottom: 1px solid #ccc;
-}
+@layer tables {
+  table {
+    border-collapse: collapse;
+    margin-inline: auto;
+  }
 
-figure figcaption {
-  margin-inline-start: 2em;
-  margin-inline-end: 1em;
-  margin-block: 1em;
-}
+  thead tr {
+    background-color: var(--rwb-link);
+    color: var(--rwb-background);
+  }
 
-strong {
-  font-weight: 900;
-}
+  th,
+  td {
+    padding: 12px 15px;
+  }
 
-table {
-  border-collapse: collapse;
-  margin-inline: auto;
-}
+  tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
 
-thead tr {
-  background-color: var(--rwb-link);
-  color: var(--rwb-background);
-}
-
-th,
-td {
-  padding: 12px 15px;
-}
-
-tbody tr {
-  border-bottom: 1px solid #dddddd;
-}
-
-tbody tr:nth-of-type(even) {
-  background-color: #f3f3f3;
+  tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
 }
