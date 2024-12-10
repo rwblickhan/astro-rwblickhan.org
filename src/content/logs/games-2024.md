@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-11-20
+lastUpdatedDate: 2024-12-09
 ---
 
 ## Video Games
@@ -16,6 +16,7 @@ lastUpdatedDate: 2024-11-20
 9. _Paratopic_
 10. _Disco Elysium_
 11. 🔁 _holedown_
+12. _Tunic_
 
 ## Traditional Games
 
