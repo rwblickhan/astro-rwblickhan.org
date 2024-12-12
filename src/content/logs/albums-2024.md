@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-12-08
+lastUpdatedDate: 2024-12-12
 ---
 
 1. _Halo_, Juana Molina
@@ -207,3 +207,4 @@ lastUpdatedDate: 2024-12-08
 202. _One Day_, Loidis
 203. _For Those of You Who Have Never (And Also Those Who Have)_, Huerco S.
 204. _Diamond Jubilee_, Cindy Lee
+205. _Excursions_, C418
