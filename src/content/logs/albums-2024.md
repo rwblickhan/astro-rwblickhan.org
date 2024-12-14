@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-12-12
+lastUpdatedDate: 2024-12-13
 ---
 
 1. _Halo_, Juana Molina
@@ -210,3 +210,5 @@ lastUpdatedDate: 2024-12-12
 205. _Excursions_, C418
 206. _Dief_, C418
 207. _148_, C418
+208. _Secret Communication_, Soshi Takeda
+209. _Floating Mountains_, Soshi Takeda
