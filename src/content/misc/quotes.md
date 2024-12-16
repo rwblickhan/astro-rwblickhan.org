@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2024-11-26
+lastUpdatedDate: 2024-12-15
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote-->
@@ -377,6 +377,18 @@ lastUpdatedDate: 2024-11-26
 >
 > *The Brothers Karamazov*, Fyodor Dostoevsky (trans. Michael R. Katz)
 
+> People sometimes talk about man’s ‘bestial’ cruelty, but that’s terribly unfair and insulting to beasts: a beast can never be as cruel as man, so artfully, so artistically cruel. A tiger simply tears its prey apart and gnaws at it; that’s all he knows how to do. It never occurs to him to nail his prey up by his ears for the night, if he could even do it.
+>
+> *The Brothers Karamazov*, Fyodor Dostoevsky (trans. Michael R. Katz)
+
+> With my pitiful, earthly Euclidean intellect, all I know is that suffering exists, that no one can be held guilty for it, that one thing follows another, in the most uncomplicated way, everything flows and evens out—but all this is nothing but Euclidean nonsense; I know all that, but I can’t agree to live by it! So what if I know that no one can be blamed for it; I need retribution, otherwise I’ll destroy myself. And I want retribution not somewhere, sometime, in eternity, but right now, here on earth, so that I myself can see it. I have believed in it and I want to see it for myself; and if by that time I’m already dead, let me be resurrected to witness it, because if it all takes place without me, that will be insufferable. I can’t have suffered just to serve as fertilizer for some future harmony with my own crimes and suffering.
+>
+> *The Brothers Karamazov*, Fyodor Dostoevsky (trans. Michael R. Katz)
+
+> What can hell remedy when these children have already been tortured to death? And what sort of harmony is there if hell exists? I want to forgive and embrace, I don’t want there to be any more suffering. And if the suffering of children serves to increase the total sum of suffering that’s required to secure the truth, then I insist right now that the truth in its entirety is not worth such a price.
+>
+> *The Brothers Karamazov*, Fyodor Dostoevsky (trans. Michael R. Katz)
+
 > The advice I give you now is the advice I remember receiving from myself at your age in this moment, so I cannot be certain where it actually originated from: Do not lose time on daily trivialities. Do not dwell on petty detail. For all of these things melt away and drift apart within the obscure traffic of time. Live well and live broadly. You are alive and living now. Now is the envy of all of the dead.
 >
 > *World of Tomorrow*
@@ -401,5 +413,41 @@ lastUpdatedDate: 2024-11-26
 > That had already departed.
 >
 > *The Imitation of the Rose*, Clarice Lispector (trans. Katrina Dodson)
+
+> Americans, while willing, even eager, to be serfs, have always been obstinate about being peasantry.
+>
+> *The Great Gatsby*, F. Scott Fitzgerald
+
+> Through all he said, even through his appalling sentimentality, I was reminded of something — an elusive rhythm, a fragment of lost words, that I had heard somewhere a long time ago. For a moment a phrase tried to take shape in my mouth and my lips parted like a dumb man’s, as though there was more struggling upon them than a wisp of startled air. But they made no sound, and what I had almost remembered was uncommunicable forever.
+>
+> *The Great Gatsby*, F. Scott Fitzgerald
+
+> I was thirty. Before me stretched the portentous, menacing road of a new decade.
+>
+> *The Great Gatsby*, F. Scott Fitzgerald
+
+> For a transitory enchanted moment man must have held his breath in the presence of this continent, compelled into an aesthetic contemplation he neither understood nor desired, face to face for the last time in history with something commensurate to his capacity for wonder.
+>
+> *The Great Gatsby*, F. Scott Fitzgerald
+
+> Fiery fevers quit your body no quicker, if you toss in embroidered attire of blushing crimson, than if you must lie sick in a common garment.
+>
+> *On the Nature of Things*, Lucretius (trans. Martin Ferguson)
+
+> First and foremost, consider the pure splendor of the sky and all within its confines—the random-roaming stars, the moon, and the sun radiant with dazzling light. Suppose that all these marvels were now revealed to mortals for the first time and were suddenly and unexpectedly thrust before their eyes, what more wonderful spectacle than this could be imagined, what spectacle that people would be less prepared to conceive as credible, if they had not yet witnessed it? None in my opinion; so marvelous would this sight have been. As it is, however, the spectacle has so satiated us that it has palled, and no one thinks it worth gazing up at the lambent precincts of the sky.
+>
+> *On the Nature of Things*, Lucretius (trans. Martin Ferguson)
+
+> Death, then, is nothing to us and does not affect us in the least, now that the nature of the mind is understood to be mortal. And as in time past we felt no distress when the advancing Punic hosts were threatening Rome on every side, when the whole earth, rocked by the terrifying tumult of war, shudderingly quaked beneath the coasts of high heaven, while the entire human race was doubtful into whose possession the sovereignty of the land and the sea was destined to fall; so, when we are no more, when body and soul, upon whose union our being depends, are divorced, you may be sure that nothing at all will have the power to affect us or awaken sensation in us, who shall not then exist — not even if the earth be confounded with the sea, and the sea with the sky.
+>
+> *On the Nature of Things*, Lucretius (trans. Martin Ferguson)
+
+> Even supposing that the mind and the spirit retain their power of sensation after they have been wrenched from our body, it is nothing to us, whose being is dependent upon the conjunction and marriage of body and soul. Furthermore, if in course of time all our component atoms should be reassembled after our death and restored again to their present positions, so that the light of life was given to us a second time, even that eventuality would not affect us in the least, once there had been a break in the chain of consciousness. Similarly at the present time we are not affected at all by any earlier existence we had, and we are not tortured with any anguish concerning it. When you survey the whole sweep of measureless time past and consider the multifariousness of the movements of matter, you can easily convince yourself that the same seeds that compose us now have often before been arranged in the same order that they occupy now. And yet we have no recollection of our earlier existence; for between that life and this lies an unbridged gap — an interval during which all the motions of our atoms strayed and scattered in all directions, far away from sensation.
+>
+> *On the Nature of Things*, Lucretius (trans. Martin Ferguson)
+
+> Whenever people in life imagine that in death their body will be torn to pieces by birds and beasts of prey, they feel sorry for themselves. This is because they do not separate themselves from the body or dissociate themselves sufficiently from the outcast corpse; they identify themselves with it and, as they stand by, impregnate it with their own feelings. Hence their indignation at having been created mortal; hence their failure to see that in real death there will be no second self alive to lament their own end, and to stand by and grieve at the sight of them lying there, being torn to pieces or burned.
+>
+> *On the Nature of Things*, Lucretius (trans. Martin Ferguson)
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
