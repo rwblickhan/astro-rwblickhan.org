@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-12-18
+lastUpdatedDate: 2024-12-19
 ---
 
 1. _Halo_, Juana Molina
@@ -216,3 +216,4 @@ lastUpdatedDate: 2024-12-18
 211. _Skull Dream_, Dave Harrington
 212. _Mosaic_, Nicole McCabe
 213. _rosie_, Rosé
+214. _Fascinating Stuff_, Seconds
