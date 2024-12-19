@@ -6,7 +6,7 @@ export async function getStaticPaths() {
   const posts = await getCollection("newsletters");
   return posts.map((post) => ({
     params: { id: post.id },
-    props: { post },
+    props: post,
   }));
 }
 type Props = CollectionEntry<"newsletters">;
