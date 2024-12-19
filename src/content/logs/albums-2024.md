@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-12-13
+lastUpdatedDate: 2024-12-18
 ---
 
 1. _Halo_, Juana Molina
@@ -213,3 +213,5 @@ lastUpdatedDate: 2024-12-13
 208. _Secret Communication_, Soshi Takeda
 209. _Floating Mountains_, Soshi Takeda
 210. _A Certain Distance_, Lusine
+211. _Skull Dream_, Dave Harrington
+212. _Mosaic_, Nicole McCabe
