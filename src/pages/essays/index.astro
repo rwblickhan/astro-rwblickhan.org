@@ -12,5 +12,5 @@ const posts = (await getCollection("essays")).sort(
   title="Essays"
   description="Essays index page"
   posts={posts}
-  makeHref={(slug) => `/essays/${slug}`}
+  makeHref={(id) => `/essays/${id}`}
 />

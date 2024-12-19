@@ -1,18 +1,18 @@
 ---
-import { type CollectionEntry, getCollection } from "astro:content";
+import { type CollectionEntry, getCollection, render } from "astro:content";
 import ContentLayout from "../../layouts/ContentLayout.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection("poetry");
   return posts.map((post) => ({
-    params: { slug: post.slug },
-    props: post,
+    params: { id: post.id },
+    props: { post },
   }));
 }
 type Props = CollectionEntry<"poetry">;
 
 const post = Astro.props;
-const { Content } = await post.render();
+const { Content } = await render(post);
 ---
 
 <ContentLayout parentCollection="poetry" {...post.data}>

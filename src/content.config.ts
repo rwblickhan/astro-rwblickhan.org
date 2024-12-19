@@ -1,7 +1,11 @@
-import { defineCollection } from "astro/content/runtime";
-import { z } from "astro/zod";
+import { defineCollection, z } from "astro:content";
+import { glob } from "astro/loaders";
 
 const fiction = defineCollection({
+  loader: glob({
+    pattern: ["**/*.md", "**/*.mdx"],
+    base: "./src/content/fiction",
+  }),
   schema: z.object({
     title: z.string(),
     description: z.string(),
@@ -13,6 +17,10 @@ const fiction = defineCollection({
 });
 
 const poetry = defineCollection({
+  loader: glob({
+    pattern: ["**/*.md", "**/*.mdx"],
+    base: "./src/content/poetry",
+  }),
   schema: z.object({
     title: z.string(),
     lastUpdatedDate: z
@@ -23,6 +31,10 @@ const poetry = defineCollection({
 });
 
 const essays = defineCollection({
+  loader: glob({
+    pattern: ["**/*.md", "**/*.mdx"],
+    base: "./src/content/essays",
+  }),
   schema: z.object({
     title: z.string(),
     description: z.string(),
@@ -34,6 +46,10 @@ const essays = defineCollection({
 });
 
 const technical = defineCollection({
+  loader: glob({
+    pattern: ["**/*.md", "**/*.mdx"],
+    base: "./src/content/technical",
+  }),
   schema: z.object({
     title: z.string(),
     description: z.string(),
@@ -45,9 +61,12 @@ const technical = defineCollection({
 });
 
 const tilTechnical = defineCollection({
+  loader: glob({
+    pattern: ["**/*.md", "**/*.mdx"],
+    base: "./src/content/tilTechnical",
+  }),
   schema: z.object({
     title: z.string(),
-    description: z.string(),
     tags: z.array(z.string()),
     lastUpdatedDate: z
       .string()
@@ -57,6 +76,10 @@ const tilTechnical = defineCollection({
 });
 
 const logs = defineCollection({
+  loader: glob({
+    pattern: ["**/*.md", "**/*.mdx"],
+    base: "./src/content/logs",
+  }),
   schema: z.object({
     title: z.string(),
     lastUpdatedDate: z
@@ -67,6 +90,10 @@ const logs = defineCollection({
 });
 
 const misc = defineCollection({
+  loader: glob({
+    pattern: ["**/*.md", "**/*.mdx"],
+    base: "./src/content/misc",
+  }),
   schema: z.object({
     title: z.string(),
     description: z.string(),
@@ -78,9 +105,12 @@ const misc = defineCollection({
 });
 
 const newsletters = defineCollection({
+  loader: glob({
+    pattern: ["**/*.md", "**/*.mdx"],
+    base: "./src/content/newsletters",
+  }),
   schema: z.object({
     title: z.string(),
-    description: z.string(),
     lastUpdatedDate: z
       .string()
       .or(z.date())
@@ -94,6 +124,10 @@ const newsletters = defineCollection({
 });
 
 const recipes = defineCollection({
+  loader: glob({
+    pattern: ["**/*.md", "**/*.mdx"],
+    base: "./src/content/recipes",
+  }),
   schema: z.object({
     title: z.string(),
     description: z.string(),
@@ -104,7 +138,7 @@ const recipes = defineCollection({
   }),
 });
 
-const collections = {
+export const collections = {
   fiction,
   poetry,
   essays,

@@ -15,6 +15,10 @@ export async function GET(context: any) {
 
     const posts = await getCollection(collection);
     for (const post of posts) {
+      if (post.body === undefined) {
+        console.log(`Skipping ${post.id} because it has no body`);
+        continue;
+      }
       items.push({
         title:
           collection === "tilTechnical"
@@ -22,7 +26,7 @@ export async function GET(context: any) {
             : post.data.title,
         pubDate: post.data.lastUpdatedDate,
         content: sanitizeHtml(parser.render(post.body)),
-        link: `${metadata.slug}/${post.slug}/`,
+        link: `${metadata.slug}/${post.id}/`,
       });
     }
   }

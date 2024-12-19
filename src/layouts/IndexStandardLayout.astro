@@ -4,14 +4,14 @@ import IndexGrid from "../components/IndexGrid.astro";
 
 export interface Post {
   data: { title: string; description?: string; lastUpdatedDate: Date };
-  slug: string;
+  id: string;
 }
 
 export interface Props {
   title: string;
   description: string;
   posts: Post[];
-  makeHref: (slug: string) => string;
+  makeHref: (id: string) => string;
 }
 
 const { title, description, posts, makeHref } = Astro.props;

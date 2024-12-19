@@ -20,7 +20,7 @@ const recipes = (await getCollection("recipes")).sort(
       posts.map((post) => (
         <LinkBox
           title={post.data.title}
-          href={`/misc/${post.slug}`}
+          href={`/misc/${post.id}`}
           description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
         />
@@ -35,7 +35,7 @@ const recipes = (await getCollection("recipes")).sort(
       recipes.map((recipe) => (
         <LinkBox
           title={recipe.data.title}
-          href={`/misc/recipes/${recipe.slug}`}
+          href={`/misc/recipes/${recipe.id}`}
           lastUpdatedDate={recipe.data.lastUpdatedDate}
         />
       ))

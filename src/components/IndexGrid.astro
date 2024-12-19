@@ -7,11 +7,11 @@ export interface Post {
     description?: string;
     lastUpdatedDate: Date;
   };
-  slug: string;
+  id: string;
 }
 
 export interface Props {
-  posts?: { posts: Post[]; makeHref: (slug: string) => string };
+  posts?: { posts: Post[]; makeHref: (id: string) => string };
 }
 
 const { posts } = Astro.props;
@@ -23,7 +23,7 @@ const { posts } = Astro.props;
       posts.posts.map((post) => (
         <LinkBox
           title={post.data.title}
-          href={posts.makeHref(post.slug)}
+          href={posts.makeHref(post.id)}
           description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
         />

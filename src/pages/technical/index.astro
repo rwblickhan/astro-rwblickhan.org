@@ -17,7 +17,7 @@ const tilPosts = (await getCollection("tilTechnical")).sort(
       posts.map((post) => (
         <LinkBox
           title={post.data.title}
-          href={`/technical/${post.slug}`}
+          href={`/technical/${post.id}`}
           description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
         />
@@ -38,7 +38,7 @@ const tilPosts = (await getCollection("tilTechnical")).sort(
       tilPosts.map((til) => (
         <LinkBox
           title={til.data.title}
-          href={`/technical/til/${til.slug}`}
+          href={`/technical/til/${til.id}`}
           lastUpdatedDate={til.data.lastUpdatedDate}
         />
       ))

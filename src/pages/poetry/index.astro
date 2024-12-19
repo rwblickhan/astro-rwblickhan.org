@@ -12,5 +12,5 @@ const posts = (await getCollection("poetry")).sort(
   title="Poetry"
   description="Poetry index page"
   posts={posts}
-  makeHref={(slug) => `/poetry/${slug}`}
+  makeHref={(id) => `/poetry/${id}`}
 />
