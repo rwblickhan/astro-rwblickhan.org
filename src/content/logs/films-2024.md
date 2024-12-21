@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-12-01
+lastUpdatedDate: 2024-12-20
 ---
 
 ## Movies
@@ -70,6 +70,7 @@ lastUpdatedDate: 2024-12-01
 63. _Barton Fink_ (1991)
 64. _The Sacrifice_ (1986)
 65. _Y Tu Mamá También_ (2001)
+66. _Flow_ (2024)
 
 ## TV Shows
 
