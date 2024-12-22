@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-12-20
+lastUpdatedDate: 2024-12-22
 ---
 
 ## Movies
@@ -93,3 +93,4 @@ lastUpdatedDate: 2024-12-20
 17. _Scavengers Reign_ (2023)
 18. _Batman: Caped Crusader_ Season 1 (2024)
 19. _Arcane: League of Legends_ Season 2 (2024)
+20. _Baccano_ Season 1 (2024)
