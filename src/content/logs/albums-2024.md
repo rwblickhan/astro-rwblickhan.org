@@ -1,6 +1,6 @@
 ---
 title: Albums of 2024
-lastUpdatedDate: 2024-12-19
+lastUpdatedDate: 2024-12-23
 ---
 
 1. _Halo_, Juana Molina
@@ -217,3 +217,4 @@ lastUpdatedDate: 2024-12-19
 212. _Mosaic_, Nicole McCabe
 213. _rosie_, Rosé
 214. _Fascinating Stuff_, Seconds
+215. _Seconds_, Seconds
