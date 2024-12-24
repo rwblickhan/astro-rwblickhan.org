@@ -1,0 +1,33 @@
+---
+title: Farmers & Foragers
+lastUpdatedDate: 2024-12-24
+description: A literary distinction, not an occupational one
+---
+
+Have you ever noticed that some writers and thinkers always seem   to be arguing, while others are more comfortable raising questions without answering them? That some readers want books to have a “point” and a clear, consistent through-line, while other readers are happiest with ambiguity?
+
+Call the former *farmers* and the latter *foragers*.
+
+Farmers care about making an argument. They “farm” one big idea, or a small set of ideas, and cultivate their arguments carefully. They tend to be judgemental, in the sense of passing judgement, typically against the measuring stick of their favorite ideas. They could alternatively be referred to as “narrowers” — they narrow a conversation or a story back to a neatly defined thesis.
+
+Foragers care about exploration. They “forage” many different ideas as dilettantes. They are open to moving on to new ideas and perspectives and are more comfortable with ambiguity. They might be considered “expanders” — they expand the range of discussion.
+
+If you’ve spent ten minutes on this site, you’ll probably guess that I’m in the forager camp. But this distinction is more of a spectrum than a strict demarcation, and both have their flaws and foibles.
+
+A great example of a farmer is James C. Scott, the anarchist anthropologist that wrote classics like *Seeing Like A State*, *The Art of Not Being Governed*, and *Against the Grain*[^ironic]. His books definitely all lean into an overarching “goal”, but they’re well-argued, persuasive, and not immediately dismissive of other viewpoints. In comparison, I’ve always been less impressed by the otherwise-similar David Graeber, whose activism often appeared to replace intellectual curiosity.[^graeber]
+
+On the other hand, Malcolm Gladwell is a negative example of a forager — his books mostly traffic in anecdotes and [misunderstood concepts](https://rationalwiki.org/wiki/Igon_Value_Problem), in service of [loosely-held ideas that don’t withstand scrutiny](https://culture.ghost.io/forget-gladwell/)[^gladwell]. In other words, the worst failure state for a forager is to become a bullshitter, in the [Harry Frankfurt sense](https://en.wikipedia.org/wiki/On_Bullshit). A more positive example of a forager is Charles C. Mann, author of *1491* and *The Wizard and the Prophet*. As a non-expert, he is careful to present many different perspectives and conflicting arguments, with appropriate levels of qualification; in *The Wizard and the Prophet* especially, he is curious about both sides, despite any personal preferences.
+
+One of the aspects of this dichotomy I find most interesting is that it also applies to literary fiction and the way readers respond to fiction. Although all novels have themes, some are much more active in pushing their themes than others; some are much more interested in raising questions than answering them.
+
+On the far end of the farmer spectrum might be explicitly political novels like *Uncle Tom’s Cabin* or *Animal Farm*, but a better example that’s not so far along might be *The Scarlet Letter*, a novel that shouts its themes from the rooftops. *The Brothers Karamazov* is right in the middle — Dostoevsky definitely makes deep philosophical arguments from a place of deep faith, but it’s not clear that he entirely believes his own arguments, because some of the most powerful lines express views directly opposite his own! Then we get into fuzzier novels like *Don Quixote* that don’t *directly* make any arguments, even if they still have themes, and then further along to novels that are difficult to understand at anything more than a surface level, like much of Kafka’s work — what is *The Trial* “really” about, anyway?
+
+Reader responses can also be bucketed into farmers and foragers. Foragers might like that a morally ambiguous character does bad things and isn’t condemned for it by the story, while farmers are frustrated that the author doesn’t take a stand one way or the other on their behavior. Meanwhile, foragers might find farmer-oriented books overly didactic and moralizing, even if they agree with the arguments, while farmers will appreciate the chance to sharpen their teeth thinking through arguments, even if they disagree.
+
+Keeping this distinction in mind can be helpful to guide discussions. For instance, in book clubs, readers sometimes talk past each other, because farmers may care more about what the author “really meant”, while foragers are more interested in stretching the book’s themes as wide as possible. Even in casual conversation, farmers and foragers can talk past each other — I have had farmers very earnestly argue against some perspective I shared, even when I made clear that as a forager I didn’t strongly agree with what I said, I just found it interesting!
+
+A final note: is this just Julia Galef’s [*The Scout Mindset*](https://en.wikipedia.org/wiki/The_Scout_Mindset)? Farmers sound like soldier mindset and foragers sound like scout mindset. But the emphasis feels a little different. That’s primarily an epistemic distinction — how you collect and process information about the world. Farmer and forager feels like a dispositional difference, a split in personality types, about how you respond to narratives.
+
+[^ironic]: It’s perhaps a little ironic that I’m referring to him as a farmer.
+[^graeber]: Byrne Hobart’s [“‘Bullshit Jobs’” is a Terrible, Curiosity-Killing Concept](https://www.thediff.co/archive/bullshit-jobs-is-a-terrible-curiosity-killing-concept/) is a rather amusing takedown of Graeber’s *Bullshit Jobs* that pretty neatly summarizes the pit some farmers fall into: “When you encounter other people's behavior, and find it surprising, is it more likely that you noticed something, with only a few moments of thought, they've missed for their entire career? Or that they've figured out something you don't understand after years of work? Do they happen to have preferences that you don't share?”
+[^gladwell]: One of the funniest lines I’ve ever read is from Brian Castner’s review of *The Bomber Mafia*: “The topic is no less than ‘one of the grandest obsessions of the twentieth century. Join him, for ‘I don’t think we get progress or innovation or joy or beauty without obsessives.’ Which I think we can all agree, if nothing else, is a completely bizarre way to open and frame a book about killing millions of people with air strikes.”
