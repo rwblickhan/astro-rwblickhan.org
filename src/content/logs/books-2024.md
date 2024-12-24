@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-12-10
+lastUpdatedDate: 2024-12-23
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -67,6 +67,7 @@ lastUpdatedDate: 2024-12-10
 62. _My Favorite Thing is Monsters: Book Two_, Emil Ferris
 63. _The Many Deaths of Laila Starr_, Ram V & Filipe Andrade
 64. _Mengzi with Selections from Traditional Commentaries_ (trans. Bryan W. Van Norden)
+65. _Quantum Mechanics: The Theoretical Minimum_, Leonard Susskind & Art Friedman
 
 ## Skimmed
 
