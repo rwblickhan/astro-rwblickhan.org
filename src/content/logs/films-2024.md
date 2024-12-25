@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-12-22
+lastUpdatedDate: 2024-12-25
 ---
 
 ## Movies
@@ -71,6 +71,7 @@ lastUpdatedDate: 2024-12-22
 64. _The Sacrifice_ (1986)
 65. _Y Tu Mamá También_ (2001)
 66. _Flow_ (2024)
+67. 🔁 _Tokyo Godfathers_ (2003)
 
 ## TV Shows
 
