@@ -72,6 +72,7 @@ lastUpdatedDate: 2024-12-25
 65. _Y Tu Mamá También_ (2001)
 66. _Flow_ (2024)
 67. 🔁 _Tokyo Godfathers_ (2003)
+68. 🔁 _Equilibrium_ (2002)
 
 ## TV Shows
 
