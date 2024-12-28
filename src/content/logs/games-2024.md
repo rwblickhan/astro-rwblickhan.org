@@ -1,6 +1,6 @@
 ---
 title: Games of 2024
-lastUpdatedDate: 2024-12-09
+lastUpdatedDate: 2024-12-27
 ---
 
 ## Video Games
@@ -27,3 +27,4 @@ lastUpdatedDate: 2024-12-09
 5. _Devil’s Dice_
 6. _Harmonies_
 7. _Planted_
+8. _Azul_
