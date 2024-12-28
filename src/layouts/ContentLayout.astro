@@ -28,4 +28,13 @@ const {
   <h1>{title}</h1>
   {lastUpdatedDate && <h3>Last updated: {lastUpdatedDate.toDateString()}</h3>}
   <slot />
+  <a href="mailto:rwb@rwblickhan.org">Email me! Email is great!</a>
 </BaseLayout>
+
+<style>
+  a {
+    border: 1px solid var(--rwb-link);
+    border-radius: 8px;
+    padding: 0.5rem;
+  }
+</style>
