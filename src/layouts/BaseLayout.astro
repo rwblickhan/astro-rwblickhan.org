@@ -9,8 +9,14 @@ import "../styles/index.css";
 //   width: "small" | "medium" | "large";
 // }
 
-const { title, description, width, lastUpdatedDate, parentCollection } =
-  Astro.props.frontmatter || Astro.props;
+const {
+  title,
+  description,
+  width,
+  lastUpdatedDate,
+  parentCollection,
+  shouldIndex,
+} = Astro.props.frontmatter || Astro.props;
 ---
 
 <!doctype html>
@@ -21,7 +27,15 @@ const { title, description, width, lastUpdatedDate, parentCollection } =
     lastUpdatedDate={lastUpdatedDate}
   />
   <Header parentCollection={parentCollection} />
-  <article class={width}>
-    <slot />
-  </article>
+  {
+    shouldIndex ? (
+      <article class={width} data-pagefind-body>
+        <slot />
+      </article>
+    ) : (
+      <article class={width}>
+        <slot />
+      </article>
+    )
+  }
 </html>
