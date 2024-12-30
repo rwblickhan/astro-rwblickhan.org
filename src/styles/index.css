@@ -194,6 +194,7 @@ a {
     border: 1px solid var(--rwb-text);
     border-radius: 20px;
     margin-block: 8px;
+    clear: both;
   }
 
   figure blockquote {
