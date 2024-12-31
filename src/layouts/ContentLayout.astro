@@ -1,9 +1,11 @@
 ---
+import MailIcon from "../components/MailIcon.astro";
 import type { Collection } from "../content.config.ts";
 import BaseLayout from "./BaseLayout.astro";
 
 export interface Props {
   title: string;
+  includeResponseLink?: boolean;
   description?: string;
   lastUpdatedDate?: Date;
   parentCollection?: Collection;
@@ -12,6 +14,7 @@ export interface Props {
 const {
   title = "R. W. Blickhan",
   description = "The personal site of R. W. Blickhan",
+  includeResponseLink = true,
   lastUpdatedDate,
   parentCollection,
 } = Astro.props;
@@ -28,11 +31,23 @@ const {
   <h1>{title}</h1>
   {lastUpdatedDate && <h3>Last updated: {lastUpdatedDate.toDateString()}</h3>}
   <slot />
-  <a href="mailto:rwb@rwblickhan.org">Email me! Email is great!</a>
+  {
+    includeResponseLink && (
+      <a href="mailto:reply@rwblickhan.org">
+        <MailIcon />
+        Reply by email!
+      </a>
+    )
+  }
 </BaseLayout>
 
 <style>
   a {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    margin-inline: auto;
+    width: fit-content;
     border: 1px solid var(--rwb-link);
     border-radius: 8px;
     padding: 0.5rem;

@@ -117,31 +117,6 @@ dt {
   margin-block: 0.5em;
 }
 
-article {
-  padding: 0 1rem;
-  margin-bottom: 3rem;
-  container-type: inline-size;
-}
-
-@media (min-width: 768px) {
-  article {
-    margin-left: auto;
-    margin-right: auto;
-
-    &.small {
-      max-width: 48rem;
-    }
-
-    &.medium {
-      max-width: 64rem;
-    }
-
-    &.large {
-      max-width: 80rem;
-    }
-  }
-}
-
 a {
   color: var(--rwb-link);
 }

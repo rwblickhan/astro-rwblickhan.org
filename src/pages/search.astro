@@ -6,7 +6,11 @@ const { title = "Search", description = "Search for rwblickhan.org" } =
   Astro.props;
 ---
 
-<ContentLayout title={title} description={description}>
+<ContentLayout
+  title={title}
+  description={description}
+  includeResponseLink={false}
+>
   <style>
     :root {
       --pagefind-ui-font: Charter, "Bitstream Charter", "Sitka Text", Cambria,
