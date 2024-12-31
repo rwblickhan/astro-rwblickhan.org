@@ -8,10 +8,6 @@ import IndexGrid from "../../components/IndexGrid.astro";
 const posts = (await getCollection("misc")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
-
-const recipes = (await getCollection("recipes")).sort(
-  (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
-);
 ---
 
 <IndexLayout title="Miscellaneous" description="Miscellaneous index page">
@@ -23,20 +19,6 @@ const recipes = (await getCollection("recipes")).sort(
           href={`/misc/${post.id}`}
           description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
-        />
-      ))
-    }
-  </IndexGrid>
-
-  <h2>Recipes</h2>
-
-  <IndexGrid>
-    {
-      recipes.map((recipe) => (
-        <LinkBox
-          title={recipe.data.title}
-          href={`/misc/recipes/${recipe.id}`}
-          lastUpdatedDate={recipe.data.lastUpdatedDate}
         />
       ))
     }

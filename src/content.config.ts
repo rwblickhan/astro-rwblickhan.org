@@ -123,21 +123,6 @@ const newsletters = defineCollection({
   }),
 });
 
-const recipes = defineCollection({
-  loader: glob({
-    pattern: ["**/*.md", "**/*.mdx"],
-    base: "./src/content/recipes",
-  }),
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    lastUpdatedDate: z
-      .string()
-      .or(z.date())
-      .transform((val) => new Date(val)),
-  }),
-});
-
 export const collections = {
   fiction,
   poetry,
@@ -147,7 +132,6 @@ export const collections = {
   logs,
   misc,
   newsletters,
-  recipes,
 };
 
 export type Collection = keyof typeof collections;
