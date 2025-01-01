@@ -1,6 +1,6 @@
 ---
 title: Books of 2024
-lastUpdatedDate: 2024-12-23
+lastUpdatedDate: 2025-01-01
 ---
 
 1. _War in Human Civilization_, Azar Gat
@@ -68,6 +68,7 @@ lastUpdatedDate: 2024-12-23
 63. _The Many Deaths of Laila Starr_, Ram V & Filipe Andrade
 64. _Mengzi with Selections from Traditional Commentaries_ (trans. Bryan W. Van Norden)
 65. _Quantum Mechanics: The Theoretical Minimum_, Leonard Susskind & Art Friedman
+66. _The Hour of the Star_, Clarice Lispector (trans. Benjamin Moser)
 
 ## Skimmed
 
@@ -80,9 +81,14 @@ lastUpdatedDate: 2024-12-23
 ## Short Stories
 
 1. 🔁 “The Masque of the Red Death”, Edgar Allen Poe
-2. “The Imitation of the Rose”, Clarice Lispector
-3. “A Chicken”, Clarice Lispector
-4. “The Egg and the Chicken”, Clarice Lispector
+2. “The Imitation of the Rose”, Clarice Lispector (trans. Benjamin Moser)
+3. “A Chicken”, Clarice Lispector (trans. Benjamin Moser)
+4. “The Egg and the Chicken”, Clarice Lispector (trans. Benjamin Moser)
+5. “The Fifth Story”, Clarice Lispector (trans. Benjamin Moser)
+6. “Jimmy and I”, Clarice Lispector (trans. Benjamin Moser)
+7. “Interrupted Story”, Clarice Lispector (trans. Benjamin Moser)
+8. “The Escape”, Clarice Lispector (trans. Benjamin Moser)
+9. “Investigations of a Dog”, Franz Kafka (trans. Willa and Edwin Muir)
 
 ## Papers
 

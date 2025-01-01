@@ -1,6 +1,6 @@
 ---
 title: Films of 2024
-lastUpdatedDate: 2024-12-25
+lastUpdatedDate: 2025-01-01
 ---
 
 ## Movies
@@ -73,6 +73,7 @@ lastUpdatedDate: 2024-12-25
 66. _Flow_ (2024)
 67. 🔁 _Tokyo Godfathers_ (2003)
 68. 🔁 _Equilibrium_ (2002)
+69. _When Harry Met Sally..._ (1989)
 
 ## TV Shows
 
@@ -90,7 +91,7 @@ lastUpdatedDate: 2024-12-25
 12. _Key & Peele_ Season 1 (2012)
 13. _Key & Peele_ Season 2 (2012)
 14. _Atlanta_ Season 2 (2018)
-15. _The Untamed_ （2019)
+15. _The Untamed_ (2019)
 16. _Over the Garden Wall_ (2014)
 17. _Scavengers Reign_ (2023)
 18. _Batman: Caped Crusader_ Season 1 (2024)
