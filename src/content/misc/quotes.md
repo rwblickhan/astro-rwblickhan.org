@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2024-12-15
+lastUpdatedDate: 2025-01-01
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote-->
@@ -449,5 +449,13 @@ lastUpdatedDate: 2024-12-15
 > Whenever people in life imagine that in death their body will be torn to pieces by birds and beasts of prey, they feel sorry for themselves. This is because they do not separate themselves from the body or dissociate themselves sufficiently from the outcast corpse; they identify themselves with it and, as they stand by, impregnate it with their own feelings. Hence their indignation at having been created mortal; hence their failure to see that in real death there will be no second self alive to lament their own end, and to stand by and grieve at the sight of them lying there, being torn to pieces or burned.
 >
 > *On the Nature of Things*, Lucretius (trans. Martin Ferguson)
+
+> She lay helpless on the side of the street, perhaps taking a break from all these emotions, and saw among the stones lining the gutter the wisps of grass green as the most tender human hope. Today, she thought, today is the first day of my life: I was born.
+>
+> *The Hour of the Star*, Clarice Lispector (trans. Benjamin Moser)
+
+> And suddenly the story splintered. It didn't even have a smooth ending. It concluded with the abruptness and lack of logic of a smack in the face.
+>
+> “Interrupted Story,” Clarice Lispector (trans. Benjamin Moser)
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
