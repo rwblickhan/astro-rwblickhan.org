@@ -1,4 +1,8 @@
-# Matcha Lattes
+---
+title: Matcha Lattes
+lastUpdatedDate: 2025-01-05
+description: Caffeine and theanine for great profit
+---
 
 Lately I’ve been making a lot of matcha lattes. Here’s the recipe I’ve settled on.
 
