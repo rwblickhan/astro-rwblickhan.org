@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-01-09
+lastUpdatedDate: 2025-01-13
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -10,3 +10,4 @@ lastUpdatedDate: 2025-01-09
 5. *Masterless Samurai*, Osamu Kitajima
 6. *Titans*, Mischa Blanos
 7. *City Jungle*, Mischa Blanos
+8. *Forge*, KMRU
