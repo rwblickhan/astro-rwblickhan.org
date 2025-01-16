@@ -3,13 +3,13 @@ title: Books of 2024
 lastUpdatedDate: 2025-01-01
 ---
 
-1. _War in Human Civilization_, Azar Gat
-2. _So Many Books: Reading and Publishing in an Age of Abundance_, Gabriel Zaid (trans. Natasha Wimmer)
-3. _Our Share of Night_, Mariana Enriquez (trans. Megan McDowell)
+1. ❤️ _War in Human Civilization_, Azar Gat
+2. ❤️ _So Many Books: Reading and Publishing in an Age of Abundance_, Gabriel Zaid (trans. Natasha Wimmer)
+3. ❤️ _Our Share of Night_, Mariana Enriquez (trans. Megan McDowell)
 4. _Emergent Tokyo: Designing the Spontaneous City_, Jorge Amalazán
-5. _A Head Full of Ghosts_, Paul Tremblay
+5. ❤️ _A Head Full of Ghosts_, Paul Tremblay
 6. _Seraphim: 26661336 Wings_, Mamoru Oshii & Satoshi Kon (trans. Zack Davisson)
-7. _The Weirdness of the World_, Eric Schwitzgebel
+7. ❤️ _The Weirdness of the World_, Eric Schwitzgebel
 8. _Foundry_, Eliot Peper
 9. 🔁 _The Great Gatsby_, F. Scott Fitzgerald
 10. _The Wonderful Wizard of Oz_, L. Frank Baum
@@ -26,10 +26,10 @@ lastUpdatedDate: 2025-01-01
 21. _Transformers Vol. 1: Robots in Disguise_, Daniel Warren Johnson & Mike Spicer
 22. _A Paradise Built In Hell: The Extraordinary Communities That Arise in Disaster_, Rebecca Solnit
 23. _Some Trick: Thirteen Stories_, Helen deWitt
-24. _The Electric State_, Simon Stålenhag (trans. Martin Dunelind)
+24. ❤️ _The Electric State_, Simon Stålenhag (trans. Martin Dunelind)
 25. _The Labryinth_, Simon Stålenhag (trans. Ebba Segerberg)
-26. _Moonbound_, Robin Sloan
-27. _Death and the King’s Horseman_, Wole Soyinka
+26. ❤️ _Moonbound_, Robin Sloan
+27. ❤️ _Death and the King’s Horseman_, Wole Soyinka
 28. _Amphigorey: Fifteen Books_, Edward Gorey
 29. 🔁 _His Dark Materials: Book 1 - The Golden Compass_, Philip Pullman
 30. _The World Doesn’t End_, Charles Simic
@@ -39,10 +39,10 @@ lastUpdatedDate: 2025-01-01
 34. _Be Prepared_, Vera Brosgol
 35. _Plain Jane and the Mermaid_, Vera Brosgol
 36. _A Contract with God: And Other Tenement Stories_, Will Eisner
-37. _Crafting Interpreters_, Robert Nystrom
+37. ❤️ _Crafting Interpreters_, Robert Nystrom
 38. _The Swamp Dwellers_, Wole Soyinka
 39. _His Dark Materials: Book 3 - The Amber Spyglass_, Philip Pullman
-40. _Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences_, Alex Mesoudi
+40. ❤️ _Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences_, Alex Mesoudi
 41. _The Strong Breed_, Wole Soyinka
 42. _The Bacchae of Euripides_, Wole Soyinka
 43. _The Farthest Shore_, Ursula K. Le Guin
@@ -56,19 +56,19 @@ lastUpdatedDate: 2025-01-01
 51. _Eurydice: A Play_, Sarah Ruhl
 52. 🔁 _Macbeth_, William Shakespeare
 53. _The Castle of Crossed Destinies_, Italo Calvino (trans. William Weaver)
-54. _The Art of Gathering: How We Meet and Why It Matters_, Priya Parker
-55. _Rare Flavours_, Ram V & Filipe Andrade
+54. ❤️ _The Art of Gathering: How We Meet and Why It Matters_, Priya Parker
+55. ❤️ _Rare Flavours_, Ram V & Filipe Andrade
 56. _The Sign of the Four_, Arthur Conan Doyle
-57. _Tea: A User’s Guide_, Tony Gebely
+57. ❤️ _Tea: A User’s Guide_, Tony Gebely
 58. _The Daughters of Ys_, M. T. Anderson & Jo Rioux
 59. _The Tea Enthusiast's Handbook: A Guide to Enjoying the World's Best Teas_, Mary Lou Heiss & Robert J. Heiss
 60. _My Favorite Thing is Monsters: Book One_, Emil Ferris
 61. _The People in the Trees_, Hanya Yanagihara
 62. _My Favorite Thing is Monsters: Book Two_, Emil Ferris
-63. _The Many Deaths of Laila Starr_, Ram V & Filipe Andrade
+63. ❤️ _The Many Deaths of Laila Starr_, Ram V & Filipe Andrade
 64. _Mengzi with Selections from Traditional Commentaries_ (trans. Bryan W. Van Norden)
-65. _Quantum Mechanics: The Theoretical Minimum_, Leonard Susskind & Art Friedman
-66. _The Hour of the Star_, Clarice Lispector (trans. Benjamin Moser)
+65. ❤️ _Quantum Mechanics: The Theoretical Minimum_, Leonard Susskind & Art Friedman
+66. ❤️ _The Hour of the Star_, Clarice Lispector (trans. Benjamin Moser)
 
 ## Skimmed
 
@@ -81,7 +81,7 @@ lastUpdatedDate: 2025-01-01
 ## Short Stories
 
 1. 🔁 “The Masque of the Red Death”, Edgar Allen Poe
-2. “The Imitation of the Rose”, Clarice Lispector (trans. Benjamin Moser)
+2. ❤️ “The Imitation of the Rose”, Clarice Lispector (trans. Benjamin Moser)
 3. “A Chicken”, Clarice Lispector (trans. Benjamin Moser)
 4. “The Egg and the Chicken”, Clarice Lispector (trans. Benjamin Moser)
 5. “The Fifth Story”, Clarice Lispector (trans. Benjamin Moser)
