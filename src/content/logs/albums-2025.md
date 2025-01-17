@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-01-14
+lastUpdatedDate: 2025-01-16
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -12,3 +12,4 @@ lastUpdatedDate: 2025-01-14
 7. *City Jungle*, Mischa Blanos
 8. *Forge*, KMRU
 9. *Peel*, KMRU
+10. *Lost Futures*, Marisa Anderson & William Tyler
