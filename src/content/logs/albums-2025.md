@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-01-16
+lastUpdatedDate: 2025-01-19
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -14,3 +14,4 @@ lastUpdatedDate: 2025-01-16
 9. *Peel*, KMRU
 10. *Lost Futures*, Marisa Anderson & William Tyler
 11. *Swallowtail*, Jim White & Marisa Anderson
+12. *From the Floor to the Booth EP*, Shy One
