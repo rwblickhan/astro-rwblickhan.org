@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-01-19
+lastUpdatedDate: 2025-01-20
 ---
 
 ## Movies
@@ -9,3 +9,5 @@ lastUpdatedDate: 2025-01-19
 2. 🔁 *Casablanca* (1942)
 
 ## TV Shows
+
+1. *Squid Game* Season 2 (2024)
