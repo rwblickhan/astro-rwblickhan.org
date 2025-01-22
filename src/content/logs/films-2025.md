@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-01-20
+lastUpdatedDate: 2025-01-21
 ---
 
 ## Movies
@@ -11,3 +11,4 @@ lastUpdatedDate: 2025-01-20
 ## TV Shows
 
 1. *Squid Game* Season 2 (2024)
+2. *Baccano!* (2007)
