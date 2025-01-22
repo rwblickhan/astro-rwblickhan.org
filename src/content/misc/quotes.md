@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-01-01
+lastUpdatedDate: 2025-01-21
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote-->
@@ -457,5 +457,9 @@ lastUpdatedDate: 2025-01-01
 > And suddenly the story splintered. It didn't even have a smooth ending. It concluded with the abruptness and lack of logic of a smack in the face.
 >
 > “Interrupted Story,” Clarice Lispector (trans. Benjamin Moser)
+
+> When someone dies, You say, 'It wasn't me. It was due to the harvest. How is this different from killing someone by stabbing him and saying, 'It wasn't me. It was due to the weapon'? If Your Majesty does not blame the harvest, then the people of the world will come to You."
+>
+> *Mengzi* (trans. Bryan W. Van Norden)
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
