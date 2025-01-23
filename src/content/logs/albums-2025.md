@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-01-19
+lastUpdatedDate: 2025-01-22
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -16,3 +16,4 @@ lastUpdatedDate: 2025-01-19
 11. *Swallowtail*, Jim White & Marisa Anderson
 12. *From the Floor to the Booth EP*, Shy One
 13. *Bedknobs & Boomkicks*, Shy One
+14. *Desert Lullabies EP*, Greta Morgan
