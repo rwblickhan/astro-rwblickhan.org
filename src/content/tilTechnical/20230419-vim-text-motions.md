@@ -1,7 +1,6 @@
 ---
 title: "Vim Text Motions"
-lastUpdatedDate: 2023-04-19
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 In vim, in addition to basic directional commands like `h`,`j`,`k`,`l` and word motions like `w`, there's a number of other useful text motions:

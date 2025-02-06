@@ -1,7 +1,6 @@
 ---
 title: "Template Literals with Tag Functions in JavaScript"
-lastUpdatedDate: 2024-03-11
-tags: [frontend, javascript]
+lastUpdatedDate: 2025-02-05
 ---
 
 If you've used JavaScript for more than about a week, you're probably familiar with template literals, as used for string interpolation:

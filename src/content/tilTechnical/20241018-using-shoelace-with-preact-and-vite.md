@@ -1,7 +1,6 @@
 ---
 title: Using Shoelace with Preact + Vite
-lastUpdatedDate: 2024-10-18
-tags: [frontend]
+lastUpdatedDate: 2025-02-05
 ---
 
 I recently wanted to spruce up [my spicy questions site](https://spicy-questions.rwblickhan.org) with the addition of [Shoelace](https://shoelace.style) components. That was surprisingly difficult using Vite + Preact.

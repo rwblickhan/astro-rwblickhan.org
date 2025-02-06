@@ -1,7 +1,6 @@
 ---
 title: "Computed Property Names in JavaScript"
-lastUpdatedDate: 2023-07-03
-tags: [javascript]
+lastUpdatedDate: 2025-02-05
 ---
 
 Sometimes you want to specify an object literal in JavaScript that uses the value of a variable as a property name.

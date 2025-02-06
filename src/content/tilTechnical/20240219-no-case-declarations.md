@@ -1,7 +1,6 @@
 ---
 title: "no-case-declarations in ESLint"
-lastUpdatedDate: 2024-02-19
-tags: [frontend, javascript]
+lastUpdatedDate: 2025-02-05
 ---
 
 Yesterday I ran into the [`no-case-declarations` ESLint rule](https://eslint.org/docs/latest/rules/no-case-declarations), which was very surprising to me!

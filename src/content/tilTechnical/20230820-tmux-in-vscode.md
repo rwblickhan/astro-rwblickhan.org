@@ -1,7 +1,6 @@
 ---
 title: "Setting Up Tmux in VS Code"
-lastUpdatedDate: 2023-08-20
-tags: [tmux, vscode]
+lastUpdatedDate: 2025-02-05
 ---
 
 I like to use tmux in the terminal, even in VS Code.

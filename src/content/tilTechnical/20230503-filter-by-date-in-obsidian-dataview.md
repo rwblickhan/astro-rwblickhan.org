@@ -1,7 +1,6 @@
 ---
 title: "Filter by Date in Obsidian Dataview"
-lastUpdatedDate: 2023-05-03
-tags: [obsidian]
+lastUpdatedDate: 2025-02-05
 ---
 
 For my newsletter, I was curious what notes I had added to Obsidian in the last month.

@@ -1,7 +1,6 @@
 ---
 title: "@State Initialization in SwiftUI"
-lastUpdatedDate: 2023-07-14
-tags: [ios, swiftui]
+lastUpdatedDate: 2025-02-05
 ---
 
 I'm building an iOS app for [Askhole](https://www.askhole.io) that shows a question out of a list of question.

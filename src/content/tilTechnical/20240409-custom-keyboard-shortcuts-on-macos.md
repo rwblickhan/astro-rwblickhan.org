@@ -1,7 +1,6 @@
 ---
 title: Custom Keyboard Shortcuts on macOS
-lastUpdatedDate: 2024-04-09
-tags: [macOS, productivity-software]
+lastUpdatedDate: 2025-02-05
 ---
 
 Did you know you can add custom keyboard shortcuts for pretty much any app on macOS, not just VS Code or Obsidian or similar apps that let you customize internally?

@@ -1,7 +1,6 @@
 ---
 title: "fzf Preview Options"
-lastUpdatedDate: 2024-02-18
-tags: [command-line, fzf]
+lastUpdatedDate: 2025-02-05
 ---
 
 [fzf](https://github.com/junegunn/fzf) is one of my all-time favourite pieces of software;

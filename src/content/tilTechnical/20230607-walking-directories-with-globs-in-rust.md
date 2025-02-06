@@ -1,7 +1,6 @@
 ---
 title: "Walking Directories with Globs in Rust"
-lastUpdatedDate: 2023-06-07
-tags: [rustlang]
+lastUpdatedDate: 2025-02-05
 ---
 
 I'm working on a simple, language-agnostic linter called [linty](https://github.com/rwblickhan/linty) written in Rust.

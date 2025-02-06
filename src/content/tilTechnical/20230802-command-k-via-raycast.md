@@ -1,7 +1,6 @@
 ---
 title: "Command K Bars in Any App via Raycast"
-lastUpdatedDate: 2023-08-02
-tags: [raycast, productivity-software]
+lastUpdatedDate: 2025-02-05
 ---
 
 I really like the [Command-K bar UI pattern](https://maggieappleton.com/command-bar) - many apps these days, including VS Code and Obsidian,

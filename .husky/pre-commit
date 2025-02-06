@@ -1,24 +1,24 @@
 files=$(git diff --name-only --staged)
 run_astro_check=false
 
-for file in $files; do
-    if [ ! -f "$file" ]; then
-        echo "Skipping deleted file: $file"
-        continue
-    fi
-    
-    if [[ $file == *.md || $file == *.mdx ]]; then
-        echo "Linting $file"
-        markdownlint $file --fix
-        echo "Updating last update date for $file"
-        sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: $(date +%Y-%m-%d)" $file
-        git add "$file"
-    fi
+# for file in $files; do
+#     if [ ! -f "$file" ]; then
+#         echo "Skipping deleted file: $file"
+#         continue
+#     fi
 
-    if [[ $file == *.astro || $file == *.ts ]]; then
-        run_astro_check=true
-    fi
-done
+#     if [[ $file == *.md || $file == *.mdx ]]; then
+#         echo "Linting $file"
+#         markdownlint $file --fix
+#         echo "Updating last update date for $file"
+#         sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: $(date +%Y-%m-%d)" $file
+#         git add "$file"
+#     fi
+
+#     if [[ $file == *.astro || $file == *.ts ]]; then
+#         run_astro_check=true
+#     fi
+# done
 
 if [ "$run_astro_check" = true ]; then
     echo "Running astro check..."

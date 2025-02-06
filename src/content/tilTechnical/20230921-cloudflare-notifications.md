@@ -1,7 +1,6 @@
 ---
 title: "Cloudflare Notifications"
-lastUpdatedDate: 2023-09-21
-tags: [infrastructure]
+lastUpdatedDate: 2025-02-05
 ---
 
 I use [Cloudflare Pages](https://pages.cloudflare.com) to build this site, and in particular I use the built-in GitHub integration because the build process is pretty simple (just run `pnpm run build` and you're golden).

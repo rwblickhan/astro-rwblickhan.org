@@ -1,7 +1,6 @@
 ---
 title: "Smartcase in Vim"
-lastUpdatedDate: 2023-07-17
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 Vim's search function when you press `/` defaults to case-sensitive, which I've always found pretty annoying.

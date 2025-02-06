@@ -1,7 +1,6 @@
 ---
 title: "Border with Corner Radius in SwiftUI"
-lastUpdatedDate: 2023-06-10
-tags: [ios, swiftui]
+lastUpdatedDate: 2025-02-05
 ---
 
 How do you add a colored border with a corner radius to a view in SwiftUI?

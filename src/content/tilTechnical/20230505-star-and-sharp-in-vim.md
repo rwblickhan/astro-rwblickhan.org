@@ -1,7 +1,6 @@
 ---
 title: "* and # in vim"
-lastUpdatedDate: 2023-05-05
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 When in normal mode in vim, you can use `*` to start searching forwards for the word underneath the cursor and `#` to search backwards.

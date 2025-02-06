@@ -1,7 +1,6 @@
 ---
 title: Find URLs in iTerm2
-lastUpdatedDate: 2024-08-23
-tags: [command-line]
+lastUpdatedDate: 2025-02-05
 ---
 
 I always wanted to open URLs in the terminal from the command line.

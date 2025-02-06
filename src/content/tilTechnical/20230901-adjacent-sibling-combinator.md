@@ -1,7 +1,6 @@
 ---
 title: "Adjacent Sibling Combinator in CSS"
-lastUpdatedDate: 2023-09-01
-tags: [frontend, css]
+lastUpdatedDate: 2025-02-05
 ---
 
 Yesterday I was having a browse around MDN to learn a bit more about CSS and I found out about the very useful adjacent sibling combinator!

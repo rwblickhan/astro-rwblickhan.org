@@ -1,7 +1,6 @@
 ---
 title: "Web Workers"
-lastUpdatedDate: 2023-04-30
-tags: [frontend, javascript]
+lastUpdatedDate: 2025-02-05
 ---
 
 I've got a [search page](/search), using [Fuse.js](https://fusejs.io) to do searching on the client-side.

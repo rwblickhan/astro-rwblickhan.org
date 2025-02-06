@@ -1,7 +1,6 @@
 ---
 title: mailto Header Fields
 lastUpdatedDate: 2025-02-05
-tags: [urls]
 ---
 
 I recently added a "reply by email" button at the bottom of each of my posts. You might see it at the bottom of this very post! It's pretty simple — although it's styled as a button, it's actually an `<a>` tag with an `href` set to `mailto:reply@rwblickhan.org`, so clicking it pops open your email client.

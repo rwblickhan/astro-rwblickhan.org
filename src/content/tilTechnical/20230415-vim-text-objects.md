@@ -1,7 +1,6 @@
 ---
 title: "Vim Text Objects"
-lastUpdatedDate: 2023-04-15
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 Most vim commands take text objects. For instance, we can do `diw` for **d**elete **i**n **w**ord or `daw` for **d**elete **a**round **w**ord, which includes the delimiters as well. I use `w` pretty heavily to select alphanumeric words, but there's actually a lot of other useful options:
