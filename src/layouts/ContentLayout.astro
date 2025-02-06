@@ -33,7 +33,9 @@ const {
   <slot />
   {
     includeResponseLink && (
-      <a href="mailto:reply@rwblickhan.org">
+      <a
+        href={`mailto:reply@rwblickhan.org?subject=${encodeURIComponent("Reply to " + title)}`}
+      >
         <MailIcon />
         Reply by email!
       </a>
