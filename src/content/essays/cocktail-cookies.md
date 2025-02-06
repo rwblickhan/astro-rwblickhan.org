@@ -1,7 +1,7 @@
 ---
 title: Cocktail Cookies
 lastUpdatedDate: 2025-02-05
-description: 
+description: No alcohol required
 ---
 
 I’ve always been a fan of cookies. Recently I’ve been making a twist on chocolate chip cookies that I call “cocktail cookies”. They don’t actually have alcohol, but they do have a couple cocktail-inspired twists.
