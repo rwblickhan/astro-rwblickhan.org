@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-02-02
+lastUpdatedDate: 2025-02-09
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -19,3 +19,4 @@ lastUpdatedDate: 2025-02-02
 14. *Desert Lullabies EP*, Greta Morgan
 15. *EUSEXUA*, FKA twigs
 16. *Masana Temples*, Kikagaku Moyo
+17. *Oneiris*, Chloe Lula
