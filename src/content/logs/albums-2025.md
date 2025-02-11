@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-02-09
+lastUpdatedDate: 2025-02-10
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -20,3 +20,5 @@ lastUpdatedDate: 2025-02-09
 15. *EUSEXUA*, FKA twigs
 16. *Masana Temples*, Kikagaku Moyo
 17. *Oneiris*, Chloe Lula
+18. *Strange Meridians*, upsammy
+19. *Zoom*, upsammy
