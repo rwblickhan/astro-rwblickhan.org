@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-02-10
+lastUpdatedDate: 2025-02-13
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -22,3 +22,4 @@ lastUpdatedDate: 2025-02-10
 17. *Oneiris*, Chloe Lula
 18. *Strange Meridians*, upsammy
 19. *Zoom*, upsammy
+20. *My Method Actor*, Nilüfer Yanya
