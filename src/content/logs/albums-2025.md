@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-02-13
+lastUpdatedDate: 2025-02-16
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -23,3 +23,4 @@ lastUpdatedDate: 2025-02-13
 18. *Strange Meridians*, upsammy
 19. *Zoom*, upsammy
 20. *My Method Actor*, Nilüfer Yanya
+21. *Alligator Bites Never Heal*, Doechii
