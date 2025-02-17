@@ -24,3 +24,4 @@ lastUpdatedDate: 2025-02-16
 19. *Zoom*, upsammy
 20. *My Method Actor*, Nilüfer Yanya
 21. *Alligator Bites Never Heal*, Doechii
+22. *The Beginner’s Guide OST*, Ryan Roth
