@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-02-16
+lastUpdatedDate: 2025-02-20
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -25,3 +25,4 @@ lastUpdatedDate: 2025-02-16
 20. *My Method Actor*, Nilüfer Yanya
 21. *Alligator Bites Never Heal*, Doechii
 22. *The Beginner’s Guide OST*, Ryan Roth
+23. *Da Nao Tian Gong EP*, Polygonia
