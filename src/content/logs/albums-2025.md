@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-02-20
+lastUpdatedDate: 2025-02-21
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -26,3 +26,4 @@ lastUpdatedDate: 2025-02-20
 21. *Alligator Bites Never Heal*, Doechii
 22. *The Beginner’s Guide OST*, Ryan Roth
 23. *Da Nao Tian Gong EP*, Polygonia
+24. *GNOSIS*, Raven
