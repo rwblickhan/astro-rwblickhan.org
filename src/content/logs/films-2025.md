@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-02-22
+lastUpdatedDate: 2025-02-23
 ---
 
 ## Movies
@@ -8,6 +8,8 @@ lastUpdatedDate: 2025-02-22
 1. *Speed Racer* (2008)
 2. 🔁 *Casablanca* (1942)
 3. 🔁 *World of Tomorrow* (2015)
+4. *Boogie Nights* (1997)
+5. *Slow Bob in the Lower Dimensions* (1991)
 
 ## TV Shows
 
