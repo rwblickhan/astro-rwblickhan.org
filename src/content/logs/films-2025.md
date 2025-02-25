@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-02-23
+lastUpdatedDate: 2025-02-24
 ---
 
 ## Movies
@@ -16,3 +16,4 @@ lastUpdatedDate: 2025-02-23
 1. *Squid Game* Season 2 (2024)
 2. *Baccano!* (2007)
 3. 🔁 *Twin Peaks* Season 1 (1990)
+4. *Severance* Season 1 (2022)
