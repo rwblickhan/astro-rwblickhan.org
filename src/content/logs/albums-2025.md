@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-02-22
+lastUpdatedDate: 2025-02-24
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -28,3 +28,4 @@ lastUpdatedDate: 2025-02-22
 23. *Da Nao Tian Gong EP*, Polygonia
 24. *GNOSIS*, Raven
 25. *The Fat of the Land*, The Prodigy
+26. *Dämmerung*, Mathias Grassow
