@@ -212,3 +212,7 @@ a {
     background-color: #f3f3f3;
   }
 }
+
+::backdrop {
+  backdrop-filter: blur(3px);
+}

@@ -1,8 +1,12 @@
 ---
-import HeaderIcon from "./HeaderIcon.astro";
+import PagefindSearch from "astro-pagefind/components/Search";
 ---
 
-<HeaderIcon href="/search" title="Search">
+<button
+  popovertarget="search-popover"
+  popovertargetaction="show"
+  title="Search"
+>
   <svg
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
@@ -17,4 +21,55 @@ import HeaderIcon from "./HeaderIcon.astro";
       d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
     ></path>
   </svg>
-</HeaderIcon>
+</button>
+<div popover id="search-popover">
+  <style>
+    :root {
+      --pagefind-ui-font: Charter, "Bitstream Charter", "Sitka Text", Cambria,
+        sans-serif;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --pagefind-ui-primary: #eeeeee;
+        --pagefind-ui-text: #e8e6e3;
+        --pagefind-ui-background: rgb(38 38 38);
+        --pagefind-ui-border: #152028;
+        --pagefind-ui-tag: #152028;
+      }
+    }
+  </style>
+  <PagefindSearch
+    id="search"
+    uiOptions={{ showSubResults: true, showImages: false }}
+  />
+</div>
+
+<style>
+  button {
+    width: 1.75rem;
+    height: 1.75rem;
+    border: none;
+    background: unset;
+  }
+
+  div {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 50vh;
+    width: 50vw;
+    padding: 16px;
+    overscroll-behavior: contain;
+  }
+</style>
+
+<script>
+  const button: HTMLButtonElement | null =
+    document.querySelector("[data-search]");
+  const dialog: HTMLDialogElement | null =
+    document.querySelector("[data-dialog]");
+
+  button?.addEventListener("click", () => dialog?.showModal());
+</script>
