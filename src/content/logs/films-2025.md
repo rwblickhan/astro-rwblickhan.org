@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-02-24
+lastUpdatedDate: 2025-03-01
 ---
 
 ## Movies
@@ -17,3 +17,4 @@ lastUpdatedDate: 2025-02-24
 2. *Baccano!* (2007)
 3. 🔁 *Twin Peaks* Season 1 (1990)
 4. *Severance* Season 1 (2022)
+5. *Twin Peaks* Season 2 (1991)
