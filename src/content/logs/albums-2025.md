@@ -31,3 +31,4 @@ lastUpdatedDate: 2025-03-02
 26. *Dämmerung*, Mathias Grassow
 27. *Mind riders*, Mathias Grassow
 28. *Mr Finish Line*, Vulfpeck
+29. *Schvitz*, Vulfpeck & Vulf
