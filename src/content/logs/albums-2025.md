@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-02-26
+lastUpdatedDate: 2025-03-02
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -30,3 +30,4 @@ lastUpdatedDate: 2025-02-26
 25. *The Fat of the Land*, The Prodigy
 26. *Dämmerung*, Mathias Grassow
 27. *Mind riders*, Mathias Grassow
+28. *Mr Finish Line*, Vulfpeck
