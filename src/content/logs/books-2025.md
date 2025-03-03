@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-02-14
+lastUpdatedDate: 2025-03-02
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -15,3 +15,5 @@ lastUpdatedDate: 2025-02-14
 ## Short Stories
 
 ## Papers
+
+1. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?”, Bender et. al.
