@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-03-02
+lastUpdatedDate: 2025-03-03
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -17,3 +17,4 @@ lastUpdatedDate: 2025-03-02
 ## Papers
 
 1. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?”, Bender et. al.
+2. “Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data”, Bender and Koller
