@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-03-02
+lastUpdatedDate: 2025-03-06
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -32,3 +32,5 @@ lastUpdatedDate: 2025-03-02
 27. *Mind riders*, Mathias Grassow
 28. *Mr Finish Line*, Vulfpeck
 29. *Schvitz*, Vulfpeck & Vulf
+30. *Vulfnik*, Vulfmon
+31. *Nova Manha*, Ami Fukui
