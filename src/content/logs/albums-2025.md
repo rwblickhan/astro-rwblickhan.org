@@ -34,3 +34,4 @@ lastUpdatedDate: 2025-03-06
 29. *Schvitz*, Vulfpeck & Vulf
 30. *Vulfnik*, Vulfmon
 31. *Nova Manha*, Ami Fukui
+32. *New Journey*, Ami Fukui
