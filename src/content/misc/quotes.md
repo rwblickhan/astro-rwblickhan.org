@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-01-21
+lastUpdatedDate: 2025-03-05
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote-->
@@ -461,5 +461,9 @@ lastUpdatedDate: 2025-01-21
 > When someone dies, You say, 'It wasn't me. It was due to the harvest. How is this different from killing someone by stabbing him and saying, 'It wasn't me. It was due to the weapon'? If Your Majesty does not blame the harvest, then the people of the world will come to You."
 >
 > *Mengzi* (trans. Bryan W. Van Norden)
+
+> Because performance in large deep learning models has been steadily improving with increasing model size on various tasks, some have advocated that simply scaling up language models could allow task-agnostic, few-shot performance (e.g., Brown et al., 2020). But a child does not interact with the world better by increasing their brain capacity. Is building the tallest tower the ultimate way to reach the moon?
+>
+> “Transmission Versus Truth, Imitation Versus Innovation: What Children Can Do That Large Language and Language-and-Vision Models Cannot (Yet),” Yiu et. al.
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
