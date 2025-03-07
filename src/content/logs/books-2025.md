@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-03-05
+lastUpdatedDate: 2025-03-06
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -9,6 +9,7 @@ lastUpdatedDate: 2025-03-05
 4. *Get Together: How To Build A Community With Your People*, Bailey Richardson, Kevin Huynh, & Kai Elmer Sotto
 5. *When We Cease To Understand The World*, Benjamín Labatut (trans. Adrian Nathan West)
 6. *Introducing the Medieval Dragon*, Thomas Honegger
+7. *Multiple Choice*, Alejandro Zambra (trans. Megan McDowell)
 
 ## Skimmed
 
