@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-03-06
+lastUpdatedDate: 2025-03-08
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -10,6 +10,7 @@ lastUpdatedDate: 2025-03-06
 5. *When We Cease To Understand The World*, Benjamín Labatut (trans. Adrian Nathan West)
 6. *Introducing the Medieval Dragon*, Thomas Honegger
 7. *Multiple Choice*, Alejandro Zambra (trans. Megan McDowell)
+8. *Ancillary Justice*, Ann Leckie
 
 ## Skimmed
 
