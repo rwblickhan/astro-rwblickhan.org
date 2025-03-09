@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-03-08
+lastUpdatedDate: 2025-03-09
 ---
 
 ## Movies
@@ -12,6 +12,7 @@ lastUpdatedDate: 2025-03-08
 5. *Slow Bob in the Lower Dimensions* (1991)
 6. *Ne Zha 2* (2025)
 7. *Twin Peaks: Fire Walk With Me* (1992)
+8. *The Wild Robot* (2024)
 
 ## TV Shows
 
