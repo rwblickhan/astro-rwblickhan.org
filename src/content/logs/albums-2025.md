@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-03-06
+lastUpdatedDate: 2025-03-08
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -36,3 +36,4 @@ lastUpdatedDate: 2025-03-06
 31. *Nova Manha*, Ami Fukui
 32. *New Journey*, Ami Fukui
 33. *Digital Reforestation*, GENDEMA
+34. *Antibiótics*, GENDEMA

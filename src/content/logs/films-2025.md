@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-03-06
+lastUpdatedDate: 2025-03-08
 ---
 
 ## Movies
@@ -11,6 +11,7 @@ lastUpdatedDate: 2025-03-06
 4. *Boogie Nights* (1997)
 5. *Slow Bob in the Lower Dimensions* (1991)
 6. *Ne Zha 2* (2025)
+7. *Twin Peaks: Fire Walk With Me* (1992)
 
 ## TV Shows
 
