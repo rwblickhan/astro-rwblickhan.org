@@ -7,7 +7,6 @@ season: 7
 
 Sorry, another LLM newsletter. I *promise* next week I have a different topic.
 
-IMG_6812 2.jpeg
 ![A whiteboard showing sticky notes with ideas for the topic "library"](../../assets/newsletters/zine4_ideation.jpg)
 (But first, some ideation for [zine 4](sf-frens.org)!)
 
