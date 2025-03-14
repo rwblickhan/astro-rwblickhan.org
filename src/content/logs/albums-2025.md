@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-03-10
+lastUpdatedDate: 2025-03-13
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -38,3 +38,4 @@ lastUpdatedDate: 2025-03-10
 33. *Digital Reforestation*, GENDEMA
 34. *Antibiótics*, GENDEMA
 35. *Clarity of Cal*, Vulfpeck
+36. *Night Blooming Cereus*, Boof
