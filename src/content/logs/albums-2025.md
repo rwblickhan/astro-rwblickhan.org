@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-03-13
+lastUpdatedDate: 2025-03-17
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -39,3 +39,5 @@ lastUpdatedDate: 2025-03-13
 34. *Antibiótics*, GENDEMA
 35. *Clarity of Cal*, Vulfpeck
 36. *Night Blooming Cereus*, Boof
+37. *Conspiracy, Pt. 2*, Gesaffelstein
+38. *Aleph*, Gesaffelstein
