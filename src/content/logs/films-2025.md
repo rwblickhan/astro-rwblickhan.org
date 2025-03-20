@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-03-10
+lastUpdatedDate: 2025-03-19
 ---
 
 ## Movies
@@ -14,6 +14,7 @@ lastUpdatedDate: 2025-03-10
 7. *Twin Peaks: Fire Walk With Me* (1992)
 8. *The Wild Robot* (2024)
 9. *Twin Peaks: The Missing Pieces* (2014)
+10. *Mickey 17* (2025)
 
 ## TV Shows
 
