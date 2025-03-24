@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-03-19
+lastUpdatedDate: 2025-03-23
 ---
 
 ## Movies
@@ -23,3 +23,4 @@ lastUpdatedDate: 2025-03-19
 3. 🔁 *Twin Peaks* Season 1 (1990)
 4. *Severance* Season 1 (2022)
 5. *Twin Peaks* Season 2 (1991)
+6. *Severance* Season 2 (2025)
