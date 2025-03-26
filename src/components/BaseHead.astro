@@ -3,6 +3,7 @@ export interface Props {
   title?: string;
   description: string;
   lastUpdatedDate?: Date;
+  publicationDate?: Date;
   image?: string;
 }
 
@@ -10,6 +11,7 @@ const {
   title,
   description,
   lastUpdatedDate,
+  publicationDate,
   image = "/.well-known/avatar.png",
 } = Astro.props;
 
@@ -40,7 +42,8 @@ const blogJsonLd = lastUpdatedDate && {
       url: imageProfileURL,
     },
   },
-  datePublished: lastUpdatedDate.toISOString(),
+  datePublished:
+    publicationDate?.toISOString() ?? lastUpdatedDate.toISOString(),
   dateModified: lastUpdatedDate.toISOString(),
 };
 ---

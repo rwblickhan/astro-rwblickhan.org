@@ -14,6 +14,7 @@ const {
   description,
   width,
   lastUpdatedDate,
+  publicationDate,
   parentCollection,
   shouldIndex,
 } = Astro.props.frontmatter || Astro.props;
@@ -25,6 +26,7 @@ const {
     title={title}
     description={description}
     lastUpdatedDate={lastUpdatedDate}
+    publicationDate={publicationDate}
   />
   <Header parentCollection={parentCollection} />
   {
