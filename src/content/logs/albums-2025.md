@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-03-19
+lastUpdatedDate: 2025-03-29
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -42,3 +42,4 @@ lastUpdatedDate: 2025-03-19
 37. *Conspiracy, Pt. 2*, Gesaffelstein
 38. *Aleph*, Gesaffelstein
 39. *MAYHEM*, Lady Gaga
+40. *Cherry*, Chromatics
