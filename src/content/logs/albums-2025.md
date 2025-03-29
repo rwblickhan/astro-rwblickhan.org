@@ -43,3 +43,4 @@ lastUpdatedDate: 2025-03-29
 38. *Aleph*, Gesaffelstein
 39. *MAYHEM*, Lady Gaga
 40. *Cherry*, Chromatics
+41. *Kill for Love*, Chromatics
