@@ -42,5 +42,7 @@ lastUpdatedDate: 2025-03-29
 37. *Conspiracy, Pt. 2*, Gesaffelstein
 38. *Aleph*, Gesaffelstein
 39. *MAYHEM*, Lady Gaga
-40. *Cherry*, Chromatics
-41. *Kill for Love*, Chromatics
+40. *Echo*, Hitomi Nishiyama
+41. *Cherry*, Chromatics
+42. *Kill for Love*, Chromatics
+43. *Dot*, Hitomi Nishiyama
