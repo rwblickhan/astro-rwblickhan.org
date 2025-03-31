@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-03-29
+lastUpdatedDate: 2025-03-30
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -12,6 +12,7 @@ lastUpdatedDate: 2025-03-29
 7. *Multiple Choice*, Alejandro Zambra (trans. Megan McDowell)
 8. *Ancillary Justice*, Ann Leckie
 9. 🔁 *The Birds*, Aristophanes (trans. Stephen Halliwell)
+10. *Tomie: No Use Escaping*, Junji Ito (trans. Naomi Kokubo)
 
 ## Skimmed
 
