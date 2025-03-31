@@ -1,6 +1,6 @@
 ---
 title: Time to Read the (Western) Classics
-lastUpdatedDate: 2025-03-29
+lastUpdatedDate: 2025-03-30
 publicationDate: 2025-03-29
 season: 7
 ---
@@ -63,7 +63,7 @@ That said, rereading the Wilson translation was much more fun than I remembered.
 
 ## Euripides — The Trojan Women/Helen/Bacchae/Prometheus Bound (5th century BCE)
 
-![Cover of The Greek Plays](../../assets/newsletters/time-to-read-the-western-classics/greek_plays.tiff)
+![Cover of The Greek Plays](../../assets/newsletters/time-to-read-the-western-classics/greek_plays.jpg)
 
 I’m not really sure why I chose to focus on Euripides out of the three major Athenian tragedians. I could have sworn I had read some Aeschylus or Sophocles, but nope, all four of these are Euripides and they’re all from the (fantastic) [*The Greek Plays* collection](https://www.penguinrandomhouse.com/books/216216/the-greek-plays-by-new-translations-edited-by-mary-lefkowitz-and-james-romm/).
 
@@ -137,7 +137,7 @@ I read the [Oxford World’s Classics translation](https://global.oup.com/academ
 
 ## Confessions (ca. 400 CE)
 
-![Cover of Confessions](../../assets/newsletters/time-to-read-the-western-classics/confessions.tiff)
+![Cover of Confessions](../../assets/newsletters/time-to-read-the-western-classics/confessions.jpg)
 
 I really hesitate to call *St. Augustine* of all people inessential. But the simple fact is, if you aren’t already Catholic, you’ll probably find most of his argumentation... not particularly interesting? This is, after all, not a novel — it's mostly a work of philosophy and theology.
 
@@ -169,7 +169,7 @@ I read the [Norton Critical Edition](https://wwnorton.com/books/Marie-de-France-
 
 ## The Divine Comedy (1321)
 
-![Cover of The Divine Comedy](../../assets/newsletters/time-to-read-the-western-classics/inferno.tiff)
+![Cover of The Divine Comedy](../../assets/newsletters/time-to-read-the-western-classics/inferno.jpg)
 
 Many people just read Dante’s *Inferno* and stop there. [That’s a very bad idea!!](https://youtu.be/KkwzYyg9NxQ)
 
@@ -206,7 +206,7 @@ But overall highly recommended. I read the [Edith Grossman](https://www.amazon.c
 
 ## The Blazing World (1666)
 
-![Cover of The Blazing World](../../assets/newsletters/time-to-read-the-western-classics/blazing_world.tiff)
+![Cover of The Blazing World](../../assets/newsletters/time-to-read-the-western-classics/blazing_world.jpg)
 
 Margaret Cavendish’s *The Blazing World* is often described as one of the earliest works of science fiction, and its *also* one of the earliest major works in English by a woman — a woman that was herself a *fascinating* individual.[^cavendish]
 

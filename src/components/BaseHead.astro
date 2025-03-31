@@ -105,11 +105,9 @@ const blogJsonLd = lastUpdatedDate && {
   }
 
   <script>
-    let floatDirection = "right";
-
     function handleImageFloat() {
       const images = document.querySelectorAll("img");
-      images.forEach((image) => {
+      images.forEach((image, idx) => {
         image.onload = function () {
           if (
             image.classList.contains("force-float-left") ||
@@ -120,6 +118,7 @@ const blogJsonLd = lastUpdatedDate && {
 
           const container = image.closest("article");
           const containerWidth = container?.offsetWidth ?? 0;
+          const floatDirection = idx % 2 === 0 ? "right" : "left";
           if (image.naturalWidth < containerWidth * 0.6) {
             image.style.float = floatDirection;
             image.style.marginInlineStart =
@@ -127,7 +126,6 @@ const blogJsonLd = lastUpdatedDate && {
             image.style.marginInlineEnd =
               floatDirection === "right" ? "0" : "1rem";
             image.style.marginBlockEnd = "1rem";
-            floatDirection = floatDirection === "right" ? "left" : "right";
           } else {
             image.style.float = "none";
             image.style.marginInline = "auto";
