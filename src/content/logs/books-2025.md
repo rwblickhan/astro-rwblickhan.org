@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-04-01
+lastUpdatedDate: 2025-04-02
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -14,6 +14,7 @@ lastUpdatedDate: 2025-04-01
 9. 🔁 *The Birds*, Aristophanes (trans. Stephen Halliwell)
 10. *Tomie: No Use Escaping*, Junji Ito (trans. Naomi Kokubo)
 11. *A Memory Called Empire*, Arkady Martine
+12. *‌Catching the Big Fish: Meditation, Consciousness, and Creativity*, David Lynch
 
 ## Skimmed
 
