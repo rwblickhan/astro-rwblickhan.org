@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-03-29
+lastUpdatedDate: 2025-04-04
 ---
 
 ## Movies
@@ -16,6 +16,7 @@ lastUpdatedDate: 2025-03-29
 9. *Twin Peaks: The Missing Pieces* (2014)
 10. *Mickey 17* (2025)
 11. *Lady Blue Shanghai* (2010)
+12. *Love & Pop* (1998)
 
 ## TV Shows
 
