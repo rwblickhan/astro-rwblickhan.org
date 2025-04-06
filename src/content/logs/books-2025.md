@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-04-02
+lastUpdatedDate: 2025-04-06
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -15,6 +15,7 @@ lastUpdatedDate: 2025-04-02
 10. *Tomie: No Use Escaping*, Junji Ito (trans. Naomi Kokubo)
 11. *A Memory Called Empire*, Arkady Martine
 12. *‌Catching the Big Fish: Meditation, Consciousness, and Creativity*, David Lynch
+13. *Earthlings*, Sayaka Murata (trans. Ginny Tapley Takemori)
 
 ## Skimmed
 
