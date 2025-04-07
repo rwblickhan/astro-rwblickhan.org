@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-04-04
+lastUpdatedDate: 2025-04-07
 ---
 
 ## Movies
@@ -17,6 +17,7 @@ lastUpdatedDate: 2025-04-04
 10. *Mickey 17* (2025)
 11. *Lady Blue Shanghai* (2010)
 12. *Love & Pop* (1998)
+13. *Challengers* (2024)
 
 ## TV Shows
 
