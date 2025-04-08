@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-03-29
+lastUpdatedDate: 2025-04-07
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -46,3 +46,4 @@ lastUpdatedDate: 2025-03-29
 41. *Cherry*, Chromatics
 42. *Kill for Love*, Chromatics
 43. *Dot*, Hitomi Nishiyama
+44. *On Hold*, Photay
