@@ -48,3 +48,5 @@ lastUpdatedDate: 2025-04-08
 43. *Dot*, Hitomi Nishiyama
 44. *On Hold*, Photay
 45. *Patterns EP*, Ali
+46. *Spiral Bound EP*, Rebecca Sugar
+47. *Forget Me EP*, Summer Twins
