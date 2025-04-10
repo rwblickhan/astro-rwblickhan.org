@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-04-06
+lastUpdatedDate: 2025-04-09
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -16,6 +16,7 @@ lastUpdatedDate: 2025-04-06
 11. *A Memory Called Empire*, Arkady Martine
 12. *‌Catching the Big Fish: Meditation, Consciousness, and Creativity*, David Lynch
 13. *Earthlings*, Sayaka Murata (trans. Ginny Tapley Takemori)
+14. *Goodnight Punpun* Vol. 1, Inio Asano
 
 ## Skimmed
 
