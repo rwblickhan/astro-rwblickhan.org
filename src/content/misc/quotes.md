@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-03-05
+lastUpdatedDate: 2025-04-13
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote-->
@@ -465,5 +465,23 @@ lastUpdatedDate: 2025-03-05
 > Because performance in large deep learning models has been steadily improving with increasing model size on various tasks, some have advocated that simply scaling up language models could allow task-agnostic, few-shot performance (e.g., Brown et al., 2020). But a child does not interact with the world better by increasing their brain capacity. Is building the tallest tower the ultimate way to reach the moon?
 >
 > “Transmission Versus Truth, Imitation Versus Innovation: What Children Can Do That Large Language and Language-and-Vision Models Cannot (Yet),” Yiu et. al.
+
+> I love Los Angeles. I know a lot of people go there and they see just a huge sprawl of sameness. But when you’re there for a while, you realize that each section has its own mood. The golden age of cinema is still alive there, in the smell of jasmine at night and the beautiful weather. And the light is inspiring and energizing. Even with smog, there’s something about that light that’s not harsh, but bright and smooth. It fills me with the feeling that all possibilities are available. I don’t know why. It’s different from the light in other places. The light in Philadelphia, even in the summer, is not nearly as bright. It was the light that brought everybody to L.A. to make films in the early days. It’s still a beautiful place.
+>
+> *Catching the Big Fish*, David Lynch
+
+> I fall in love with certain ideas. And I am where I am. Now, if I told you I was enlightened, and this is enlightened filmmaking, that would be another story. But I’m just a guy from Missoula, Montana, doing my thing, going down the road like everybody else.\
+> We all reflect the world we live in. Even if you make a period film, it will reflect your times. You can see the way period films differ, depending on when they were made. It’s a sensibility — how they talk, certain themes — and those things change as the world changes.\
+> And so, even though I’m from Missoula, Montana, which is not the surrealistic capital of the world, you could be anywhere and see a kind of strangeness in how the world is these days, or have a certain way of looking at things.
+>
+> *Catching the Big Fish*, David Lynch
+
+> In stories, in the worlds that we can go into, there’s suffering, confusion, darkness, tension, and anger. There are murders; there’s all kinds of stuff. But the filmmaker doesn’t have to be suffering to show suffering. You can show it, show the human condition, show conflicts and contrasts, but you don’t have to go through that yourself. You are the orchestrator of it, but you’re not in it. Let your characters do the suffering.
+>
+> *Catching the Big Fish*, David Lynch
+
+> Right here people might bring up Vincent van Gogh as an example of a painter who did great work in spite of — or because of — his suffering. I like to think that van Gogh would have been even more prolific and even greater if he wasn’t so restricted by the things tormenting him. I don’t think it was pain that made him so great — I think his painting brought him whatever happiness he had.
+>
+> *Catching the Big Fish*, David Lynch
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
