@@ -5,7 +5,7 @@ publicationDate: 2025-04-12
 season: 7
 ---
 
-As promised last time: more classics! To keep this one manageable, I’ve kept it to just East Asian classics, which makes up the bulk of the non-western classics I’ve read. Next week I will be back to shorter essays!
+As promised [last time](https://rwblickhan.org/newsletters/time-to-read-the-western-classics/): more classics! To keep this one manageable, I’ve kept it to just East Asian classics, which makes up the bulk of the non-western classics I’ve read. Next week I will be back to shorter essays!
 
 ## Analects
 
@@ -133,7 +133,7 @@ But also: I’m not sure I really got the intended experience? The [Penguin Clas
 
 So while I would recommend *Kieu*, I would like to read it again, perhaps in the [Huynh Sanh Thong translation](https://www.amazon.com/dp/0300040512).
 
-[^roberts]: Admittedly I had trouble finding a copy anywhere other than Amazon — but [here is it on Internet Archive](https://archive.org/details/luo-guanzhong-the-three-kingdoms-unabridged/mode/2up).
+[^roberts]: Here it is on the [Internet Archive](https://archive.org/details/luo-guanzhong-the-three-kingdoms-unabridged/mode/2up) for some reason!
 [^romance]: Although, of course, if you know what a “medieval romance” is and find a comparison to the *Alexander Romance* useful, you *probably* don’t need to read this article.
 [^asoiaf]: It is *definitely* not surprising that *Game of Thrones* is probably the most popular Western television show in China.
 [^goodreads]: That, alas, I cannot find a reference to anymore.
