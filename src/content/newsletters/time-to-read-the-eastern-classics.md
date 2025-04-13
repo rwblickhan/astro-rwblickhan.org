@@ -5,7 +5,7 @@ publicationDate: 2025-04-12
 season: 7
 ---
 
-As promised last time: more classics! To keep this one manageable, I’ve kept it to just East Asian classics, which makes up the bulk of the Eastern classics I’ve read. Next week I will be back to shorter essays!
+As promised last time: more classics! To keep this one manageable, I’ve kept it to just East Asian classics, which makes up the bulk of the non-western classics I’ve read. Next week I will be back to shorter essays!
 
 ## Analects
 
@@ -21,9 +21,9 @@ I read [Edward Slingerland’s translation for Hackett](https://hackettpublishin
 
 ![Cover of Mengzi](../../assets/newsletters/time-to-read-the-eastern-classics/mengzi.jpg)
 
-So if you read the *Analects*, you really have to read the *Mengzi* as well. That’s because Mengzi “won”, in some sense — his interpretation of Confucianism is how Confucianism has been traditionally understood for two thousand years, and Neo-Confucianism *qua* Zhu Xi raised him almost to the same level as Confucius himself.
+So if you read the *Analects*, you really have to read the *Mengzi* as well. That’s because Mengzi “won”, in some sense — his interpretation of Confucianism is how Confucianism has been traditionally understood for two thousand years, and Neo-Confucianism *qua* Zhu Xi raised him to almost the same level as Confucius himself.
 
-But, look: Mengzi is just not as interesting a character as Confucius. He’s a little *too* goody-two-shoes, a little *too* clever. And, ultimately, he’s saying a lot of the same things, with subtle (though important) differences. So it’s hard to recommend the *Mengzi* unless you’re really interested in Confucianism — I’m glad I read it, but it’s not exactly *fun*.
+But Mengzi is just not as interesting a character as Confucius. He’s a little *too* goody-two-shoes, a little *too* clever. And, ultimately, he’s saying a lot of the same things, with subtle (though important) differences. So it’s hard to recommend the *Mengzi* unless you’re really interested in Confucianism — I’m glad I read it, but it’s not exactly *fun*.
 
 I read the [Bryan W. Van Norden translation from Hackett](https://hackettpublishing.com/mengzi), which is very readable and comes with extensive footnotes (which often cite Zhu Xi, natch). Conveniently, that’s the same Van Norden that wrote the *Introduction to Classical Chinese Philosophy* above; his chapter on the *Mengzi* echoes a lot of what he says in the introduction.
 
@@ -33,7 +33,7 @@ I read the [Bryan W. Van Norden translation from Hackett](https://hackettpublish
 
 The *Dao De Jing*: the misinterpreted classic beloved by mystics and anarchists everywhere.
 
-But look: fundamentally, we can’t really make sense of what the *Dao De Jing* is “really” saying. Han Dynasty commentators couldn’t make sense of what the *Dao De Jing* is really saying, either! We only realized like 30 years ago that the canonical text might be accidentally reversed (!). We kinda just have to accept that any translation is going to import a lot of assumptions.
+But look: fundamentally, we can’t really make sense of what the *Dao De Jing* is “really” saying. Even Han Dynasty commentators couldn’t make sense of what the *Dao De Jing* is really saying, either! We only realized like 30 years ago that the canonical text might be accidentally reversed (??). We kinda just have to accept that any translation is going to import a lot of assumptions.
 
 So I read the [Ames and Hall “philosophical translation”](https://www.amazon.com/Dao-Jing-Philosophical-Translation-Mandarin/dp/0345444191), which I gather is somewhat idiosyncratic, but relatively thoughtful. I also read a few chapters from [Brook Zipporyn’s more recent translation](https://wwnorton.com/books/9781324092476), which felt somewhat more readable.
 
@@ -69,7 +69,7 @@ Luckily there is a complete, unabridged, fairly idiomatic [translation by Moss R
 
 Parts of *Three Kingdoms* are really fun! There’s a reason characters like Cao Cao and Zhuge Liang and Guan Yu are household names, and why stories like the Peach Garden Oath are literally proverbial, and why *Three Kingdoms* is readapted every three years. Some of the most fun parts are not things you’d pick up from a summary (Zhao Zilong’s *ahem* devotion to Liu Bei...). It has the kind of continent-and-generation-spanning scope you’d otherwise only see in long Western fantasy series like *A Song of Ice & Fire*.[^asoiaf]
 
-But... if you have the opportunity, learn *Three Kingdoms* through cultural osmosis. (I get the sense that *most* Chinese folks “just know” the stories from various adaptations and haven’t actually read the original.) It is very much a medieval romance[^romance], not a modern literary novel, and that means there’s zero interiority or characterization and most of the action is described in a detached, nondescript style. Most of the novel is closer to a historical (albeit heavily fictionalized) chronicle than what we moderns would consider literature. *Some* of that has to do with Chinese storytelling conventions, but *Three Kingdoms* feels noticeably less “modern” than, say, *Jin Ping Mei* or *Hong Lou Meng*. That’s not necessarily an issue — we read the classics, in part, to experience other storytelling styles — but maintained over more than a thousand pages... yeah, it’s *rough* to get through.
+But... if you have the opportunity, learn *Three Kingdoms* through cultural osmosis. (I get the sense that *most* Chinese folks “just know” the stories from various adaptations and haven’t actually read the original.) It is very much a medieval romance[^romance], not a modern literary novel, and that means there’s little interiority or characterization and most of the action is described in a detached, nondescript style. Most of the novel is closer to a historical (albeit heavily fictionalized) chronicle than what we moderns would consider literature. *Some* of that has to do with Chinese storytelling conventions, but *Three Kingdoms* feels noticeably less “modern” than, say, *Jin Ping Mei* or *Hong Lou Meng*. That’s not necessarily an issue — we read the classics, in part, to experience other storytelling styles — but maintained over more than a thousand pages... yeah, it’s *rough* to get through.
 
 Also... *Three Kingdoms* basically refuses to acknowledge the existence of women. Like, over the course of something like a thousand pages and hundreds of named characters, there’s only 4 or so named women, only two of whom matter to the plot (although one of those is a badass, so), and one of whom is introduced just to be cannibalized by her husband (!). Now a *lot* of these classics are uhh *not progressive*, and again I think there’s a lot of value in reading books not exactly in line with our modern values — but at some point it starts to feel strange just how much *Three Kingdoms* goes out of its way to avoid mentioning the gender that makes up half the population, even incidentally.
 
@@ -77,11 +77,11 @@ Also... *Three Kingdoms* basically refuses to acknowledge the existence of women
 
 ![Cover of Creation of the Gods](../../assets/newsletters/time-to-read-the-eastern-classics/creation-of-the-gods.jpg)
 
-*Fengshen Yanyi*, usually translated as *Investiture of the Gods* or *Creation of the Gods*, is not typically listed among the important Chinese classics — it’s not considered one of the Four Great Chinese Novels™️, for instance. However, it *is* fairly important. A lot of famous scenes — King Zhou insulting Nüwa, Daji the fox spirit, Jiang Ziya fishing with a straight hook, Bi Gan making a fox-skin coat and losing his heart, and Nezha killing Ao Bing — are “canonically” from *Fengshen Yanyi*,. In particular, *Ne Zha* and its sequels / spinoffs are all (very loosely) based on *Fengshen Yanyi*.
+*Fengshen Yanyi*, usually translated as *Investiture of the Gods* or *Creation of the Gods*, is not typically listed among the important Chinese classics — it’s not considered one of the Four Great Chinese Novels™️, for instance. However, it *is* fairly important. A lot of famous scenes — King Zhou insulting Nüwa, Daji the fox spirit, Jiang Ziya fishing with a straight hook, Bi Gan making a fox-skin coat and losing his heart, and Nezha killing Ao Bing — are “canonically” from *Fengshen Yanyi*. In particular, *Ne Zha* and its sequels / spinoffs are all (very loosely) based on *Fengshen Yanyi*.
 
 So, obviously, I wanted to read it. Surprisingly, though, there is only one (1) English-language translation, published around 2000 (helpfully, [this site has a link to the PDF](https://journeytothewestresearch.com/2020/05/05/archive-16-creation-of-the-gods-library-of-chinese-classics-chinese-english-bilingual-edition-vol-1-4/)). It is, uh, rough — it is very much a product of late-90s China, with nothing sounding quite idiomatic, and it’s quietly abridged without comment.
 
-But, frankly, translation notwithstanding, I cannot recommend *Fengshen Yanyi*. It is (like *Three Kingdoms*) very much a medieval romance, and it is (like *Three Kingdoms*) very, very long. Unlike *Three Kingdoms* — which at least follows a consistent-ish set of characters and has at least a *few* truly engaging scenes — *Fengshen Yanyi* jumps between characters and plotlines with abandon, with very little to show for it. There’s also a rivalry between different schools of Daoism that is never introduced or explained — even the translator’s introduction basically shrugs and says “yeah this is probably a veiled reference to a real Daoist political struggle in the late Ming Dynasty”. The whole thing feels like the final scene of an MCU movie — all the characters lining up to beat the snot out of each other — without any of the preceding character development.
+But, frankly, translation notwithstanding, I cannot recommend *Fengshen Yanyi*. It is (like *Three Kingdoms*) very much a medieval romance, and it is (like *Three Kingdoms*) very, very long. Unlike *Three Kingdoms* — which at least follows a consistent-ish set of characters and has at least a *few* truly engaging scenes — *Fengshen Yanyi* jumps between characters and plotlines with abandon, with very little to show for it. For instance, there’s also a rivalry between different schools of Daoism that is never introduced or explained — even the translator’s introduction basically shrugs and says “yeah this is probably a veiled reference to a real Daoist political struggle in the late Ming Dynasty”. The whole thing feels like the final scene of an MCU movie — all the characters lining up to beat the snot out of each other — without any of the preceding character development.
 
 Just read decent summaries of the bits you’re interested in or, better yet, just watch *Ne Zha* and its sequels.
 
@@ -99,7 +99,7 @@ Just read decent summaries of the bits you’re interested in or, better yet, ju
 
 *The Peach Blossom Fan* is very, very good!
 
-A long play dramatizing a doomed romance against the backdrop of the fall of the Ming Dynasty (doesn’t that description alone make you want to read it?), I don’t think *The Peach Blossom Fan* is particularly well-known among the English reading public. Which is a shame, because, as I said, it is *very*, *very*, good! It’s easily my favorite of everything listed here.
+A long play dramatizing a doomed romance against the backdrop of the fall of the Ming Dynasty written by a direct descendent of Confucius (doesn’t that description alone make you want to read it?), I don’t think *The Peach Blossom Fan* is particularly well-known among the English reading public. Which is a shame, because, as I said, it is *very*, *very*, good! It’s easily my favorite of everything listed here.
 
 Until a few months ago, the one warning I would have is that the [only English translation](https://www.nyrb.com/products/the-peach-blossom-fan) is rather aged and in particular uses Wade-Giles romanization, which I personally find very distracting.
 
@@ -113,11 +113,11 @@ I only read this because it’s [one of the most recent releases from Penguin Cl
 
 It opens with a Buddhist monk in the Tang dynasty who accidentally breaks his vows by flirting with nine fairies. His master, annoyed, bonks him on the head and he passes out.
 
-Whereupon he wakes up in a harem anime, in which he is the perfect Confucian gentleman who passes the imperial examinations with top marks, becomes the emperor’s personal bestie, and defeats the marauding barbarians on the battlefield, before retiring to collect concubines (the reincarnated fairies, natch).
+... whereupon he wakes up in a harem anime, in which he is the perfect Confucian gentleman who passes the imperial examinations with top marks, becomes the emperor’s personal bestie, and defeats the marauding barbarians on the battlefield, before retiring to collect concubines (the reincarnated fairies, natch).
 
 Then in the last chapter (spoiler alert?) he dies and wakes up as a Buddhist monk again, and realizes that life is impermanent. The end.
 
-One Goodreads review[^goodreads] called it a “Confucian male power fantasy hastily disguised as a Buddhist fable” and I cannot disagree. I wish I liked this book, but frankly unless you are *looking* for a Confucian male power fantasy (which, in fairness, is a pretty interesting cultural object!), I’m not sure I can recommend it.
+One Goodreads review[^goodreads] called it a “Confucian male power fantasy hastily disguised as a Buddhist fable” and I cannot disagree. I wish I liked it, but frankly unless you are *looking* for a Confucian male power fantasy (which, in fairness, is a pretty interesting cultural object!), I’m not sure I can recommend it.
 
 Also, the translation is a bit... odd. It’s pretty solid, but the introduction does point out that there’s a lot of wordplay and symbology in the original that’s difficult-or-impossible to translate, so most of that is missing. Also, they made the... interesting... choice to use old-timey Wade-Giles transliterations of all the Chinese names, apparently to make it feel archaic, just the way Classical Chinese would have felt in the Joseon dynasty. Personally I found that incredibly distracting.
 
@@ -127,7 +127,7 @@ Also, the translation is a bit... odd. It’s pretty solid, but the introduction
 
 *The Song of Kieu* (also sometimes translated *The Tale of Kieu*) is a (the?) great classic of Vietnam — it’s referenced in both Trinh T. Minh-ha’s [*Surname Viet Given Name Nam*](https://www.wmm.com/catalog/film/surname-viet-given-name-nam/) and Viet Thanh Nguyen’s [*The Sympathizer*](https://en.wikipedia.org/wiki/The_Sympathizer)! So needless to say I was excited to read it.
 
-*Kieu* is the story of the eponymous woman (based distantly on a real Chinese woman from the Ming dynasty) bouncing from one set of tragic circumstances to another and, basically, being sad about it. It honestly reminded me of nothing more than Madeline Miller’s *Circe*, which is, you know, a good thing!
+*Kieu* is the story of the eponymous woman (based distantly on a real Chinese woman from the Ming dynasty) bouncing from one set of tragic circumstances to another and, basically, being sad about it. It reminded me of nothing more than Madeline Miller’s *Circe*, which is high praise.
 
 But also: I’m not sure I really got the intended experience? The [Penguin Classics edition](https://www.penguinrandomhouse.com/books/598094/the-song-of-kieu-by-nguyen-du/) was translated by a Brit whose only apparent connection to Vietnam is that he spent a few years there with the Peace Corps (?). The introduction spends pages explaining the evolution of the story from the Ming Dynasty-era historical events that inspired it, but then barely touches on its relevance to Vietnamese culture.
 
