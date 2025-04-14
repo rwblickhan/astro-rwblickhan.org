@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-04-07
+lastUpdatedDate: 2025-04-14
 ---
 
 ## Movies
@@ -18,6 +18,7 @@ lastUpdatedDate: 2025-04-07
 11. *Lady Blue Shanghai* (2010)
 12. *Love & Pop* (1998)
 13. *Challengers* (2024)
+14. *The Wedding Banquet* (1993)
 
 ## TV Shows
 
@@ -27,3 +28,4 @@ lastUpdatedDate: 2025-04-07
 4. *Severance* Season 1 (2022)
 5. *Twin Peaks* Season 2 (1991)
 6. *Severance* Season 2 (2025)
+7. *The White Lotus* Season 3 (2025)
