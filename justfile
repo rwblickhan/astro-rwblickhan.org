@@ -22,6 +22,3 @@ clean:
 
 sync:
     pnpm run astro sync
-
-log:
-  git diff-index --quiet HEAD && echo "No changes!" || (git camp "Log")
