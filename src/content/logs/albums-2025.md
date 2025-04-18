@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-04-08
+lastUpdatedDate: 2025-04-17
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -50,3 +50,4 @@ lastUpdatedDate: 2025-04-08
 45. *Patterns EP*, Ali
 46. *Spiral Bound EP*, Rebecca Sugar
 47. *Forget Me EP*, Summer Twins
+48. *Journey to the Cave of Guanyin*, Theresa Wong
