@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-04-09
+lastUpdatedDate: 2025-04-17
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -17,6 +17,7 @@ lastUpdatedDate: 2025-04-09
 12. *‌Catching the Big Fish: Meditation, Consciousness, and Creativity*, David Lynch
 13. *Earthlings*, Sayaka Murata (trans. Ginny Tapley Takemori)
 14. *Goodnight Punpun* Vol. 1, Inio Asano
+15. *The Expanse #1: Leviathan Wakes*, James S. A. Corey
 
 ## Skimmed
 
