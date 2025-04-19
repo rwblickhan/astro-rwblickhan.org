@@ -18,6 +18,7 @@ lastUpdatedDate: 2025-04-17
 13. *Earthlings*, Sayaka Murata (trans. Ginny Tapley Takemori)
 14. *Goodnight Punpun* Vol. 1, Inio Asano
 15. *The Expanse #1: Leviathan Wakes*, James S. A. Corey
+16. *A Computer Scientist’s Guide to Cell Biology*, William W. Cohen
 
 ## Skimmed
 
