@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-04-14
+lastUpdatedDate: 2025-04-23
 ---
 
 ## Movies
@@ -21,6 +21,7 @@ lastUpdatedDate: 2025-04-14
 14. *The Wedding Banquet* (1993)
 15. *David Lynch: The Art Life* (2016)
 16. 🔁 *Spider-Man: Across the Spider-Verse* (2023)
+17. *Mind Game* (2004)
 
 ## TV Shows
 
