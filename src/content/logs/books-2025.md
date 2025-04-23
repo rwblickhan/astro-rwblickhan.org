@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-04-17
+lastUpdatedDate: 2025-04-23
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -29,4 +29,7 @@ lastUpdatedDate: 2025-04-17
 1. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?”, Bender et. al.
 2. “Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data”, Bender and Koller
 3. “Transmission Versus Truth, Imitation Versus Innovation: What Children Can Do That Large Language and Language-and-Vision Models Cannot (Yet),” Yiu et. al.
-4. “How to Grow a Mind: Statistics, Structure, and Abstraction”, Tenenbaum, Kemp, Giffiths, and Goodman sa
+4. “How to Grow a Mind: Statistics, Structure, and Abstraction”, Tenenbaum, Kemp, Giffiths, and Goodman
+5. “Large Language Models and the Turing Test: The ‘Use of Words’ vs. ‘General Educated Opinion’”, William J. Rapaport
+6. “A Non-Euclidean View of California as a Cold Place to Be”, Ursula K. Le Guin
+7. “Intuition in Software Development”, Peter Naur
