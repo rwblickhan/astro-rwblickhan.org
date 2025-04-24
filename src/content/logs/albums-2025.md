@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-04-17
+lastUpdatedDate: 2025-04-24
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -51,3 +51,6 @@ lastUpdatedDate: 2025-04-17
 46. *Spiral Bound EP*, Rebecca Sugar
 47. *Forget Me EP*, Summer Twins
 48. *Journey to the Cave of Guanyin*, Theresa Wong
+49. *Wanderstop OST*, C418
+50. *Eternal Blue*, Spiritbox
+51. *Tsunami Sea*, Spiritbox
