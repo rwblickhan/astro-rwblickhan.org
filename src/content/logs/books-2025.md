@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-04-23
+lastUpdatedDate: 2025-04-26
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -19,6 +19,7 @@ lastUpdatedDate: 2025-04-23
 14. *Goodnight Punpun* Vol. 1, Inio Asano
 15. *The Expanse #1: Leviathan Wakes*, James S. A. Corey
 16. *A Computer Scientist’s Guide to Cell Biology*, William W. Cohen
+17. *You Deserve A Tech Union*, Ethan Marcotte
 
 ## Skimmed
 
