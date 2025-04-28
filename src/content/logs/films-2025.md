@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-04-23
+lastUpdatedDate: 2025-04-28
 ---
 
 ## Movies
@@ -32,3 +32,4 @@ lastUpdatedDate: 2025-04-23
 5. *Twin Peaks* Season 2 (1991)
 6. *Severance* Season 2 (2025)
 7. *The White Lotus* Season 3 (2025)
+8. *Steins;Gate* (2011)
