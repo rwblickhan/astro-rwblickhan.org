@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-04-24
+lastUpdatedDate: 2025-04-28
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -54,3 +54,4 @@ lastUpdatedDate: 2025-04-24
 49. *Wanderstop OST*, C418
 50. *Eternal Blue*, Spiritbox
 51. *Tsunami Sea*, Spiritbox
+52. *Non Paradisi*, GOST
