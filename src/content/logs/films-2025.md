@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-04-28
+lastUpdatedDate: 2025-04-30
 ---
 
 ## Movies
@@ -22,6 +22,7 @@ lastUpdatedDate: 2025-04-28
 15. *David Lynch: The Art Life* (2016)
 16. 🔁 *Spider-Man: Across the Spider-Verse* (2023)
 17. *Mind Game* (2004)
+18. *Sinners* (2025)
 
 ## TV Shows
 
