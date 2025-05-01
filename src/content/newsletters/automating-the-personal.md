@@ -59,7 +59,7 @@ Hammerspoon is fun largely because Lua is simple (in the [“Simple Made Easy”
 
 ## In Other News
 
-- I’ve had an FL Studio license for almost as long as I can remember (a gift in middle school, I think), but only recently did I sit down to really *learn* it. I’m still a beginner, but I am embarrassed to say my first thought was to make some ambient drone.
+- I’ve had an FL Studio license for almost as long as I can remember (a gift in middle school, I think), but only recently did I sit down to really *learn* it. I’m still a beginner, but I am embarrassed to say my first thought was to make some [ambient drone](../../assets//owls.mp3).
 - We made another zine! If you’re in the Bay Area, come check out the [launch party](https://partiful.com/e/aXkJxDQVh9aKqOL0vzkp)!
 
 [^hammerspoon]: I’m sure I’ve seen it mentioned in passing many times before, but specifically I learned about Hammerspoon from [this recent tooling post](https://macwright.com/2025/04/03/personal-tools) by Tom MacWright.
