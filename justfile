@@ -1,7 +1,6 @@
 alias p := push
 alias r := run
 alias b := build
-alias l := log
 alias c := clean
 alias s := sync
 

@@ -5,6 +5,8 @@ publicationDate: 2025-04-30
 season: 7
 ---
 
+<!-- markdownlint-disable no-inline-html -->
+
 Is there really value in personal automation? I wrote a [whole essay on Raycast](https://rwblickhan.org/technical/why-raycast/) and I’m still not really sure. Even though xkcd has a [helpful chart](https://xkcd.com/1205/) for how much time you can spend automating a task, the joke is that you’re probably spending *too much time*.
 
 But it’s so much fun! I’ve seen this referred to as a [worry stone](https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/) or by the Dutch term [*prutsen*](https://stefan.vanburen.xyz/blog/prutsen/). Sometimes it’s okay to waste a bit of time on something trivial.
@@ -59,7 +61,7 @@ Hammerspoon is fun largely because Lua is simple (in the [“Simple Made Easy”
 
 ## In Other News
 
-- I’ve had an FL Studio license for almost as long as I can remember (a gift in middle school, I think), but only recently did I sit down to really *learn* it. I’m still a beginner, but I am embarrassed to say my first thought was to make some [ambient drone](/public/owls.mp3).
+- I’ve had an FL Studio license for almost as long as I can remember (a gift in middle school, I think), but only recently did I sit down to really *learn* it. I’m still a beginner, but I am embarrassed to say my first thought was to make some [ambient drone](/owls.mp3): <audio controls src="/owls.mp3"></audio>
 - We made another zine! If you’re in the Bay Area, come check out the [launch party](https://partiful.com/e/aXkJxDQVh9aKqOL0vzkp)!
 
 [^hammerspoon]: I’m sure I’ve seen it mentioned in passing many times before, but specifically I learned about Hammerspoon from [this recent tooling post](https://macwright.com/2025/04/03/personal-tools) by Tom MacWright.
