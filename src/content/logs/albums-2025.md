@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-04-28
+lastUpdatedDate: 2025-05-03
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -55,3 +55,4 @@ lastUpdatedDate: 2025-04-28
 50. *Eternal Blue*, Spiritbox
 51. *Tsunami Sea*, Spiritbox
 52. *Non Paradisi*, GOST
+53. *Frog Raag*, Evan Shornstein & Will Epstein
