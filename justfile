@@ -4,8 +4,14 @@ alias b := build
 alias c := clean
 alias s := sync
 
-push message:
+commit message:
     git add -A && git commit -m '{{message}}' && git push
+
+bundle message: (commit message)
+    git bundle create rwblickhan.org.bundle --all
+
+push message: (bundle message)
+    rclone copy rwblickhan.org.bundle r2:backups/
 
 run:
     pnpm run dev
