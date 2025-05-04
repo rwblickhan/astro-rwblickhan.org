@@ -4,13 +4,13 @@ alias b := build
 alias c := clean
 alias s := sync
 
-commit message:
-    git add -A && git commit -m '{{message}}' && git push
+push message:
+    git camp '{{message}}'
 
-bundle message: (commit message)
+bundle:
     git bundle create rwblickhan.org.bundle --all
 
-push message: (bundle message)
+backup: bundle
     rclone copy rwblickhan.org.bundle r2:backups/
 
 run:
