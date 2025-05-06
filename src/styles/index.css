@@ -1,8 +1,13 @@
 :root {
-  color-scheme: light dark;
-  --rwb-background: light-dark(white, #030404);
-  --rwb-text: light-dark(black, #e8e6e3);
-  --rwb-link: light-dark(#3366cc, #689fd9);
+  --black: hsl(0 0% 0%);
+  --paper-gray: hsl(42 0% 96%);
+  --rwb-blue: hsl(208 100% 45%);
+  --rwb-dark-blue: hsl(208 85% 35%);
+
+  --rwb-text: var(--black);
+  --rwb-link: var(--rwb-dark-blue);
+  --rwb-link-underline: var(--rwb-blue);
+  --rwb-background: var(--paper-gray);
 }
 
 /* Reset based on https://keithjgrant.com/posts/2024/01/my-css-resets/ */
@@ -118,6 +123,11 @@ dt {
 }
 
 a {
+  color: var(--rwb-text);
+  text-decoration-color: var(--rwb-link-underline);
+}
+
+a:hover {
   color: var(--rwb-link);
 }
 
