@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-05-07
+lastUpdatedDate: 2025-05-08
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -57,3 +57,5 @@ lastUpdatedDate: 2025-05-07
 52. *Non Paradisi*, GOST
 53. *Frog Raag*, Evan Shornstein & Will Epstein
 54. *Photay*, Photay
+55. *froge.mp3*, piri & tommy
+56. *New World*, Argy
