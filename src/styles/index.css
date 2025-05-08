@@ -177,25 +177,18 @@ a:hover {
 
 @layer blockquotes {
   figure {
-    border: 1px solid var(--rwb-text);
-    border-radius: 20px;
-    margin-block: 8px;
     clear: both;
   }
 
   figure blockquote {
-    margin-inline: 1em;
+    margin-inline: 2em;
     margin-block: 1em;
   }
 
-  figure:has(figcaption) blockquote {
-    border-bottom: 1px solid var(--rwb-text);
-  }
-
+  /* Per tufte-css: https://edwardtufte.github.io/tufte-css/#fundamentals */
   figure figcaption {
-    margin-inline-start: 2em;
-    margin-inline-end: 1em;
-    margin-block: 1em;
+    width: 55%;
+    margin-inline-start: auto;
   }
 }
 

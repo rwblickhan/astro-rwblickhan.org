@@ -7,6 +7,12 @@ import LinkBox from "../components/LinkBox.astro";
 <BaseLayout description="Index" width="medium">
   <h1>Hi, I'm Russell, a writer and programmer.</h1>
 
+  <p style="text-align: center">
+    <em
+      >"That is well said," Candide replied, "but we must cultivate our garden."</em
+    > - <em>Candide</em>, Voltaire (trans. Peter Constantine)
+  </p>
+
   <p>
     This site is my <a href="/misc/pattern-language/#digital-garden"
       >digital garden</a
@@ -15,15 +21,6 @@ import LinkBox from "../components/LinkBox.astro";
       >rwblog</code
     >.
   </p>
-
-  <figure>
-    <blockquote>
-      <p>What a happy day it is.</p>
-    </blockquote>
-    <figcaption>
-      <em>World of Tomorrow</em>
-    </figcaption>
-  </figure>
 
   <h2>Favorites</h2>
 
@@ -164,18 +161,6 @@ import LinkBox from "../components/LinkBox.astro";
     > and our small canine companion Rooibos.
   </p>
 
-  <figure>
-    <blockquote>
-      <p>
-        "That is well said," Candide replied, "but we must cultivate our
-        garden."
-      </p>
-    </blockquote>
-    <figcaption>
-      <em>Candide</em>, Voltaire (trans. Peter Constantine)
-    </figcaption>
-  </figure>
-
   <h2>Colophon</h2>
 
   <p>
@@ -215,10 +200,10 @@ import LinkBox from "../components/LinkBox.astro";
       <em>So Long, and Thanks for All the Fish</em>, Douglas Adams
     </figcaption>
   </figure>
-</BaseLayout>
 
-<style>
-  .cv {
-    margin-block-start: 1rem;
-  }
-</style>
+  <style>
+    .cv {
+      margin-block-start: 1rem;
+    }
+  </style>
+</BaseLayout>
