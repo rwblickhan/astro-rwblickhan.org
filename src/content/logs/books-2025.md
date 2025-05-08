@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-04-29
+lastUpdatedDate: 2025-05-07
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -21,6 +21,7 @@ lastUpdatedDate: 2025-04-29
 16. *A Computer Scientist’s Guide to Cell Biology*, William W. Cohen
 17. *You Deserve A Tech Union*, Ethan Marcotte
 18. *Abundance*, Ezra Klein & Derek Thompson
+19. *Gone Girl*, Gillian Flynn
 
 ## Skimmed
 

@@ -4,9 +4,6 @@ alias b := build
 alias c := clean
 alias s := sync
 
-push message:
-    git camp '{{message}}'
-
 bundle:
     git bundle create rwblickhan.org.bundle --all
 
