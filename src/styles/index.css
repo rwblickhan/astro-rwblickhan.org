@@ -102,6 +102,7 @@ h5,
 h6 {
   margin-block: 1rem;
   text-wrap: balance;
+  text-align: center;
   clear: both;
 }
 

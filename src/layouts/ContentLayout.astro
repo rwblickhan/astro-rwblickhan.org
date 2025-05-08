@@ -32,10 +32,21 @@ const {
   shouldIndex={true}
 >
   <h1>{title}</h1>
-  {lastUpdatedDate && <h3>Last updated: {lastUpdatedDate.toDateString()}</h3>}
   {
-    publicationDate && (
-      <h3>Originally published: {publicationDate.toDateString()}</h3>
+    (lastUpdatedDate || publicationDate) && (
+      <p>
+        <strong>
+          {lastUpdatedDate && (
+            <span>Last updated: {lastUpdatedDate.toLocaleDateString()}</span>
+          )}
+          {lastUpdatedDate && publicationDate && <span> | </span>}
+          {publicationDate && (
+            <span>
+              Originally published: {publicationDate.toLocaleDateString()}
+            </span>
+          )}
+        </strong>
+      </p>
     )
   }
   <slot />
@@ -62,5 +73,9 @@ const {
     border: 1px solid var(--rwb-link);
     border-radius: 8px;
     padding: 0.5rem;
+  }
+
+  p {
+    text-align: center;
   }
 </style>
