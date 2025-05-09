@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-05-07
+lastUpdatedDate: 2025-05-09
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -22,6 +22,7 @@ lastUpdatedDate: 2025-05-07
 17. *You Deserve A Tech Union*, Ethan Marcotte
 18. *Abundance*, Ezra Klein & Derek Thompson
 19. *Gone Girl*, Gillian Flynn
+20. *Uncanny: The Origins of Fear*, Junji Ito (trans. Jocelyn Allen)
 
 ## Skimmed
 
