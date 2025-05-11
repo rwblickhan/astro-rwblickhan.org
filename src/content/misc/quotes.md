@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-04-16
+lastUpdatedDate: 2025-05-10
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote-->
@@ -325,6 +325,22 @@ The ones I find myself thinking about a lot...
 > And suddenly the story splintered. It didn't even have a smooth ending. It concluded with the abruptness and lack of logic of a smack in the face.
 >
 > “Interrupted Story,” Clarice Lispector (trans. Benjamin Moser)
+
+> Some people around San Bernardino say that Arthwell Hayton suffered; others say that he did not suffer at all. Perhaps he did not, for time past is not believed to have any bearing upon time present or future, out in the golden land where every day the world is born anew.
+>
+> *Slouching Towards Bethlehem*, Joan Didion
+
+> For several years, I had been bored. Not a whining, restless child's boredom (although I was not above that) but a dense, blanketing malaise. It seemed to me that there was nothing new to be discovered ever again. Our society was utterly, ruinously derivative (although the word derivative as a criticism is itself derivative). We were the first human beings who would never see anything for the first time. We stare at the wonders of the world, dull-eyed, underwhelmed. Mona Lisa, the Pyramids, the Empire State Building. Jungle animals on attack, ancient icebergs collapsing, volcanoes erupting. I can't recall a single amazing thing I have seen firsthand that I didn't immediately reference to a movie. or TV show. A fucking commercial. You know the awful singsong ot the blasé: Seeeen it. I've literally seen it all, and the worst thing, the thing that makes me want to blow my brains out, is: The secondhand experience is always better. The image is crisper, the view is keener, the camera angle and the soundtrack manipulate my emotions in a way reality can't anymore. I don't know that we are actually human at this point, those of us who are like most of us, who grew up with TV and movies and now the Internet. If we are betrayed, we know the words to say; when a loved one dies, we know the words to say. If we want to play the stud or the smart-ass or the fool, we know the words to say. We are all working from the same dog-eared script.
+>
+> It's a very difficult era in which to be a person, just a real, actual person, instead of a collection of personality traits selected from an endless Automat of characters.
+>
+> And if all of us are play-acting, there can be no such thing as a soul mate, because we don't have genuine souls.
+>
+> It had gotten to the point where it seemed like nothing matters, because I'm not a real person and neither is anyone else.
+>
+> I would have done anything to feel real again.
+>
+> *Gone Girl*, Gillian Flynn
 
 ## From Non-Fiction
 
