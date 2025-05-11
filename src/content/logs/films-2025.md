@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-04-30
+lastUpdatedDate: 2025-05-11
 ---
 
 ## Movies
@@ -23,6 +23,7 @@ lastUpdatedDate: 2025-04-30
 16. 🔁 *Spider-Man: Across the Spider-Verse* (2023)
 17. *Mind Game* (2004)
 18. *Sinners* (2025)
+19. *Gone Girl* (2014)
 
 ## TV Shows
 
