@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-05-09
+lastUpdatedDate: 2025-05-13
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -23,6 +23,7 @@ lastUpdatedDate: 2025-05-09
 18. *Abundance*, Ezra Klein & Derek Thompson
 19. *Gone Girl*, Gillian Flynn
 20. *Uncanny: The Origins of Fear*, Junji Ito (trans. Jocelyn Allen)
+21. *No Longer Human*, Osamu Dazai (trans. Donald Keene)
 
 ## Skimmed
 
