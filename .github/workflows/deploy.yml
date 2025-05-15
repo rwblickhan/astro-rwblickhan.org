@@ -18,6 +18,7 @@ jobs:
       - name: Cache images
         uses: actions/cache@v4
         with:
+          key: _astro
           path: dist/_astro
       - name: Build & Deploy Site
         uses: cloudflare/wrangler-action@v3
