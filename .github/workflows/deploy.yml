@@ -18,7 +18,7 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: cache
-          key: Images-${{ runner.os }}
+          key: _astro
       - run: npm ci
       - run: npm run build
       - name: Build & Deploy Site
@@ -27,20 +27,16 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           wranglerVersion: "4.14.4"
-      - name: Install gh actions-cache extension
-        run: gh extension install actions/gh-actions-cache
-        env:
-          GH_TOKEN: ${{ github.token }}
       - name: Check if images cache exists for current branch
         id: actions-cache-list
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: echo "RESULT=$(gh actions-cache list --branch ${{ github.ref }} --key Images-)" >> $GITHUB_OUTPUT
       - name: Clear existing images cache
         if: ${{ steps.actions-cache-list.outputs.RESULT != '' }}
         env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh actions-cache delete ${{ steps.cache-images-restore.outputs.cache-primary-key }} --branch ${{ github.ref }} --confirm
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh cache delete ${{ steps.cache-images-restore.outputs.cache-primary-key }}
       - name: Cache images
         uses: actions/cache/save@v4
         with:
