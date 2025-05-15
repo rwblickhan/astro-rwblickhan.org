@@ -13,13 +13,13 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
-      - run: npm ci
-      - run: npm run build
       - name: Cache images
         uses: actions/cache@v4
         with:
           key: _astro
           path: dist/_astro
+      - run: npm ci
+      - run: npm run build
       - name: Build & Deploy Site
         uses: cloudflare/wrangler-action@v3
         with:
