@@ -9,6 +9,7 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+      - run: npx astro build
       - name: Build & Deploy Site
         uses: cloudflare/wrangler-action@v3
         with:
