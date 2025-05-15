@@ -9,7 +9,11 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
-      - run: npm install
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+      - run: npm ci
       - run: npm run build
       - name: Build & Depoy Site
         uses: cloudflare/wrangler-action@v3
