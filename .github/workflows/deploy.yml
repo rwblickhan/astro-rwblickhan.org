@@ -17,7 +17,7 @@ jobs:
         uses: actions/cache@v4
         with:
           key: _astro
-          path: dist/_astro
+          path: cache
       - run: npm ci
       - run: npm run build
       - name: Build & Deploy Site

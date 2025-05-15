@@ -11,6 +11,7 @@ import mdx from "@astrojs/mdx";
 export default defineConfig({
   site: "https://rwblickhan.org",
   integrations: [pagefind(), sitemap(), mdx()],
+  cacheDir: "./cache",
   experimental: {
     contentIntellisense: true,
   },
