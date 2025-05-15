@@ -31,9 +31,9 @@ jobs:
         id: actions-cache-list
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: echo "RESULT=$(gh cache list --branch ${{ github.ref }} --key _astro)" >> $GITHUB_OUTPUT
+        run: echo "RESULT=$(gh cache list --json key --key _astro)" >> $GITHUB_OUTPUT
       - name: Clear existing images cache
-        if: ${{ steps.actions-cache-list.outputs.RESULT != '' }}
+        if: ${{ steps.actions-cache-list.outputs.RESULT != '[]' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh cache delete ${{ steps.cache-images-restore.outputs.cache-primary-key }}
