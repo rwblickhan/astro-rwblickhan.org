@@ -13,6 +13,7 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
+      - run: ls
       - name: Restore cached images
         uses: actions/cache@v4
         with:
