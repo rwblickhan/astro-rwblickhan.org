@@ -13,12 +13,11 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
-      - run: ls
       - name: Restore cached images
         uses: actions/cache@v4
         with:
           path: cache
-          key: _astro-${{ hashFiles('src/assets/**/*.{jpg,jpeg,webp,png}')}}
+          key: _astro-${{ hashFiles('src/assets/**/*.jpg', 'src/assets/**/*.jpeg', 'src/assets/**/*.webp', 'src/assets/**/*.webp') }}
       - run: npm ci
       - run: npm run build
       - name: Build & Deploy Site
