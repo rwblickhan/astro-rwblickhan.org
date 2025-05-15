@@ -9,8 +9,9 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
-      - run: npx astro build
-      - name: Build & Deploy Site
+      - run: npm install
+      - run: npm run build
+      - name: Build & Depoy Site
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
