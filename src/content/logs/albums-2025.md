@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-05-08
+lastUpdatedDate: 2025-05-16
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -59,3 +59,5 @@ lastUpdatedDate: 2025-05-08
 54. *Photay*, Photay
 55. *froge.mp3*, piri & tommy
 56. *New World*, Argy
+57. *Lake Fire*, Loscii
+58.
