@@ -6,9 +6,6 @@ alias s := sync
 bundle:
     git bundle create rwblickhan.org.bundle --all
 
-backup: bundle
-    rclone --progress copy rwblickhan.org.bundle r2:backups/
-
 run:
     pnpm run dev
 
