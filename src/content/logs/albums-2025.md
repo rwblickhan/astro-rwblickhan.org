@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-05-19
+lastUpdatedDate: 2025-05-24
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -62,3 +62,4 @@ lastUpdatedDate: 2025-05-19
 57. *Lake Fire*, Loscii
 58. *discerned in the fugue of streams*, R Beny
 59. *Strange Disciple*, Nation of Language
+60. *Vind*, CTM
