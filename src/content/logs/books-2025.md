@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-05-24
+lastUpdatedDate: 2025-05-25
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -25,6 +25,7 @@ lastUpdatedDate: 2025-05-24
 20. *Uncanny: The Origins of Fear*, Junji Ito (trans. Jocelyn Allen)
 21. *No Longer Human*, Osamu Dazai (trans. Donald Keene)
 22. 🔁 *The Great Gatsby*, F. Scott Fitzgerald
+23. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
 
 ## Skimmed
 
