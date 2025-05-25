@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-05-13
+lastUpdatedDate: 2025-05-24
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -24,6 +24,7 @@ lastUpdatedDate: 2025-05-13
 19. *Gone Girl*, Gillian Flynn
 20. *Uncanny: The Origins of Fear*, Junji Ito (trans. Jocelyn Allen)
 21. *No Longer Human*, Osamu Dazai (trans. Donald Keene)
+22. 🔁 *The Great Gatsby*, F. Scott Fitzgerald
 
 ## Skimmed
 
