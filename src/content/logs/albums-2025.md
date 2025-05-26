@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-05-24
+lastUpdatedDate: 2025-05-25
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -63,3 +63,4 @@ lastUpdatedDate: 2025-05-24
 58. *discerned in the fugue of streams*, R Beny
 59. *Strange Disciple*, Nation of Language
 60. *Vind*, CTM
+61. *Celeste*, CTM & August Rosenbaum
