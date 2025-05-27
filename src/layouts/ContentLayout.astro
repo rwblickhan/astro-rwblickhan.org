@@ -31,24 +31,26 @@ const {
   parentCollection={parentCollection}
   shouldIndex={true}
 >
-  <h1>{title}</h1>
-  {
-    (lastUpdatedDate || publicationDate) && (
-      <p>
-        <strong>
-          {lastUpdatedDate && (
-            <span>Last updated: {lastUpdatedDate.toLocaleDateString()}</span>
-          )}
-          {lastUpdatedDate && publicationDate && <span> | </span>}
-          {publicationDate && (
-            <span>
-              Originally published: {publicationDate.toLocaleDateString()}
-            </span>
-          )}
-        </strong>
-      </p>
-    )
-  }
+  <hgroup>
+    <h1>{title}</h1>
+    {
+      (lastUpdatedDate || publicationDate) && (
+        <p>
+          <strong>
+            {lastUpdatedDate && (
+              <span>Last updated: {lastUpdatedDate.toLocaleDateString()}</span>
+            )}
+            {lastUpdatedDate && publicationDate && <span> | </span>}
+            {publicationDate && (
+              <span>
+                Originally published: {publicationDate.toLocaleDateString()}
+              </span>
+            )}
+          </strong>
+        </p>
+      )
+    }
+  </hgroup>
   <slot />
   {
     includeResponseLink && (
