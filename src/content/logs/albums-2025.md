@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-05-25
+lastUpdatedDate: 2025-05-27
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -64,3 +64,4 @@ lastUpdatedDate: 2025-05-25
 59. *Strange Disciple*, Nation of Language
 60. *Vind*, CTM
 61. *Celeste*, CTM & August Rosenbaum
+62. *Boavista*, Stephan Bodzin
