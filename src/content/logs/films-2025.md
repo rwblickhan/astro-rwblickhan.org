@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-05-11
+lastUpdatedDate: 2025-05-28
 ---
 
 ## Movies
@@ -35,3 +35,4 @@ lastUpdatedDate: 2025-05-11
 6. *Severance* Season 2 (2025)
 7. *The White Lotus* Season 3 (2025)
 8. *Steins;Gate* (2011)
+9. *You* Season 5 (2025)
