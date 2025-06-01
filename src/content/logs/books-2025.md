@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-05-26
+lastUpdatedDate: 2025-05-31
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -27,6 +27,7 @@ lastUpdatedDate: 2025-05-26
 22. 🔁 *The Great Gatsby*, F. Scott Fitzgerald
 23. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
 24. *Remedios Varo: Science Fictions* (ed. Caitlin Haskell & Tere Arcq)
+25. *Zhuangzi: The Complete Writings* (trans. Brook Ziporyn)
 
 ## Skimmed
 
