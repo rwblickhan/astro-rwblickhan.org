@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-05-31
+lastUpdatedDate: 2025-06-01
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -28,6 +28,7 @@ lastUpdatedDate: 2025-05-31
 23. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
 24. *Remedios Varo: Science Fictions* (ed. Caitlin Haskell & Tere Arcq)
 25. *Zhuangzi: The Complete Writings* (trans. Brook Ziporyn)
+26. 🔁 *The Hearing Trumpet*, Leonora Carrington
 
 ## Skimmed
 
