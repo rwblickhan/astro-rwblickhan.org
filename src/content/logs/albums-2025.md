@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-05-27
+lastUpdatedDate: 2025-05-31
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -65,3 +65,5 @@ lastUpdatedDate: 2025-05-27
 60. *Vind*, CTM
 61. *Celeste*, CTM & August Rosenbaum
 62. *Boavista*, Stephan Bodzin
+63. *Fields*, Third Coast Percussion
+64. *Boavista Remixes*, Stephan Bodzin
