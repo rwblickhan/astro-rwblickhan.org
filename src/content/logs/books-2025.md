@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-06-01
+lastUpdatedDate: 2025-06-02
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -29,6 +29,7 @@ lastUpdatedDate: 2025-06-01
 24. *Remedios Varo: Science Fictions* (ed. Caitlin Haskell & Tere Arcq)
 25. *Zhuangzi: The Complete Writings* (trans. Brook Ziporyn)
 26. 🔁 *The Hearing Trumpet*, Leonora Carrington
+27. *Daodejing*, Laozi (trans. Brook Ziporyn)
 
 ## Skimmed
 
