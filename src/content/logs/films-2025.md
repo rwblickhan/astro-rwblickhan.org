@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-05-28
+lastUpdatedDate: 2025-06-03
 ---
 
 ## Movies
@@ -36,3 +36,4 @@ lastUpdatedDate: 2025-05-28
 7. *The White Lotus* Season 3 (2025)
 8. *Steins;Gate* (2011)
 9. *You* Season 5 (2025)
+10. *The Rehearsal* Season 2 (2025)
