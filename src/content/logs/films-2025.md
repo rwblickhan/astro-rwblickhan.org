@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-06-03
+lastUpdatedDate: 2025-06-18
 ---
 
 ## Movies
@@ -24,6 +24,7 @@ lastUpdatedDate: 2025-06-03
 17. *Mind Game* (2004)
 18. *Sinners* (2025)
 19. *Gone Girl* (2014)
+20. *La Jetée* (1962)
 
 ## TV Shows
 
