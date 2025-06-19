@@ -3,6 +3,7 @@
   --paper-gray: hsl(42 0% 96%);
   --rwb-blue: hsl(208 100% 45%);
   --rwb-dark-blue: hsl(208 85% 35%);
+  --rwb-light-blue: hsl(208, 75%, 75%);
 
   --rwb-text: var(--black);
   --rwb-link: var(--rwb-dark-blue);
@@ -130,6 +131,10 @@ a {
 
 a:hover {
   color: var(--rwb-link);
+}
+
+::target-text {
+  background-color: var(--rwb-light-blue);
 }
 
 @layer images {
