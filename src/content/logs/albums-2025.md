@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-05-31
+lastUpdatedDate: 2025-06-23
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -67,3 +67,8 @@ lastUpdatedDate: 2025-05-31
 62. *Boavista*, Stephan Bodzin
 63. *Fields*, Third Coast Percussion
 64. *Boavista Remixes*, Stephan Bodzin
+65. *Aguas de Amazonia*, Third Coast Percussion
+66. *Fields*, Third Coast Percussion
+67. *Escape Velocity*, Zombi
+68. *The Fear of Never Landing*, Marconi Union
+69. *melodies*, melodies
