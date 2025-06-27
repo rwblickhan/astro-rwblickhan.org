@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-06-18
+lastUpdatedDate: 2025-06-26
 ---
 
 ## Movies
@@ -39,3 +39,4 @@ lastUpdatedDate: 2025-06-18
 9. *You* Season 5 (2025)
 10. *The Rehearsal* Season 2 (2025)
 11. *Twin Peaks: The Return* (2017)
+12. *Andor* Season 2 (2025)
