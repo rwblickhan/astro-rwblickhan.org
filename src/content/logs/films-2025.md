@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-06-26
+lastUpdatedDate: 2025-07-06
 ---
 
 ## Movies
@@ -25,6 +25,7 @@ lastUpdatedDate: 2025-06-26
 18. *Sinners* (2025)
 19. *Gone Girl* (2014)
 20. *La Jetée* (1962)
+21. 🔁 *In the Mood for Love* (2000)
 
 ## TV Shows
 
