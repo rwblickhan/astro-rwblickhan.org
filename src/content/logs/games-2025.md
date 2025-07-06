@@ -10,3 +10,5 @@ lastUpdatedDate: 2025-05-26
 3. *Gone Home*
 
 ## Traditional Games
+
+1. *BANG!*
