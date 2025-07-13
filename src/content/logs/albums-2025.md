@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-07-03
+lastUpdatedDate: 2025-07-13
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -73,3 +73,4 @@ lastUpdatedDate: 2025-07-03
 68. *The Fear of Never Landing*, Marconi Union
 69. *melodies*, melodies
 70. *Help Ever Hurt Never*, Fujii Kaze
+71. *Love All Serve All*, Fujii Kaze
