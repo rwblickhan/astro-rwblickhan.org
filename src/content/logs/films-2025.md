@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-07-06
+lastUpdatedDate: 2025-07-14
 ---
 
 ## Movies
@@ -26,6 +26,7 @@ lastUpdatedDate: 2025-07-06
 19. *Gone Girl* (2014)
 20. *La Jetée* (1962)
 21. 🔁 *In the Mood for Love* (2000)
+22. *KPop Demon Hunters* (2025)
 
 ## TV Shows
 
