@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-07-14
+lastUpdatedDate: 2025-07-15
 ---
 
 ## Movies
@@ -27,6 +27,7 @@ lastUpdatedDate: 2025-07-14
 20. *La Jetée* (1962)
 21. 🔁 *In the Mood for Love* (2000)
 22. *KPop Demon Hunters* (2025)
+23. 🔁 *Rogue One: A Star Wars Story* (2016)
 
 ## TV Shows
 
