@@ -3,7 +3,8 @@
   --paper-gray: hsl(42 0% 96%);
   --rwb-blue: hsl(208 100% 45%);
   --rwb-dark-blue: hsl(208 85% 35%);
-  --rwb-light-blue: hsl(208, 75%, 75%);
+  --rwb-medium-blue: hsl(208, 75%, 75%);
+  --rwb-light-blue: hsl(208 100% 94%);
 
   --rwb-text: var(--black);
   --rwb-link: var(--rwb-dark-blue);
@@ -134,7 +135,7 @@ a:hover {
 }
 
 ::target-text {
-  background-color: var(--rwb-light-blue);
+  background-color: var(--rwb-medium-blue);
 }
 
 @layer images {
@@ -192,8 +193,10 @@ a:hover {
 
   /* Per tufte-css: https://edwardtufte.github.io/tufte-css/#fundamentals */
   figure figcaption {
-    width: 55%;
+    max-width: 55%;
     margin-inline-start: auto;
+    text-wrap: balance;
+    text-align: right;
   }
 }
 
@@ -219,5 +222,31 @@ a:hover {
 
   tbody tr:nth-of-type(even) {
     background-color: #f3f3f3;
+  }
+}
+
+@layer callouts {
+  aside {
+    margin-block: 1rem;
+    padding: 1rem;
+    border-left: 6px solid var(--rwb-blue);
+    background-color: var(--rwb-light-blue);
+    border-radius: 0.5rem;
+  }
+
+  aside.note::before {
+    content: "Note";
+    font-weight: bold;
+    color: var(--rwb-blue);
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  aside > *:first-child {
+    margin-top: 0;
+  }
+
+  aside > *:last-child {
+    margin-bottom: 0;
   }
 }
