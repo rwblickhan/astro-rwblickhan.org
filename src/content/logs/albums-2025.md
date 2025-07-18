@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-07-13
+lastUpdatedDate: 2025-07-18
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -74,3 +74,5 @@ lastUpdatedDate: 2025-07-13
 69. *melodies*, melodies
 70. *Help Ever Hurt Never*, Fujii Kaze
 71. *Love All Serve All*, Fujii Kaze
+72. *ex_libris 001 EP*, ex_libris
+73. *ex_libris 002 EP*, ex_libris
