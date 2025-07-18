@@ -5,6 +5,7 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import remarkA11yEmoji from "@fec/remark-a11y-emoji";
 import rehypeBlockquoteFigures from "rehype-blockquote-figures";
+import remarkAside from "remark-aside";
 
 import mdx from "@astrojs/mdx";
 
@@ -27,6 +28,7 @@ export default defineConfig({
         },
       ],
       remarkA11yEmoji,
+      remarkAside,
     ],
     rehypePlugins: [rehypeBlockquoteFigures],
   },

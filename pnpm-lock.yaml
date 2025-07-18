@@ -38,6 +38,9 @@ importers:
       rehype-blockquote-figures:
         specifier: ^1.0.0
         version: 1.0.0
+      remark-aside:
+        specifier: ^1.0.1
+        version: 1.0.2
       remark-collapse:
         specifier: ^0.1.2
         version: 0.1.2
@@ -1823,6 +1826,9 @@ packages:
 
   rehype@13.0.2:
     resolution: {integrity: sha512-j31mdaRFrwFRUIlxGeuPXXKWQxet52RBQRvCmzl5eCefn/KGbomK5GMHNMsOJf55fgo3qw5tST5neDuarDYR2A==}
+
+  remark-aside@1.0.2:
+    resolution: {integrity: sha512-Yh72o8GLn2enZaTO4+ro03mgcTj8Rl3LqNpMWR7bhJjpqHfmZ5qynKyyFinx98x7NNW4ayycX1QtXp+sy2hgXA==}
 
   remark-collapse@0.1.2:
     resolution: {integrity: sha512-x2lhtaT4nR1Tkp/hftoeiMHbdAntxu5Q9D6lymwMqUtoF2pg3bqNaa8NO/8yyOVhddYk0d0dkhGc+avGUf0lZA==}
@@ -4650,6 +4656,10 @@ snapshots:
       rehype-parse: 9.0.1
       rehype-stringify: 10.0.1
       unified: 11.0.5
+
+  remark-aside@1.0.2:
+    dependencies:
+      unist-util-visit: 5.0.0
 
   remark-collapse@0.1.2:
     dependencies:
