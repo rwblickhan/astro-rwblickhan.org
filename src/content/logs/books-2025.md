@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-07-12
+lastUpdatedDate: 2025-07-18
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -31,6 +31,7 @@ lastUpdatedDate: 2025-07-12
 26. 🔁 *The Hearing Trumpet*, Leonora Carrington
 27. *Daodejing*, Laozi (trans. Brook Ziporyn)
 28. *The Long Walk*, Stephen King
+29. *Clyde Fans*, Seth
 
 ## Skimmed
 
