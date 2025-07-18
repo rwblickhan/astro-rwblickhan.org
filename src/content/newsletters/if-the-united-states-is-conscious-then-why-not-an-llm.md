@@ -24,7 +24,7 @@ In the latter case, I’m referring to “phenomenal consciousness” — the [�
 
 Large language models *may* exhibit phenomenal consciousness in this sense. Consider my all-time-favorite philosophical paper, Eric Schwitzgebel’s [“If Materialism Is True, the United States is Probably Conscious”](https://faculty.ucr.edu/~eschwitz/SchwitzAbs/USAconscious.htm). It argues for the proposition in the title — that if strict materialism is true, then the United States may be and in fact *probably is* phenomenally conscious in the above sense, that there is “something it is like” to be the United States. If the United States is conscious, then why not an LLM?
 
-> ![note]
+> [!note]
 > The argument runs roughly as follows. The only organism we’re confident is conscious is human brains. But if materialism is true, human brains are “just” interlinked neurons. Is there any good reason to think that swapping out the underlying material or making them slower or more distributed in space would make the organism “less conscious”? You may intuitively think so, but via a series of science-fictional thought experiments, Schwitzgebel argues that it’s actually *more likely* that you end up with something you would still call conscious.
 
 > [!note]
