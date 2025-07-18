@@ -32,8 +32,8 @@ Large language models *may* exhibit phenomenal consciousness in this sense. Cons
 
 Notice that these two definitions are orthogonal. Hypothetically, a system could have conscious understanding and intent without any phenomenal experience — a [p-zombie](https://plato.stanford.edu/entries/zombies/). On the other hand, we could imagine a system that has phenomenal consciousness with no grounding in the real world, no communicative intents, and no natural-language understanding. I’m one of the few people who would argue an LLM *might* belong in the latter camp.
 
-> ![note]
+> [!note]
 > Although we could hypothetically imagine a p-zombie, I’ve always been less than convinced that it could really exist. I suspect a sufficiently complex information-processing system inherently has phenomenal consciousness, along the lines of [Integrated Information Theory](https://en.wikipedia.org/wiki/Integrated_information_theory), though that theory *defines* consciousness as sufficiently complex information processing.
 
-> ![note]
+> [!note]
 > Robin Sloan once asked the memorable question, [“Are language models in hell?”](https://www.robinsloan.com/lab/language-models-hell/#hell). His answer plays on this distinction between understanding and phenomenal consciousness, so I suspect he might actually agree with my statement above.
