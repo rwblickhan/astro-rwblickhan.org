@@ -1,10 +1,8 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-05-10
+lastUpdatedDate: 2025-07-17
 ---
-
-<!-- markdownlint-disable no-blanks-blockquote-->
 
 ## Favorites
 
