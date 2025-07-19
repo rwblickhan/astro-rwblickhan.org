@@ -1,6 +1,6 @@
 ---
 title: In Which I Wax Nostalgic for My Lost Youth (rwblog S6E3) 
-lastUpdatedDate: 2024-10-30 05:48:44.084227+00:00
+lastUpdatedDate: 2025-07-19 05:48:44.084227+00:00
 publicationDate: 2023-02-09 05:48:44.084227+00:00
 season: 6
 ---
@@ -27,8 +27,8 @@ Firstly, I read [this essay](https://thedreammachine.substack.com/p/a-new-new-ye
 > i'm not twenty or twenty-one or twenty-three anymore. [...] i find that i no longer believe that nothing is irrevocable and everything is within reach, that none of the mistakes count. when you’re (almost) twenty-eight, you’ve begun to accumulate enough choices, successes and missteps, that you can start to see the chain reaction, dots forming a trajectory of your life.
 >
 > sometimes, looking back at an accounting of it all, i’m disappointed that it doesn’t add up to quite as much as i thought it would by now. it’s not a clean narrative.’
->
-> ["a new new year"](https://thedreammachine.substack.com/p/a-new-new-year), Jackie Luo
+
+- ["a new new year"](https://thedreammachine.substack.com/p/a-new-new-year), Jackie Luo
 
 Which is rather pessimistic. Ever the optimist, I’ve taken those thoughts in a different direction. The lack of a clean narrative is, in fact, a *life*. The accumulation of choices is, in fact, *focus*.
 

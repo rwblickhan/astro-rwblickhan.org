@@ -1,6 +1,6 @@
 ---
 title: Time to Read the (Western) Classics
-lastUpdatedDate: 2025-03-30
+lastUpdatedDate: 2025-07-19
 publicationDate: 2025-03-29
 season: 7
 ---
@@ -221,8 +221,8 @@ I read the [Penguin Classics edition](https://www.penguinrandomhouse.com/books/2
 ![Cover of Paradise Lost](../../assets/newsletters/time-to-read-the-western-classics/paradise_lost.jpg)
 
 > The reason Milton wrote in fetters when he wrote of Angels & God, and at liberty when of Devils & Hell, is because he was a true Poet and of the Devil's party without knowing it.
->
-> William Blake, *The Marriage of Heaven & Hell*
+
+- William Blake, *The Marriage of Heaven & Hell*
 
 That’s probably the all-time greatest line of literary criticism. It’s so true! *Paradise Lost* is the most metal thing ever when the Devil is on screen — it literally opens *in medias res* with Satan and his conspirators *picking themselves up in Hell after falling millions of miles out of Heaven* — and then it is boring and didactic every time we go back to check on Adam and Eve. So I really don’t have a lot else to say — if you can stomach the late-1600s English, you should at least read the interesting half.
 
