@@ -30,6 +30,26 @@ function remarkAsideDirective() {
   };
 }
 
+function remarkHrDirective() {
+  return (tree) => {
+    visit(tree, (node) => {
+      if (
+        node.type === "containerDirective" ||
+        node.type === "leafDirective" ||
+        node.type === "textDirective"
+      ) {
+        if (node.name !== "hr") return;
+
+        const data = node.data || (node.data = {});
+        const tagName = "hr";
+
+        data.hName = tagName;
+        data.hProperties = h(tagName, node.attributes || {}).properties;
+      }
+    });
+  };
+}
+
 export default defineConfig({
   site: "https://rwblickhan.org",
   integrations: [pagefind(), sitemap(), mdx()],
@@ -51,6 +71,7 @@ export default defineConfig({
       remarkA11yEmoji,
       remarkDirective,
       remarkAsideDirective,
+      remarkHrDirective,
     ],
     rehypePlugins: [rehypeBlockquoteFigures],
   },

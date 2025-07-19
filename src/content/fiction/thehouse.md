@@ -1,6 +1,6 @@
 ---
 title: The House
-lastUpdatedDate: 2020-12-20
+lastUpdatedDate: 2025-07-18
 description: "A man buys a house that is larger on the inside than the outside."
 ---
 
@@ -24,7 +24,7 @@ And so the House stood empty for years again, becoming more dilapidated, before 
 
 Or, rather, it was until I signed the papers, barely a week later, signing it over in perpetuity to me.
 
-<hr class="solid" />
+::hr{.solid}
 
 It was a cloudless day when I took possession of the House.
 
@@ -54,7 +54,7 @@ The walk-in closet was much deeper and darker than I remembered. Distantly, like
 
 I stepped through the walk-in closet and the door shut behind me.
 
-<hr class="solid" />
+::hr{.solid}
 
 I stepped through the long, dark tunnel and found myself in a room that looked exactly like my master bedroom, but the master bedroom should have been on my left, across the hall, and this room was curiously empty — it had the same old bed I slept in every night, but no glass of water like I kept by my nightstand.
 

@@ -1,6 +1,6 @@
 ---
 title: The Factory
-lastUpdatedDate: 2020-08-23
+lastUpdatedDate: 2025-07-18
 description: "A linguist studies an alien inscription in a mysterious facility."
 ---
 
@@ -17,7 +17,7 @@ Researchers swarmed the complex, buzzing like highly-educated insects. The geolo
 
 And the linguist studied the Diagram.
 
-<hr class="solid" />
+::hr{.solid}
 
 The linguist had only a thin spacesuit between her and the void, with a flashlight to illuminate the work of an extraterrestrial. That was unintentional, of course—but with only one linguist—indeed only one person—in this section of the Factory, it hadn't been worth lighting up yet. The rest of the catacombs were extensive, and those backing these expeditions had decided they were more valuable.
 
@@ -25,7 +25,7 @@ No amount of study could have prepared her for this experience—no matter how m
 
 Perhaps, the linguist thought, this could be her big break. And so the linguist began to study the Diagram.
 
-<hr class="solid" />
+::hr{.solid}
 
 It quickly became apparent that there were no other permanent structures on the moon. The geographers had come to believe there had been other, temporary structures, but the Factory was the only one intended to last.
 
@@ -33,13 +33,13 @@ But, demanded the backers, ever eager for results, what was the point of putting
 
 Neither did the linguist have answers. She quickly ascertained that most of the Diagram was pictures, with some characters in an alien alphabet perhaps providing a caption. But she could make out little of the meaning, so she continued to study the Diagram.
 
-<hr class="solid" />
+::hr{.solid}
 
 The leading theory, now, was that the machines were incubators of some kind. What, precisely, the machines were incubating was still a point for debate. Many had decided that the Factory was no kind of factory at all, but rather a nursery for the young of whatever alien species had constructed it. Some fanciful storytellers had even begun to construct a model of the alien society, using rather more of their own imagination than the available evidence.
 
 The linguist agreed with that theory. The Diagram clearly showed creatures growing in the equivalent of test tubes. But what, precisely, those creatures was a mystery—and mystery didn't get grant funding, only results. She needed to continue studying the Diagram.
 
-<hr class="solid" />
+::hr{.solid}
 
 The engineers, through great toil, had managed to find what had become known, for lack of a better term, the ''on'' switch. Of course, it wasn't a literal switch, but it was easier to explain to the backers that way.
 
@@ -47,7 +47,7 @@ There was copious debate over whether to restart the Factory, a debate that laun
 
 The linguist didn't pay much attention to the arguments either way. She didn't care. All she cared about was the Diagram, the meaning of which still just eluded her grasp. She *needed* to understand. And so the linguist continued to study the Diagram.
 
-<hr class="solid" />
+::hr{.solid}
 
 Most of the researchers had gathered to celebrate the Startup, as it was called. They were toasting each other and the visiting dignitaries, both present and telepresent, making many great speeches about the greatness of human ingenuity and the dignity of hard work.
 
