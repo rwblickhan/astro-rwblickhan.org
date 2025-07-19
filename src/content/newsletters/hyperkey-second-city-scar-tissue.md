@@ -5,7 +5,6 @@ publicationDate: 2024-10-02
 season: 7
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 
 Hello frens,
 
@@ -21,7 +20,7 @@ Sherry commented that both feel like the center of the world when you’re in th
 
 That feels different than mere [second city syndrome](https://www.urbandictionary.com/define.php?term=second%20city%20syndrome) — of which my hometown of Chicago is definitely guilty with respect to New York — but it may explain the ambivalent feelings non-native San Franciscans have towards their city.
 
-::hr
+<hr />
 
 Speaking of travel: a thought occurred while waiting in the TSA Precheck line[^precheck]. *Security lines are institutional scar tissue.* They are a physical embodiment of national trauma, an inconvenience maintained long after the state of the world changed.
 
@@ -31,7 +30,7 @@ After yet another fruitless argument about the precise boundary of Gen Z and Mil
 
 That may explain my frustration when I talk to people that take the existence of generations for granted — it’s like talking to an astrologer when you think the planets are just rocks in the sky. Still, I find it fascinating just how many folk mental models are quietly lurking beneath the surface.
 
-::hr
+<hr />
 
 Recently I assigned a [hyperkey](https://rachsmith.com/hyperkey/) via the eponymous [Hyperkey app](https://hyperkey.app). The idea is to map a lesser-used key — I chose the right ⌘ (Command) key — to all four modifier keys at once — Shift, ^ (Control), ⌘ (Command), and ⌥ (Option) — and use that as a new modifier key for keyboard shortcuts that can’t conflict with any existing keyboard shortcuts.
 
@@ -39,7 +38,7 @@ The nice part is that this has native support in [Raycast](https://www.raycast.c
 
 This may be a micro-optimization, but then again, [speed matters](https://rwblickhan.org/misc/pattern-language/#speed-matters).
 
-::hr
+<hr />
 
 ![Poster reading "Are You A Slut?" on a pole in New York City](../../assets/newsletters/are_you_a_slut.jpg)
 

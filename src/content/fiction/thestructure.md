@@ -4,7 +4,6 @@ lastUpdatedDate: 2025-07-18
 description: "The crew of a generation ship find a mysterious structure floating on the solar winds of a distant star."
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 
 The generation ship floated, gently, upon the solar winds of a distant star.
 
@@ -52,7 +51,7 @@ Tamblyn nodded.
 
 “Then I wish you good luck,” he said with a nod. She saluted and marched off to find her people.
 
-::hr{.solid}
+<hr class="solid" />
 
 A week later, the ship drifting ever closer to the mysterious structure, Tamblyn had assembled her team.
 
@@ -220,7 +219,7 @@ Tamblyn put the tablet back on the table. “I’m surprised he agreed. It’ll 
 
 Tomis laughed. “It’s the story of a lifetime — the lifetime of the whole *ship*. What self-respecting journalist would pass that up?”
 
-::hr{.solid}
+<hr class="solid" />
 
 The structure drew closer. It continued to avoid the sensors of the ship, even as He continued to insist it was present. Finally they drew close enough to see if with their bare eyes, a blank spot where the stellar background should have been.
 
@@ -258,7 +257,7 @@ Tamblyn drifted back into the cockpit. The blank spot covered almost the entire 
 
 They couldn’t hear the crash because, of course, there is no sound in space.
 
-::hr{.solid}
+<hr class="solid" />
 
 Tamblyn saw the burning ship through bleary eyes.
 
@@ -318,7 +317,7 @@ They walked slowly at first, on account of the priest’s leg. After a few steps
 
 After a few hundred feet, Tamblyn glanced behind them. She thought she could see the ship melting, slowly, into the floor, just like the shards of glass from the cockpit had, the fire guttering out like the last embers of a hearth.
 
-::hr{.solid}
+<hr class="solid" />
 
 A few hours later, with miles of gloomy, featureless hallway passed, at least according to Razin’s monitor, Tamblyn called them to a halt. Thoman and Alia opened a crate and started to hand out the small, but highly nutritious, wafer cakes that would serve as dinner. Raxton had thought to bring a lamp, complete with portable stand, as you would see on the elevator platforms on the ship, and he busied himself with setting this up. They were all glad to have a source of light other than their flashlights and the low ambient light that seemed to have no obvious source. But Tamlbyn noticed that even this light, powerful though it would have been on the ship, barely illuminated a ten-foot-by-ten-foot area, into which they all huddled.
 
@@ -366,7 +365,7 @@ She turned and rejoined the group, her heart racing, the spark of the divine onl
 
 After a moment, she spoke up again. “Onward?” The other members nodded, their faces showing the effort of avoiding the topic. Tamblyn walked to the front, leading them onward into the featureless hallway. Alia brought up the rear, aiming her weapon behind them every few seconds in case something should surprise them from the adjoining hallway.
 
-::hr{.solid}
+<hr class="solid" />
 
 “The hallway is getting narrower,” Raxton said.
 
@@ -446,7 +445,7 @@ He shook his head. “No, which I take to mean we can walk any direction we want
 
 Tamblyn nodded. “Then let’s hope He is looking out for us.”
 
-::hr{.solid}
+<hr class="solid" />
 
 They walked for most of the day, watching Razin fade into the distance as he tried to establish his colony of one. They eventually agreed, however, that he had the right idea in eating the fruits of the Farm, as they began to call the area — they had already used up most of the rations. They would eat apples as they went, storing a few in the nooks and crannies of the crate for when the bountiful landscape stopped.
 
@@ -474,7 +473,7 @@ As they started down the hallway, Tamblyn hung back with Raxton. “What else di
 
 Raxton shook his head. “Nothing else. It doesn’t matter.” He marched off to catch up with the others, leaving Tamblyn there to think.
 
-::hr{.solid}
+<hr class="solid" />
 
 The hallways continued as they had before reaching the Farm, the gloom settling heavily on their souls. They walked for a few hours, though they could tell only by the ticking of the watch on Tamblyn’s wrist, as it felt much longer. They had long since stopped talking, but now Raxton and Father Pedra were talking quietly, barely audible even to their comrades standing close to them.
 
@@ -574,7 +573,7 @@ As they reached the opening, Tamblyn turned and looked back behind them. The ova
 
 Tamblyn saluted back, and she and Thoman stepped into the new chamber, the hallway disappearing behind them as if that maze had never existed.
 
-::hr{.solid}
+<hr class="solid" />
 
 Tamblyn and Thoman stepped towards the center of the large, circular chamber — maybe 40 feet across and 20 feet tall. A large podium sat in the middle of the chamber. All around them — walls, ceiling, floor — the black obsidian melted away as if translucent to show the stars. Distantly, they could see the lights that they knew came from the waiting generation ship.
 

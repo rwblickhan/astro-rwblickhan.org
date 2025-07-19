@@ -5,12 +5,11 @@ publicationDate: 2024-10-23
 season: 7
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 
 ![A pylon in Bayfront Park](../../assets/newsletters/bayfront_park.jpg)
 Mission Bay's new Bayfront Park is now open!
 
-::hr
+<hr />
 
 Apropos of nothing, here are event or icebreaker ideas I want to pursue:
 
@@ -22,11 +21,11 @@ Apropos of nothing, here are event or icebreaker ideas I want to pursue:
 - [Wrapped book exchange](https://x.com/m1shti/status/1562891601008947200), where everyone brings a book wrapped in a brown paper bag with a brief sales pitch; everyone picks a book white elephant-style.
 - [Letter circle](https://lostgarden.com/2023/02/26/the-letter-circle/), where all the members send each other long-form letters on a particular topic. Bonus points if it’s physical mail!
 
-::hr
+<hr />
 
 New essay week! I finally finished [“Russell’s Brief, Opinionated Guide to Home Cooking”](https://rwblickhan.org/essays/rbog-cooking/) collating everything I’ve learned about cooking in the past ~2 years. I also wrote a brief technical post on [“Building rwblickhan.org in 2024”](https://rwblickhan.org/technical/2024-site/), which updates [my two-and-a-half-year-old article](https://rwblickhan.org/technical/2022-site/) about how my site is built.
 
-::hr
+<hr />
 
 In other website news, I made my [quotes page](https://rwblickhan.org/misc/quotes/) much prettier.
 

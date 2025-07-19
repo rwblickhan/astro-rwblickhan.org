@@ -5,50 +5,7 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import remarkA11yEmoji from "@fec/remark-a11y-emoji";
 import rehypeBlockquoteFigures from "rehype-blockquote-figures";
-import remarkDirective from "remark-directive";
 import mdx from "@astrojs/mdx";
-import { visit } from "unist-util-visit";
-import { h } from "hastscript";
-
-function remarkAsideDirective() {
-  return (tree) => {
-    visit(tree, (node) => {
-      if (
-        node.type === "containerDirective" ||
-        node.type === "leafDirective" ||
-        node.type === "textDirective"
-      ) {
-        if (node.name !== "aside") return;
-
-        const data = node.data || (node.data = {});
-        const tagName = "aside";
-
-        data.hName = tagName;
-        data.hProperties = h(tagName, node.attributes || {}).properties;
-      }
-    });
-  };
-}
-
-function remarkHrDirective() {
-  return (tree) => {
-    visit(tree, (node) => {
-      if (
-        node.type === "containerDirective" ||
-        node.type === "leafDirective" ||
-        node.type === "textDirective"
-      ) {
-        if (node.name !== "hr") return;
-
-        const data = node.data || (node.data = {});
-        const tagName = "hr";
-
-        data.hName = tagName;
-        data.hProperties = h(tagName, node.attributes || {}).properties;
-      }
-    });
-  };
-}
 
 export default defineConfig({
   site: "https://rwblickhan.org",
@@ -69,9 +26,6 @@ export default defineConfig({
         },
       ],
       remarkA11yEmoji,
-      remarkDirective,
-      remarkAsideDirective,
-      remarkHrDirective,
     ],
     rehypePlugins: [rehypeBlockquoteFigures],
   },

@@ -1,11 +1,10 @@
 ---
 title: Automating the Personal
-lastUpdatedDate: 2025-04-30
+lastUpdatedDate: 2025-07-18
 publicationDate: 2025-04-30
 season: 7
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 
 Is there really value in personal automation? I wrote a [whole essay on Raycast](https://rwblickhan.org/technical/why-raycast/) and I’m still not really sure. Even though xkcd has a [helpful chart](https://xkcd.com/1205/) for how much time you can spend automating a task, the joke is that you’re probably spending *too much time*.
 
