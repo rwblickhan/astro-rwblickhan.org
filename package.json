@@ -23,7 +23,6 @@
     "markdown-it": "^14.1.0",
     "pagefind": "^1.3.0",
     "rehype-blockquote-figures": "^1.0.0",
-    "remark-aside": "^1.0.1",
     "remark-collapse": "^0.1.2",
     "remark-directive": "^4.0.0",
     "remark-toc": "^8.0.1",
