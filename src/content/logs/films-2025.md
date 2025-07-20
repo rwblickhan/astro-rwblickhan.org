@@ -43,3 +43,4 @@ lastUpdatedDate: 2025-07-15
 10. *The Rehearsal* Season 2 (2025)
 11. *Twin Peaks: The Return* (2017)
 12. *Andor* Season 2 (2025)
+13. *Frieren: Beyond Journey’s End* Season 1 (2023)
