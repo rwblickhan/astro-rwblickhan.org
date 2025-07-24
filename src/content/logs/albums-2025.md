@@ -79,3 +79,4 @@ lastUpdatedDate: 2025-07-18
 74. *Internet Famous*, 6arelyhuman
 75. *DEADBEAT!* Disc 1, Jack Kays
 76. *Mixed Emotions*, Jack Kays
+77. *Sorry, Mom*, Destroy Boys
