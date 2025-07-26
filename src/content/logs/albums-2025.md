@@ -80,3 +80,5 @@ lastUpdatedDate: 2025-07-18
 75. *DEADBEAT!* Disc 1, Jack Kays
 76. *Mixed Emotions*, Jack Kays
 77. *Sorry, Mom*, Destroy Boys
+78. *searching for nirvana*, Royal & The Serpent
+79. *If I Died Would Anyone Care*, Royal & The Serpent 
