@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-07-18
+lastUpdatedDate: 2025-07-30
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -81,4 +81,8 @@ lastUpdatedDate: 2025-07-18
 76. *Mixed Emotions*, Jack Kays
 77. *Sorry, Mom*, Destroy Boys
 78. *searching for nirvana*, Royal & The Serpent
-79. *If I Died Would Anyone Care*, Royal & The Serpent 
+79. *If I Died Would Anyone Care*, Royal & The Serpent
+80. *Glitch Lvl 1*, Sophie Powers
+81. *Coven Music Sessions Vol. 1*, Doechii
+82. *Oh the Places You’ll Go*, Doechii
+83. *Elaenia*, Floating Points
