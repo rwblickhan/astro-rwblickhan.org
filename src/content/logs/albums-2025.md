@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-07-30
+lastUpdatedDate: 2025-08-02
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -86,3 +86,4 @@ lastUpdatedDate: 2025-07-30
 81. *Coven Music Sessions Vol. 1*, Doechii
 82. *Oh the Places You’ll Go*, Doechii
 83. *Elaenia*, Floating Points
+84. *Cascade*, Floating Points
