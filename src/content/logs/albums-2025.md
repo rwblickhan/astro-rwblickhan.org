@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-08-02
+lastUpdatedDate: 2025-08-06
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -87,3 +87,5 @@ lastUpdatedDate: 2025-08-02
 82. *Oh the Places You’ll Go*, Doechii
 83. *Elaenia*, Floating Points
 84. *Cascade*, Floating Points
+85. *Morning Phase*, Beck
+86. *Mutations*, Beck
