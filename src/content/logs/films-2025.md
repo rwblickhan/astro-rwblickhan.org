@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-07-15
+lastUpdatedDate: 2025-08-06
 ---
 
 ## Movies
@@ -28,6 +28,7 @@ lastUpdatedDate: 2025-07-15
 21. 🔁 *In the Mood for Love* (2000)
 22. *KPop Demon Hunters* (2025)
 23. 🔁 *Rogue One: A Star Wars Story* (2016)
+24. *The Fantastic Four: First Steps* (2025)
 
 ## TV Shows
 
