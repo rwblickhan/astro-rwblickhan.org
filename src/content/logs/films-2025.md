@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-08-06
+lastUpdatedDate: 2025-08-11
 ---
 
 ## Movies
@@ -29,6 +29,7 @@ lastUpdatedDate: 2025-08-06
 22. *KPop Demon Hunters* (2025)
 23. 🔁 *Rogue One: A Star Wars Story* (2016)
 24. *The Fantastic Four: First Steps* (2025)
+25. *Moulin Rouge!* (2001)
 
 ## TV Shows
 
