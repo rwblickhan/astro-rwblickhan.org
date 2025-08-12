@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-08-09
+lastUpdatedDate: 2025-08-12
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -91,3 +91,4 @@ lastUpdatedDate: 2025-08-09
 86. *Mutations*, Beck
 87. *Promises*, Floating Points, Pharaoh Sanders, & London Symphony Orchestra
 88. *Anyway*, Anamanaguchi
+89. *Dawn Metropolis*, Anamanaguchi
