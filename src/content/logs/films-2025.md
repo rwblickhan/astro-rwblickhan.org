@@ -30,6 +30,7 @@ lastUpdatedDate: 2025-08-11
 23. 🔁 *Rogue One: A Star Wars Story* (2016)
 24. *The Fantastic Four: First Steps* (2025)
 25. *Moulin Rouge!* (2001)
+26. *Barbarian* (2022)
 
 ## TV Shows
 
