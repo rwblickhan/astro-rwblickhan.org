@@ -1,6 +1,6 @@
 ---
 title: Yes Yes I Know It’s Passé (rwblog S6E16)
-lastUpdatedDate: 2024-07-17
+lastUpdatedDate: 2025-08-19
 publicationDate: 2024-01-01
 season: 6
 ---
@@ -106,7 +106,7 @@ Instead of describing _World of Tomorrow_, one of the most transcendent film exp
 
 I have to include Satoshi Kon as a single entry, or this entire top 5 list would just be his movies.
 
-I didn’t love _Paprika_ when I watched it a few years ago, but this year I become a Satoshi Kon fanboy. _Perfect Blue_ (arguably my favorite film of all time, now) made me question reality, _Millennium Actress_ is a charming homage to the last 75 years of Japanese cinematic history, and_Tokyo Godfathers_ is my perfect Christmas film. His short _Magnetic Rose_ is also fascinating. I highly recommend any or all of these — but start with _Perfect Blue_ first.
+I didn’t love _Paprika_ when I watched it a few years ago, but this year I become a Satoshi Kon fanboy. _Perfect Blue_ (arguably my favorite film of all time, now) made me question reality, _Millennium Actress_ is a charming homage to the last 75 years of Japanese cinematic history, and _Tokyo Godfathers_ is my perfect Christmas film. His short _Magnetic Rose_ is also fascinating. I highly recommend any or all of these — but start with _Perfect Blue_ first.
 
 [^1]: I really need to get around to Patricia Lockwood’s novels one of these days…
 
