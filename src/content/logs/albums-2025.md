@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-08-19
+lastUpdatedDate: 2025-08-21
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -93,3 +93,4 @@ lastUpdatedDate: 2025-08-19
 88. *Anyway*, Anamanaguchi
 89. *Dawn Metropolis*, Anamanaguchi
 90. *DeBÍ TiRAR MáS FOToS*, Bad Bunny
+91. *Charm*, Clairo
