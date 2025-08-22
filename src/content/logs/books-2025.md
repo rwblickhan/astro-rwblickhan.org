@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-08-09
+lastUpdatedDate: 2025-08-21
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -34,6 +34,7 @@ lastUpdatedDate: 2025-08-09
 29. *Clyde Fans*, Seth
 30. *Goodnight Punpun* Vol. 2, Inio Asano
 31. *Quimby the Mouse*, Chris Ware
+32. 🔁 *The Magic Fish*, Trung Le Nguyen
 
 ## Skimmed
 
