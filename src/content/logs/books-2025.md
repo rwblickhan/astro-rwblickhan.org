@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-08-21
+lastUpdatedDate: 2025-08-25
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -35,6 +35,7 @@ lastUpdatedDate: 2025-08-21
 30. *Goodnight Punpun* Vol. 2, Inio Asano
 31. *Quimby the Mouse*, Chris Ware
 32. 🔁 *The Magic Fish*, Trung Le Nguyen
+33. *Douglas Adams: The Ends of the Earth*, Arvind Ethan David
 
 ## Skimmed
 
