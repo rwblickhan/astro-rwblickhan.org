@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-08-25
+lastUpdatedDate: 2025-08-30
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -95,3 +95,4 @@ lastUpdatedDate: 2025-08-25
 90. *DeBÍ TiRAR MáS FOToS*, Bad Bunny
 91. *Charm*, Clairo
 92. *Marine Flowers*, Akira Ito
+93. *Inertia*, Pendulum
