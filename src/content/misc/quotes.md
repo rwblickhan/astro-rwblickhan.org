@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-07-19
+lastUpdatedDate: 2025-08-30
 ---
 
 ## Favorites
@@ -129,6 +129,16 @@ The ones I find myself thinking about a lot...
 - *Tomorrow, and Tomorrow, and Tomorrow*, Gabrielle Zevin
 
 > The space between two shores is the ocean... and being caught in between feels like drowning. And, really, what is the point of tears among so much salt water?
+
+- *The Magic Fish*, Trung Le Nguyen
+
+> This little book took me eight years to earn. Was it worth the last eight years of my mother's lief? And what sort of daughter does that make me?
+
+- *The Magic Fish*, Trung Le Nguyen
+
+> <Is that really the ending?>
+>
+> <How should I know? It's an old, old story. Details change. Things change. And now this story is ours. Yours and mine.>
 
 - *The Magic Fish*, Trung Le Nguyen
 
@@ -339,6 +349,18 @@ The ones I find myself thinking about a lot...
 > I would have done anything to feel real again.
 
 - *Gone Girl*, Gillian Flynn
+
+> I used to have a house full of things — but now look at me — I keep imagining where things are and I don't even have them anymore.
+
+- *Clyde Fans*, Seth
+
+> It seemed ridiculous that this object had survived so long... I knew exactly what she would've said: "What good is it? What are you keeping it for?" I was just a dumb piece of aluminum foil... It had nothing to do with her anymore.
+>
+> So I made myself crumple it up and throw it away.
+>
+> Oh God why... **why** did I **do** that?
+
+- *Quimby the Mouse*, Chris Ware
 
 ## From Non-Fiction
 
