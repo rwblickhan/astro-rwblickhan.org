@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-08-30
+lastUpdatedDate: 2025-09-05
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -96,3 +96,4 @@ lastUpdatedDate: 2025-08-30
 91. *Charm*, Clairo
 92. *Marine Flowers*, Akira Ito
 93. *Inertia*, Pendulum
+94. *Landscape from Memory*, Rival Consoles
