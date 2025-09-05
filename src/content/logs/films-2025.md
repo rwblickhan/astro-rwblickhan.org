@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-08-19
+lastUpdatedDate: 2025-09-05
 ---
 
 ## Movies
@@ -31,6 +31,7 @@ lastUpdatedDate: 2025-08-19
 24. *The Fantastic Four: First Steps* (2025)
 25. *Moulin Rouge!* (2001)
 26. *Barbarian* (2022)
+27. 🔁 *The Master* (2012)
 
 ## TV Shows
 
