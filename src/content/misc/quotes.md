@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-08-30
+lastUpdatedDate: 2025-09-05
 ---
 
 ## Favorites
@@ -517,6 +517,10 @@ The ones I find myself thinking about a lot...
 > You can't wake up if you don't fall asleep.
 
 - *Asteroid City*
+
+> If you figure a way to live without serving a master, any master, then let the rest of us know, will you? For you’d be the first person in the history of the world.
+
+- *The Master* (2012)
 
 ## From Games
 
