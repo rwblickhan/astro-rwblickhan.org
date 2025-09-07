@@ -31,26 +31,26 @@ const {
   <Header parentCollection={parentCollection} />
   {
     shouldIndex ? (
-      <article class={width} data-pagefind-body>
+      <main class={width} data-pagefind-body>
         <slot />
-      </article>
+      </main>
     ) : (
-      <article class={width}>
+      <main class={width}>
         <slot />
-      </article>
+      </main>
     )
   }
 </html>
 
 <style>
-  article {
+  main {
     padding: 0 1rem;
     margin-bottom: 1rem;
     container-type: inline-size;
   }
 
   @media (min-width: 768px) {
-    article {
+    main {
       margin-left: auto;
       margin-right: auto;
 
