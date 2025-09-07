@@ -138,4 +138,10 @@ const blogJsonLd = lastUpdatedDate && {
     handleImageFloat();
     window.addEventListener("resize", handleImageFloat);
   </script>
+  <script>
+    import { accented } from "accented";
+    if (import.meta.env.MODE === "development") {
+      accented();
+    }
+  </script>
 </head>
