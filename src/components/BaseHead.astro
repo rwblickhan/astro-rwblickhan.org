@@ -104,6 +104,18 @@ const blogJsonLd = lastUpdatedDate && {
     )
   }
 
+  <!-- https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html -->
+  <script is:inline type="speculationrules">
+    {
+      "prerender": [
+        { "where": { "href_matches": "/*" }, "eagerness": "moderate" }
+      ],
+      "prefetch": [
+        { "where": { "href_matches": "/*" }, "eagerness": "moderate" }
+      ]
+    }
+  </script>
+
   <script>
     function handleImageFloat() {
       const images = document.querySelectorAll("img");
