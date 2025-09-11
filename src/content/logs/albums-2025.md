@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-09-07
+lastUpdatedDate: 2025-09-11
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -98,3 +98,4 @@ lastUpdatedDate: 2025-09-07
 93. *Inertia*, Pendulum
 94. *Landscape from Memory*, Rival Consoles
 95. *Plays the Music of Twin Peaks*, Xiu Xiu
+96. *Galilean Moons*, Rob Dobson
