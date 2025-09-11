@@ -1,8 +1,8 @@
 ---
 title: Alien Values
 lastUpdatedDate: 2025-09-10 
-publicationDate: 2020-08-31
-season: 2
+publicationDate: 2024-08-10
+season: 7
 ---
 
 I recently rewatched *Alien* for the first time since I was in high school.
