@@ -1,6 +1,6 @@
 ---
 import Head from "../components/Head.astro";
-import Header from "../components/Header.astro";
+import Nav from "../components/Nav.astro";
 import "../styles/index.css";
 
 // export interface Props {
@@ -28,7 +28,7 @@ const {
     lastUpdatedDate={lastUpdatedDate}
     publicationDate={publicationDate}
   />
-  <Header parentCollection={parentCollection} />
+  <Nav parentCollection={parentCollection} />
   {
     shouldIndex ? (
       <main class={width} data-pagefind-body>
