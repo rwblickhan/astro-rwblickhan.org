@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-09-05
+lastUpdatedDate: 2025-09-13
 ---
 
 ## Favorites
@@ -521,6 +521,10 @@ The ones I find myself thinking about a lot...
 > If you figure a way to live without serving a master, any master, then let the rest of us know, will you? For you’d be the first person in the history of the world.
 
 - *The Master* (2012)
+
+> To tell you the truth I wasn't really paying attention. I was too busy thinking how I'd gas everyone in the room. Very difficult, logistically, because of its high ceiling.
+
+- *The Zone of Interest* (2023)
 
 ## From Games
 
