@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-08-25
+lastUpdatedDate: 2025-09-13
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -36,6 +36,7 @@ lastUpdatedDate: 2025-08-25
 31. *Quimby the Mouse*, Chris Ware
 32. 🔁 *The Magic Fish*, Trung Le Nguyen
 33. *Douglas Adams: The Ends of the Earth*, Arvind Ethan David
+34. *Paradise Lost: A Biography*, Alan Jacobs
 
 ## Skimmed
 
