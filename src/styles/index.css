@@ -87,7 +87,6 @@ html {
   font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
   font-weight: normal;
   font-size: 17px;
-  line-height: 1.45em;
 }
 
 @media (min-width: 768px) {
@@ -112,6 +111,7 @@ p,
 ol,
 ul {
   margin-block: 1rem;
+  line-height: 1.45em;
 }
 
 ol,
