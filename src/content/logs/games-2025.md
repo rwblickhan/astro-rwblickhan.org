@@ -1,6 +1,6 @@
 ---
 title: Games of 2025
-lastUpdatedDate: 2025-07-12
+lastUpdatedDate: 2025-09-16
 ---
 
 ## Video Games
@@ -13,3 +13,4 @@ lastUpdatedDate: 2025-07-12
 ## Traditional Games
 
 1. *BANG!*
+2. *Alice Is Missing*
