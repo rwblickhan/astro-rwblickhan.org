@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-09-05
+lastUpdatedDate: 2025-09-18
 ---
 
 ## Movies
@@ -32,6 +32,7 @@ lastUpdatedDate: 2025-09-05
 25. *Moulin Rouge!* (2001)
 26. *Barbarian* (2022)
 27. 🔁 *The Master* (2012)
+28. *The Long Walk* (2025)
 
 ## TV Shows
 
