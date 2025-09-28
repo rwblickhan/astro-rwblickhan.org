@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-09-13
+lastUpdatedDate: 2025-09-28
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -37,6 +37,7 @@ lastUpdatedDate: 2025-09-13
 32. 🔁 *The Magic Fish*, Trung Le Nguyen
 33. *Douglas Adams: The Ends of the Earth*, Arvind Ethan David
 34. *Paradise Lost: A Biography*, Alan Jacobs
+35. *It*, Stephen King
 
 ## Skimmed
 
