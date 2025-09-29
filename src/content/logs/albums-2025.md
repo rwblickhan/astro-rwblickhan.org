@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-09-13
+lastUpdatedDate: 2025-09-29
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -102,3 +102,4 @@ lastUpdatedDate: 2025-09-13
 97. *Man’s Best Friend*, Sabrina Carpenter
 98. *Switcheroo*, Gelli Haha
 99. *The Reeling*, Brighde Chaimbeul
+100. *Vulnicura*, Björk
