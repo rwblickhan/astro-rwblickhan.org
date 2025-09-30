@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-09-29
+lastUpdatedDate: 2025-09-30
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -103,3 +103,4 @@ lastUpdatedDate: 2025-09-29
 98. *Switcheroo*, Gelli Haha
 99. *The Reeling*, Brighde Chaimbeul
 100. *Vulnicura*, Björk
+101. *K.I.D.S.*, Mac Miller
