@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-09-30
+lastUpdatedDate: 2025-10-03
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -104,3 +104,4 @@ lastUpdatedDate: 2025-09-30
 99. *The Reeling*, Brighde Chaimbeul
 100. *Vulnicura*, Björk
 101. *K.I.D.S.*, Mac Miller
+102. *The Life of a Showgirl*, Taylor Swift
