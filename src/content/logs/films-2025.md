@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-09-18
+lastUpdatedDate: 2025-10-05
 ---
 
 ## Movies
@@ -33,6 +33,9 @@ lastUpdatedDate: 2025-09-18
 26. *Barbarian* (2022)
 27. 🔁 *The Master* (2012)
 28. *The Long Walk* (2025)
+29. *One Battle After Another* (2025)
+30. 🔁 *Perfect Blue* (1997)
+31. *Possession* (1981)
 
 ## TV Shows
 
