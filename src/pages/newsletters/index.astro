@@ -12,6 +12,21 @@ const posts = (await getCollection("newsletters")).sort(
 <IndexLayout title="Newsletters" description="Newsletters index page">
   <Email />
 
+  <h2>Season 8</h2>
+  <IndexGrid>
+    {
+      posts
+        .filter((post) => post.data.season === 8)
+        .map((post) => (
+          <LinkBox
+            title={post.data.title}
+            href={`/newsletters/${post.id}`}
+            lastUpdatedDate={post.data.lastUpdatedDate}
+            publicationDate={post.data.publicationDate}
+          />
+        ))
+    }
+  </IndexGrid>
   <h2>Season 7</h2>
   <IndexGrid>
     {
