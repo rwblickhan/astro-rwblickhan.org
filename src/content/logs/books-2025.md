@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-09-28
+lastUpdatedDate: 2025-10-10
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -38,6 +38,7 @@ lastUpdatedDate: 2025-09-28
 33. *Douglas Adams: The Ends of the Earth*, Arvind Ethan David
 34. *Paradise Lost: A Biography*, Alan Jacobs
 35. *It*, Stephen King
+36. *Katabasis*, R.F. Kuang
 
 ## Skimmed
 
