@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-10-05
+lastUpdatedDate: 2025-10-13
 ---
 
 ## Movies
@@ -36,6 +36,7 @@ lastUpdatedDate: 2025-10-05
 29. *One Battle After Another* (2025)
 30. 🔁 *Perfect Blue* (1997)
 31. *Possession* (1981)
+32. *In the Mouth of Madness* (1994)
 
 ## TV Shows
 
