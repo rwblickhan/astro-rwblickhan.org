@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-10-11
+lastUpdatedDate: 2025-10-13
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -111,3 +111,4 @@ lastUpdatedDate: 2025-10-11
 106. *SABLE, fABLE*, Bon Iver
 107. *One Battle After Another OST*, Jonny Greenwood
 108. *Radiance*, Basic Channel
+109. *Quadrant Dub*, Basic Channel
