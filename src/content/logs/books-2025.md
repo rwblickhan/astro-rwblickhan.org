@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-10-10
+lastUpdatedDate: 2025-10-14
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -39,6 +39,7 @@ lastUpdatedDate: 2025-10-10
 34. *Paradise Lost: A Biography*, Alan Jacobs
 35. *It*, Stephen King
 36. *Katabasis*, R.F. Kuang
+37. *No One Is Talking About This*, Patricia Lockwood
 
 ## Skimmed
 
