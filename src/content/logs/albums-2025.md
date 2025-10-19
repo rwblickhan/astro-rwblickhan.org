@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-10-13
+lastUpdatedDate: 2025-10-18
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -112,3 +112,4 @@ lastUpdatedDate: 2025-10-13
 107. *One Battle After Another OST*, Jonny Greenwood
 108. *Radiance*, Basic Channel
 109. *Quadrant Dub*, Basic Channel
+110. *Persona*, Rival Consoles
