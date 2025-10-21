@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-10-13
+lastUpdatedDate: 2025-10-20
 ---
 
 ## Movies
@@ -54,3 +54,4 @@ lastUpdatedDate: 2025-10-13
 12. *Andor* Season 2 (2025)
 13. *Frieren: Beyond Journey’s End* Season 1 (2023)
 14. *Gurren Lagann* (2007)
+15. *True Detective* Season 1 (2014)
