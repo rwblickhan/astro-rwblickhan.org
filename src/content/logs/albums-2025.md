@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-10-18
+lastUpdatedDate: 2025-10-21
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -113,3 +113,4 @@ lastUpdatedDate: 2025-10-18
 108. *Radiance*, Basic Channel
 109. *Quadrant Dub*, Basic Channel
 110. *Persona*, Rival Consoles
+111. *Pools*, Jim Perkins
