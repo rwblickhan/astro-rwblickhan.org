@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-09-13
+lastUpdatedDate: 2025-10-22
 ---
 
 ## Favorites
@@ -525,6 +525,18 @@ The ones I find myself thinking about a lot...
 > To tell you the truth I wasn't really paying attention. I was too busy thinking how I'd gas everyone in the room. Very difficult, logistically, because of its high ceiling.
 
 - *The Zone of Interest* (2023)
+
+> Linda: A reality is just what we tell each other it is. Sane and insane could easily switch places, if the insane were to become the majority. You would find yourself locked in a padded cell, wondering what happened to the world.
+>
+> John. No. That wouldn't happen to me.
+>
+> Linda: Ah, it would if you realized everything you ever knew was gone. That would be pretty lonely, being the last one left.
+
+- *In the Mouth of Madness* (1994)
+
+> Every species can smell its own extinction. The last ones left won't have a pretty time with it. In ten years, maybe less, the human race will just be a bedtime story for their children. A myth, nothing more.
+
+- *In the Mouth of Madness* (1994)
 
 ## From Games
 
