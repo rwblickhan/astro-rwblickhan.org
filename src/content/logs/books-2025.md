@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-10-14
+lastUpdatedDate: 2025-10-24
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -40,6 +40,7 @@ lastUpdatedDate: 2025-10-14
 35. *It*, Stephen King
 36. *Katabasis*, R.F. Kuang
 37. *No One Is Talking About This*, Patricia Lockwood
+38. *‌The Bewitching*, Silvia Moreno-Garcia
 
 ## Skimmed
 
