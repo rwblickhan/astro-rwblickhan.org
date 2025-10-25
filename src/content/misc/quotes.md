@@ -132,7 +132,7 @@ The ones I find myself thinking about a lot...
 
 - *The Magic Fish*, Trung Le Nguyen
 
-> This little book took me eight years to earn. Was it worth the last eight years of my mother's lief? And what sort of daughter does that make me?
+> This little book took me eight years to earn. Was it worth the last eight years of my mother's life? And what sort of daughter does that make me?
 
 - *The Magic Fish*, Trung Le Nguyen
 
