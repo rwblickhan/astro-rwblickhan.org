@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-10-22
+lastUpdatedDate: 2025-10-24
 ---
 
 ## Favorites
@@ -361,6 +361,16 @@ The ones I find myself thinking about a lot...
 > Oh God why... **why** did I **do** that?
 
 - *Quimby the Mouse*, Chris Ware
+
+> Back then, when I was a young woman, there were still witches.
+
+- *The Bewitching*, Silvia Moreno-Garcia
+
+> Curses and spells persisted, even in the era of fiber optics and telephones. Atavistic, yes, but not extinct. Maybe Noah wasn’t a warlock, but there might be others. Caution, thus, was the answer.
+>
+> Though, at the same time, one couldn’t live in fear. There was a thesis to finish and a second pumpkin to carve. There were paths carpeted with leaves that crunched under her boots, the chill of the October evening, and the setting sun painting steeples and roofs golden.
+
+- *The Bewitching*, Silvia Moreno-Garcia
 
 ## From Non-Fiction
 
