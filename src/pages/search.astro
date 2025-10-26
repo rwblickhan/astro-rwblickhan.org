@@ -22,3 +22,15 @@ const { title = "Search", description = "Search for rwblickhan.org" } =
     uiOptions={{ showSubResults: true, showImages: false }}
   />
 </ContentLayout>
+
+<script>
+  // Auto-focus the search input when the page loads
+  document.addEventListener("DOMContentLoaded", () => {
+    const searchInput = document.querySelector(
+      '#search input[type="text"]'
+    ) as HTMLInputElement;
+    if (searchInput) {
+      searchInput.focus();
+    }
+  });
+</script>
