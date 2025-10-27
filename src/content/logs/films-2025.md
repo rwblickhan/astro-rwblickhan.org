@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-10-20
+lastUpdatedDate: 2025-10-26
 ---
 
 ## Movies
@@ -55,3 +55,4 @@ lastUpdatedDate: 2025-10-20
 13. *Frieren: Beyond Journey’s End* Season 1 (2023)
 14. *Gurren Lagann* (2007)
 15. *True Detective* Season 1 (2014)
+16. 🔁 *Over the Garden Wall* (2014)
