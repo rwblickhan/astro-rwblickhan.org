@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-10-24
+lastUpdatedDate: 2025-10-31
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -41,6 +41,7 @@ lastUpdatedDate: 2025-10-24
 36. *Katabasis*, R.F. Kuang
 37. *No One Is Talking About This*, Patricia Lockwood
 38. *‌The Bewitching*, Silvia Moreno-Garcia
+39. 🔁 *The Haunting of Hill House*, Shirley Jackson
 
 ## Skimmed
 
