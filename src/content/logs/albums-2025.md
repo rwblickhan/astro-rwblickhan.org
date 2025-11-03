@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-10-30
+lastUpdatedDate: 2025-11-02
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -116,3 +116,4 @@ lastUpdatedDate: 2025-10-30
 111. *Pools*, Jim Perkins
 112. *Towards the Light*, Curve Ensemble
 113. *Work and Non Work*, Broadcast
+114. *Tender Buttons*, Broadcast
