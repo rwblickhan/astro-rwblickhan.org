@@ -1,6 +1,6 @@
 ---
 title: With All That Consumerism Out Of The Way
-lastUpdatedDate: 2025-10-12
+lastUpdatedDate: 2025-11-02
 publicationDate: 2025-10-12
 season: 8
 ---
@@ -9,7 +9,7 @@ I’m sorry to report that I’ve become a shoulder bag person.
 
 I used to overstuff all of my pockets, sometimes wearing a windbreaker in unseasonable weather just for access to more pockets. Phone, wallet, keys, sunglasses, earphones... and then where does a water bottle go? If I want to bring a book or my Kobo, where do _those_ go?
 
-I occasionally used tote bags for this purpose, but tote bags are a pain for daily use. I recently realized they’re supposed to be held in the held, arms fully extended, instead of slinging them on your shoulder, where they tend to fall off.
+I occasionally used tote bags for this purpose, but tote bags are a pain for daily use. I recently realized they’re supposed to be held in the hand, arms fully extended, instead of slinging them on your shoulder, where they tend to fall off.
 
 Then I realized there’s an obvious solution: those Uniqlo shoulder bags that everyone seems to have. But in practice, I didn’t like the design, so instead I went with a [tomtoc Aviator-T33](https://www.tomtoc.com/products/aviator-t33-chest-bag-m), specifically the 2.5L version (which is apparently only sold on tomtoc’s website, not Amazon).
 
