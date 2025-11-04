@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-10-31
+lastUpdatedDate: 2025-11-03
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -42,6 +42,7 @@ lastUpdatedDate: 2025-10-31
 37. *No One Is Talking About This*, Patricia Lockwood
 38. *‌The Bewitching*, Silvia Moreno-Garcia
 39. 🔁 *The Haunting of Hill House*, Shirley Jackson
+40. *What In Me Is Dark: The Revolutionary Afterlife of Paradise Lost*, Orlando Reade
 
 ## Skimmed
 
