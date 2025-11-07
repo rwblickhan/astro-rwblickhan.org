@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-11-02
+lastUpdatedDate: 2025-11-06
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -117,3 +117,4 @@ lastUpdatedDate: 2025-11-02
 112. *Towards the Light*, Curve Ensemble
 113. *Work and Non Work*, Broadcast
 114. *Tender Buttons*, Broadcast
+115. *Melt*, Not for Radio
