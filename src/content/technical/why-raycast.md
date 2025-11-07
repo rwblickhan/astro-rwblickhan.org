@@ -1,6 +1,6 @@
 ---
 title: Why I Use Raycast
-lastUpdatedDate: 2024-12-08
+lastUpdatedDate: 2025-03-07
 description: Keyboard shortcuts for days
 ---
 
@@ -22,9 +22,9 @@ Raycast recommends using the ⌘Space shortcut, replacing Spotlight completely, 
 
 ![Raycast's keyboard shortcuts feature](../../assets/technical/why-raycast/keyboard-shortcuts.png)
 
-Any command in Raycast can be assigned a global keyboard shortcut. Raycast even has special support if you have a [hyperkey](https://rachsmith.com/hyperkey/) assigned, referring to it as the ◆ key. I use the [Hyperkey app](https://hyperkey.app) to reassign the right ⌘ (Command) to ◆.
+Any command in Raycast can be assigned a global keyboard shortcut. Raycast even allows you to remap a key to be used as a [hyperkey](https://manual.raycast.com/hyperkey) (◆), which presses all four modifier keys at the same time — perfect to avoid triggering other keyboard shortcuts with global shortcuts.
 
-My most-used applications all have mnemonic hyperkey shortcuts, so I can pull them up from anywhere — ◆T for Things, ◆F for Fantastical, ◆S for Safari, ◆O for Obsidian, and so on.
+I bind ◆ to the ⌘ (Command) key. My most-used applications all have mnemonic hyperkey shortcuts, so I can pull them up from anywhere — ◆C for calendar, ◆E for email, ◆T for terminal, ◆O for Obsidian, and so on.
 
 This works for *any* Raycast command, including Apple Shortcuts. So I also assign keyboard shortcuts to Shortcuts, like “Copy Current Safari Tab as Markdown Link” assigned to ^⌥L.
 

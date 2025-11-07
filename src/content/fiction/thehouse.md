@@ -1,10 +1,9 @@
 ---
 title: The House
-lastUpdatedDate: 2020-12-20
+lastUpdatedDate: 2025-07-18
 description: "A man buys a house that is larger on the inside than the outside."
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 
 Let me tell you about a House.
 

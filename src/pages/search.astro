@@ -16,19 +16,21 @@ const { title = "Search", description = "Search for rwblickhan.org" } =
       --pagefind-ui-font: Charter, "Bitstream Charter", "Sitka Text", Cambria,
         sans-serif;
     }
-
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --pagefind-ui-primary: #eeeeee;
-        --pagefind-ui-text: #e8e6e3;
-        --pagefind-ui-background: rgb(38 38 38);
-        --pagefind-ui-border: #152028;
-        --pagefind-ui-tag: #152028;
-      }
-    }
   </style>
   <PagefindSearch
     id="search"
     uiOptions={{ showSubResults: true, showImages: false }}
   />
 </ContentLayout>
+
+<script>
+  // Auto-focus the search input when the page loads
+  document.addEventListener("DOMContentLoaded", () => {
+    const searchInput = document.querySelector(
+      '#search input[type="text"]'
+    ) as HTMLInputElement;
+    if (searchInput) {
+      searchInput.focus();
+    }
+  });
+</script>

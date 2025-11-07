@@ -1,7 +1,7 @@
 ---
 title: Alien Values
-lastUpdatedDate: 2024-08-10 
-publicationDate: 2020-08-31
+lastUpdatedDate: 2025-09-10 
+publicationDate: 2024-08-10
 season: 7
 ---
 

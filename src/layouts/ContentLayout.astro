@@ -8,6 +8,7 @@ export interface Props {
   includeResponseLink?: boolean;
   description?: string;
   lastUpdatedDate?: Date;
+  publicationDate?: Date;
   parentCollection?: Collection;
 }
 
@@ -16,6 +17,7 @@ const {
   description = "The personal site of R. W. Blickhan",
   includeResponseLink = true,
   lastUpdatedDate,
+  publicationDate,
   parentCollection,
 } = Astro.props;
 ---
@@ -24,12 +26,31 @@ const {
   title={title}
   description={description}
   lastUpdatedDate={lastUpdatedDate}
+  publicationDate={publicationDate}
   width="small"
   parentCollection={parentCollection}
   shouldIndex={true}
 >
-  <h1>{title}</h1>
-  {lastUpdatedDate && <h3>Last updated: {lastUpdatedDate.toDateString()}</h3>}
+  <hgroup>
+    <h1>{title}</h1>
+    {
+      (lastUpdatedDate || publicationDate) && (
+        <p>
+          <strong>
+            {lastUpdatedDate && (
+              <span>Last updated: {lastUpdatedDate.toLocaleDateString()}</span>
+            )}
+            {lastUpdatedDate && publicationDate && <span> | </span>}
+            {publicationDate && (
+              <span>
+                Originally published: {publicationDate.toLocaleDateString()}
+              </span>
+            )}
+          </strong>
+        </p>
+      )
+    }
+  </hgroup>
   <slot />
   {
     includeResponseLink && (
@@ -51,8 +72,16 @@ const {
     gap: 0.5rem;
     margin-inline: auto;
     width: fit-content;
-    border: 1px solid var(--rwb-link);
+    border: 1px solid var(--rwb-text);
     border-radius: 8px;
     padding: 0.5rem;
+  }
+
+  a:hover {
+    border-color: var(--rwb-link);
+  }
+
+  p {
+    text-align: center;
   }
 </style>

@@ -1,12 +1,10 @@
-alias p := push
 alias r := run
 alias b := build
-alias l := log
 alias c := clean
 alias s := sync
 
-push message:
-    git add -A && git commit -m '{{message}}' && git push
+bundle:
+    git bundle create rwblickhan.org.bundle --all
 
 run:
     pnpm run dev
@@ -22,6 +20,3 @@ clean:
 
 sync:
     pnpm run astro sync
-
-log:
-  git diff-index --quiet HEAD && echo "No changes!" || (git camp "Log")

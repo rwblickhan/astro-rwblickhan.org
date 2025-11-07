@@ -7,13 +7,13 @@ for file in $files; do
         continue
     fi
 
-    if [[ $file == *.md || $file == *.mdx ]]; then
-        echo "Linting $file"
-        markdownlint $file --fix
-        echo "Updating last update date for $file"
-        sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: $(date +%Y-%m-%d)" $file
-        git add "$file"
-    fi
+    # if [[ $file == *.md || $file == *.mdx ]]; then
+    #     echo "Linting $file"
+    #     markdownlint $file --fix
+    #     echo "Updating last update date for $file"
+    #     sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: $(date +%Y-%m-%d)" $file
+    #     git add "$file"
+    # fi
 
     if [[ $file == *.astro || $file == *.ts ]]; then
         run_astro_check=true

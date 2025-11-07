@@ -1,6 +1,6 @@
 ---
 title: What’s the Deal with the Prisoner’s Dilemma?
-lastUpdatedDate: 2024-04-07
+lastUpdatedDate: 2025-08-04
 description: Why the Prisoner’s Dilemma is important
 ---
 
@@ -83,6 +83,7 @@ In any case, the main point stands: there are at least some conceivable situatio
 
 ## References
 
+- [“Prisoners Dilemmas In Corporate America”](https://www.atvbt.com/prisoners-dilemmas-in-corporate-america/), *Atoms vs Bits*
 - “Strategic-form games”, *Game Theory*, Maschler, Solan, and Zamir
 - “Dominance and best response”, *Strategy: An Introduction to Game Theory*, Joel Watson
 

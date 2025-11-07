@@ -3,6 +3,7 @@ export interface Props {
   title?: string;
   description: string;
   lastUpdatedDate?: Date;
+  publicationDate?: Date;
   image?: string;
 }
 
@@ -10,7 +11,8 @@ const {
   title,
   description,
   lastUpdatedDate,
-  image = "/.well-known/avatar.png",
+  publicationDate,
+  image = "/.well-known/lambda.png",
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -40,7 +42,8 @@ const blogJsonLd = lastUpdatedDate && {
       url: imageProfileURL,
     },
   },
-  datePublished: lastUpdatedDate.toISOString(),
+  datePublished:
+    publicationDate?.toISOString() ?? lastUpdatedDate.toISOString(),
   dateModified: lastUpdatedDate.toISOString(),
 };
 ---
@@ -101,12 +104,22 @@ const blogJsonLd = lastUpdatedDate && {
     )
   }
 
-  <script>
-    let floatDirection = "right";
+  <!-- https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html -->
+  <script is:inline type="speculationrules">
+    {
+      "prerender": [
+        { "where": { "href_matches": "/*" }, "eagerness": "moderate" }
+      ],
+      "prefetch": [
+        { "where": { "href_matches": "/*" }, "eagerness": "moderate" }
+      ]
+    }
+  </script>
 
+  <script>
     function handleImageFloat() {
       const images = document.querySelectorAll("img");
-      images.forEach((image) => {
+      images.forEach((image, idx) => {
         image.onload = function () {
           if (
             image.classList.contains("force-float-left") ||
@@ -117,6 +130,7 @@ const blogJsonLd = lastUpdatedDate && {
 
           const container = image.closest("article");
           const containerWidth = container?.offsetWidth ?? 0;
+          const floatDirection = idx % 2 === 0 ? "right" : "left";
           if (image.naturalWidth < containerWidth * 0.6) {
             image.style.float = floatDirection;
             image.style.marginInlineStart =
@@ -124,7 +138,6 @@ const blogJsonLd = lastUpdatedDate && {
             image.style.marginInlineEnd =
               floatDirection === "right" ? "0" : "1rem";
             image.style.marginBlockEnd = "1rem";
-            floatDirection = floatDirection === "right" ? "left" : "right";
           } else {
             image.style.float = "none";
             image.style.marginInline = "auto";
@@ -136,5 +149,11 @@ const blogJsonLd = lastUpdatedDate && {
 
     handleImageFloat();
     window.addEventListener("resize", handleImageFloat);
+  </script>
+  <script>
+    import { accented } from "accented";
+    if (import.meta.env.MODE === "development") {
+      accented();
+    }
   </script>
 </head>

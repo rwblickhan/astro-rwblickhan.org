@@ -1,11 +1,10 @@
 ---
 title: The Art of Gathering
-lastUpdatedDate: 2024-10-23
+lastUpdatedDate: 2025-07-18
 publicationDate: 2024-10-23
 season: 7
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 
 ![A pylon in Bayfront Park](../../assets/newsletters/bayfront_park.jpg)
 Mission Bay's new Bayfront Park is now open!

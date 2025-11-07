@@ -1,6 +1,6 @@
 ---
 title: Perhaps The LLM Juice Isn’t Worth The Electrical Squeeze (rwblog S6E23)
-lastUpdatedDate: 2024-07-17
+lastUpdatedDate: 2025-03-10
 publicationDate: 2024-04-17
 season: 6
 ---
@@ -8,6 +8,8 @@ season: 6
 This will be an unusually content-lite post. I’m moving, among other things, so it’s been a long week.
 
 ## LLM LLM LLM
+
+*Update: I wrote two more newsletter exploring the ethics of LLMs in more detail: [But What Is It *Good* For?](https://rwblickhan.org/newsletters/but-what-is-it-good-for/) and [Let’s Think Step-by-Step](https://rwblickhan.org/newsletters/lets-think-step-by-step/)*
 
 So this week noted cryptic skeptic Molly White  has a new essay out titled [“AI isn't useless. But is it worth it?”](https://www.citationneeded.news/ai-isnt-useless/). It’ s a great article and I highly recommend it. The crux of her argument is that AI *is* useful, but at such a high cost and primarily for such questionably-useful activities that perhaps the LLM juice isn’t worth the electrical squeeze.
 

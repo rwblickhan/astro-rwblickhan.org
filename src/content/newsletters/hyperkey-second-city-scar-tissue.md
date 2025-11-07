@@ -1,11 +1,10 @@
 ---
 title: Hyperkey Second City Scar Tissue
-lastUpdatedDate: 2024-10-02
+lastUpdatedDate: 2025-07-18
 publicationDate: 2024-10-02
 season: 7
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 
 Hello frens,
 
