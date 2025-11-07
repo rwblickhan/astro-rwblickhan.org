@@ -1,7 +1,6 @@
 ---
 title: "scroll-padding"
-lastUpdatedDate: 2023-04-21
-tags: [frontend, css]
+lastUpdatedDate: 2025-02-05
 ---
 
 [Yesterday I said](20230420-position-sticky-scrolling) that, when using a sticky header, there's no way to scroll to the correct position using only CSS. I should have known better than to trust ChatGPT or my Googling abilities!

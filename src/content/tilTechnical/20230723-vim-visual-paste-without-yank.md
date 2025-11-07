@@ -1,7 +1,6 @@
 ---
 title: "Visual Paste without Yank in Vim"
-lastUpdatedDate: 2023-07-23
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 A common pattern I follow in vim is yanking some text, then making a visual selection

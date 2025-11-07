@@ -1,6 +1,6 @@
 ---
 title: There’s Probably a Metaphor for Business Leadership or Scientific Research in Here (rwblog S6E8)
-lastUpdatedDate: 2024-07-17 06:07:58.892888+00:00
+lastUpdatedDate: 2025-03-10 06:07:58.892888+00:00
 publicationDate: 2023-07-29 06:07:58.892888+00:00
 season: 6
 ---
@@ -26,6 +26,8 @@ Anyway: what other “types” of thinking might be out there, powered by tools?
 ![de Young Museum](../../assets/newsletters/de_young_museum.png)
 
 ## Agelasty
+
+_Update: I ended up writing an entire article epxloring this concept! [Farmers & Foragers](https://rwblickhan.org/essays/farmers-foragers/)_
 
 I read a quote from recently-deceased not-a-Nobel-Prize-winner Milan Kundera that resonated with me, though I’ve never read another word by the man:
 

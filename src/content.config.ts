@@ -67,7 +67,6 @@ const tilTechnical = defineCollection({
   }),
   schema: z.object({
     title: z.string(),
-    tags: z.array(z.string()),
     lastUpdatedDate: z
       .string()
       .or(z.date())

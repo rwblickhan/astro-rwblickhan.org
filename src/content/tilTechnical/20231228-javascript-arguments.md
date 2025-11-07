@@ -1,7 +1,6 @@
 ---
 title: "JavaScript Arguments Object"
-lastUpdatedDate: 2023-12-28
-tags: [frontend, javascript]
+lastUpdatedDate: 2025-02-05
 ---
 
 JavaScript has a built-in `arguments` object in *every* function that lets you access the arguments passed to a function, even if the function doesn't have any listed parameters! (What. *What*.)

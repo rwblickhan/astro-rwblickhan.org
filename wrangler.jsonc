@@ -1,0 +1,13 @@
+{
+  "name": "rwblickhanorg",
+  "compatibility_date": "2025-05-14",
+  "assets": {
+    "directory": "./dist",
+  },
+  "routes": [
+    {
+      "pattern": "rwblickhan.org",
+      "custom_domain": true,
+    },
+  ],
+}

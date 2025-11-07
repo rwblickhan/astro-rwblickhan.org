@@ -1,7 +1,6 @@
 ---
 title: "iPhone Back Tap"
-lastUpdatedDate: 2024-10-03
-tags: [productivity-software]
+lastUpdatedDate: 2025-02-05
 ---
 
 Don't have an iPhone 15 with an Action Button™️? It turns out you can get something similar with an accessibility feature on all iPhones on iOS 14 or later.

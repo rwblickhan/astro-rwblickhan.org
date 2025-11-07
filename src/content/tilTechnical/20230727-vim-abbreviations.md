@@ -1,7 +1,6 @@
 ---
 title: "Abbreviations in Vim"
-lastUpdatedDate: 2023-07-27
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 vim has an abbreviation system:

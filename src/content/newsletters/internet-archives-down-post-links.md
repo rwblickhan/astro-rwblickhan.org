@@ -1,11 +1,10 @@
 ---
 title: Internet Archive’s Down, Post Links
-lastUpdatedDate: 2024-10-13
+lastUpdatedDate: 2025-07-18
 publicationDate: 2024-10-13
 season: 7
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 
 It’s been a while since I’ve done an old-fashioned linkblog. Here’s some links I’ve liked recently.
 

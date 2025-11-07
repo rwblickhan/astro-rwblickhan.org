@@ -1,10 +1,10 @@
 ---
 title: Biblioteca Personal
 description: A brief list of my favorite fiction
-lastUpdatedDate: 2024-11-29
+lastUpdatedDate: 2025-02-05
 ---
 
-In honor of Jorges Luis Borges’ [*biblioteca personal*](https://www.openculture.com/2015/03/jorge-luis-borges-personal-library.html), here’s my own list of media that has been deeply influential on me. (Incomplete, but I’ll finish it off later!)
+In honor of Jorge Luis Borges’ [*biblioteca personal*](https://www.openculture.com/2015/03/jorge-luis-borges-personal-library.html), here’s my own list of media that has been deeply influential on me. (Incomplete, but I’ll finish it off later!)
 
 ### Hitchhiker’s Guide to the Galaxy (Douglas Adams)
 

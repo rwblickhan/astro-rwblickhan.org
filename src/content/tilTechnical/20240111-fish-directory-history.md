@@ -1,7 +1,6 @@
 ---
 title: "Fish Shell Directory History"
-lastUpdatedDate: 2024-01-11
-tags: [command-line, shell, fish]
+lastUpdatedDate: 2025-02-05
 ---
 
 [fish shell](https://fishshell.com) has two built-in functions, [`nextd`](https://fishshell.com/docs/current/cmds/nextd.html) and [`prevd`](https://fishshell.com/docs/current/cmds/prevd.html), that let you jump between recently visited directories in a stack-like manner.

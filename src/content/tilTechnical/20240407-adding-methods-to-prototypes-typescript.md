@@ -1,7 +1,6 @@
 ---
 title: Adding Methods to Prototypes in TypeScript
-lastUpdatedDate: 2024-04-07
-tags: [frontend, javascript]
+lastUpdatedDate: 2025-02-05
 ---
 
 Recently for a Secret Project 🤫 I had a need to shuffle an array. Luckily I found the [Fisher–Yates Shuffle](https://bost.ocks.org/mike/shuffle/), but I still needed to actually *implement* it in TypeScript. In particular, I was hoping for an immutable method on `Array`, similar to existing methods like [`toSorted()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toSorted). In that case, I would be able to get an array of shuffled questions by calling `questions.toShuffled()`.

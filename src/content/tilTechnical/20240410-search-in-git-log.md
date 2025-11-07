@@ -1,7 +1,6 @@
 ---
 title: Search in git log
-lastUpdatedDate: 2024-04-10
-tags: [command-line, git]
+lastUpdatedDate: 2025-02-05
 ---
 
 Yesterday I wanted to look for a block of code in [my dotfiles](https://github.com/rwblickhan/dotfiles) that I deleted a while ago. Turns out there’s an easy way to do that!

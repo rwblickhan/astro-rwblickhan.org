@@ -1,13 +1,11 @@
 ---
 title: Unsusceptibility to the Illusion is Inherent (rwblog S6E11)
-lastUpdatedDate: 2024-07-17 18:12:28.254790+00:00
+lastUpdatedDate: 2025-05-07 18:12:28.254790+00:00
 publicationDate: 2023-10-21 18:12:28.254790+00:00
 season: 6
 ---
 
 Hello friends. It has been a rough couple weeks for me personally, not to mention, well, the world as a whole. Hopefully you are all staying safe, sane, and healthy. This will be a short issue and I am not going to bother with interstitial images.
-
-## Table of Contents
 
 ## Software Engineers and the Illusion of Explanatory Depth
 

@@ -1,7 +1,6 @@
 ---
 title: ":sort in vim"
-lastUpdatedDate: 2023-05-20
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 vim has a built-in sorting function. Specify a range or a visual selection and run `:sort` in command mode to sort the given lines. You can also do things like:

@@ -1,7 +1,6 @@
 ---
 title: Smart Selection in iTerm2
-lastUpdatedDate: 2024-08-10
-tags: [command-line]
+lastUpdatedDate: 2025-02-05
 ---
 
 iTerm2 has a smart-selection feature

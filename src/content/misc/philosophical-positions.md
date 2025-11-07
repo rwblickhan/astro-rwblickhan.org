@@ -1,7 +1,7 @@
 ---
 title: Philosophical Positions
 description: Things I generally believe
-lastUpdatedDate: 2024-11-28
+lastUpdatedDate: 2025-05-15
 ---
 
 This is an evergreen list of philosophical positions and beliefs I generally hold.
@@ -15,6 +15,8 @@ This is an evergreen list of philosophical positions and beliefs I generally hol
 - As a corollary to the previous three bullet points, I reject the existence of [p-zombies](https://plato.stanford.edu/entries/zombies/); that is, creatures identical to humans but lacking conscious experience.
   - In particular, by the three points above, consciousness just *is* an illusion produced as a side effect of sufficiently complex information-processing systems, in which case it would not be possible to have a creature identical to humans in information-processing capability but lacking qualia.
 - As an additional corollary, I'm agnostic as to whether large language models (LLMs) are merely ["stochastic parrots"](https://dl.acm.org/doi/10.1145/3442188.3445922) or may be conscious; indeed, in the theory above, the distinction is not particularly meaningful!
+- However, I'm also broadly a [Gopnikist](http://bactra.org/weblog/feral-library-card-catalogs.html) with respect to LLMs — that LLMs are a [novel cultural technology](https://www.youtube.com/live/k7rPtFLH6yw?si=yQl_OOIzsmc0uzPj), not a [form of intelligence](https://www.programmablemutter.com/p/large-ai-models-are-cultural-and).
+  - Do note that the question of large language model *understanding* is subtly different from the question of large language model *consciousness*.
 - I find the [overfitted brain hypothesis](https://pubmed.ncbi.nlm.nih.gov/34036289/) fairly convincing. It argues that dreams are an attempt to fight "overfitting" in a statistical sense by generating noisy, out-of-distribution data, similar to how deep neural networks can benefit from training on noisy or corrupted inputs.
 
 ## Epistemology

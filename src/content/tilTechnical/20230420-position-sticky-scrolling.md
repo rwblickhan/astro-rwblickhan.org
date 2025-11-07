@@ -1,7 +1,6 @@
 ---
 title: "position: sticky and Scrolling"
-lastUpdatedDate: 2023-04-20
-tags: [frontend, css, javascript]
+lastUpdatedDate: 2025-02-05
 ---
 
 For larger devices, I wanted the header of this website to be sticky - it should follow you as you scroll down the page.

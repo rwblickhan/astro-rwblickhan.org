@@ -1,7 +1,6 @@
 ---
 title: "Macro Registers in Vim"
-lastUpdatedDate: 2023-07-28
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 The registers used for recording macros in vim are actually just the normal registers!

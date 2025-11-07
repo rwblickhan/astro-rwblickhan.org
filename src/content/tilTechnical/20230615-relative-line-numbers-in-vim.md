@@ -1,7 +1,6 @@
 ---
 title: "Relative Line Number in Vim"
-lastUpdatedDate: 2023-06-15
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 Most vim actions allow a count. However, if you use absolute line numbers, you're left to calculate offsets by yourself;

@@ -1,7 +1,6 @@
 ---
 title: TypeScript `using` Keyword
-lastUpdatedDate: 2024-03-25
-tags: [frontend, javascript]
+lastUpdatedDate: 2025-02-05
 ---
 
 Yesterday I was working with a Sqlite database and I wanted to call `db.close()` every time a particular class went out of scope. This is a pretty common pattern across programming languages - [RAII via destructors](https://en.cppreference.com/w/cpp/language/raii) in C++, [`with` statements](https://docs.python.org/3/reference/compound_stmts.html#with) in Python, the [`Drop` trait](https://doc.rust-lang.org/std/ops/trait.Drop.html) in Rust – so I was slightly surprised that JavaScript doesn’t have a similar pattern.

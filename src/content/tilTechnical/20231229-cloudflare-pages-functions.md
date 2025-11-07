@@ -1,7 +1,6 @@
 ---
 title: "Cloudflare Pages Functions"
-lastUpdatedDate: 2023-12-29
-tags: [infrastructure]
+lastUpdatedDate: 2025-02-05
 ---
 
 Cloudflare has an easy way to build simple APIs for otherwise-static sites running on [Cloudflare Pages](https://pages.cloudflare.com), which is what I use to host most of my sites.

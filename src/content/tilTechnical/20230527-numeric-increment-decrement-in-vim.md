@@ -1,7 +1,6 @@
 ---
 title: "Numeric Increment and Decrement in Vim"
-lastUpdatedDate: 2023-05-27
-tags: [command-line, vim]
+lastUpdatedDate: 2025-02-05
 ---
 
 You can use `<C-a>` and `<C-x>` (Ctrl-a and Ctrl-x) to increment or decrement a number under the cursor.

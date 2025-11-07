@@ -1,8 +1,15 @@
 :root {
-  color-scheme: light dark;
-  --rwb-background: light-dark(white, #030404);
-  --rwb-text: light-dark(black, #e8e6e3);
-  --rwb-link: light-dark(#3366cc, #689fd9);
+  --black: hsl(0 0% 0%);
+  --paper-gray: hsl(42 0% 96%);
+  --rwb-blue: hsl(208 100% 45%);
+  --rwb-dark-blue: hsl(208 85% 35%);
+  --rwb-medium-blue: hsl(208, 75%, 75%);
+  --rwb-light-blue: hsl(208 100% 94%);
+
+  --rwb-text: var(--black);
+  --rwb-link: var(--rwb-dark-blue);
+  --rwb-link-underline: var(--rwb-blue);
+  --rwb-background: var(--paper-gray);
 }
 
 /* Reset based on https://keithjgrant.com/posts/2024/01/my-css-resets/ */
@@ -80,7 +87,6 @@ html {
   font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
   font-weight: normal;
   font-size: 17px;
-  line-height: 1.45em;
 }
 
 @media (min-width: 768px) {
@@ -97,6 +103,7 @@ h5,
 h6 {
   margin-block: 1rem;
   text-wrap: balance;
+  text-align: center;
   clear: both;
 }
 
@@ -104,6 +111,7 @@ p,
 ol,
 ul {
   margin-block: 1rem;
+  line-height: 1.45em;
 }
 
 ol,
@@ -118,7 +126,16 @@ dt {
 }
 
 a {
+  color: var(--rwb-text);
+  text-decoration-color: var(--rwb-link-underline);
+}
+
+a:hover {
   color: var(--rwb-link);
+}
+
+::target-text {
+  background-color: var(--rwb-medium-blue);
 }
 
 @layer images {
@@ -166,25 +183,20 @@ a {
 
 @layer blockquotes {
   figure {
-    border: 1px solid var(--rwb-text);
-    border-radius: 20px;
-    margin-block: 8px;
     clear: both;
   }
 
   figure blockquote {
-    margin-inline: 1em;
+    margin-inline: 2em;
     margin-block: 1em;
   }
 
-  figure:has(figcaption) blockquote {
-    border-bottom: 1px solid var(--rwb-text);
-  }
-
+  /* Per tufte-css: https://edwardtufte.github.io/tufte-css/#fundamentals */
   figure figcaption {
-    margin-inline-start: 2em;
-    margin-inline-end: 1em;
-    margin-block: 1em;
+    max-width: 55%;
+    margin-inline-start: auto;
+    text-wrap: balance;
+    text-align: right;
   }
 }
 
@@ -210,5 +222,31 @@ a {
 
   tbody tr:nth-of-type(even) {
     background-color: #f3f3f3;
+  }
+}
+
+@layer callouts {
+  aside {
+    margin-block: 1rem;
+    padding: 1rem;
+    border-left: 6px solid var(--rwb-blue);
+    background-color: var(--rwb-light-blue);
+    border-radius: 0.5rem;
+  }
+
+  aside.note::before {
+    content: "Note";
+    font-weight: bold;
+    color: var(--rwb-blue);
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  aside > *:first-child {
+    margin-top: 0;
+  }
+
+  aside > *:last-child {
+    margin-bottom: 0;
   }
 }

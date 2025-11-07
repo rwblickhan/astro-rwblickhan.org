@@ -1,10 +1,9 @@
 ---
 title: The Structure
-lastUpdatedDate: 2021-02-20
+lastUpdatedDate: 2025-07-18
 description: "The crew of a generation ship find a mysterious structure floating on the solar winds of a distant star."
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 
 The generation ship floated, gently, upon the solar winds of a distant star.
 

@@ -1,10 +1,9 @@
 ---
 title: The Factory
-lastUpdatedDate: 2020-08-23
+lastUpdatedDate: 2025-07-18
 description: "A linguist studies an alien inscription in a mysterious facility."
 ---
 
-<!-- markdownlint-disable no-inline-html -->
 <!-- markdownlint-disable no-emphasis-as-heading -->
 
 They had found the Factory in the darkened valley of an airless moon.

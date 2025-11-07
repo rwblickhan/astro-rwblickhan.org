@@ -1,6 +1,6 @@
 ---
-import BaseHead from "../components/BaseHead.astro";
-import Header from "../components/Header.astro";
+import Head from "../components/Head.astro";
+import Nav from "../components/Nav.astro";
 import "../styles/index.css";
 
 // export interface Props {
@@ -14,6 +14,7 @@ const {
   description,
   width,
   lastUpdatedDate,
+  publicationDate,
   parentCollection,
   shouldIndex,
 } = Astro.props.frontmatter || Astro.props;
@@ -21,34 +22,35 @@ const {
 
 <!doctype html>
 <html lang="en">
-  <BaseHead
+  <Head
     title={title}
     description={description}
     lastUpdatedDate={lastUpdatedDate}
+    publicationDate={publicationDate}
   />
-  <Header parentCollection={parentCollection} />
+  <Nav parentCollection={parentCollection} />
   {
     shouldIndex ? (
-      <article class={width} data-pagefind-body>
+      <main class={width} data-pagefind-body>
         <slot />
-      </article>
+      </main>
     ) : (
-      <article class={width}>
+      <main class={width}>
         <slot />
-      </article>
+      </main>
     )
   }
 </html>
 
 <style>
-  article {
+  main {
     padding: 0 1rem;
     margin-bottom: 1rem;
     container-type: inline-size;
   }
 
   @media (min-width: 768px) {
-    article {
+    main {
       margin-left: auto;
       margin-right: auto;
 
