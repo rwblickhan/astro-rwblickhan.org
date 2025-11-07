@@ -1,0 +1,53 @@
+---
+
+---
+
+<select id="color-scheme-select" aria-label="Choose color scheme">
+  <option value="blue">🔵</option>
+  <option value="red">🔴</option>
+</select>
+
+<script>
+  const select = document.getElementById(
+    "color-scheme-select"
+  ) as HTMLSelectElement;
+
+  const savedScheme = localStorage.getItem("color-scheme") || "blue";
+  select.value = savedScheme;
+  applyColorScheme(savedScheme);
+
+  select.addEventListener("change", (e) => {
+    const scheme = (e.target as HTMLSelectElement).value;
+    applyColorScheme(scheme);
+    localStorage.setItem("color-scheme", scheme);
+  });
+
+  function applyColorScheme(scheme: string) {
+    const root = document.documentElement;
+
+    if (scheme === "red") {
+      root.style.setProperty("--rwb-link", "var(--rwb-dark-red)");
+      root.style.setProperty("--rwb-link-underline", "var(--rwb-red)");
+      root.style.setProperty("--target-text-bg", "var(--rwb-medium-red)");
+      root.style.setProperty("--callout-border", "var(--rwb-red)");
+      root.style.setProperty("--callout-bg", "var(--rwb-light-red)");
+      root.style.setProperty("--callout-text", "var(--rwb-red)");
+      root.style.setProperty("--outline", "var(--rwb-red)");
+    } else {
+      root.style.setProperty("--rwb-link", "var(--rwb-dark-blue)");
+      root.style.setProperty("--rwb-link-underline", "var(--rwb-blue)");
+      root.style.setProperty("--target-text-bg", "var(--rwb-medium-blue)");
+      root.style.setProperty("--callout-border", "var(--rwb-blue)");
+      root.style.setProperty("--callout-bg", "var(--rwb-light-blue)");
+      root.style.setProperty("--callout-text", "var(--rwb-blue)");
+      root.style.setProperty("--outline", "var(--rwb-blue)");
+    }
+  }
+</script>
+
+<style>
+  select {
+    border: none;
+    background-color: var(----rwb-background);
+  }
+</style>
