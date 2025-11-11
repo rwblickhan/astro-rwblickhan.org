@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-11-03
+lastUpdatedDate: 2025-11-10
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -43,6 +43,7 @@ lastUpdatedDate: 2025-11-03
 38. *‌The Bewitching*, Silvia Moreno-Garcia
 39. 🔁 *The Haunting of Hill House*, Shirley Jackson
 40. *What In Me Is Dark: The Revolutionary Afterlife of Paradise Lost*, Orlando Reade
+41. 🔁 *Monkey King: Journey to the West*, Wu Cheng’en (trans. Julia Lovell)
 
 ## Skimmed
 
