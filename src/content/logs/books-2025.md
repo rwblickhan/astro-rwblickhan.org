@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-11-10
+lastUpdatedDate: 2025-11-15
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -44,6 +44,7 @@ lastUpdatedDate: 2025-11-10
 39. 🔁 *The Haunting of Hill House*, Shirley Jackson
 40. *What In Me Is Dark: The Revolutionary Afterlife of Paradise Lost*, Orlando Reade
 41. 🔁 *Monkey King: Journey to the West*, Wu Cheng’en (trans. Julia Lovell)
+42. *Frankenstein: Or, The Modern Prometheus*, Mary Wollstonecraft Shelley
 
 ## Skimmed
 
