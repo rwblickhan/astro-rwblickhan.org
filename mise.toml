@@ -1,5 +1,5 @@
-[tasks.run]
-alias = 'r'
+[tasks.dev]
+alias = 'd'
 run = 'pnpm run dev'
 
 [tasks.build]
