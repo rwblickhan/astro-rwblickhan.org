@@ -1,6 +1,6 @@
 ---
 title: Games of 2025
-lastUpdatedDate: 2025-09-16
+lastUpdatedDate: 2025-11-16
 ---
 
 ## Video Games
@@ -9,6 +9,8 @@ lastUpdatedDate: 2025-09-16
 2. 🔁 *Dishonored*
 3. *Gone Home*
 4. 🔁 *Every day the same dream*
+5. *Hollow Knight*
+6. *The Stanley Parable*
 
 ## Traditional Games
 
