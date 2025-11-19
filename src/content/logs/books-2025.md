@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-11-16
+lastUpdatedDate: 2025-11-19
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -46,6 +46,7 @@ lastUpdatedDate: 2025-11-16
 41. 🔁 *Monkey King: Journey to the West*, Wu Cheng’en (trans. Julia Lovell)
 42. *Frankenstein: Or, The Modern Prometheus*, Mary Wollstonecraft Shelley
 43. 🔁 *The Rime of the Ancient Mariner*, Samuel Taylor Coleridge
+44. 🔁 *Amphigorey*, Edward Gorey
 
 ## Skimmed
 
