@@ -47,6 +47,7 @@ lastUpdatedDate: 2025-11-19
 42. *Frankenstein: Or, The Modern Prometheus*, Mary Wollstonecraft Shelley
 43. 🔁 *The Rime of the Ancient Mariner*, Samuel Taylor Coleridge
 44. 🔁 *Amphigorey*, Edward Gorey
+45. 🔁 *The Annotated Hunting of the Snark*, Lewis Carroll (ed. Martin Gardner)
 
 ## Skimmed
 
