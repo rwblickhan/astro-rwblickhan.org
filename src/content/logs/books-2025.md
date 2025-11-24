@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-11-19
+lastUpdatedDate: 2025-11-24
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -48,6 +48,7 @@ lastUpdatedDate: 2025-11-19
 43. 🔁 *The Rime of the Ancient Mariner*, Samuel Taylor Coleridge
 44. 🔁 *Amphigorey*, Edward Gorey
 45. 🔁 *The Annotated Hunting of the Snark*, Lewis Carroll (ed. Martin Gardner)
+46. *Waking Up: A Guide to Spirituality Without Religion*, Sam Harris
 
 ## Skimmed
 
