@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-10-26
+lastUpdatedDate: 2025-11-24
 ---
 
 ## Movies
@@ -56,3 +56,11 @@ lastUpdatedDate: 2025-10-26
 14. *Gurren Lagann* (2007)
 15. *True Detective* Season 1 (2014)
 16. 🔁 *Over the Garden Wall* (2014)
+
+## Musicals & Plays
+
+- *Nobody Loves You*
+- *Co-Founders*
+- *Kim’s Convenience*
+- *The Monkey King* at San Francisco Opera
+- *Stereophonic*
