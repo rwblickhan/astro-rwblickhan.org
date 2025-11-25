@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-11-24
+lastUpdatedDate: 2025-11-25
 ---
 
 ## Movies
@@ -37,6 +37,7 @@ lastUpdatedDate: 2025-11-24
 30. 🔁 *Perfect Blue* (1997)
 31. *Possession* (1981)
 32. *In the Mouth of Madness* (1994)
+33. *Guillermo del Toro’s Frankenstein* (2025)
 
 ## TV Shows
 
