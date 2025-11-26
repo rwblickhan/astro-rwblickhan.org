@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-11-24
+lastUpdatedDate: 2025-11-25
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -49,6 +49,7 @@ lastUpdatedDate: 2025-11-24
 44. 🔁 *Amphigorey*, Edward Gorey
 45. 🔁 *The Annotated Hunting of the Snark*, Lewis Carroll (ed. Martin Gardner)
 46. *Waking Up: A Guide to Spirituality Without Religion*, Sam Harris
+47. 🔁 *Scott Pilgrim Vol. 1: Scott Pilgrim's Precious Little Life*, Bryan Lee O'Malley
 
 ## Skimmed
 
