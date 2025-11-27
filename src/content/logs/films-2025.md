@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-11-25
+lastUpdatedDate: 2025-11-27
 ---
 
 ## Movies
@@ -38,6 +38,7 @@ lastUpdatedDate: 2025-11-25
 31. *Possession* (1981)
 32. *In the Mouth of Madness* (1994)
 33. *Guillermo del Toro’s Frankenstein* (2025)
+34. *All The Crows In The World* (2021)
 
 ## TV Shows
 
@@ -57,6 +58,7 @@ lastUpdatedDate: 2025-11-25
 14. *Gurren Lagann* (2007)
 15. *True Detective* Season 1 (2014)
 16. 🔁 *Over the Garden Wall* (2014)
+17. *Fullmetal Alchemist: Brotherhood* (2009)
 
 ## Musicals & Plays
 
