@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-11-26
+lastUpdatedDate: 2025-11-27
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -51,6 +51,7 @@ lastUpdatedDate: 2025-11-26
 46. *Waking Up: A Guide to Spirituality Without Religion*, Sam Harris
 47. 🔁 *Scott Pilgrim Vol. 1: Scott Pilgrim's Precious Little Life*, Bryan Lee O'Malley
 48. 🔁 *Scott Pilgrim Vol. 2: Scott Pilgrim vs. the World*, Bryan Lee O'Malley
+49. 🔁 *Scott Pilgrim Vol. 3: Scott Pilgrim & The Infinite Sadness*, Bryan Lee O'Malley
 
 ## Skimmed
 
