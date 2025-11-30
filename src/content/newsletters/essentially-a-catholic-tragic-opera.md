@@ -25,7 +25,7 @@ I enjoy *Hazbin Hotel* very much, but I acknowledge it is very much Not For Ever
 Perhaps more importantly: *Hazbin* is another step in the long, long evolution of Abrahamic mythology. *Hazbin* quietly assumes a fairly extensive familiarity with esoteric Christian concepts — not just the overall theme of redemption, but for instance the existence of Metatron as God’s spokesangel, or Lilith as the first human woman-turned-demon (now cast as Charlie’s absentee mom).
 
 :::aside{.note}
-> Esoterica alert: he had a [great video](https://youtu.be/3592DMH-eyM?si=4oLCg0zWCWIi1Tpe) this week discussing how Lilith went from a generic demonic entity to the Lilith we all know and love, thanks to a *deeply* satirical tract called *The Alphabet of Ben Sirah*.
+Esoterica alert: he had a [great video](https://youtu.be/3592DMH-eyM?si=4oLCg0zWCWIi1Tpe) this week discussing how Lilith went from a generic demonic entity to the Lilith we all know and love, thanks to a *deeply* satirical tract called *The Alphabet of Ben Sirah*.
 :::
 
 It’s particularly fascinating to watch while rereading *Paradise Lost*, which did so much to cement English-language conceptions of Satan. Indeed, *Hazbin* is almost as much an inversion of *Paradise Lost* as Pullman’s *His Dark Materials*, and worth watching on those grounds alone.
