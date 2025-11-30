@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-11-29
+lastUpdatedDate: 2025-11-30
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -54,6 +54,7 @@ lastUpdatedDate: 2025-11-29
 49. 🔁 *Scott Pilgrim Vol. 3: Scott Pilgrim & The Infinite Sadness*, Bryan Lee O'Malley
 50. 🔁 *Scott Pilgrim Vol. 4: Scott Pilgrim Gets It Together*, Bryan Lee O'Malley
 51. 🔁 *Scott Pilgrim Vol. 5: Scott Pilgrim vs. the Universe*, Bryan Lee O'Malley
+52. 🔁 *Scott Pilgrim Vol. 6: Scott Pilgrim's Finest Hour*, Bryan Lee O'Malley
 
 ## Skimmed
 
