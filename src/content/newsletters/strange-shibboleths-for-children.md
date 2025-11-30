@@ -1,6 +1,6 @@
 ---
 title: Strange Shibboleths for Children
-lastUpdatedDate: 2025-11-23
+lastUpdatedDate: 2025-11-30
 publicationDate: 2025-11-23
 season: 8
 ---
@@ -18,7 +18,9 @@ A few months back I talked about [_Twin Peaks: The Return_](https://rwblickhan.o
 
 Or another example is _The Rime of the Ancient Mariner_, which I revisited recently (due to a stray reference in _Frankenstein_).
 
-> Read the Martin Gardner annotated edition if you can get your hands on it. SFPL helpfully has one (1) copy that I am currently hoarding.
+:::aside{.note}
+Read the Martin Gardner annotated edition if you can get your hands on it. SFPL helpfully has one (1) copy that I am currently hoarding.
+:::
 
 _Ancient Mariner_ has a pretty simple-on-the-surface plot: mariner goes on a trip to the South Pole, shoots a friendly albatross, his ship is marooned and the rest of the crew dies of thirst, leaving only him alive (... forever) to spread the good word that you should respect all God’s creatures, big and small. Which, in fairness, is already a somewhat strange poem to write, but makes some sense in a (ahem) capital-R Romantic context.
 
@@ -30,7 +32,9 @@ This then led me to revisit Lewis Carroll’s _Hunting of the Snark_ (again, get
 
 I was thinking about this because I finally (finally!) played _The Stanley Parable_...
 
-> I _enjoyed_ _The Stanley Parable_, but I didn’t quite love it. It raises a lot of interesting questions about free will and the meaning of life and all that... but, at the end of the day, it’s mostly a gag. A very funny gag! When the Narrator throws you into _Minecraft_ and the first level of _Portal_, I laughed out loud, because that’s a joke targeted _very specifically_ to someone of not just my generation but, I think, my exact birth year. But ultimately I found _The Beginner’s Guide_ more thought provoking.
+:::aside{.note}
+I _enjoyed_ _The Stanley Parable_, but I didn’t quite love it. It raises a lot of interesting questions about free will and the meaning of life and all that... but, at the end of the day, it’s mostly a gag. A very funny gag! When the Narrator throws you into _Minecraft_ and the first level of _Portal_, I laughed out loud, because that’s a joke targeted _very specifically_ to someone of not just my generation but, I think, my exact birth year. But ultimately I found _The Beginner’s Guide_ more thought provoking.
+:::
 
 ... and that reminded me of Davey Wreden’s later game, _The Beginner’s Guide_. (Spoilers now abound to the end of this section. I would just play _The Beginner’s Guide_ because it’s about an hour and a half long and requires no video game skills! It’s a masterpiece of the form!)
 
