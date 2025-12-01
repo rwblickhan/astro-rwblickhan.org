@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-11-27
+lastUpdatedDate: 2025-11-30
 ---
 
 ## Movies
@@ -59,6 +59,7 @@ lastUpdatedDate: 2025-11-27
 15. *True Detective* Season 1 (2014)
 16. 🔁 *Over the Garden Wall* (2014)
 17. *Fullmetal Alchemist: Brotherhood* (2009)
+18. *Hazbin Hotel* Season 2 (2025)
 
 ## Musicals & Plays
 
