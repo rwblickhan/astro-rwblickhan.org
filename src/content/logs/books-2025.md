@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-12-01
+lastUpdatedDate: 2025-12-03
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -56,6 +56,7 @@ lastUpdatedDate: 2025-12-01
 51. 🔁 *Scott Pilgrim Vol. 5: Scott Pilgrim vs. the Universe*, Bryan Lee O'Malley
 52. 🔁 *Scott Pilgrim Vol. 6: Scott Pilgrim's Finest Hour*, Bryan Lee O'Malley
 53. *The City in Glass*, Nghi Vo
+54. “The Witch”, Shirley Jackson
 
 ## Skimmed
 
