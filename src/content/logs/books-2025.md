@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-12-04
+lastUpdatedDate: 2025-12-05
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -58,6 +58,7 @@ lastUpdatedDate: 2025-12-04
 53. *The City in Glass*, Nghi Vo
 54. “The Witch”, Shirley Jackson
 55. *Fantasy: A Short History*, Adam Roberts
+56. *The Remains of the Day*, Kazuo Ishiguro
 
 ## Skimmed
 
