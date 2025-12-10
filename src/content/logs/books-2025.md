@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-12-05
+lastUpdatedDate: 2025-12-09
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -56,13 +56,14 @@ lastUpdatedDate: 2025-12-05
 51. 🔁 *Scott Pilgrim Vol. 5: Scott Pilgrim vs. the Universe*, Bryan Lee O'Malley
 52. 🔁 *Scott Pilgrim Vol. 6: Scott Pilgrim's Finest Hour*, Bryan Lee O'Malley
 53. *The City in Glass*, Nghi Vo
-54. “The Witch”, Shirley Jackson
-55. *Fantasy: A Short History*, Adam Roberts
-56. *The Remains of the Day*, Kazuo Ishiguro
+54. *Fantasy: A Short History*, Adam Roberts
+55. *The Remains of the Day*, Kazuo Ishiguro
 
 ## Skimmed
 
 ## Short Stories
+
+1. “The Witch”, Shirley Jackson
 
 ## Papers
 
