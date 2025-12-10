@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-11-30
+lastUpdatedDate: 2025-12-09
 ---
 
 ## Movies
@@ -60,6 +60,7 @@ lastUpdatedDate: 2025-11-30
 16. 🔁 *Over the Garden Wall* (2014)
 17. *Fullmetal Alchemist: Brotherhood* (2009)
 18. *Hazbin Hotel* Season 2 (2025)
+19. 🔁 *Scott Pilgrim Takes Off* (2023)
 
 ## Musicals & Plays
 
