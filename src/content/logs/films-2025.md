@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-12-09
+lastUpdatedDate: 2025-12-11
 ---
 
 ## Movies
@@ -39,6 +39,7 @@ lastUpdatedDate: 2025-12-09
 32. *In the Mouth of Madness* (1994)
 33. *Guillermo del Toro’s Frankenstein* (2025)
 34. *All The Crows In The World* (2021)
+35. *Hundreds of Beavers* (2022)
 
 ## TV Shows
 
