@@ -59,9 +59,10 @@ lastUpdatedDate: 2025-12-11
 54. *Fantasy: A Short History*, Adam Roberts
 55. *The Remains of the Day*, Kazuo Ishiguro
 
-## Skimmed
+## Skimmed / DNF
 
 1. *The Creative Act: A Way of Being*, Rick Rubin
+2. *Will There Ever Be Another You*, Patricia Lockwood
 
 ## Short Stories
 
