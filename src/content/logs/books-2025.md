@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-12-09
+lastUpdatedDate: 2025-12-11
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -60,6 +60,8 @@ lastUpdatedDate: 2025-12-09
 55. *The Remains of the Day*, Kazuo Ishiguro
 
 ## Skimmed
+
+1. *The Creative Act: A Way of Being*, Rick Rubin
 
 ## Short Stories
 
