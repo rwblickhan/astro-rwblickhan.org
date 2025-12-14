@@ -41,7 +41,7 @@ Miracle berry is a bizarre fruit that doesn’t taste like much, but _does_ inve
 
 ## Zojirushi Water Bottle
 
-![Zojirushi water bottle](../../assets/newsletters/zojirushi.jpg)
+![Zojirushi water bottle](../../assets/newsletters/zojirushi.png)
 
 I recommended the [Zojirushi SM-VA60](https://www.zojirushi.com/app/product/smva) just a [few weeks ago](https://rwblickhan.org/newsletters/with-all-that-consumerism-out-of-the-way/), and I still stand by the recommendation. Stay hydrated!
 
