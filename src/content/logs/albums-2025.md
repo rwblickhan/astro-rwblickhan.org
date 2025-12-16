@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-12-02
+lastUpdatedDate: 2025-12-15
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -127,3 +127,5 @@ lastUpdatedDate: 2025-12-02
 122. *Mono No Aware*, Various Artists
 123. *Reminiscencias*, Binary Algorithms
 124. *Not All Who Dream Are Asleep*, Lyrre
+125. *HOT POT!*, Mikala Geier
+126. *bbno$*, bbno$
