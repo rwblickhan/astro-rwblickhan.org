@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-12-11
+lastUpdatedDate: 2025-12-15
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -58,6 +58,7 @@ lastUpdatedDate: 2025-12-11
 53. *The City in Glass*, Nghi Vo
 54. *Fantasy: A Short History*, Adam Roberts
 55. *The Remains of the Day*, Kazuo Ishiguro
+56. *The Stone Door*, Leonora Carrington
 
 ## Skimmed / DNF
 
