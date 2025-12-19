@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-12-15
+lastUpdatedDate: 2025-12-18
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -59,6 +59,7 @@ lastUpdatedDate: 2025-12-15
 54. *Fantasy: A Short History*, Adam Roberts
 55. *The Remains of the Day*, Kazuo Ishiguro
 56. *The Stone Door*, Leonora Carrington
+57. *Are You There, God? It’s Me, Margaret.*, Judy Blume
 
 ## Skimmed / DNF
 
