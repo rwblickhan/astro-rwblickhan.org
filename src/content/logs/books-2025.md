@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-12-18
+lastUpdatedDate: 2025-12-19
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -60,6 +60,7 @@ lastUpdatedDate: 2025-12-18
 55. *The Remains of the Day*, Kazuo Ishiguro
 56. *The Stone Door*, Leonora Carrington
 57. *Are You There, God? It’s Me, Margaret.*, Judy Blume
+58. 🔁 *The Complete Persepolis*, Marjane Satrapi
 
 ## Skimmed / DNF
 
