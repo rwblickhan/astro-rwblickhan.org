@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-12-17
+lastUpdatedDate: 2025-12-20
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -130,3 +130,4 @@ lastUpdatedDate: 2025-12-17
 125. *HOT POT!*, Mikala Geier
 126. *bbno$*, bbno$
 127. *Rumours*, Fleetwood Mac
+128. *Blue*, Joni Mitchell
