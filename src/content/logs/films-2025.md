@@ -62,6 +62,7 @@ lastUpdatedDate: 2025-12-21
 17. *Fullmetal Alchemist: Brotherhood* (2009)
 18. *Hazbin Hotel* Season 2 (2025)
 19. 🔁 *Scott Pilgrim Takes Off* (2023)
+20. *The Chair Company* Season 1 (2025)
 
 ## Musicals & Plays
 
