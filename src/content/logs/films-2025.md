@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-12-11
+lastUpdatedDate: 2025-12-21
 ---
 
 ## Movies
@@ -70,3 +70,4 @@ lastUpdatedDate: 2025-12-11
 - *Kim’s Convenience*
 - *The Monkey King* at San Francisco Opera
 - *Stereophonic*
+- *Cirque du Soleil: ECHO*
