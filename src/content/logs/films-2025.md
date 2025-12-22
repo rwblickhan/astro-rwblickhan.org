@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-12-21
+lastUpdatedDate: 2025-12-22
 ---
 
 ## Movies
@@ -40,6 +40,7 @@ lastUpdatedDate: 2025-12-21
 33. *Guillermo del Toro’s Frankenstein* (2025)
 34. *All The Crows In The World* (2021)
 35. *Hundreds of Beavers* (2022)
+36. *Wake Up Dead Man: A Knives Out Mystery* (2025)
 
 ## TV Shows
 
