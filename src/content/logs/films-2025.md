@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-12-22
+lastUpdatedDate: 2025-12-23
 ---
 
 ## Movies
@@ -41,6 +41,7 @@ lastUpdatedDate: 2025-12-22
 34. *All The Crows In The World* (2021)
 35. *Hundreds of Beavers* (2022)
 36. *Wake Up Dead Man: A Knives Out Mystery* (2025)
+37. 🔁 *Tokyo Godfathers* (2003)
 
 ## TV Shows
 
