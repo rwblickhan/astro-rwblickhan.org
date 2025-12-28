@@ -66,8 +66,9 @@ lastUpdatedDate: 2025-12-28
 
 ## Skimmed / DNF
 
-1. *The Creative Act: A Way of Being*, Rick Rubin
-2. *Will There Ever Be Another You*, Patricia Lockwood
+1. *No Longer Human*, Junji Ito and Osamu Dazai (trans. Joceylne Allen)
+2. *The Creative Act: A Way of Being*, Rick Rubin
+3. *Will There Ever Be Another You*, Patricia Lockwood
 
 ## Short Stories
 
