@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-12-21
+lastUpdatedDate: 2025-12-28
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -62,6 +62,7 @@ lastUpdatedDate: 2025-12-21
 57. *Are You There, God? It’s Me, Margaret.*, Judy Blume
 58. 🔁 *The Complete Persepolis*, Marjane Satrapi
 59. 🔁 *The English Understand Wool*, Helen deWitt
+60. *Equal Rites*, Terry Pratchett
 
 ## Skimmed / DNF
 
