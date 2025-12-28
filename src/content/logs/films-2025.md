@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-12-23
+lastUpdatedDate: 2025-12-27
 ---
 
 ## Movies
@@ -42,6 +42,7 @@ lastUpdatedDate: 2025-12-23
 35. *Hundreds of Beavers* (2022)
 36. *Wake Up Dead Man: A Knives Out Mystery* (2025)
 37. 🔁 *Tokyo Godfathers* (2003)
+38. 🔁 *Gentlemen Prefer Blondes* (1953)
 
 ## TV Shows
 
