@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-10-24
+lastUpdatedDate: 2025-12-29
 ---
 
 ## Favorites
@@ -371,6 +371,38 @@ The ones I find myself thinking about a lot...
 > Though, at the same time, one couldn’t live in fear. There was a thesis to finish and a second pumpkin to carve. There were paths carpeted with leaves that crunched under her boots, the chill of the October evening, and the setting sun painting steeples and roofs golden.
 
 - *The Bewitching*, Silvia Moreno-Garcia
+
+> We shed as we pick up, like travellers who must carry everything in their arms, and what we let fall will be picked up by those behind. The procession is very long and life is very short. We die on the march. But there is nothing outside the march so nothing can be lost to it.
+
+- *Arcadia*, Tom Stoppard
+
+> It's all trivial—your grouse, my hermit, Bernard's Byron. Comparing what we're looking for misses the point. It's wanting to know that makes us matter. Otherwise we're going out the way we came in. That's why you can't believe in the afterlife, Valentine. Believe in the after, by all means, but not the life. Believe in God, the soul, the spirit, the infinite, believe in angels if you like, but not in the great celestial get-together for an exchange of views. If the answers are in the back of the book I can wait, but what a drag. Better to struggle on knowing that failure is final.
+
+- *Arcadia*, Tom Stoppard
+
+> See? In an ocean of ashes, islands of order. Patterns making themselves out of nothing. I can't show you how deep it goes. Each picture is a detail of the previous one, blown up. And so on. For ever. Pretty nice, eh?
+
+- *Arcadia*, Tom Stoppard
+
+> Valentine: Because there's an order things can't happen in. You can't open a door till there's a house.
+>
+> Hannah: I thought that's what genius was.
+>
+> Valentine: Only for lunatics and poets.
+
+- *Arcadia*, Tom Stoppard
+
+> Valentine: She saw why. You can put back the bits of glass but you can't collect up the heat of the smash. It's gone.
+> Septimus: So the Improved Newtonian Universe must cease and grow cold. Dear me.
+> Valentine: The heat goes into the mix.
+> *He gestures to indicate the air in the room, in the universe.*
+> Thomasina: Yes, we must hurry if we are going to dance.
+> Valentine: And everything is mixing the same way, all the time, irreversibly...
+> Septimus: Oh, we have time, I think.
+> Valentine: ...till there's no time left. That's what time means.
+> Septimus: When we have found all the mysteries and lost all the meaning, we will be alone, on an empty shore.
+> Thomasina: Then we will dance. Is this a waltz?
+> Septimus: It will serve.
 
 ## From Non-Fiction
 
