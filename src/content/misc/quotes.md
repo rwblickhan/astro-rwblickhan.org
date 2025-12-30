@@ -608,4 +608,14 @@ The ones I find myself thinking about a lot...
 
 - *Kentucky Route Zero* Epilogue
 
+> If a paper plane could whisk my dreams away from here...
+>
+> Where I could wake up and find myself in a foreign land...
+>
+> To start a new life as a stranger to all...
+>
+> Oh how wonderful that'd be.
+
+- *Detention*
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
