@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-12-29
+lastUpdatedDate: 2025-12-31
 ---
 
 ## Favorites
@@ -591,6 +591,22 @@ The ones I find myself thinking about a lot...
 > Every species can smell its own extinction. The last ones left won't have a pretty time with it. In ten years, maybe less, the human race will just be a bedtime story for their children. A myth, nothing more.
 
 - *In the Mouth of Madness* (1994)
+
+> I don’t know why it’s important. Like how it helps people like dealing with their loss, like making up stories about ghosts or whatever.
+
+- *Lake Mungo* (2008)
+
+> Russell: I remember we had the porch light on. Still do, actually.
+>
+> Interviewer: Why’s that?
+>
+> Russell: Just in case she comes home, I guess.
+
+- *Lake Mungo* (2008)
+
+> I don’t think she knows I’m there. She’s going now. She’s leaving the room. She’s gone.
+
+- *Lake Mungo* (2008)
 
 ## From Games
 
