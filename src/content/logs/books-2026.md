@@ -7,6 +7,7 @@ lastUpdatedDate: 2026-01-12
 2. *Heaven and Hell: A History of the Afterlife*, Bart D. Ehrman
 3. *From Hell*, Alan Moore and Eddie Campbell
 4. *Stories of Your Life and Others*, Ted Chiang
+5. *Aliens vs. Avengers*, Jonathan Hickman, Esad Ribic, and Ive Svorcina
 
 ## Skimmed / DNF
 
