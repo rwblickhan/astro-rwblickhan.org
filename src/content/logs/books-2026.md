@@ -1,11 +1,12 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-01-04
+lastUpdatedDate: 2026-01-12
 ---
 
 1. *Arcadia*, Tom Stoppard
 2. *Heaven and Hell: A History of the Afterlife*, Bart D. Ehrman
 3. *From Hell*, Alan Moore and Eddie Campbell
+4. *Stories of Your Life and Others*, Ted Chiang
 
 ## Skimmed / DNF
 
