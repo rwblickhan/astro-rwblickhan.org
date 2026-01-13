@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-01-12
+lastUpdatedDate: 2026-01-13
 ---
 
 1. *Arcadia*, Tom Stoppard
@@ -8,6 +8,7 @@ lastUpdatedDate: 2026-01-12
 3. *From Hell*, Alan Moore and Eddie Campbell
 4. *Stories of Your Life and Others*, Ted Chiang
 5. *Aliens vs. Avengers*, Jonathan Hickman, Esad Ribic, and Ive Svorcina
+6. 🔁 *V for Vendetta*, Alan Moore and David Lloyd
 
 ## Skimmed / DNF
 
