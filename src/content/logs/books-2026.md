@@ -10,6 +10,7 @@ lastUpdatedDate: 2026-01-20
 5. *Aliens vs. Avengers*, Jonathan Hickman, Esad Ribic, and Ive Svorcina
 6. 🔁 *V for Vendetta*, Alan Moore and David Lloyd
 7. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
+8. *Free Food for Millionaires*, Min Jin Lee
 
 ## Skimmed / DNF
 
