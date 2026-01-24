@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-01-20
+lastUpdatedDate: 2026-01-23
 ---
 
 1. *Arcadia*, Tom Stoppard
@@ -11,6 +11,8 @@ lastUpdatedDate: 2026-01-20
 6. 🔁 *V for Vendetta*, Alan Moore and David Lloyd
 7. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
 8. *Free Food for Millionaires*, Min Jin Lee
+9. 🔁 *The Restaurant at the End of the Universe*, Douglas Adams
+10. 🔁 *Life, the Universe and Everything*, Douglas Adams
 
 ## Skimmed / DNF
 
