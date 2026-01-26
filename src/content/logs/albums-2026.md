@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-01-20
+lastUpdatedDate: 2026-01-26
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -12,3 +12,4 @@ lastUpdatedDate: 2026-01-20
 7. *Born to Run*, Bruce Springsteen
 8. *GOLLIWOG*, billy woods
 9. *Echoes of Time*, Meltmode
+10. *Tapestry*, Carole King
