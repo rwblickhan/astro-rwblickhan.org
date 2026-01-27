@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-01-23
+lastUpdatedDate: 2026-01-26
 ---
 
 1. *Arcadia*, Tom Stoppard
@@ -13,11 +13,14 @@ lastUpdatedDate: 2026-01-23
 8. *Free Food for Millionaires*, Min Jin Lee
 9. 🔁 *The Restaurant at the End of the Universe*, Douglas Adams
 10. 🔁 *Life, the Universe and Everything*, Douglas Adams
+11. 🔁 *So Long, and Thanks for All the Fish*, Douglas Adams
 
 ## Skimmed / DNF
 
 1. *Seven Empty Houses*, Samanta Schweblin (trans. Megan McDowell)
 
 ## Short Stories
+
+1. “Young Zaphod Plays It Safe”, Douglas Adams
 
 ## Papers
