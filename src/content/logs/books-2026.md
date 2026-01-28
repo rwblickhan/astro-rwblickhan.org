@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-01-26
+lastUpdatedDate: 2026-01-27
 ---
 
 1. *Arcadia*, Tom Stoppard
@@ -14,6 +14,7 @@ lastUpdatedDate: 2026-01-26
 9. 🔁 *The Restaurant at the End of the Universe*, Douglas Adams
 10. 🔁 *Life, the Universe and Everything*, Douglas Adams
 11. 🔁 *So Long, and Thanks for All the Fish*, Douglas Adams
+12. 🔁 *Mostly Harmless*, Douglas Adams
 
 ## Skimmed / DNF
 
