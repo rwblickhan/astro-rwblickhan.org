@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-01-27
+lastUpdatedDate: 2026-01-29
 ---
 
 1. *Arcadia*, Tom Stoppard
@@ -15,6 +15,7 @@ lastUpdatedDate: 2026-01-27
 10. 🔁 *Life, the Universe and Everything*, Douglas Adams
 11. 🔁 *So Long, and Thanks for All the Fish*, Douglas Adams
 12. 🔁 *Mostly Harmless*, Douglas Adams
+13. *The Five: The Untold Lives of the Women Killed by Jack the Ripper*, Hallie Rubenhold
 
 ## Skimmed / DNF
 
