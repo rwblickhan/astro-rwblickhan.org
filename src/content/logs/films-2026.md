@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-01-18
+lastUpdatedDate: 2026-02-04
 ---
 
 ## Movies
@@ -15,3 +15,4 @@ lastUpdatedDate: 2026-01-18
 ## Musicals & Plays
 
 1. 🔁 *The Book of Mormon*
+2. *Agatha Christie’s The Mousetrap*
