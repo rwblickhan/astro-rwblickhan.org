@@ -16,3 +16,4 @@ lastUpdatedDate: 2026-02-15
 11. *Voodoo*, D’Angelo
 12. *Teenages*, Qasim Naqvi
 13. *Innervisions*, Stevie Wonder
+14. *Are You Experienced*, Jimi Hendrix Experience
