@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-02-08
+lastUpdatedDate: 2026-02-15
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -15,3 +15,4 @@ lastUpdatedDate: 2026-02-08
 10. *Tapestry*, Carole King
 11. *Voodoo*, D’Angelo
 12. *Teenages*, Qasim Naqvi
+13. *Innervisions*, Stevie Wonder
