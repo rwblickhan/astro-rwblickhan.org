@@ -18,3 +18,4 @@ lastUpdatedDate: 2026-02-16
 13. *Innervisions*, Stevie Wonder
 14. *Are You Experienced*, Jimi Hendrix Experience
 15. *Lemonade*, Beyoncé
+16. *The Chronic*, Dr Dre
