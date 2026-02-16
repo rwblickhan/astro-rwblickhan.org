@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-02-15
+lastUpdatedDate: 2026-02-16
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -17,3 +17,4 @@ lastUpdatedDate: 2026-02-15
 12. *Teenages*, Qasim Naqvi
 13. *Innervisions*, Stevie Wonder
 14. *Are You Experienced*, Jimi Hendrix Experience
+15. *Lemonade*, Beyoncé
