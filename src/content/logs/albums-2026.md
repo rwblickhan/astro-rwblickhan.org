@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-02-20
+lastUpdatedDate: 2026-02-23
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -23,3 +23,4 @@ lastUpdatedDate: 2026-02-20
 18. *Let It Bleed*, The Rolling Stones
 19. *Kimono My House*, Sparks
 20. *FFS*, FFS
+21. *Crush*, Floating Points
