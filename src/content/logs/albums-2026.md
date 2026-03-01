@@ -1,0 +1,27 @@
+---
+title: Albums of 2026
+lastUpdatedDate: 2026-02-25
+---
+
+1. *Blood on the Tracks*, Bob Dylan
+2. *Revolver*, The Beatles
+3. *I Never Loved A Man The Way I Love You*, Aretha Franklin
+4. *Exile on Main Street*, The Rolling Stones
+5. *I Love My Computer*, Ninajirachi
+6. *Highway 61 Revisited*, Bob Dylan
+7. *Born to Run*, Bruce Springsteen
+8. *GOLLIWOG*, billy woods
+9. *Echoes of Time*, Meltmode
+10. *Tapestry*, Carole King
+11. *Voodoo*, D’Angelo
+12. *Teenages*, Qasim Naqvi
+13. *Innervisions*, Stevie Wonder
+14. *Are You Experienced*, Jimi Hendrix Experience
+15. *Lemonade*, Beyoncé
+16. *The Chronic*, Dr Dre
+17. *Blonde on Blonde*, Bob Dylan
+18. *Let It Bleed*, The Rolling Stones
+19. *Kimono My House*, Sparks
+20. *FFS*, FFS
+21. *Crush*, Floating Points
+22. *Illmatic*, Nas

@@ -1,6 +1,6 @@
 ---
 title: Films of 2025
-lastUpdatedDate: 2025-10-26
+lastUpdatedDate: 2025-12-27
 ---
 
 ## Movies
@@ -37,6 +37,12 @@ lastUpdatedDate: 2025-10-26
 30. 🔁 *Perfect Blue* (1997)
 31. *Possession* (1981)
 32. *In the Mouth of Madness* (1994)
+33. *Guillermo del Toro’s Frankenstein* (2025)
+34. *All The Crows In The World* (2021)
+35. *Hundreds of Beavers* (2022)
+36. *Wake Up Dead Man: A Knives Out Mystery* (2025)
+37. 🔁 *Tokyo Godfathers* (2003)
+38. 🔁 *Gentlemen Prefer Blondes* (1953)
 
 ## TV Shows
 
@@ -56,3 +62,16 @@ lastUpdatedDate: 2025-10-26
 14. *Gurren Lagann* (2007)
 15. *True Detective* Season 1 (2014)
 16. 🔁 *Over the Garden Wall* (2014)
+17. *Fullmetal Alchemist: Brotherhood* (2009)
+18. *Hazbin Hotel* Season 2 (2025)
+19. 🔁 *Scott Pilgrim Takes Off* (2023)
+20. *The Chair Company* Season 1 (2025)
+
+## Musicals & Plays
+
+- *Nobody Loves You*
+- *Co-Founders*
+- *Kim’s Convenience*
+- *The Monkey King* at San Francisco Opera
+- *Stereophonic*
+- *Cirque du Soleil: ECHO*

@@ -2,6 +2,7 @@
 import SearchNavIcon from "./SearchNavIcon.astro";
 import MapNavIcon from "./MapNavIcon.astro";
 import SubscribeNavIcon from "./SubscribeNavIcon.astro";
+import ColorPicker from "./ColorPicker.astro";
 import {
   collectionWithGalleryMetadataMap,
   type CollectionMetadata,
@@ -37,6 +38,7 @@ const parentCollectionMetadata =
     <a href="/index.html">rwblickhan.org</a>
   </div>
   <div class="header-icons">
+    <ColorPicker />
     <SubscribeNavIcon />
     <SearchNavIcon />
     <MapNavIcon />
@@ -65,12 +67,14 @@ const parentCollectionMetadata =
   .title {
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 0.75rem;
   }
 
   .header-icons {
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 0.5rem;
   }
 

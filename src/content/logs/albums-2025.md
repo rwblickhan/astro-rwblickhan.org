@@ -1,6 +1,6 @@
 ---
 title: Albums of 2025
-lastUpdatedDate: 2025-11-02
+lastUpdatedDate: 2025-12-20
 ---
 
 1. *Anything in Return*, Toro y Moi
@@ -117,3 +117,17 @@ lastUpdatedDate: 2025-11-02
 112. *Towards the Light*, Curve Ensemble
 113. *Work and Non Work*, Broadcast
 114. *Tender Buttons*, Broadcast
+115. *Portuguesa*, Carminho
+116. *Eu Vou Morrer de Amor ou Resistir*, Carminho
+117. *Melt*, Not for Radio
+118. *LUX*, Rosalía
+119. *La Ola Interior (Spanish Ambient & Acid Exotism: 1983–1990)*, Various Artists
+120. *A Grave Marked Strange*, Baby Jane
+121. *FILM NOIR*, Faouzia
+122. *Mono No Aware*, Various Artists
+123. *Reminiscencias*, Binary Algorithms
+124. *Not All Who Dream Are Asleep*, Lyrre
+125. *HOT POT!*, Mikala Geier
+126. *bbno$*, bbno$
+127. *Rumours*, Fleetwood Mac
+128. *Blue*, Joni Mitchell

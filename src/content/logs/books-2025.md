@@ -1,6 +1,6 @@
 ---
 title: Books of 2025
-lastUpdatedDate: 2025-11-03
+lastUpdatedDate: 2025-12-28
 ---
 
 1. *Job* (trans. Robert Alter)
@@ -43,10 +43,36 @@ lastUpdatedDate: 2025-11-03
 38. *‌The Bewitching*, Silvia Moreno-Garcia
 39. 🔁 *The Haunting of Hill House*, Shirley Jackson
 40. *What In Me Is Dark: The Revolutionary Afterlife of Paradise Lost*, Orlando Reade
+41. 🔁 *Monkey King: Journey to the West*, Wu Cheng’en (trans. Julia Lovell)
+42. *Frankenstein: Or, The Modern Prometheus*, Mary Wollstonecraft Shelley
+43. 🔁 *The Rime of the Ancient Mariner*, Samuel Taylor Coleridge
+44. 🔁 *Amphigorey*, Edward Gorey
+45. 🔁 *The Annotated Hunting of the Snark*, Lewis Carroll (ed. Martin Gardner)
+46. *Waking Up: A Guide to Spirituality Without Religion*, Sam Harris
+47. 🔁 *Scott Pilgrim Vol. 1: Scott Pilgrim's Precious Little Life*, Bryan Lee O'Malley
+48. 🔁 *Scott Pilgrim Vol. 2: Scott Pilgrim vs. the World*, Bryan Lee O'Malley
+49. 🔁 *Scott Pilgrim Vol. 3: Scott Pilgrim & The Infinite Sadness*, Bryan Lee O'Malley
+50. 🔁 *Scott Pilgrim Vol. 4: Scott Pilgrim Gets It Together*, Bryan Lee O'Malley
+51. 🔁 *Scott Pilgrim Vol. 5: Scott Pilgrim vs. the Universe*, Bryan Lee O'Malley
+52. 🔁 *Scott Pilgrim Vol. 6: Scott Pilgrim's Finest Hour*, Bryan Lee O'Malley
+53. *The City in Glass*, Nghi Vo
+54. *Fantasy: A Short History*, Adam Roberts
+55. *The Remains of the Day*, Kazuo Ishiguro
+56. *The Stone Door*, Leonora Carrington
+57. *Are You There, God? It’s Me, Margaret.*, Judy Blume
+58. 🔁 *The Complete Persepolis*, Marjane Satrapi
+59. 🔁 *The English Understand Wool*, Helen deWitt
+60. *Equal Rites*, Terry Pratchett
 
-## Skimmed
+## Skimmed / DNF
+
+1. *No Longer Human*, Junji Ito and Osamu Dazai (trans. Joceylne Allen)
+2. *The Creative Act: A Way of Being*, Rick Rubin
+3. *Will There Ever Be Another You*, Patricia Lockwood
 
 ## Short Stories
+
+1. “The Witch”, Shirley Jackson
 
 ## Papers
 

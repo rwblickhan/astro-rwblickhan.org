@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2025-07-19
+lastUpdatedDate: 2025-12-06
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -311,3 +311,4 @@ Working fast means you can get more done per unit time. But as James Somers poin
 - ["Being a Fast, Cogent Writer Is Useful "](https://v5.chriskrycho.com/journal/writing-productivity/), Chris Krycho
 - ["Some reasons to work on productivity and velocity"](https://danluu.com/productivity-velocity/), Dan Luu
 - ["Fast Tools are Wonderful "](https://v5.chriskrycho.com/journal/fast-tools-are-wonderful/), Chris Krycho
+- ["Why speed matters"](https://lemire.me/blog/2025/12/05/why-speed-matters/), Daniel Lemire
