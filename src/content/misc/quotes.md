@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-10-24
+lastUpdatedDate: 2025-12-31
 ---
 
 ## Favorites
@@ -372,6 +372,50 @@ The ones I find myself thinking about a lot...
 
 - *The Bewitching*, Silvia Moreno-Garcia
 
+> We shed as we pick up, like travellers who must carry everything in their arms, and what we let fall will be picked up by those behind. The procession is very long and life is very short. We die on the march. But there is nothing outside the march so nothing can be lost to it.
+
+- *Arcadia*, Tom Stoppard
+
+> It's all trivial—your grouse, my hermit, Bernard's Byron. Comparing what we're looking for misses the point. It's wanting to know that makes us matter. Otherwise we're going out the way we came in. That's why you can't believe in the afterlife, Valentine. Believe in the after, by all means, but not the life. Believe in God, the soul, the spirit, the infinite, believe in angels if you like, but not in the great celestial get-together for an exchange of views. If the answers are in the back of the book I can wait, but what a drag. Better to struggle on knowing that failure is final.
+
+- *Arcadia*, Tom Stoppard
+
+> See? In an ocean of ashes, islands of order. Patterns making themselves out of nothing. I can't show you how deep it goes. Each picture is a detail of the previous one, blown up. And so on. For ever. Pretty nice, eh?
+
+- *Arcadia*, Tom Stoppard
+
+> Valentine: Because there's an order things can't happen in. You can't open a door till there's a house.
+>
+> Hannah: I thought that's what genius was.
+>
+> Valentine: Only for lunatics and poets.
+
+- *Arcadia*, Tom Stoppard
+
+> Valentine: She saw why. You can put back the bits of glass but you can't collect up the heat of the smash. It's gone.
+>
+> Septimus: So the Improved Newtonian Universe must cease and grow cold. Dear me.
+>
+> Valentine: The heat goes into the mix.
+>
+> *He gestures to indicate the air in the room, in the universe.*
+>
+> Thomasina: Yes, we must hurry if we are going to dance.
+>
+> Valentine: And everything is mixing the same way, all the time, irreversibly...
+>
+> Septimus: Oh, we have time, I think.
+>
+> Valentine: ...till there's no time left. That's what time means.
+>
+> Septimus: When we have found all the mysteries and lost all the meaning, we will be alone, on an empty shore.
+>
+> Thomasina: Then we will dance. Is this a waltz?
+>
+> Septimus: It will serve.
+
+- *Arcadia*, Tom Stoppard
+
 ## From Non-Fiction
 
 > Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -548,6 +592,22 @@ The ones I find myself thinking about a lot...
 
 - *In the Mouth of Madness* (1994)
 
+> I don’t know why it’s important. Like how it helps people like dealing with their loss, like making up stories about ghosts or whatever.
+
+- *Lake Mungo* (2008)
+
+> Russell: I remember we had the porch light on. Still do, actually.
+>
+> Interviewer: Why’s that?
+>
+> Russell: Just in case she comes home, I guess.
+
+- *Lake Mungo* (2008)
+
+> I don’t think she knows I’m there. She’s going now. She’s leaving the room. She’s gone.
+
+- *Lake Mungo* (2008)
+
 ## From Games
 
 > We saved what we could.
@@ -563,5 +623,15 @@ The ones I find myself thinking about a lot...
 > Harry: No, it's alright. Let him rest.
 
 - *Kentucky Route Zero* Epilogue
+
+> If a paper plane could whisk my dreams away from here...
+>
+> Where I could wake up and find myself in a foreign land...
+>
+> To start a new life as a stranger to all...
+>
+> Oh how wonderful that'd be.
+
+- *Detention*
 
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.

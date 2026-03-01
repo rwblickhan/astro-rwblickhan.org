@@ -1,0 +1,20 @@
+[tasks.dev]
+alias = 'd'
+run = 'pnpm run dev'
+
+[tasks.build]
+alias = 'b'
+run = 'pnpm run build'
+
+[tasks.check]
+run = 'pnpm run astro check'
+
+[tasks.clean]
+run = 'rm -rf _dist/*'
+
+[tasks.sync]
+alias = 's'
+run = 'pnpm run astro sync'
+
+[tasks.bundle]
+run = 'git bundle create rwblickhan.org.bundle --all'

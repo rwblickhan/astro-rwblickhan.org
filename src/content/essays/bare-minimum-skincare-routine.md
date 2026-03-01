@@ -1,6 +1,6 @@
 ---
 title: Bare Minimum Skincare Routine
-lastUpdatedDate: 2025-08-20
+lastUpdatedDate: 2026-01-24
 description: It's not as hard as it looks
 ---
 
@@ -14,6 +14,7 @@ I’ve belatedly taken up a skincare routine, after much badgering from friends 
   - Rinse
   - Cleanser
   - Moisturizer
+  - Beard oil
 
 The sunscreen is by far the most important part; if you don’t have any kind of skincare routine, at least apply some sunscreen. Also, I’ve been warned only to apply cleanser in the evening, because otherwise my skin will dry out too fast.
 
@@ -22,5 +23,8 @@ I use La Roche-Posay’s cleanser and moisturizer because I like their sunscreen
 :::aside{.note}
 Yes, I know American La Roche-Posay is the not the same as European La Roche-Posay, because the FDA hasn’t approved any new ingredients since the 90s. It still feels nicer than the average American sunscreen.
 :::
+
+I use [Honest Amish Beard Oil](https://amazon.com/Honest-Amish-Classic-Beard-Oil/dp/B00M49SG0Q/) because apparently that's the one _everyone_ uses (according to at least 4 different men's fashion articles I read).
+To my surprise, my beard is ever-so-slightly more luscious and filled-out now that I'm consistently applying beard oil, so this gets a recommendation.
 
 I don’t think I actually look any different, but it is nice to have smooth, moisturized skin instead of an oily mess. I don’t quite agree with all the friends that urgently demanded I adopt a skincare routine, but given it barely takes a minute a day, I can recommend adopting a bare-minimum routine.
