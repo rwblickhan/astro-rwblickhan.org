@@ -35,7 +35,7 @@ export async function GET(context: APIContext) {
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
     stylesheet: "pretty-feed-v3.xsl",
-    site: context.site,
+    site: context.site ?? new URL("https://rwblickhan.org"),
     items,
   });
 }
