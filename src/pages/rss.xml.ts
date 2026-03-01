@@ -17,6 +17,7 @@ export async function GET(context: APIContext) {
     const posts = await getCollection(collection);
     for (const post of posts) {
       if (post.body === undefined) {
+        console.log(`Skipping ${post.id} because it has no body`);
         continue;
       }
       items.push({
