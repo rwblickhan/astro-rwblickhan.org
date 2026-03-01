@@ -4,9 +4,10 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { collectionMetadataMap } from "../consts";
 import sanitizeHtml from "sanitize-html";
 import MarkdownIt from "markdown-it";
+import type { APIContext } from "astro";
 const parser = new MarkdownIt();
 
-export async function GET(context: any) {
+export async function GET(context: APIContext) {
   const items: RSSFeedItem[] = [];
   for (const [collection, metadata] of collectionMetadataMap.entries()) {
     if (!metadata.isInRSSFeed) {
@@ -34,7 +35,7 @@ export async function GET(context: any) {
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
     stylesheet: "pretty-feed-v3.xsl",
-    site: context.site,
+    site: context.site ?? new URL("https://rwblickhan.org"),
     items,
   });
 }
