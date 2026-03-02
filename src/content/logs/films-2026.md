@@ -19,6 +19,8 @@ lastUpdatedDate: 2026-02-16
 
 ## TV Shows
 
+1. *Blossoms Shanghai* (2023)
+
 ## Musicals & Plays
 
 1. 🔁 *The Book of Mormon*
