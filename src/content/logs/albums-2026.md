@@ -26,3 +26,4 @@ lastUpdatedDate: 2026-02-25
 21. *Crush*, Floating Points
 22. *Illmatic*, Nas
 23. *Tron Ares OST*, Nine Inch Nails
+24. *The Blueprint*, Jaÿ-Z
