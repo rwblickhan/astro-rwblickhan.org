@@ -32,3 +32,4 @@ lastUpdatedDate: 2026-02-25
 27. *Vol. I*, Angine de Poitrine
 28. *Vampire Weekend*, Vampire Weekend
 29. *The Great Twenty-Eight*, Chuck Berry
+30. *Contra*, Vampire Weekend
