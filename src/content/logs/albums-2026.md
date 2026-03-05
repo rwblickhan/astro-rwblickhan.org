@@ -31,3 +31,4 @@ lastUpdatedDate: 2026-02-25
 26. *Graceland*, Paul Simon
 27. *Vol. I*, Angine de Poitrine
 28. *Vampire Weekend*, Vampire Weekend
+29. *The Great Twenty-Eight*, Chuck Berry
