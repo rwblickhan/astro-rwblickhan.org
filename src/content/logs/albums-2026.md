@@ -29,3 +29,5 @@ lastUpdatedDate: 2026-02-25
 24. *The Blueprint*, Jaÿ-Z
 25. *Sign O’ The Times*, Prince
 26. *Graceland*, Paul Simon
+27. *Vol. I*, Angine de Poitrine
+28. *Vampire Weekend*, Vampire Weekend
