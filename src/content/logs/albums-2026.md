@@ -28,3 +28,4 @@ lastUpdatedDate: 2026-02-25
 23. *Tron Ares OST*, Nine Inch Nails
 24. *The Blueprint*, Jaÿ-Z
 25. *Sign O’ The Times*, Prince
+26. *Graceland*, Paul Simon
