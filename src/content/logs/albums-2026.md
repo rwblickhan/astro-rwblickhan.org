@@ -34,3 +34,4 @@ lastUpdatedDate: 2026-02-25
 29. *The Great Twenty-Eight*, Chuck Berry
 30. *Contra*, Vampire Weekend
 31. *Tron Ares: Divergence*, Nine Inch Nails
+32. *Exodus*, Bob Marley & The Wailers
