@@ -7,11 +7,30 @@ import LinkBox from "../components/LinkBox.astro";
 <BaseLayout description="Index" width="medium">
   <h1>Hi, I'm Russell, a writer and programmer.</h1>
 
-  <p style="text-align: center">
-    <em
-      >"That is well said," Candide replied, "but we must cultivate our garden."</em
-    > - <em>Candide</em>, Voltaire (trans. Peter Constantine)
-  </p>
+  <p id="homepage-quote" style="text-align: center"></p>
+  <script is:inline>
+    var quotes = [
+      {
+        text: "\u201cThat is well said,\u201d Candide replied, \u201cbut we must cultivate our garden.\u201d",
+        citation: "<em>Candide<\/em>, Voltaire (trans. Peter Constantine)"
+      },
+      {
+        text: "Homo sum, humani nihil a me alienum puto.",
+        citation: "<em>Heauton Timorumenos<\/em>, Terence"
+      },
+      {
+        text: "Horas non numero nisi serenas.",
+        citation: "Inscription of a Venetian sundial"
+      },
+      {
+        text: "Non fui, fui, non sum, non curo.",
+        citation: "Customary Epicurean epitaph"
+      }
+    ];
+    var q = quotes[Math.floor(Math.random() * quotes.length)];
+    document.getElementById("homepage-quote").innerHTML =
+      "<em>" + q.text + "<\/em> \u2014 " + q.citation;
+  </script>
 
   <p>
     This site is my <a href="/misc/pattern-language/#digital-garden"
