@@ -3,24 +3,24 @@ title: Books of 2026
 lastUpdatedDate: 2026-01-29
 ---
 
-1. *Arcadia*, Tom Stoppard
-2. *Heaven and Hell: A History of the Afterlife*, Bart D. Ehrman
-3. *From Hell*, Alan Moore and Eddie Campbell
-4. *Stories of Your Life and Others*, Ted Chiang
-5. *Aliens vs. Avengers*, Jonathan Hickman, Esad Ribic, and Ive Svorcina
-6. 🔁 *V for Vendetta*, Alan Moore and David Lloyd
-7. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
-8. *Free Food for Millionaires*, Min Jin Lee
-9. 🔁 *The Restaurant at the End of the Universe*, Douglas Adams
-10. 🔁 *Life, the Universe and Everything*, Douglas Adams
-11. 🔁 *So Long, and Thanks for All the Fish*, Douglas Adams
-12. 🔁 *Mostly Harmless*, Douglas Adams
-13. *The Five: The Untold Lives of the Women Killed by Jack the Ripper*, Hallie Rubenhold
-14. *Pale Fire*, Vladimir Nabokov
+1. _Arcadia_, Tom Stoppard
+2. _Heaven and Hell: A History of the Afterlife_, Bart D. Ehrman
+3. _From Hell_, Alan Moore and Eddie Campbell
+4. _Stories of Your Life and Others_, Ted Chiang
+5. _Aliens vs. Avengers_, Jonathan Hickman, Esad Ribic, and Ive Svorcina
+6. 🔁 _V for Vendetta_, Alan Moore and David Lloyd
+7. 🔁 _The Hitchhiker’s Guide to the Galaxy_, Douglas Adams
+8. _Free Food for Millionaires_, Min Jin Lee
+9. 🔁 _The Restaurant at the End of the Universe_, Douglas Adams
+10. 🔁 _Life, the Universe and Everything_, Douglas Adams
+11. 🔁 _So Long, and Thanks for All the Fish_, Douglas Adams
+12. 🔁 _Mostly Harmless_, Douglas Adams
+13. _The Five: The Untold Lives of the Women Killed by Jack the Ripper_, Hallie Rubenhold
+14. _Pale Fire_, Vladimir Nabokov
 
 ## Skimmed / DNF
 
-1. *Seven Empty Houses*, Samanta Schweblin (trans. Megan McDowell)
+1. _Seven Empty Houses_, Samanta Schweblin (trans. Megan McDowell)
 
 ## Short Stories
 

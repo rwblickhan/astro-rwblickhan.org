@@ -76,13 +76,14 @@ const galleryImages: GalleryImage[] = [
 
 <GalleryLayout title={title} description={description}>
   {
-    galleryImages.map((galleryImage) => (
+    galleryImages.map((galleryImage, idx) => (
       <Image
         src={import(`../assets/gallery/${galleryImage.id}.jpg`)}
-        title={galleryImage.alt}
         alt={galleryImage.alt}
+        title={galleryImage.alt}
         format="webp"
-        width={1920}
+        widths={[400, 800, 1200, 1920]}
+        sizes="(min-width: 768px) calc(50vw - 1rem), 100vw"
       />
     ))
   }
