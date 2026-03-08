@@ -16,6 +16,7 @@ lastUpdatedDate: 2026-01-29
 11. 🔁 *So Long, and Thanks for All the Fish*, Douglas Adams
 12. 🔁 *Mostly Harmless*, Douglas Adams
 13. *The Five: The Untold Lives of the Women Killed by Jack the Ripper*, Hallie Rubenhold
+14. *Pale Fire*, Vladimir Nabokov
 
 ## Skimmed / DNF
 
