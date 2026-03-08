@@ -36,3 +36,4 @@ lastUpdatedDate: 2026-02-25
 31. *Tron Ares: Divergence*, Nine Inch Nails
 32. *Exodus*, Bob Marley & The Wailers
 33. *Aquemini*, Outkast
+34. *Trilogie de la Mort*, Eliane Radigue
