@@ -1,0 +1,39 @@
+#!/usr/bin/env fish
+
+set files (jj diff -r main..@ --name-only)
+
+if test (count $files) -eq 0
+    echo "No changes!"
+    exit 0
+end
+
+set run_astro_check false
+
+jj new
+
+for file in $files
+    if not test -f $file
+        echo "Skipping deleted file: $file"
+        continue
+    end
+
+    if string match -q "*.md" $file; or string match -q "*.mdx" $file
+        echo "Linting $file"
+        markdownlint $file --fix
+        echo "Updating last update date for $file"
+        sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: "(date +%Y-%m-%d) $file
+    end
+
+    if string match -q "*.astro" $file; or string match -q "*.ts" $file
+        set run_astro_check true
+    end
+end
+
+if test $run_astro_check = true
+    echo "Running astro check..."
+    pnpm exec astro check
+end
+
+jj describe -m "Lint run"
+jj bookmark set main
+jj push

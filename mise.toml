@@ -12,9 +12,9 @@ run = 'pnpm run astro check'
 [tasks.clean]
 run = 'rm -rf _dist/*'
 
+[tasks.push]
+run = 'fish -c "utils/push"'
+
 [tasks.sync]
 alias = 's'
 run = 'pnpm run astro sync'
-
-[tasks.bundle]
-run = 'git bundle create rwblickhan.org.bundle --all'
