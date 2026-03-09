@@ -33,6 +33,10 @@ export default defineConfig({
   experimental: {
     contentIntellisense: true,
   },
+  image: {
+    responsiveStyles: true,
+    layout: "constrained",
+  },
   markdown: {
     remarkPlugins: [
       // Generate a table of contents if we see a "Table of Contents" header
