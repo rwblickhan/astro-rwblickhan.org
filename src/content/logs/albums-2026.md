@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-02-25
+lastUpdatedDate: 2026-03-09
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
