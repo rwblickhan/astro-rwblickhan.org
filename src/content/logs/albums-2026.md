@@ -39,3 +39,4 @@ lastUpdatedDate: 2026-03-10
 34. *Trilogie de la Mort*, Eliane Radigue
 35. *Electric Ladyland*, Jimi Hendrix
 36. *Le chemin du rêve*, Cedric Elisabeth
+37. *Aquarius EP*, Cedric Elisabeth
