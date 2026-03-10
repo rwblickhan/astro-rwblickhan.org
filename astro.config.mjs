@@ -36,6 +36,7 @@ export default defineConfig({
   image: {
     responsiveStyles: true,
     layout: "constrained",
+    breakpoints: [640, 1080, 1280, 1920],
   },
   markdown: {
     remarkPlugins: [
