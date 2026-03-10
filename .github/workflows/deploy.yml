@@ -20,7 +20,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: cache
-          key: _astro-${{ hashFiles('src/assets/**/*.jpg', 'src/assets/**/*.jpeg', 'src/assets/**/*.webp', 'src/assets/**/*.webp') }}
+          key: _astro-${{ hashFiles('src/assets/**/*.jpg', 'src/assets/**/*.jpeg', 'src/assets/**/*.webp') }}
       - run: pnpm i
       - run: pnpm run build
       - name: Build & Deploy Site
