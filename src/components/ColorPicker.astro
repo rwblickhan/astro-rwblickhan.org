@@ -7,6 +7,11 @@
   <option value="red">🔴</option>
 </select>
 
+<script is:inline>
+  document.getElementById("color-scheme-select").value =
+    localStorage.getItem("color-scheme") || "blue";
+</script>
+
 <script>
   const select = document.getElementById(
     "color-scheme-select"
@@ -14,7 +19,6 @@
 
   const savedScheme = localStorage.getItem("color-scheme") || "blue";
   select.value = savedScheme;
-  applyColorScheme(savedScheme);
 
   select.addEventListener("change", (e) => {
     const scheme = (e.target as HTMLSelectElement).value;
