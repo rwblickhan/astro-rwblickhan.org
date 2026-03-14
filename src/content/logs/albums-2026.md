@@ -42,3 +42,4 @@ lastUpdatedDate: 2026-03-12
 37. *Aquarius EP*, Cedric Elisabeth
 38. *Exile in Guyville*, Liz Phair
 39. *The Band*, The Band
+40. *The Dark Side of the Moon*, Pink Floyd
