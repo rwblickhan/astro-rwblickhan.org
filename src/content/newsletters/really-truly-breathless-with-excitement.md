@@ -12,7 +12,7 @@ An illustration from a 1467 manuscript of Hans Talhoffer's fight book, from the 
 
 If you don’t know what version control or git are, you can probably skip this issue 🙂 Perhaps in the near future I’ll talk about Jujutsu for non-software engineers. P.S. yes I will soon discuss my mysterious reasons for being busy mentioned [last week](https://rwblickhan.org/newsletters/an-old-boys-club-of-dad-rock/).
 
-I’ve always had an alarming level of comfort with git, perhaps because I invested the time to understand its mental model and primarily use it on the command line. I’m not sure I can recommend either; git’s mental model is famously convoluted and counterintuitive, and the git command-line interface is famously clunky (just see the long-standing reuse of “checkout” to mean both “move to a different branch” and “delete an untracked change”!).
+I’ve always had an alarming level of comfort with git, perhaps because I invested the time to understand its mental model and primarily use it on the command line. I’m not sure I can recommend either; git’s mental model is famously convoluted and counterintuitive, and the git command-line interface is famously clunky (just see the long-standing reuse of “checkout” to mean both “move to a different branch” and “delete a tracked change”!).
 
 Jujutsu — or rather jj, per its command-line interface, which I’ll use from here on out — is beautiful because it’s simple, in a [Rich Hickey “Simple Made Easy”](https://youtube.com/watch?v=SxdOUGdseq4) way. jj throws out the distinction between commits, the staging area, and the stash, and also tosses most of the branch logic.
 
@@ -25,7 +25,7 @@ Instead, practically the only concept in jj is a _revision_. jj is always pointi
 And that’s... about it.
 
 :::aside{.note}
-That’s not _quite_ all. There’s also a concept of “bookmarks”, which are roughly a mix of git branches and tags (and, indeed, are mapped to git branches behind the scenes). They point to some particular revision with a unique name, which is useful for jumping around revisions or for interacting with git-backed remote repos. But, unlike branches, they _don’t_ move around automatically; you have to move them manually, which means they behavior more consistently.
+That’s not _quite_ all. There’s also a concept of “bookmarks”, which are roughly a mix of git branches and tags (and, indeed, are mapped to git branches behind the scenes). They point to some particular revision with a unique name, which is useful for jumping around revisions or for interacting with git-backed remote repos. But, unlike branches, they _don’t_ move around automatically; you have to move them manually, which means they behave more consistently.
 :::
 
 You’ll probably have to unlearn some git habits, but getting used to jj took me about an hour, because it’s _just that simple_. What does that simplicity buy you? Well...
@@ -44,4 +44,4 @@ It _also_ has Google’s backing at this point, since it originally came out of 
 
 The best part is that you can start using jj _today_. It’s fully compatible with git, so you can use it on your local copy of a GitHub-hosted repo, and if you ever need to switch back to git, you can start using normal git commands at any time (you’ll just have to switch back to a branch, because jj tends to put the repo into a [detached HEAD state](https://wizardzines.com/comics/detached-head-state/)).
 
-I really can’t recommend jj highly enough!
+Seriously, I know nobody _wants_ to learn a new version control system, but I can’t recommend jj highly enough. It is one of those pieces of software that just puts a big smile on my face every time I have to use it.
