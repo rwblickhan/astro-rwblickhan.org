@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-03-14
+lastUpdatedDate: 2026-03-15
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -45,3 +45,4 @@ lastUpdatedDate: 2026-03-14
 40. *The Dark Side of the Moon*, Pink Floyd
 41. *Stereotype A*, Cibo Matto
 42. *Hotel Valentine*, Cibo Matto
+43. *Extended Play EP*, Broadcast
