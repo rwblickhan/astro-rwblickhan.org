@@ -43,3 +43,5 @@ lastUpdatedDate: 2026-03-14
 38. *Exile in Guyville*, Liz Phair
 39. *The Band*, The Band
 40. *The Dark Side of the Moon*, Pink Floyd
+41. *Stereotype A*, Cibo Matto
+42. *Hotel Valentine*, Cibo Matto
