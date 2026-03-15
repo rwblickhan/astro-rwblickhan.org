@@ -9,8 +9,6 @@ end
 
 set run_astro_check false
 
-jj new
-
 for file in $files
     if not test -f $file
         echo "Skipping deleted file: $file"
@@ -34,6 +32,5 @@ if test $run_astro_check = true
     pnpm exec astro check
 end
 
-jj describe -m "Lint run"
-jj bookmark set main
+jj bookmark advance
 jj push
