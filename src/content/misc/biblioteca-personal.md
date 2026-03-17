@@ -1,26 +1,36 @@
 ---
 title: Biblioteca Personal
 description: A brief list of my favorite fiction
-lastUpdatedDate: 2025-02-05
+lastUpdatedDate: 2026-03-16
 ---
 
 In honor of Jorge Luis Borges’ [*biblioteca personal*](https://www.openculture.com/2015/03/jorge-luis-borges-personal-library.html), here’s my own list of media that has been deeply influential on me. (Incomplete, but I’ll finish it off later!)
 
-### Hitchhiker’s Guide to the Galaxy (Douglas Adams)
+### The Hitchhiker’s Guide to the Galaxy (Douglas Adams)
 
-I reread this every Towel Day, so it’s essentially scripture. I disguise it well, but all my writing is essentially a copy of Douglas Adams.
+What can I say? *H2G2* is my favorite novel, and I reread it every year for Towel Day. Most of my juvenilia is a faded carbon-copy of Adams, and most of my writing since then has been a long journey to sound less like Adams and more like, well, to be honest, a mixture of Helen deWitt and Robin Sloan. But Adams is the bedrock.
 
-### Neon Genesis Evangelion
+Obviously *Hitchhiker’s* is “effortlessly” funny and deeply engaged with both the day-to-day annoyances of modernity and the deeper, more profound itch of existentialism. It’s a classic of philosophical (or is that mathematical?) literature, with one of the core conceits being an Infinite Improbability Drive produced by calculating the *finite* improbability of that same device existing.
 
-The only show so good I keep it on my keychain. Beneath an (admittedly cool) story about robots fighting aliens is one of the most heartbreakingly realistic depictions of depression, anxiety, and trauma in any medium.
-
-### Satoshi Kon
-
-Each of Satoshi Kon’s works is special in its own way. *Perfect Blue* is such an assault on the senses I doubt my own existence after leaving the theater; *Millennium Actress* is so bittersweet I used one of its songs in my wedding; *Tokyo Godfathers* is my go-to Christmas movie; and *Paranoia Agent* is tied with *Neon Genesis Evangelion* for my favorite television show. Only *Paprika* stands out as *merely* good, and even that has some of the wildest visuals ever animated.
+But what I’ve always appreciated most, perhaps, is that Adams had a foot in both of the [“two cultures”](https://en.wikipedia.org/wiki/The_Two_Cultures). He studied English at Cambridge, but he was also a would-be programmer that famously bought the first Mac in England; in *Dirk Gently’s Holistic Detective Agency*, he clearly finds Samuel Taylor Coleridge as interesting as Prolog. He is, to my mind, one of the patron saints of that mixed culture of computing and liberal arts that brought the world computer industry, only to be swallowed up by that same industry — but not completely.
 
 ### Scott Pilgrim
 
-My favorite comic; it has my favorite last-act reveal in literature. What it means to me changes every time I revisit it as I grow older, which was only furthered with the release of *Scott Pilgrim Takes Off*. Bryan Lee O’Malley’s follow-up, *Seconds*, is also recommended as a tale of realizing you’re suddenly 30 and your life is rapidly approaching middle age.
+I read *Scott Pilgrim* in early high school because I liked Edgar Wright and I liked comics and I wanted to read the comic that inspired the new Edgar Wright movie. Needless to say, I thought Scott and his friends were the *coolest people ever*, and my mode of speech has ever since been deeply inflected by Pilgrim-isms. Also, the fact that I went to university in Canada  (which in turn has determined the course of the rest of my life) may be, in part, attributable to the Toronto setting.
+
+I love *Scott Pilgrim* because it [grew up with me](https://rwblickhan.org/newsletters/52-books-of-2021/#the-lifetime-achievement-award). When I first read it, in high school, I thought it was a story about being an *effortlessly cool* adult. When I read it years later, well into adulthood, I realized it was a story about being an effortlessly lost child. Also, the big last-act reveal in the comics that Scott is  (spoiler alert, again) an unreliable narrator is one of my favorite endings. It’s such a gimmick, such a trope, but somehow in the context of *Scott Pilgrim* — a world of self-absorbed just-barely-adults that think they’re more mature than they are — it just works.
+
+And then Bryan Lee O’Malley followed it up with *Seconds*, a story about hitting 30 and realizing how many life paths are being closed off, and *Scott Pilgrim Takes Off*, a story about (spoiler alert) hitting 40 and realizing you’re *really actually* an adult that’s lived half your life already, making mistakes all the way. But they all have a gentle optimism that people really *can* change, *can* improve themselves, even if they keep making the same mistakes; as Ramona says at the conclusion of *Takes Off*, “what I've done in the past doesn't have to define me. Help me keep remembering that, okay?”
+
+### Neon Genesis Evangelion
+
+*Get in the damn robot, Shinji!* Both an insanely cool mecha anime about fighting aliens to avert the apocalypse *and* one of the greatest works of art about mental illness and trauma. The scene of Shinji on the train listening to the same song on repeat for an entire day is, to my mind, the most accurate depiction of depression in any media.
+
+Of course, to have the “real” *Eva* experience, you have to watch not only the original show (and its controversial ending), but also *End of Evangelion* (which gives a completely different ending), the remakes in the *Rebuild of Evangelion* series (which give a *third* completely different ending), *and* the series *FLCL* and *Gurren Lagann* (which are, in different ways, direct responses to the themes and plot of *Eva*). Good luck!
+
+### Satoshi Kon
+
+Each of Satoshi Kon’s works is special in its own way. *Perfect Blue* is such an assault on the senses I doubted my own existence after leaving the theater; *Millennium Actress* is so bittersweet I used one of its songs in my wedding; *Tokyo Godfathers* is my go-to Christmas movie; and *Paranoia Agent* is tied with *Neon Genesis Evangelion* for my favorite television show. Only *Paprika* stands out as *merely* good, and even that has some of the wildest visuals ever animated.
 
 ### World of Tomorrow (Don Hertzfeldt)
 
@@ -48,11 +58,11 @@ A film I rewatch every year; deceptively bittersweet beneath its formal (but ico
 
 ### Wishbone
 
-I can’t actually remember watching this show about a Jack Russell Terrier acting out Shakespeare and other classic literature, but it definitely explains some things about me.
+I can’t actually remember watching this show about a Jack Russell terrier acting out Shakespeare and other classic literature, but it definitely explains some things about me.
 
 ### Sabrina the Teenage Witch
 
-The earliest television show I can remember watching, and the ultimate source of my love for witches and snarky talking cats.
+The earliest television show I can remember watching (if only vaguely), and the ultimate source of my love for witches and snarky talking cats.
 
 ### Everything Everywhere All At Once
 
@@ -64,7 +74,7 @@ A sketch comedy about talented amateurs fighting the odds to produce something g
 
 ### Half-Life 2
 
-A landmark in diegetic storytelling, an underrated classic of the dystopian genre (“Dear Dr Breen, why has the Combine seen fit to suppress our reproductive cycle? Sincerely, A Concerned Citizen”), and one of the major sources for the lambda I use as a favicon.
+A landmark in diegetic storytelling, an underrated classic of the dystopian genre (“Dear Dr Breen, why has the Combine seen fit to suppress our reproductive cycle? Sincerely, A Concerned Citizen”), and the major source for the lambda I use as a personal icon.
 
 ### Gentlemen Prefer Blondes
 
@@ -76,7 +86,7 @@ Another milestone in neurodiverse fiction — an autistic woman as  the protagon
 
 ### Don Quixote (Cervantes)
 
-Still laugh-out-loud funny and surprisingly progressive; well deserves its central place in the Western canon, and easy to recommend despite its heft.
+Still laugh-out-loud funny and surprisingly progressive; well deserves its central place in the Western canon, and easy to recommend despite its heft. Just make sure to skip the inset novellas — they’re quite long and quite uneven in quality.
 
 ### Divine Comedy (Dante)
 
