@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2025-12-31
+lastUpdatedDate: 2026-03-16
 ---
 
 ## Favorites
@@ -607,6 +607,10 @@ The ones I find myself thinking about a lot...
 > I don’t think she knows I’m there. She’s going now. She’s leaving the room. She’s gone.
 
 - *Lake Mungo* (2008)
+
+> I love you, Scott. And I run away from the thing that I love. But what I've done in the past doesn't have to define me. Help me keep remembering that, okay?
+
+- *Scott Pilgrim Takes Off* (2023)
 
 ## From Games
 
