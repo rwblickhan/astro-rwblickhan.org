@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-03-15
+lastUpdatedDate: 2026-03-16
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -46,3 +46,5 @@ lastUpdatedDate: 2026-03-15
 41. *Stereotype A*, Cibo Matto
 42. *Hotel Valentine*, Cibo Matto
 43. *Extended Play EP*, Broadcast
+44. *Talking Book*, Stevie Wonder
+45. *Scènes*, France Jobin
