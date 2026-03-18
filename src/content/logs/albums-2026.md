@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-03-17
+lastUpdatedDate: 2026-03-18
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -49,3 +49,4 @@ lastUpdatedDate: 2026-03-17
 44. *Talking Book*, Stevie Wonder
 45. *Scènes*, France Jobin
 46. *Jagged Little Pill*, Alanis Morissette
+47. *Paid In Full*, Eric B. and Rakim
