@@ -1,6 +1,6 @@
 ---
 title: Games of 2026
-lastUpdatedDate: 2025-12-30
+lastUpdatedDate: 2026-03-17
 ---
 
 ## Video Games
@@ -11,3 +11,4 @@ lastUpdatedDate: 2025-12-30
 ## Traditional Games
 
 1. *Regicide Legacy*
+2. *Flip 7*
