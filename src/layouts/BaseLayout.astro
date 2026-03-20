@@ -1,6 +1,7 @@
 ---
 import Head from "../components/Head.astro";
 import Nav from "../components/Nav.astro";
+import PagefindSearch from "astro-pagefind/components/Search";
 import "../styles/index.css";
 
 // export interface Props {
@@ -40,6 +41,12 @@ const {
       </main>
     )
   }
+  <dialog id="search-modal" popover>
+    <PagefindSearch
+      id="search"
+      uiOptions={{ showSubResults: true, showImages: false }}
+    />
+  </dialog>
 </html>
 
 <style>
@@ -67,4 +74,34 @@ const {
       }
     }
   }
+
+  #search-modal {
+    width: min(90vw, 48rem);
+    max-height: 80vh;
+    overflow-y: auto;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    background: var(--rwb-background);
+    color: var(--rwb-text);
+    position: fixed;
+    top: 10vh;
+    left: 50%;
+    translate: -50% 0;
+    margin: 0;
+  }
+
+  #search-modal::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+  }
 </style>
+
+<script>
+  const modal = document.getElementById("search-modal") as HTMLElement;
+  document.addEventListener("keydown", (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key === "k") {
+      e.preventDefault();
+      modal?.showPopover();
+    }
+  });
+</script>

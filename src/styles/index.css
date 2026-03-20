@@ -19,6 +19,9 @@
   --callout-bg: var(--rwb-light-blue);
   --callout-text: var(--rwb-blue);
   --outline: var(--rwb-blue);
+
+  --pagefind-ui-font: Charter, "Bitstream Charter", "Sitka Text", Cambria,
+    sans-serif;
 }
 
 /* Reset based on https://keithjgrant.com/posts/2024/01/my-css-resets/ */

@@ -1,8 +1,12 @@
 ---
-import NavIcon from "./NavIcon.astro";
 ---
 
-<NavIcon href="/search" title="Search">
+<button
+  commandfor="search-modal"
+  command="show-popover"
+  aria-label="Search"
+  title="Search"
+>
   <svg
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
@@ -17,4 +21,21 @@ import NavIcon from "./NavIcon.astro";
       d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
     ></path>
   </svg>
-</NavIcon>
+</button>
+
+<style>
+  button {
+    width: 1.75rem;
+    height: 1.75rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--rwb-text);
+    padding: 0;
+    display: block;
+
+    &:hover {
+      color: var(--rwb-link);
+    }
+  }
+</style>
