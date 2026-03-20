@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-03-19
+lastUpdatedDate: 2026-03-20
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -18,6 +18,7 @@ lastUpdatedDate: 2026-03-19
 13. _The Five: The Untold Lives of the Women Killed by Jack the Ripper_, Hallie Rubenhold
 14. _Pale Fire_, Vladimir Nabokov
 15. _DIE Vol. 1: Fantasy Heartbreaker_, Kieron Gillen and Stephanie Hans
+16. _Land Vol. 1_, Kazumi Yamashita (trans. Kevin Gifford)
 
 ## Skimmed / DNF
 
