@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-01-29
+lastUpdatedDate: 2026-03-19
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -17,6 +17,7 @@ lastUpdatedDate: 2026-01-29
 12. 🔁 _Mostly Harmless_, Douglas Adams
 13. _The Five: The Untold Lives of the Women Killed by Jack the Ripper_, Hallie Rubenhold
 14. _Pale Fire_, Vladimir Nabokov
+15. _DIE Vol. 1: Fantasy Heartbreaker_, Kieron Gillen and Stephanie Hans
 
 ## Skimmed / DNF
 
