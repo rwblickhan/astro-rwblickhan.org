@@ -29,6 +29,9 @@ function remarkHtmlDirectives() {
 export default defineConfig({
   site: "https://rwblickhan.org",
   integrations: [pagefind(), sitemap(), mdx()],
+  redirects: {
+    "/ai": "/misc/ai-policy",
+  },
   cacheDir: "./cache",
   experimental: {
     contentIntellisense: true,
