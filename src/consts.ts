@@ -10,79 +10,67 @@ export interface CollectionMetadata {
   isInRSSFeed: boolean;
 }
 
-export const collectionMetadataMap: Map<Collection, CollectionMetadata> =
-  new Map([
-    [
-      "fiction",
-      {
-        title: "Fiction",
-        slug: "/fiction",
-        isInHeader: true,
-        isInRSSFeed: true,
-      },
-    ],
-    [
-      "poetry",
-      {
-        title: "Poetry",
-        slug: "/poetry",
-        isInHeader: true,
-        isInRSSFeed: true,
-      },
-    ],
-    [
-      "essays",
-      { title: "Essays", slug: "/essays", isInHeader: true, isInRSSFeed: true },
-    ],
-    [
-      "technical",
-      {
-        title: "Technical",
-        slug: "/technical",
-        isInHeader: true,
-        isInRSSFeed: true,
-      },
-    ],
-    [
-      "tilTechnical",
-      {
-        title: "TIL",
-        slug: "/technical/til",
-        isInHeader: false,
-        isInRSSFeed: true,
-      },
-    ],
-    [
-      "misc",
-      { title: "Misc", slug: "/misc", isInHeader: true, isInRSSFeed: true },
-    ],
-    [
-      "newsletters",
-      {
-        title: "Newsletters",
-        slug: "/newsletters",
-        isInHeader: true,
-        isInRSSFeed: true,
-      },
-    ],
-    [
-      "logs",
-      { title: "Logs", slug: "/logs", isInHeader: true, isInRSSFeed: false },
-    ],
-  ]);
-
-export const collectionWithGalleryMetadataMap: Map<
-  Collection | "gallery",
-  CollectionMetadata
-> = new Map([
-  ...collectionMetadataMap,
+export const collectionMetadataMap: Map<Collection, CollectionMetadata> = new Map([
   [
-    "gallery",
+    "fiction",
     {
-      title: "Gallery",
-      slug: "/gallery",
+      title: "Fiction",
+      slug: "/fiction",
       isInHeader: true,
-      isInRSSFeed: false,
+      isInRSSFeed: true,
     },
   ],
+  [
+    "poetry",
+    {
+      title: "Poetry",
+      slug: "/poetry",
+      isInHeader: true,
+      isInRSSFeed: true,
+    },
+  ],
+  ["essays", { title: "Essays", slug: "/essays", isInHeader: true, isInRSSFeed: true }],
+  [
+    "technical",
+    {
+      title: "Technical",
+      slug: "/technical",
+      isInHeader: true,
+      isInRSSFeed: true,
+    },
+  ],
+  [
+    "tilTechnical",
+    {
+      title: "TIL",
+      slug: "/technical/til",
+      isInHeader: false,
+      isInRSSFeed: true,
+    },
+  ],
+  ["evergreen", { title: "Evergreen", slug: "/evergreen", isInHeader: true, isInRSSFeed: true }],
+  [
+    "newsletters",
+    {
+      title: "Newsletters",
+      slug: "/newsletters",
+      isInHeader: true,
+      isInRSSFeed: true,
+    },
+  ],
+  ["logs", { title: "Logs", slug: "/logs", isInHeader: true, isInRSSFeed: false }],
 ]);
+
+export const collectionWithGalleryMetadataMap: Map<Collection | "gallery", CollectionMetadata> =
+  new Map([
+    ...collectionMetadataMap,
+    [
+      "gallery",
+      {
+        title: "Gallery",
+        slug: "/gallery",
+        isInHeader: true,
+        isInRSSFeed: false,
+      },
+    ],
+  ]);

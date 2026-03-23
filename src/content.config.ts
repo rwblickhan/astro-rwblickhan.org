@@ -88,10 +88,10 @@ const logs = defineCollection({
   }),
 });
 
-const misc = defineCollection({
+const evergreen = defineCollection({
   loader: glob({
     pattern: ["**/*.md", "**/*.mdx"],
-    base: "./src/content/misc",
+    base: "./src/content/evergreen",
   }),
   schema: z.object({
     title: z.string(),
@@ -129,7 +129,7 @@ export const collections = {
   technical,
   tilTechnical,
   logs,
-  misc,
+  evergreen,
   newsletters,
 };
 

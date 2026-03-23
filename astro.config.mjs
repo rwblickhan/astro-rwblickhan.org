@@ -30,6 +30,9 @@ export default defineConfig({
   site: "https://rwblickhan.org",
   integrations: [pagefind(), sitemap(), mdx()],
   cacheDir: "./cache",
+  redirects: {
+    "/misc/[...slug]": "/evergreen/[...slug]",
+  },
   experimental: {
     contentIntellisense: true,
   },

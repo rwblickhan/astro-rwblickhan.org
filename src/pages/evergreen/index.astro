@@ -5,18 +5,18 @@ import IndexLayout from "../../layouts/IndexLayout.astro";
 import LinkBox from "../../components/LinkBox.astro";
 import IndexGrid from "../../components/IndexGrid.astro";
 
-const posts = (await getCollection("misc")).sort(
+const posts = (await getCollection("evergreen")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
 ---
 
-<IndexLayout title="Miscellaneous" description="Miscellaneous index page">
+<IndexLayout title="Evergreen" description="Evergreen index page">
   <IndexGrid>
     {
       posts.map((post) => (
         <LinkBox
           title={post.data.title}
-          href={`/misc/${post.id}`}
+          href={`/evergreen/${post.id}`}
           description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
         />

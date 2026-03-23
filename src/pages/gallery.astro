@@ -76,7 +76,7 @@ const galleryImages: GalleryImage[] = [
 
 <GalleryLayout title={title} description={description}>
   {
-    galleryImages.map((galleryImage, idx) => (
+    galleryImages.map((galleryImage) => (
       <Image
         src={import(`../assets/gallery/${galleryImage.id}.jpg`)}
         alt={galleryImage.alt}
