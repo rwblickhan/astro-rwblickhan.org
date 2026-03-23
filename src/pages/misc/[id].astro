@@ -1,0 +1,13 @@
+---
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("evergreen");
+  return posts.map((post) => ({
+    params: { id: post.id },
+  }));
+}
+
+const { id } = Astro.params;
+return Astro.redirect(`/evergreen/${id}`, 301);
+---
