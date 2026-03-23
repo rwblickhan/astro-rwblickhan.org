@@ -1,7 +1,7 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2025-12-06
+lastUpdatedDate: 2026-03-22
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -20,10 +20,10 @@ _Before you remove a fence, figure out what it's for._
 
 - G.K. Chesterton, _The Drift from Domesticity_
 
-Thanks to [cultural evolution](https://rwblickhan.org/misc/pattern-language/#cultural-evolution), many perplexing human behaviors are actually adaptive, even if participants can't actively explain themselves. If you suddenly change that behavior, you might find that it was load-bearing — it was completely necessary for surrounding systems to function!
+Thanks to [cultural evolution](https://rwblickhan.org/evergreen/pattern-language/#cultural-evolution), many perplexing human behaviors are actually adaptive, even if participants can't actively explain themselves. If you suddenly change that behavior, you might find that it was load-bearing — it was completely necessary for surrounding systems to function!
 So, it's often worthwhile to investigate before changing, especially if a behavior seems confusing.
 
-Because humans occupy the [cultural niche](https://rwblickhan.org/misc/pattern-language/#cultural-niche) and many of our behaviors can be looked at through a cultural lens, Chesterton's Fence can be applied to many different fields. Programming is a particularly fruitful field — whenever dealing with legacy code, it's always useful to ask _why_ the code behaves the way it does, even if it's strange (for instance, being written in COBOL!).
+Because humans occupy the [cultural niche](https://rwblickhan.org/evergreen/pattern-language/#cultural-niche) and many of our behaviors can be looked at through a cultural lens, Chesterton's Fence can be applied to many different fields. Programming is a particularly fruitful field — whenever dealing with legacy code, it's always useful to ask _why_ the code behaves the way it does, even if it's strange (for instance, being written in COBOL!).
 
 ### See Also
 
@@ -43,7 +43,7 @@ Humans are not the only intelligent animal; humans are not the only tool-using a
 - _The Secret of Our Success: How Culture is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter_, Joseph Henrich
 - _Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences_, Alex Mesoudi
 - [“A Rant About ‘Technology’”](https://web.archive.org/web/20230318100241/http://www.ursulakleguinarchive.com/Note-Technology.html), Ursula K. Le Guin
-- My own [culture & technology reading list](https://rwblickhan.org/misc/culture-reading-list/)
+- My own [culture & technology reading list](https://rwblickhan.org/evergreen/culture-reading-list/)
 
 ## Cultural Evolution
 
@@ -303,7 +303,7 @@ _Working quickly is important._
 Working fast means you can get more done per unit time. But as James Somers points out in his essay, there’s two other benefits to working fast:
 
 1. You lower the activation energy of starting a new project — you’re more likely to start a project if you think it will be quick and effortless.
-2. Because you can get more done in the same time, you get more [deliberate practice](https://rwblickhan.org/misc/pattern-language/#deliberate-practice).
+2. Because you can get more done in the same time, you get more [deliberate practice](https://rwblickhan.org/evergreen/pattern-language/#deliberate-practice).
 
 ### See Also
 

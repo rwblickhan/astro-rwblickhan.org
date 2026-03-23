@@ -1,6 +1,6 @@
 ---
 title: AI Policy
-lastUpdatedDate: 2026-03-21
+lastUpdatedDate: 2026-03-22
 description: My policy on the use of large language models, diffusion models, and other so-called generative AI tools
 ---
 
@@ -96,7 +96,7 @@ So, given the above principles, what is my actual AI policy?
 
 [^problems]: Recently I had Claude Code adapt [fzf-git](https://github.com/junegunn/fzf-git.sh) for use [with jujutsu](https://github.com/rwblickhan/fzf-jj.sh). That probably would have taken at least two or three hours of my time before LLMs, which I would have struggled to justify; with Claude Code, it took about a minute to write the prompt, and when I came back from lunch it was ready for use.
 
-[^conscious]: Or, rather, given my [slightly wonky illusionist](https://rwblickhan.org/misc/philosophical-positions/#consciousness) beliefs about consciousness, it might be more appropriate to say that I assign a high degree of probability to LLMs being minimally conscious (certainly no more than, say, an ant).
+[^conscious]: Or, rather, given my [slightly wonky illusionist](https://rwblickhan.org/evergreen/philosophical-positions/#consciousness) beliefs about consciousness, it might be more appropriate to say that I assign a high degree of probability to LLMs being minimally conscious (certainly no more than, say, an ant).
 
 [^variance]: Another way of thinking about this is to consider the variance in expression. If you tell a dozen people to write their own version of a short argument, you’ll probably get a dozen _very_ different expressions, even if the core argument is the same. On the other hand, if you ask a dozen people to write the same JavaScript function, at least half are likely to be very similar, if not identical; code simply isn’t that expressive!
 
