@@ -18,3 +18,7 @@ run = 'fish -c "utils/push"'
 [tasks.sync]
 alias = 's'
 run = 'pnpm run astro sync'
+
+[tasks.format]
+alias = 'f'
+run = 'pnpm exec prettier --write .'

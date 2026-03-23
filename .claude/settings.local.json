@@ -10,7 +10,8 @@
       "Bash(npm run build:*)",
       "Bash(npm outdated:*)",
       "Bash(wc:*)",
-      "Bash(jj status:*)"
+      "Bash(jj status:*)",
+      "Bash(pnpm add:*)"
     ],
     "deny": []
   }
