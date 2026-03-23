@@ -7,7 +7,10 @@
   --azure-4: hsl(201.14, 99.97%, 34.34%);
   --raspberry-2: hsl(357.11, 99.89%, 93.31%);
   --raspberry-4: hsl(338.06, 99.91%, 43.59%);
+  --green-1: hsl(109.97, 99.98%, 92.62%);
+  --green-4: hsl(130.54, 99.9%, 25.48%);
   --blue-4: hsl(207.65, 99.86%, 39.64%);
+  --emerald-4: hsl(153.03, 99.98%, 25.22%);
   --red-4: hsl(348.63, 99.98%, 44%);
 
   --theme: blue;
@@ -30,6 +33,12 @@
   --primary: var(--red-4);
   --callout-primary: var(--raspberry-4);
   --callout-background: var(--raspberry-2);
+}
+
+:root[data-theme="green"] {
+  --primary: var(--emerald-4);
+  --callout-primary: var(--green-4);
+  --callout-background: var(--green-1);
 }
 
 /* Reset based on https://keithjgrant.com/posts/2024/01/my-css-resets/ */
