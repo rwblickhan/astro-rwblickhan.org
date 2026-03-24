@@ -3,9 +3,10 @@ title: Cocktail Cookies
 lastUpdatedDate: 2025-02-05
 publicationDate: 2025-02-05
 description: No alcohol required
+season: 7
 ---
 
-I’ve always been a fan of cookies. Recently I’ve been making a twist on chocolate chip cookies that I call “cocktail cookies”. They don’t actually have alcohol, but they do have a couple cocktail-inspired twists.
+I've always been a fan of cookies. Recently I've been making a twist on chocolate chip cookies that I call "cocktail cookies". They don't actually have alcohol, but they do have a couple cocktail-inspired twists.
 
 The full recipe follows, but the short version is that I swap the vanilla for Angostura bitters, swap the chocolate chips for chopped walnuts, add orange zest to the batter, and place half of a Maraschino cherry on top of each.
 

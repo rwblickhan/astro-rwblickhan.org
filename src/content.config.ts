@@ -30,26 +30,6 @@ const poetry = defineCollection({
   }),
 });
 
-const essays = defineCollection({
-  loader: glob({
-    pattern: ["**/*.md", "**/*.mdx"],
-    base: "./src/content/essays",
-  }),
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    lastUpdatedDate: z
-      .string()
-      .or(z.date())
-      .transform((val) => new Date(val)),
-    publicationDate: z
-      .string()
-      .or(z.date())
-      .transform((val) => new Date(val))
-      .optional(),
-  }),
-});
-
 const technical = defineCollection({
   loader: glob({
     pattern: ["**/*.md", "**/*.mdx"],
@@ -115,6 +95,7 @@ const newsletters = defineCollection({
   }),
   schema: z.object({
     title: z.string(),
+    description: z.string().optional(),
     lastUpdatedDate: z
       .string()
       .or(z.date())
@@ -130,7 +111,6 @@ const newsletters = defineCollection({
 export const collections = {
   fiction,
   poetry,
-  essays,
   technical,
   tilTechnical,
   logs,

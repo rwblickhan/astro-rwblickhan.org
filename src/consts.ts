@@ -29,7 +29,6 @@ export const collectionMetadataMap: Map<Collection, CollectionMetadata> = new Ma
       isInRSSFeed: true,
     },
   ],
-  ["essays", { title: "Essays", slug: "/essays", isInHeader: true, isInRSSFeed: true }],
   [
     "technical",
     {

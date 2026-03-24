@@ -1,20 +1,26 @@
 ---
-import { type CollectionEntry, getCollection, render } from "astro:content";
-import ContentLayout from "../../layouts/ContentLayout.astro";
-
-export async function getStaticPaths() {
-  const posts = await getCollection("essays");
-  return posts.map((post) => ({
-    params: { id: post.id },
-    props: post,
-  }));
+export function getStaticPaths() {
+  const essayIds = [
+    "bare-minimum-skincare-routine",
+    "cocktail-cookies",
+    "farmers-foragers",
+    "horror-typology",
+    "matcha-lattes",
+    "my-other-brain-is-a-library",
+    "prose-types",
+    "rbog-cooking",
+    "rbog-tea",
+    "rbog-us-health-insurance",
+    "reading-lots",
+    "strange-things-about-melbourne",
+    "thinkingstyles",
+    "vermouth-vermouth-st-germain-cocktail",
+    "whats-the-deal-with-the-prisoners-dilemma",
+    "yearly-goals",
+  ];
+  return essayIds.map((id) => ({ params: { id } }));
 }
-type Props = CollectionEntry<"essays">;
 
-const post = Astro.props;
-const { Content } = await render(post);
+const { id } = Astro.params;
+return Astro.redirect(`/newsletters/${id}`, 301);
 ---
-
-<ContentLayout parentCollection="essays" {...post.data}>
-  <Content />
-</ContentLayout>

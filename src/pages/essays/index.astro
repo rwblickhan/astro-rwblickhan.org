@@ -1,16 +1,3 @@
 ---
-import { getCollection } from "astro:content";
-
-import IndexStandardLayout from "../../layouts/IndexStandardLayout.astro";
-
-const posts = (await getCollection("essays")).sort(
-  (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
-);
+return Astro.redirect("/newsletters", 301);
 ---
-
-<IndexStandardLayout
-  title="Essays"
-  description="Essays index page"
-  posts={posts}
-  makeHref={(id) => `/essays/${id}`}
-/>

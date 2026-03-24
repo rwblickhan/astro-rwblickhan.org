@@ -21,7 +21,8 @@
       "Bash(pnpm install:*)",
       "Bash(npx lighthouse:*)",
       "Bash(python3 -c \":*)",
-      "Bash(pkill -f 'astro preview')"
+      "Bash(pkill -f 'astro preview')",
+      "Bash(for season:*)"
     ],
     "deny": []
   }
