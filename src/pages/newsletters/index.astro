@@ -5,7 +5,7 @@ import LinkBox from "../../components/LinkBox.astro";
 import IndexGrid from "../../components/IndexGrid.astro";
 import Email from "../../components/Email.astro";
 const posts = (await getCollection("newsletters")).sort(
-  (a, b) => b.data.publicationDate.valueOf() - a.data.publicationDate.valueOf()
+  (a, b) => b.data.publicationDate.valueOf() - a.data.publicationDate.valueOf(),
 );
 ---
 
