@@ -125,10 +125,12 @@ const blogJsonLd = lastUpdatedDate && {
       ]
     }
   </script>
-  <script>
-    import { accented } from "accented";
-    if (import.meta.env.MODE === "development") {
-      accented();
-    }
-  </script>
+  {
+    import.meta.env.DEV && (
+      <script>
+        import { accented } from "accented";
+        accented();
+      </script>
+    )
+  }
 </head>

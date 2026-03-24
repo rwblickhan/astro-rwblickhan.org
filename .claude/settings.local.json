@@ -15,7 +15,13 @@
       "Bash(for f:*)",
       "Bash(do echo:*)",
       "Bash(git log:*)",
-      "Bash(done)"
+      "Bash(done)",
+      "Bash(npx lhci:*)",
+      "Bash(pnpm run:*)",
+      "Bash(pnpm install:*)",
+      "Bash(npx lighthouse:*)",
+      "Bash(python3 -c \":*)",
+      "Bash(pkill -f 'astro preview')"
     ],
     "deny": []
   }

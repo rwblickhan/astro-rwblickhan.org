@@ -1,4 +1,4 @@
-License: https://rwblickhan.org/.well-known/license.xml
+# License: https://rwblickhan.org/.well-known/license.xml
 
 User-agent: *
 Allow: /
