@@ -1,6 +1,7 @@
 ---
 title: "Types of Prose in Fiction"
 lastUpdatedDate: 2023-03-05
+publicationDate: 2023-03-01
 description: "A theory of prose categorization"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Farmers & Foragers
 lastUpdatedDate: 2024-12-24
+publicationDate: 2024-12-24
 description: A literary distinction, not an occupational one
 ---
 

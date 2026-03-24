@@ -1,6 +1,7 @@
 ---
 title: "Russell’s Brief, Opinionated Guide to Tea"
 lastUpdatedDate: 2023-01-09
+publicationDate: 2023-01-09
 description: "My brief, opinionated guide to tea"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Bare Minimum Skincare Routine
 lastUpdatedDate: 2026-01-24
+publicationDate: 2025-08-20
 description: It's not as hard as it looks
 ---
 

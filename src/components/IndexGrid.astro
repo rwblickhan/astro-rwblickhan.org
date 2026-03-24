@@ -6,6 +6,7 @@ export interface Post {
     title: string;
     description?: string;
     lastUpdatedDate: Date;
+    publicationDate?: Date;
   };
   id: string;
 }
@@ -26,6 +27,7 @@ const { posts } = Astro.props;
           href={posts.makeHref(post.id)}
           description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
+          publicationDate={post.data.publicationDate}
         />
       ))
   }

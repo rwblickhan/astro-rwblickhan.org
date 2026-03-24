@@ -1,6 +1,7 @@
 ---
 title: "Strange Things About Melbourne"
 lastUpdatedDate: 2024-02-07
+publicationDate: 2023-09-22
 description: "What strange things became familiar during a trip to Melbourne"
 ---
 

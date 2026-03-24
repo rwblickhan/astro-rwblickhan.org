@@ -11,7 +11,11 @@
       "Bash(npm outdated:*)",
       "Bash(wc:*)",
       "Bash(jj status:*)",
-      "Bash(pnpm add:*)"
+      "Bash(pnpm add:*)",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Bash(git log:*)",
+      "Bash(done)"
     ],
     "deny": []
   }

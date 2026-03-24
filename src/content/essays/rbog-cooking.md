@@ -1,6 +1,7 @@
 ---
 title: Russell’s Brief, Opinionated Guide to Home Cooking
 lastUpdatedDate: 2024-10-17
+publicationDate: 2024-10-17
 description: Cooking for fun but not really profit
 ---
 

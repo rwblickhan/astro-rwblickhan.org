@@ -1,6 +1,7 @@
 ---
 title: My Other Brain is a Library
 lastUpdatedDate: 2025-04-13
+publicationDate: 2025-04-13
 description: Choose your own adventure
 ---
 

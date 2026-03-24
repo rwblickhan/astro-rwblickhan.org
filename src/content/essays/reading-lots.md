@@ -1,6 +1,7 @@
 ---
 title: "How to Read a Lot"
 lastUpdatedDate: 2022-08-24
+publicationDate: 2022-08-24
 description: "My tips for reading a lot"
 ---
 

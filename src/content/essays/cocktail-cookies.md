@@ -1,6 +1,7 @@
 ---
 title: Cocktail Cookies
 lastUpdatedDate: 2025-02-05
+publicationDate: 2025-02-05
 description: No alcohol required
 ---
 

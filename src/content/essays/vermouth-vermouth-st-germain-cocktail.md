@@ -1,6 +1,7 @@
 ---
 title: Vermouth/Vermouth/St Germain Cocktail
 lastUpdatedDate: 2025-09-07
+publicationDate: 2025-09-07
 description: Yes, I named it the Ramona Flowers
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Typology of Horror
 lastUpdatedDate: 2024-07-19
+publicationDate: 2024-07-19
 description: A theory of horror categorization
 ---
 

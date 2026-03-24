@@ -42,6 +42,11 @@ const essays = defineCollection({
       .string()
       .or(z.date())
       .transform((val) => new Date(val)),
+    publicationDate: z
+      .string()
+      .or(z.date())
+      .transform((val) => new Date(val))
+      .optional(),
   }),
 });
 

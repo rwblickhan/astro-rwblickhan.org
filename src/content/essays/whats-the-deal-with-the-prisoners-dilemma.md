@@ -1,6 +1,7 @@
 ---
 title: What’s the Deal with the Prisoner’s Dilemma?
 lastUpdatedDate: 2025-08-04
+publicationDate: 2024-04-06
 description: Why the Prisoner’s Dilemma is important
 ---
 

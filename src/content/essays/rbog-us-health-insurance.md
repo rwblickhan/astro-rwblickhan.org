@@ -1,6 +1,7 @@
 ---
 title: Russell’s Brief, Opinionated Guide to US Employer-Sponsored Health Insurance
 lastUpdatedDate: 2024-11-15
+publicationDate: 2024-11-15
 description: Wading through a swamp of acronyms for neither fun nor profit
 ---
 

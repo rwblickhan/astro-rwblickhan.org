@@ -3,7 +3,7 @@ import IndexLayout from "./IndexLayout.astro";
 import IndexGrid from "../components/IndexGrid.astro";
 
 export interface Post {
-  data: { title: string; description?: string; lastUpdatedDate: Date };
+  data: { title: string; description?: string; lastUpdatedDate: Date; publicationDate?: Date };
   id: string;
 }
 

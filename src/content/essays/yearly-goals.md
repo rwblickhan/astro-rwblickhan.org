@@ -1,6 +1,7 @@
 ---
 title: "Yearly Goals"
 lastUpdatedDate: 2023-08-23
+publicationDate: 2023-08-23
 description: "How I set yearly goals"
 ---
 

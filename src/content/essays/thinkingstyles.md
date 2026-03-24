@@ -1,6 +1,7 @@
 ---
 title: Analyzing and Synthesizing Thinking Styles
 lastUpdatedDate: 2022-07-29
+publicationDate: 2022-07-29
 description: "A novel thinking style distinction"
 ---
 
