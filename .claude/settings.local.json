@@ -25,7 +25,9 @@
       "Bash(for season:*)",
       "Bash(mv /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/content/fiction /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/content/creativewriting)",
       "Bash(mv /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/pages/fiction /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/pages/creativewriting)",
-      "Bash(perl:*)"
+      "Bash(perl:*)",
+      "Bash(cp /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/technical/technical-reading-list.md /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/evergreen/technical-reading-list.md)",
+      "Bash(rm /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/technical/technical-reading-list.md)"
     ],
     "deny": []
   }
