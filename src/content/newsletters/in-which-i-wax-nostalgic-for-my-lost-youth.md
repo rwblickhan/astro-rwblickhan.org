@@ -7,7 +7,7 @@ season: 6
 
 Let’s get right in to the meaty content!
 
-[Rooibos resting his head on a new pillow](../../assets/newsletters/rooibos-pillow.jpg)
+![Rooibos resting his head on a new pillow](../../assets/newsletters/rooibos-pillow.jpg)
 
 Rooibos![^1]
 
