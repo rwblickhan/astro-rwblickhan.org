@@ -2,6 +2,7 @@
 title: "Command Line Tools for 2023"
 publicationDate: 2023-01-27
 lastUpdatedDate: 2023-03-24
+season: 6
 description: "An overview of command line tools I like."
 ---
 

@@ -2,6 +2,7 @@
 title: "Building bookmarks.rwblickhan.org"
 publicationDate: 2024-01-01
 lastUpdatedDate: 2024-01-01
+season: 6
 description: "How I built my bookmark search site"
 ---
 

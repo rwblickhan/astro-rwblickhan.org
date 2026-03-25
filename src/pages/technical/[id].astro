@@ -1,20 +1,29 @@
 ---
-import { type CollectionEntry, getCollection, render } from "astro:content";
-import ContentLayout from "../../layouts/ContentLayout.astro";
-
-export async function getStaticPaths() {
-  const posts = await getCollection("technical");
-  return posts.map((post) => ({
-    params: { id: post.id },
-    props: post,
+export function getStaticPaths() {
+  const redirectMap: Record<string, string> = {
+    "dotfiles": "/newsletters/2023-command-line-tools",
+    "vim-plugins": "/newsletters/2023-vim-plugins",
+    "vscode-plugins": "/newsletters/2023-vscode-plugins",
+    "technical-reading-list": "/evergreen/technical-reading-list",
+    "2022-site": "/newsletters/2022-site",
+    "2022-tools": "/newsletters/2022-tools",
+    "2023-command-line-tools": "/newsletters/2023-command-line-tools",
+    "2023-vim-plugins": "/newsletters/2023-vim-plugins",
+    "2023-vscode-plugins": "/newsletters/2023-vscode-plugins",
+    "2024-apps": "/newsletters/2024-apps",
+    "2024-site": "/newsletters/2024-site",
+    "bookmarks": "/newsletters/bookmarks",
+    "obsidian-plugin": "/newsletters/obsidian-plugin",
+    "typst-resume": "/newsletters/typst-resume",
+    "why-fish": "/newsletters/why-fish",
+    "why-raycast": "/newsletters/why-raycast",
+  };
+  return Object.entries(redirectMap).map(([id, destination]) => ({
+    params: { id },
+    props: { destination },
   }));
 }
-type Props = CollectionEntry<"technical">;
 
-const post = Astro.props;
-const { Content } = await render(post);
+const { destination } = Astro.props;
+return Astro.redirect(destination, 301);
 ---
-
-<ContentLayout parentCollection="technical" {...post.data}>
-  <Content />
-</ContentLayout>

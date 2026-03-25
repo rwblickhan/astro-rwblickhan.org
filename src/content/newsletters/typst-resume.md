@@ -2,6 +2,7 @@
 title: Writing a Resume in Typst
 publicationDate: 2024-02-27
 lastUpdatedDate: 2024-02-27
+season: 6
 description: Using Typst to typeset a resume
 ---
 

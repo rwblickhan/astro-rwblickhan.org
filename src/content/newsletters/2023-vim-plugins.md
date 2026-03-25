@@ -2,6 +2,7 @@
 title: "Vim Plugins for 2023"
 publicationDate: 2023-06-14
 lastUpdatedDate: 2023-08-10
+season: 6
 description: "An evergreen list of vim plugins I use."
 ---
 

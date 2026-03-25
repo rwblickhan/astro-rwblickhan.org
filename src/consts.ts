@@ -20,24 +20,6 @@ export const collectionMetadataMap: Map<Collection, CollectionMetadata> = new Ma
       isInRSSFeed: true,
     },
   ],
-  [
-    "technical",
-    {
-      title: "Technical",
-      slug: "/technical",
-      isInHeader: true,
-      isInRSSFeed: true,
-    },
-  ],
-  [
-    "tilTechnical",
-    {
-      title: "TIL",
-      slug: "/technical/til",
-      isInHeader: false,
-      isInRSSFeed: true,
-    },
-  ],
   ["evergreen", { title: "Evergreen", slug: "/evergreen", isInHeader: true, isInRSSFeed: true }],
   [
     "newsletters",

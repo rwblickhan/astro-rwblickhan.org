@@ -2,6 +2,7 @@
 title: Why I Use Fish Shell
 publicationDate: 2024-12-04
 lastUpdatedDate: 2024-12-04
+season: 7
 description: Finally, a command line shell for the 90s
 ---
 

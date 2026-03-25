@@ -30,7 +30,8 @@
       "Bash(rm /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/technical/technical-reading-list.md)",
       "Bash(head -5 /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/newsletters/*.md)",
       "Bash(head -5 /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/evergreen/*.md)",
-      "Bash(head -5 /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/logs/*.md)"
+      "Bash(head -5 /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/logs/*.md)",
+      "Bash(sort -t: -k3)"
     ],
     "deny": []
   }
