@@ -12,10 +12,10 @@ export interface CollectionMetadata {
 
 export const collectionMetadataMap: Map<Collection, CollectionMetadata> = new Map([
   [
-    "fiction",
+    "creativeWriting",
     {
-      title: "Fiction",
-      slug: "/fiction",
+      title: "Creative Writing",
+      slug: "/creativewriting",
       isInHeader: true,
       isInRSSFeed: true,
     },

@@ -1,10 +1,10 @@
 import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
 
-const fiction = defineCollection({
+const creativeWriting = defineCollection({
   loader: glob({
     pattern: ["**/*.md", "**/*.mdx"],
-    base: "./src/content/fiction",
+    base: "./src/content/creativewriting",
   }),
   schema: z.object({
     title: z.string(),
@@ -96,7 +96,7 @@ const newsletters = defineCollection({
 });
 
 export const collections = {
-  fiction,
+  creativeWriting,
   technical,
   tilTechnical,
   logs,

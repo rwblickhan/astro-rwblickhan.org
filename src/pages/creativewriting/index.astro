@@ -1,0 +1,21 @@
+---
+import { getCollection } from "astro:content";
+
+import IndexGrid from "../../components/IndexGrid.astro";
+import IndexLayout from "../../layouts/IndexLayout.astro";
+
+const allPosts = await getCollection("creativeWriting");
+const fictionPosts = allPosts
+  .filter((p) => p.data.type === "fiction")
+  .sort((a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf());
+const poetryPosts = allPosts
+  .filter((p) => p.data.type === "poetry")
+  .sort((a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf());
+---
+
+<IndexLayout title="Creative Writing" description="Creative writing index page">
+  <h2>Fiction</h2>
+  <IndexGrid posts={{ posts: fictionPosts, makeHref: (id) => `/creativewriting/${id}` }} />
+  <h2 id="poetry">Poetry</h2>
+  <IndexGrid posts={{ posts: poetryPosts, makeHref: (id) => `/creativewriting/${id}` }} />
+</IndexLayout>
