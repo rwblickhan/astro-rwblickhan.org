@@ -1,7 +1,7 @@
 ---
 title: Eh, It Wasn’t Worth Celebrating Anyway (rwblog S6E4)
-lastUpdatedDate: 2024-07-17 06:04:29.925757+00:00 
-publicationDate: 2023-04-06 06:04:29.925757+00:00 
+lastUpdatedDate: 2026-03-25 06:04:29.925757+00:00
+publicationDate: 2023-04-06 06:04:29.925757+00:00
 season: 6
 ---
 
@@ -16,7 +16,7 @@ I’m writing to you here, from the safe side of April Fools Day, a day which se
 
 ## New Absurdism
 
-Here’s a lil theory. I think a new ~life philosophy~ is being born. That’s right! It’s not every day you see a new life philosophy like stoicism or existentialism!
+Here’s a lil theory. I think a new \~ life philosophy \~ is being born. That’s right! It’s not every day you see a new life philosophy like stoicism or existentialism!
 
 So I’m gonna take a stab at [giving names to things](https://buttondown.email/hillelwayne/archive/giving-names-to-things/) and call it New Absurdism.
 
