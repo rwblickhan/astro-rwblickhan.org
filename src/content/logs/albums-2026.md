@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-03-24
+lastUpdatedDate: 2026-03-25
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -54,3 +54,4 @@ lastUpdatedDate: 2026-03-24
 49. *v.i.p — very important pony EP*, horsegiirL
 50. *Afrique Victime*, Mdou Moctar
 51. *Live at the Apollo (1962)*, James Brown
+52. *Idyll*, marine eyes
