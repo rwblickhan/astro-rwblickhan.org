@@ -1,14 +1,15 @@
 ---
-title: In Which I Wax Nostalgic for My Lost Youth (rwblog S6E3) 
-lastUpdatedDate: 2025-07-19 05:48:44.084227+00:00
+title: In Which I Wax Nostalgic for My Lost Youth (rwblog S6E3)
+lastUpdatedDate: 2026-03-25 05:48:44.084227+00:00
 publicationDate: 2023-02-09 05:48:44.084227+00:00
 season: 6
 ---
 
 Let’s get right in to the meaty content!
 
-![Stable Diffusion-generated photo of Guanyin](../../assets/newsletters/guanyin_stable_diffusion.jpg)
-“photo of a shrine to guanyin at dawn”, Stable Diffusion[^1]
+[Rooibos resting his head on a new pillow](../../assets/newsletters/rooibos-pillow.jpg)
+
+Rooibos![^1]
 
 ## Table of Contents
 
@@ -16,9 +17,9 @@ Let’s get right in to the meaty content!
 
 Hello from the other side of a quarter-life crisis!
 
-So I recently turned 27 and it feels rather differently than I thought it might. For the past year I’ve been aggressively joking that I’m “old” now, since I’m in my late twenties and have not published even a single best-selling novel, let alone four of them (*cough* I’m not jealous of my age-mate[^2] R.F. Kuang *at all*). I joked so aggressively that my friend started increasing my age every time I did it; as a result I’m roughly 39 now.
+So I recently turned 27 and it feels rather differently than I thought it might. For the past year I’ve been aggressively joking that I’m “old” now, since I’m in my late twenties and have not published even a single best-selling novel, let alone four of them (_cough_ I’m not jealous of my age-mate[^2] R.F. Kuang _at all_). I joked so aggressively that my friend started increasing my age every time I did it; as a result I’m roughly 39 now.
 
-On a more serious note, I was rather skeptical of the whole idea of a “quarter life crisis”, but now I do think I spent the last ~2 years in the depths of one. I’ve been rather obsessed with the idea that I *had* to finish my great American novel, and *had* to take on more responsibility at work, and *had* to become a local community pillar, and if I didn’t I wasn’t “sucking the marrow out of life”, and I would end up settling down and having kids with nothing to show for my youth.
+On a more serious note, I was rather skeptical of the whole idea of a “quarter life crisis”, but now I do think I spent the last ~2 years in the depths of one. I’ve been rather obsessed with the idea that I _had_ to finish my great American novel, and _had_ to take on more responsibility at work, and _had_ to become a local community pillar, and if I didn’t I wasn’t “sucking the marrow out of life”, and I would end up settling down and having kids with nothing to show for my youth.
 
 But with this twenty-seventh birthday — which is, after all, still young, still so very young — two things shifted.
 
@@ -30,21 +31,21 @@ Firstly, I read [this essay](https://thedreammachine.substack.com/p/a-new-new-ye
 
 - ["a new new year"](https://thedreammachine.substack.com/p/a-new-new-year), Jackie Luo
 
-Which is rather pessimistic. Ever the optimist, I’ve taken those thoughts in a different direction. The lack of a clean narrative is, in fact, a *life*. The accumulation of choices is, in fact, *focus*.
+Which is rather pessimistic. Ever the optimist, I’ve taken those thoughts in a different direction. The lack of a clean narrative is, in fact, a _life_. The accumulation of choices is, in fact, _focus_.
 
-I’m now well into my career and well into my life, and at this point I have to accept that some career paths are out of reach, and some hobbies will never been taken up, and some interests will wither on the vine, never inquired into. But, on the other hand, I’ve now lived enough that I can roughly define what I’m interested in and *focus*.
+I’m now well into my career and well into my life, and at this point I have to accept that some career paths are out of reach, and some hobbies will never been taken up, and some interests will wither on the vine, never inquired into. But, on the other hand, I’ve now lived enough that I can roughly define what I’m interested in and _focus_.
 
 To wit: I recently realized that every story idea I’ve ever had was “really” about neurodiversity — about people either accepting or struggling against the way they think. And, while I don’t want to prematurely limit myself, I also find that exciting. That’s not exactly a clean narrative, but it is a focus. It is, partially, what my life is “about”. It is, perhaps, providing a sense of purpose that was lacking; I can define a small set of topics that dominate my intellectual life (about which more below) and pursue those, perhaps for the rest of my life.
 
 Secondly, I realized that [humans need play](https://allenpike.com/2023/humans-need-play). I spent most of the last two years stagnating at work without noticing it. I spent most of my “productive” time outside work on a forced march to Novelistland. I spent most of my non-productive time being an extravert and planning five social events a week. I told myself that I had more than enough “downtime” walking the dog.
 
-Having finally switched teams and, in fact, platforms — that’s right, I’m no longer a mobile engineer! — I realized that I was, well, *bored* at work (not to mention burnt out). I’ve realized I can have fun with writing, and not feel guilty that I’m writing a newsletter instead of my best-selling novel. I realized I can take a day or two off and nobody will miss me (... I’m still an extravert though 😉).
+Having finally switched teams and, in fact, platforms — that’s right, I’m no longer a mobile engineer! — I realized that I was, well, _bored_ at work (not to mention burnt out). I’ve realized I can have fun with writing, and not feel guilty that I’m writing a newsletter instead of my best-selling novel. I realized I can take a day or two off and nobody will miss me (... I’m still an extravert though 😉).
 
-Curiously, contra hustle culture, these insights have made me *more* productive. I can take a night off to myself and write a short story and feel invigorated, not exhausted. I can spend a few hours messing around with Rust, for a “useless” project, and not feel guilty that I’ve “wasted” productive time that could be going towards my novel. So I’ve ended up writing just as much or more than I did when I was forcing myself to push for a novel, just by writing and working naturally, albeit in a more diffuse manner.
+Curiously, contra hustle culture, these insights have made me _more_ productive. I can take a night off to myself and write a short story and feel invigorated, not exhausted. I can spend a few hours messing around with Rust, for a “useless” project, and not feel guilty that I’ve “wasted” productive time that could be going towards my novel. So I’ve ended up writing just as much or more than I did when I was forcing myself to push for a novel, just by writing and working naturally, albeit in a more diffuse manner.
 
-Because, really, I don’t *have* to publish a novel. I was being pushed by the feeling that I was “behind” and that if I didn’t chunk my year into novel-writing-seasons, then I would never finish. But at the end of the day, a brief guide to tea can be just as satisfying — and, anyway, I love writing, and it’s not like I *won’t* eventually finish some of the things I’ve been working on 😉
+Because, really, I don’t _have_ to publish a novel. I was being pushed by the feeling that I was “behind” and that if I didn’t chunk my year into novel-writing-seasons, then I would never finish. But at the end of the day, a brief guide to tea can be just as satisfying — and, anyway, I love writing, and it’s not like I _won’t_ eventually finish some of the things I’ve been working on 😉
 
-That said, I wouldn’t call the last two years a waste. For one thing, I learned what it feels like when writing is going “well” — I wrote the entire 20,000 word draft for *Dreams of an Alien God* in something like two weeks, with barely a qualm about whether it was “worth” expanding (it definitely is, and I’ll get back on that... shortly). More importantly, though, I proved to myself that I could *do it* — I wrote a complete 80,000 word novel and then wrote another 25,000 words of revision on the complete part one, plus a complete 20,000 word novella. [Like Robin Sloan said](https://www.robinsloan.com/newsletters/sunshine-skyway/):
+That said, I wouldn’t call the last two years a waste. For one thing, I learned what it feels like when writing is going “well” — I wrote the entire 20,000 word draft for _Dreams of an Alien God_ in something like two weeks, with barely a qualm about whether it was “worth” expanding (it definitely is, and I’ll get back on that... shortly). More importantly, though, I proved to myself that I could _do it_ — I wrote a complete 80,000 word novel and then wrote another 25,000 words of revision on the complete part one, plus a complete 20,000 word novella. [Like Robin Sloan said](https://www.robinsloan.com/newsletters/sunshine-skyway/):
 
 > When you start and finish, by contrast — and it can be a project of any scope: a 24-hour comic, a one-page short story, truly anything — it is powerful fuel that goes straight back into the tank. When a project is finished, it exits the realm of “this is gonna be great” and becomes something you (and perhaps others) can actually evaluate. Even if that evaluation is disastrous, it is also, I will insist, thrilling and productive. It’s the pump of a piston, preparing the engine for the next one.
 
@@ -53,7 +54,7 @@ That said, I wouldn’t call the last two years a waste. For one thing, I learne
 
 ## Writing Compiler
 
-Boy, that ChatGPT sure got a lot of attention lately, didn’t it? I’m sure you’d love to hear *even more* about it, right? Right??
+Boy, that ChatGPT sure got a lot of attention lately, didn’t it? I’m sure you’d love to hear _even more_ about it, right? Right??
 
 More seriously, I find a lot of discussion about ChatGPT and its LLM (large language model) friends pretty boring. A lot of it boils down to:
 
@@ -71,7 +72,7 @@ I’ve previously linked the talk that really solidified this way of thinking fo
 
 So if we get past CNET using GPT-3 to spam low-quality SEO-optimized articles, what genuinely novel use cases could we find for GPT-3?
 
-One idea that really struck me from [this otherwise fairly pessimistic article](https://countercraft.substack.com/p/the-only-sure-thing-with-ai-is-writing?isFreemail=true) was GPT-as-“writing compiler”. Programmers expect to be able to change all usages of a variable in scope with one click, but human language is just a bit too syntactically complicated to be tractable. Or, rather, it *was*. To wit:
+One idea that really struck me from [this otherwise fairly pessimistic article](https://countercraft.substack.com/p/the-only-sure-thing-with-ai-is-writing?isFreemail=true) was GPT-as-“writing compiler”. Programmers expect to be able to change all usages of a variable in scope with one click, but human language is just a bit too syntactically complicated to be tractable. Or, rather, it _was_. To wit:
 
 > For example, swapping a passage from first person POV to third person POV is—at least on the initial pass—a bunch of robotic work that a future AI program could do in an instant. As an author, I’d kill for that.
 
@@ -81,7 +82,7 @@ Really, what I’m saying here is that my best guess is that, in 5-10 years, LLM
 
 > I've come up with a set of rules that describe our reactions to technologies: 1. Anything that is in the world when you’re born is normal and ordinary and is just a natural part of the way the world works. 2. Anything that's invented between when you’re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. 3. Anything invented after you're thirty-five is against the natural order of things.
 
-On a related note: note that I have an M2 Mac, I used Sindre Sorhus’ [Amazing AI](https://sindresorhus.com/amazing-ai), which is backed by Stable Diffusion, to generate the images for this post. (Is that ethical? Is that *legal*? Erm…) On the one hand, it’s amazing to me that Stable Diffusion has a concept of “Guanyin” hanging out in its head; on the other hand, uh, [so does Wikipedia](https://en.wikipedia.org/wiki/Guanyin)?
+On a related note: note that I have an M2 Mac, I used Sindre Sorhus’ [Amazing AI](https://sindresorhus.com/amazing-ai), which is backed by Stable Diffusion, to generate the images for this post. (Is that ethical? Is that _legal_? Erm…) On the one hand, it’s amazing to me that Stable Diffusion has a concept of “Guanyin” hanging out in its head; on the other hand, uh, [so does Wikipedia](https://en.wikipedia.org/wiki/Guanyin)?
 
 ![Stable Diffusion-generated image of a bicycle for the mind](../../assets/newsletters/bicycle_for_the_mind_stable_diffusion.jpg)
 “bicycle for the mind, photorealistic, unreal 3d, tools for thought”, Stable Diffusion[^4]
@@ -96,7 +97,7 @@ That’s such an interesting concept! It’s easy to forget as adults but learni
 
 ## In Other Boring News
 
-- I rewrote [my landing page](https://rwblickhan.org/)! In particular, I decided to summarize the topics I’m most interested in right now, that I think I want to devote the next ~10 years (and possibly whole life?) to — the things I want to *focus* on. The fun part was thinking up three “questions” for each to give the vibe of the category instead of strictly defining them. Already I’ve found this a clarifying exercise — “oh yes, I really *do* write about that a lot” — and a generative one — “oh, these are all interlinked in ways I hadn’t noticed before”. I would highly recommend it! (In particular, I settled on the categories of “cultural evolution”, “neurodiversity”, “tools for thought”, “community building”, and “storytelling”.)
+- I rewrote [my landing page](https://rwblickhan.org/)! In particular, I decided to summarize the topics I’m most interested in right now, that I think I want to devote the next ~10 years (and possibly whole life?) to — the things I want to _focus_ on. The fun part was thinking up three “questions” for each to give the vibe of the category instead of strictly defining them. Already I’ve found this a clarifying exercise — “oh yes, I really _do_ write about that a lot” — and a generative one — “oh, these are all interlinked in ways I hadn’t noticed before”. I would highly recommend it! (In particular, I settled on the categories of “cultural evolution”, “neurodiversity”, “tools for thought”, “community building”, and “storytelling”.)
 
 - Related to the above cleanup, I also wrote up a [tools for thought reading list](https://rwblickhan.org/misc/tools-for-thought-reading-recs/). Right now it’s basically just a bunch of blogs I happen to like, but I’d like to add more resources as I encounter them. Perhaps I’ll write a reading list for each category? 🤔
 
@@ -108,13 +109,13 @@ That’s such an interesting concept! It’s easy to forget as adults but learni
 
 Wow, Mr Subheadline, sure are sassy today, aren’t you?
 
-Yes, I’m still trying to write fiction. I’d like to revisit *Dreams of an Alien God* later this year and expand it to real novella length, and I’m working on two short stories right now, and I’m plotting out a comic (which, hey, if you’re reading this and your lifelong dream is to draw a comic someone else wrote... hit me up 👀).
+Yes, I’m still trying to write fiction. I’d like to revisit _Dreams of an Alien God_ later this year and expand it to real novella length, and I’m working on two short stories right now, and I’m plotting out a comic (which, hey, if you’re reading this and your lifelong dream is to draw a comic someone else wrote... hit me up 👀).
 
 ## Fine But You Haven’t Published Any Of It Yet Have You
 
 lalala I can’t hear you go back up and reread the section titled “In Which I Wax Nostalgic for My Lost Youth”
 
-[^1]: Okay, we get one Guanyin for the road.
+[^1]: There was formerly a Stable Diffusion-generated image of Guanyin here, but over time I've gotten _very_ uncomfortable, both with Stable Diffusion and with the, well, appropriation. So you get Rooibos instead.
 
 [^2]: Is age-mate even a term? It feels like it must be. 🤔
 
