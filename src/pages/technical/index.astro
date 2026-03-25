@@ -6,9 +6,6 @@ import IndexGrid from "../../components/IndexGrid.astro";
 const posts = (await getCollection("technical")).sort(
   (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
 );
-const tilPosts = (await getCollection("tilTechnical")).sort(
-  (a, b) => b.data.lastUpdatedDate.valueOf() - a.data.lastUpdatedDate.valueOf()
-);
 ---
 
 <IndexLayout title="Technical" description="Technical writing index page">
@@ -20,26 +17,6 @@ const tilPosts = (await getCollection("tilTechnical")).sort(
           href={`/technical/${post.id}`}
           description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
-        />
-      ))
-    }
-  </IndexGrid>
-
-  <h2>TIL</h2>
-
-  <p>
-    This is my list of TIL (Today I Learned) posts, inspired by <a
-      href="https://til.simonwillison.net">Simon Willison's TIL</a
-    > page.
-  </p>
-
-  <IndexGrid>
-    {
-      tilPosts.map((til) => (
-        <LinkBox
-          title={til.data.title}
-          href={`/technical/til/${til.id}`}
-          lastUpdatedDate={til.data.lastUpdatedDate}
         />
       ))
     }

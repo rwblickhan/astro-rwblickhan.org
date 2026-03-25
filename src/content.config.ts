@@ -32,20 +32,6 @@ const technical = defineCollection({
   }),
 });
 
-const tilTechnical = defineCollection({
-  loader: glob({
-    pattern: ["**/*.md", "**/*.mdx"],
-    base: "./src/content/tilTechnical",
-  }),
-  schema: z.object({
-    title: z.string(),
-    lastUpdatedDate: z
-      .string()
-      .or(z.date())
-      .transform((val) => new Date(val)),
-  }),
-});
-
 const logs = defineCollection({
   loader: glob({
     pattern: ["**/*.md", "**/*.mdx"],
@@ -98,7 +84,6 @@ const newsletters = defineCollection({
 export const collections = {
   creativeWriting,
   technical,
-  tilTechnical,
   logs,
   evergreen,
   newsletters,

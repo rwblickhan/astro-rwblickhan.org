@@ -1,24 +1,49 @@
 ---
-import { type CollectionEntry, getCollection, render } from "astro:content";
-import ContentLayout from "../../../layouts/ContentLayout.astro";
-
-export async function getStaticPaths() {
-  const posts = await getCollection("tilTechnical");
-  return posts.map((post) => ({
-    params: { id: post.id },
-    props: post,
-  }));
+export function getStaticPaths() {
+  return [
+    { params: { id: "20230415-vim-text-objects" } },
+    { params: { id: "20230419-vim-text-motions" } },
+    { params: { id: "20230420-position-sticky-scrolling" } },
+    { params: { id: "20230421-scroll-padding" } },
+    { params: { id: "20230430-web-workers" } },
+    { params: { id: "20230503-filter-by-date-in-obsidian-dataview" } },
+    { params: { id: "20230505-star-and-sharp-in-vim" } },
+    { params: { id: "20230520-sort-in-vim" } },
+    { params: { id: "20230527-numeric-increment-decrement-in-vim" } },
+    { params: { id: "20230607-walking-directories-with-globs-in-rust" } },
+    { params: { id: "20230610-border-in-swiftui" } },
+    { params: { id: "20230615-relative-line-numbers-in-vim" } },
+    { params: { id: "20230703-computed-property-names-javascript" } },
+    { params: { id: "20230714-state-initialization-in-swiftui" } },
+    { params: { id: "20230717-smartcase-in-vim" } },
+    { params: { id: "20230723-vim-visual-paste-without-yank" } },
+    { params: { id: "20230727-vim-abbreviations" } },
+    { params: { id: "20230728-macro-registers-in-vim" } },
+    { params: { id: "20230802-command-k-via-raycast" } },
+    { params: { id: "20230820-tmux-in-vscode" } },
+    { params: { id: "20230901-adjacent-sibling-combinator" } },
+    { params: { id: "20230921-cloudflare-notifications" } },
+    { params: { id: "20231228-javascript-arguments" } },
+    { params: { id: "20231229-cloudflare-pages-functions" } },
+    { params: { id: "20240111-fish-directory-history" } },
+    { params: { id: "20240218-fzf-preview-options" } },
+    { params: { id: "20240219-no-case-declarations" } },
+    { params: { id: "20240311-template-literals-with-tag-functions" } },
+    { params: { id: "20240325-typescript-using" } },
+    { params: { id: "20240407-adding-methods-to-prototypes-typescript" } },
+    { params: { id: "20240409-custom-keyboard-shortcuts-on-macos" } },
+    { params: { id: "20240410-search-in-git-log" } },
+    { params: { id: "20240810-iterm2-smart-selection" } },
+    { params: { id: "20240823-iterm2-find-urls" } },
+    { params: { id: "20241003-iphone-back-tap" } },
+    { params: { id: "20241018-using-shoelace-with-preact-and-vite" } },
+    { params: { id: "20250205-mailto-header-fields" } },
+    { params: { id: "20250519-caching-in-github-actions" } },
+    { params: { id: "20250527-hgroup" } },
+  ];
 }
-type Props = CollectionEntry<"tilTechnical">;
 
-const post = Astro.props;
-const { Content } = await render(post);
+const { id } = Astro.params;
+const fragment = id.replace(/^\d{8}-/, "");
+return Astro.redirect(`/evergreen/technical-tils#${fragment}`, 301);
 ---
-
-<ContentLayout
-  {...post.data}
-  parentCollection="technical"
-  title={`TIL: ${post.data.title}`}
->
-  <Content />
-</ContentLayout>

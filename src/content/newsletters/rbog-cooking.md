@@ -6,13 +6,13 @@ description: Cooking for fun but not really profit
 season: 7
 ---
 
-About two years ago, I decided to learn how to cook. After much experimentation and reference to *The Food Lab*, here is what I learned about decent home cooking.
+About two years ago, I decided to learn how to cook. After much experimentation and reference to _The Food Lab_, here is what I learned about decent home cooking.
 
 ## Table of Contents
 
 ## Assembling a Recipe
 
-Before you cook, you have to decide *what* to cook. You can just pick a recipe, but it helps to understand *why* a recipe works the way it does.
+Before you cook, you have to decide _what_ to cook. You can just pick a recipe, but it helps to understand _why_ a recipe works the way it does.
 
 My framework is that every recipe can be broken down into three fundamental macronutrients (carbs, proteins, and fat), five-and-a-half fundamental tastes (salty, savory, sweet, sour, bitter, and spicy), and additional flavor from aromatics or mouthfeel.
 
@@ -32,7 +32,7 @@ Meals missing one of these elements feel incomplete. For instance, spaghetti and
 
 Flavor is a complex, multifaceted combination of aroma, taste, mouthfeel, and many other attributes.
 
-Let's focus on taste first. Taste is simple. The tongue can only detect five fundamental tastes: salty, savory (aka *umami*), sour, sweet, and bitter. Spiciness can also be considered a "pseudo-taste".
+Let's focus on taste first. Taste is simple. The tongue can only detect five fundamental tastes: salty, savory (aka _umami_), sour, sweet, and bitter. Spiciness can also be considered a "pseudo-taste".
 
 #### Saltiness
 
@@ -40,7 +40,7 @@ Saltiness detects salt, aka sodium chloride, aka NaCl. We need salt, and lots of
 
 Pretty much every culture has a core salty ingredient. In French cuisine you're often working with salty stocks; in Italian cuisine you cook pasta in salty-as-the-sea water; in Chinese and Japanese cuisine everything uses salty soy sauce; and so on.
 
-Most beginner home cooks underuse salt — restaurant food tastes better because they use a *lot* of salt. If a dish comes out tasting flat, try adding a bit of salt, tasting again, and repeating until it tastes good.
+Most beginner home cooks underuse salt — restaurant food tastes better because they use a _lot_ of salt. If a dish comes out tasting flat, try adding a bit of salt, tasting again, and repeating until it tastes good.
 
 Two other tips:
 
@@ -49,11 +49,11 @@ Two other tips:
 
 #### Umami / savoriness
 
-*Umami*, aka savoriness, is famous for being the last taste to be recognized (in the early 1900s!). It detects the presence of glutamates, which *very roughly* [track protein sources](https://www.atvbt.com/msg/).
+_Umami_, aka savoriness, is famous for being the last taste to be recognized (in the early 1900s!). It detects the presence of glutamates, which _very roughly_ [track protein sources](https://www.atvbt.com/msg/).
 
-Typical high-*umami* foods include meat, mushrooms, cheese, fish sauce, soy sauce, tomatoes, and stocks, like chicken stock or Japanese *dashi*. You could also use isolated glutamates formed into a convenient salt called monosodium glutamate, or MSG. (MSG allergies do not exist; keeping a bottle around can be handy.)
+Typical high-_umami_ foods include meat, mushrooms, cheese, fish sauce, soy sauce, tomatoes, and stocks, like chicken stock or Japanese _dashi_. You could also use isolated glutamates formed into a convenient salt called monosodium glutamate, or MSG. (MSG allergies do not exist; keeping a bottle around can be handy.)
 
-As with salt, most home cooks underuse *umami*. Taste test and add more MSG!
+As with salt, most home cooks underuse _umami_. Taste test and add more MSG!
 
 #### Sourness
 
@@ -63,15 +63,15 @@ Many recipes benefit from more acid — a squeeze of lime juice at the end, for 
 
 #### Sweetness
 
-Sweetness detects sugars, as well as other compounds that mimic sugar. If you grew up in the English-speaking world, you *probably* know what sweetness tastes like, so I'll skip the examples.
+Sweetness detects sugars, as well as other compounds that mimic sugar. If you grew up in the English-speaking world, you _probably_ know what sweetness tastes like, so I'll skip the examples.
 
-Sweetness is easy to overdo, but it's often useful to balance or mask other strong flavors. For instance, many Thai sauces include sugar to balance the *very* strong salty/savory flavors of fish sauce, oyster sauce, and soy sauce.
+Sweetness is easy to overdo, but it's often useful to balance or mask other strong flavors. For instance, many Thai sauces include sugar to balance the _very_ strong salty/savory flavors of fish sauce, oyster sauce, and soy sauce.
 
 #### Bitterness
 
 Bitterness detects a wide range of compounds that are broadly toxic in large quantities. Bitterness isn't that important to home cooking, though many vegetables like cabbage or kale are bitter when raw, and some dishes like Burmese tea salad use bitterness as a core taste.
 
-Curiously, bitterness *is* very important in drinks — coffee, cocoa, tea, wine, the hops used in beer, the gentian root used in Angostura bitters, and the quinine used in tonic water are all naturally bitter.
+Curiously, bitterness _is_ very important in drinks — coffee, cocoa, tea, wine, the hops used in beer, the gentian root used in Angostura bitters, and the quinine used in tonic water are all naturally bitter.
 
 #### Spiciness
 
@@ -85,7 +85,7 @@ Arguably, other sensations could be considered pseudo-tastes, like pungency (thi
 
 Let's revisit spaghetti and meatballs. From a taste perspective, why does it work? The pasta itself should be cooked in (very) salty water, and tomato sauce usually has salt as well. Tomatoes are a bit sweet, a bit savory, and a bit acidic, and meatballs are also savory.
 
-To jump to a different cuisine, how do stir fry noodles work? Most will include something like a 1.5:1 combination of soy sauce and [Shaoxing wine](https://thewoksoflife.com/shaoxing-wine-the-key-to-authentic-chinese-cooking/). The soy sauce will provide saltiness and *umami*; the Shaoxing wine will provide a little bit each of *umami*, sweetness, and acid. If we need more *umami*, many Chinese sauces include oyster sauce as well.
+To jump to a different cuisine, how do stir fry noodles work? Most will include something like a 1.5:1 combination of soy sauce and [Shaoxing wine](https://thewoksoflife.com/shaoxing-wine-the-key-to-authentic-chinese-cooking/). The soy sauce will provide saltiness and _umami_; the Shaoxing wine will provide a little bit each of _umami_, sweetness, and acid. If we need more _umami_, many Chinese sauces include oyster sauce as well.
 
 ### The Rest of Flavor
 
@@ -119,7 +119,7 @@ A good home meal will include all three macronutrients, balance the five (and a 
 
 If you're using a professional recipe, pay attention to how it uses each of these components.
 
-What if you want to make your own recipe? Here's a general... *recipe*... for decent home cooked meals:
+What if you want to make your own recipe? Here's a general... _recipe_... for decent home cooked meals:
 
 - Pick the three basic macronutrients.
   - Pick a carb base, like rice, noodles, pasta, bread, tortillas, or so on.
@@ -127,22 +127,22 @@ What if you want to make your own recipe? Here's a general... *recipe*... for de
   - For a fat source, you'll often want to use oil as either the base of a sauce or as a cooking medium for the protein.
 - Balance the fundamental tastes:
   - Add the salt source for that cuisine, like a soy-sauce-based braise or salty pasta water.
-  - Make sure you have a source of *umami*. That may come from the protein, but you can consider adding more by e.g. boiling everything in chicken stock or adding fish sauce.
+  - Make sure you have a source of _umami_. That may come from the protein, but you can consider adding more by e.g. boiling everything in chicken stock or adding fish sauce.
   - Add sources of sourness, sweetness, and spiciness, like cooking wine, lemon juice, sugar, or red chili flakes.
   - Consider adding semi-bitter vegetables, like kale, cabbage, or bok choy.
 - Add aromatics to fill out the flavor.
 
-As mentioned above, most home cooks underuse salt, so taste that first, followed by *umami* levels. Balance with sweetness and sourness; you can usually ignore bitterness.
+As mentioned above, most home cooks underuse salt, so taste that first, followed by _umami_ levels. Balance with sweetness and sourness; you can usually ignore bitterness.
 
 ## The Act of Cooking
 
 Now that you have a recipe in mind, you have to actually cook it.
 
-### *Mise en place*
+### _Mise en place_
 
-*Mise en place* is a philosophy originating in French culinary school. The idea is to have "everything in place" — maintain your tools where you can easily reach them, know how you're going to dispose of garbage, and prepare ingredients in a logical order. If you have everything in a logical place and do everything in a logical order, cooking will be much less stressful!
+_Mise en place_ is a philosophy originating in French culinary school. The idea is to have "everything in place" — maintain your tools where you can easily reach them, know how you're going to dispose of garbage, and prepare ingredients in a logical order. If you have everything in a logical place and do everything in a logical order, cooking will be much less stressful!
 
-There's two major components of *mise en place* that I like to think about in particular.
+There's two major components of _mise en place_ that I like to think about in particular.
 
 #### Kitchen Logistics
 
@@ -154,9 +154,9 @@ In general, you'll want to organize your kitchen so that commonly-used tools and
 
 I used to get frustrated that recipes list all the ingredient quantities in a list at the top, instead of inline in the recipe.
 
-Eventually I realized why — you're supposed to prepare all the ingredients *before* you start the "active" cooking. If the recipe calls for half a cup of julienned carrots, cut up the carrots and leave them to one side before you even touch the stove. If the recipe needs a sauce, mix the sauce at the start, not right when you need it. Your goal when "actively" cooking should be to have everything at hand, pre-prepared, and ready to be thrown directly into the skillet or oven. You'll be much, *much* less stressed this way.
+Eventually I realized why — you're supposed to prepare all the ingredients _before_ you start the "active" cooking. If the recipe calls for half a cup of julienned carrots, cut up the carrots and leave them to one side before you even touch the stove. If the recipe needs a sauce, mix the sauce at the start, not right when you need it. Your goal when "actively" cooking should be to have everything at hand, pre-prepared, and ready to be thrown directly into the skillet or oven. You'll be much, _much_ less stressed this way.
 
-You may notice, in keeping with kitchen logistics above, that you'll need a *place* to put all these prepared ingredients. That's where prep bowls come in! You should get half a dozen or so small bowls where you can leave aromatics, sauces, meat, or trash while you're prepping.
+You may notice, in keeping with kitchen logistics above, that you'll need a _place_ to put all these prepared ingredients. That's where prep bowls come in! You should get half a dozen or so small bowls where you can leave aromatics, sauces, meat, or trash while you're prepping.
 
 One other tip: meat doesn't last long in the fridge. Store your meat in the freezer, separated into individual-portion Ziploc baggies; the night before you plan to cook it, defrost a baggy or two in the fridge overnight. If you forget, you can defrost in a bowl of water for an hour or two.
 
@@ -164,11 +164,11 @@ One other tip: meat doesn't last long in the fridge. Store your meat in the free
 
 Here's the most basic set of kitchen equipment you'll actually need for most tasks:
 
-- A **stove** and **oven**: If your living situation doesn't allow for a heat source, you *might* want to rethink home cooking; you'll be very limited without the ability to fry or bake.
+- A **stove** and **oven**: If your living situation doesn't allow for a heat source, you _might_ want to rethink home cooking; you'll be very limited without the ability to fry or bake.
 - A **Western-style chef's knife** or **Japanese-style santoku knife**: There's a billion varieties of knife, but for 99% of home cooking, you just need one solid chef's knife or santoku knife (depending on preference). Go to a decent knife shop or cooking supply store and try them out in person.
-- **Cutting boards**: I mean, I *hope* you're not just cutting directly on your countertop. Wooden cutting boards used to be considered dangerous due to bacterial growth, but in fact they're perfectly safe and better for your knives.
-- **Prep / trash / mixing bowls**: As mentioned above, a good set of prep / mixing bowls are essential to *mise en place*.
-- **Basic pots and pans**: You'll want to do some research here,   because different materials have different cooking properties and different cuisines use different pots and pans — many Asian dishes assume a wok, while a steak is best made in a cast-iron skillet. That said, you'll probably want at least:
+- **Cutting boards**: I mean, I _hope_ you're not just cutting directly on your countertop. Wooden cutting boards used to be considered dangerous due to bacterial growth, but in fact they're perfectly safe and better for your knives.
+- **Prep / trash / mixing bowls**: As mentioned above, a good set of prep / mixing bowls are essential to _mise en place_.
+- **Basic pots and pans**: You'll want to do some research here, because different materials have different cooking properties and different cuisines use different pots and pans — many Asian dishes assume a wok, while a steak is best made in a cast-iron skillet. That said, you'll probably want at least:
   - A **stock pot**, big enough to cook a stew.
   - A **saucier**, with curved edges so that sauce doesn't get stuck in the crevices.
   - A **pan** or **skillet** for frying. I love my cast-iron skillet for frying eggs, but I also keep a huge wok around for stir fries.
@@ -182,7 +182,7 @@ Other than these basics, what tools you might need will strongly depend on cuisi
 
 ### Cutting
 
-Most recipes involve cutting up *something*. Learn some basic cuts, like dicing, chopping, mincing, julienning, and chiffonading.
+Most recipes involve cutting up _something_. Learn some basic cuts, like dicing, chopping, mincing, julienning, and chiffonading.
 
 Use a blade grip instead of a handle grip. The blade of the knife should be between your thumb and index finger, instead of resting your entire hand on the handle; the knife will be much more balanced.
 
@@ -194,7 +194,7 @@ The Maillard reaction, in meats, breads, and some other foods, is when amino aci
 
 There's two broad ways to use heat: dry cooking and moist cooking. Dry cooking is directly applying heat, like in pan frying or baking, while moist cooking is applying heat indirectly, typically by boiling or steaming a water-based liquid. Generally, dry cooking results in Maillard / caramelization, while moist cooking results in tenderness but not browning / searing.
 
-*Sous vide* is an in-between technique popular with a particular kind of foodie. It involves sealing and cooking food for long periods at precisely-controlled temperatures, resulting in a unique flavor profile and mouthfeel, especially for meat.
+_Sous vide_ is an in-between technique popular with a particular kind of foodie. It involves sealing and cooking food for long periods at precisely-controlled temperatures, resulting in a unique flavor profile and mouthfeel, especially for meat.
 
 Heat is all about temperature over time; cooking at low temperatures for a long time is different than cooking at high temperatures for a short time. You can spend lots of time learning about different heat sources and techniques — deep frying and air frying and broiling and so on — and concepts like carryover cooking, but to start with, just follow a recipe.
 
@@ -210,7 +210,7 @@ Leavening requires a source of carbon dioxide to be mixed into flour, which is p
 
 ## References
 
-- J. Kenji López-Alt's *The Food Lab* is the essential read, though note it focuses exclusively on contemporary Western cuisine. His former employer, [*Serious Eats*](https://www.seriouseats.com), remains a goldmine as well; I'll often find recipes by searching *Serious Eats* for an ingredient or technique I want to use.
-- Despite the tech bro framing, Jeff Potter's [*Cooking for Geeks*](https://www.cookingforgeeks.com) is a great companion to *The Food Lab*. The first half covers much of the same ground with different emphasis or framing, while the second half is a beginner's introduction to molecular gastronomy.
-- For Asian and in particular Chinese home cooking, [*The Woks of Life*](https://thewoksoflife.com) is the de facto standard.
-- Samin Nosrat's *Salt, Fat, Acid, Heat* is extremely popular. I don't love her framework — you'll notice the title includes two tastes, one macronutrient, and a cooking technique — but she has some interesting tips and the list of recipes in the back is a useful resource.
+- J. Kenji López-Alt's _The Food Lab_ is the essential read, though note it focuses exclusively on contemporary Western cuisine. His former employer, [_Serious Eats_](https://www.seriouseats.com), remains a goldmine as well; I'll often find recipes by searching _Serious Eats_ for an ingredient or technique I want to use.
+- Despite the tech bro framing, Jeff Potter's [_Cooking for Geeks_](https://www.cookingforgeeks.com) is a great companion to _The Food Lab_. The first half covers much of the same ground with different emphasis or framing, while the second half is a beginner's introduction to molecular gastronomy.
+- For Asian and in particular Chinese home cooking, [_The Woks of Life_](https://thewoksoflife.com) is the de facto standard.
+- Samin Nosrat's _Salt, Fat, Acid, Heat_ is extremely popular. I don't love her framework — you'll notice the title includes two tastes, one macronutrient, and a cooking technique — but she has some interesting tips and the list of recipes in the back is a useful resource.

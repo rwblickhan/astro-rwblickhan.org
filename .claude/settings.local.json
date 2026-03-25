@@ -24,7 +24,8 @@
       "Bash(pkill -f 'astro preview')",
       "Bash(for season:*)",
       "Bash(mv /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/content/fiction /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/content/creativewriting)",
-      "Bash(mv /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/pages/fiction /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/pages/creativewriting)"
+      "Bash(mv /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/pages/fiction /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/pages/creativewriting)",
+      "Bash(perl:*)"
     ],
     "deny": []
   }
