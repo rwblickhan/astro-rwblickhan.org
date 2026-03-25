@@ -1,5 +1,5 @@
 ---
-title: "Vim Plugins"
+title: "Vim Plugins for 2023"
 lastUpdatedDate: 2023-08-10
 description: "An evergreen list of vim plugins I use."
 ---
