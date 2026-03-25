@@ -13,6 +13,7 @@ run = 'pnpm run astro check'
 run = 'rm -rf _dist/*'
 
 [tasks.push]
+alias = 'p'
 run = 'fish -c "utils/push"'
 
 [tasks.sync]
