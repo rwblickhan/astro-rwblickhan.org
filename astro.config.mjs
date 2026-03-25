@@ -29,7 +29,7 @@ function remarkHtmlDirectives() {
 export default defineConfig({
   site: "https://rwblickhan.org",
   integrations: [pagefind(), sitemap(), mdx()],
-  cacheDir: "./cache",
+  cacheDir: "../cache",
   experimental: {
     contentIntellisense: true,
   },
