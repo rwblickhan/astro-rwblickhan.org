@@ -5,7 +5,7 @@ import LinkBox from "../components/LinkBox.astro";
 ---
 
 <BaseLayout description="Index" width="medium">
-  <h1>Hi, I'm Russell, a writer and programmer.</h1>
+  <h1>λ</h1>
 
   <p id="homepage-quote" style="text-align: center"></p>
   <script is:inline>
@@ -48,15 +48,18 @@ import LinkBox from "../components/LinkBox.astro";
       "<em>" + q.text + "<\/em> \u2014 " + q.citation;
   </script>
 
-  <p>
-    This site is my <a href="/evergreen/pattern-language/#digital-garden"
-      >digital garden</a
-    >. I'm constantly adding to it, but sometimes I update old posts as well.
-  </p>
+  <p>Hi, I'm Russell, a writer and programmer in the Bay Area. I've been writing essays, newsletters, and evergreen notes on this little site for six years (!) now, totaling more than a quarter million words. Originally inspired by Robin Sloan's <a href="https://www.robinsloan.com/special/year-of-the-meteor/"><em>Year of the Meteor</em></a> newsletter, you'll find all kinds of topics within, including among others:</p>
 
-  <h2>Favorites</h2>
+  <ul>
+  <li><em>The trials and travails of writing (and rewriting, and rewriting...) a novel(s).</em></li>
+  <li><em>Musings on cultural evolution, memory, cognition, consciousness, and neurodiversity.</em></li>
+  <li><em>Technical content of interest to professional software engineers and particularly engaged amateurs.</em></li>
+  <li><em>Literary criticism, which is to say, music, book, and film recommendations.</em></li>
+  </ul>
 
-  <p>Here are some of my favorite things I've written:</p>
+  <h2>Samplers</h2>
+
+  <p>Here's a sampler of some of the content you can expect as you delve deeper into the forest of words. These aren't my <em>favorite</em> posts or even the most read, but they give a good idea of the typical content.</p>
 
   <IndexGrid>
     <LinkBox
@@ -159,12 +162,9 @@ import LinkBox from "../components/LinkBox.astro";
   <h2 class="cv">CV</h2>
 
   <p>
-    Professionally, I am a software engineer. I'm on the Growth team at <a
+    Professionally, I am a software engineer (that was probably obvious from saying I'm a programmer in the Bay Area, eh?). I am shortly joining <a href="https://www.vanta.com/">Vanta</a> and was formerly a product engineer at <a
       href="https://www.descript.com">Descript</a
-    > and was formerly a product engineer at
-    <a href="https://asana.com/">Asana</a> (see <a href="/resume.pdf"
-      >my resume</a
-    >). I have a bachelor's degree in computer science & mathematics from the <a
+    > and <a href="https://asana.com/">Asana</a>. I have a bachelor's degree in computer science & mathematics from the <a
       href="https://www.ubc.ca/">University of British Columbia</a
     >. I live in San Francisco with <a href="http://sherryyuan.me"
       >my wife Sherry</a
@@ -174,17 +174,18 @@ import LinkBox from "../components/LinkBox.astro";
   <h2>Colophon</h2>
 
   <p>
-    This site is built with <a href="https://astro.build">Astro</a>. It
-    primarily uses the <a
+    This site is built with <a href="https://astro.build">Astro</a>. The body text is <a href="https://practicaltypography.com/charter.html">Charter</a> (falling back on the <a
       href="https://github.com/system-fonts/modern-font-stacks#transitional"
       >Transitional fonts</a
-    > from <a href="https://modernfontstacks.com">Modern Font Stacks</a>. The
+    > from <a href="https://modernfontstacks.com">Modern Font Stacks</a>). Monospace text is <a href="https://www.brailleinstitute.org/freefont/">Atkinson Hyperlegible Mono</a>. The color palette is primarily from Matthew Howell's <a href="https://www.reasonable.work/colors/">Reasonable Colors</a>. The
     site is served via <a href="https://workers.cloudflare.com"
       >Cloudflare Workers</a
     >. You can see the full source on <a
       href="https://github.com/rwblickhan/astro-rwblickhan.org">Github</a
     >.
   </p>
+
+  <p>I heavily use the Greek lambda as a personal symbol because I played too much <em>Half-Life 2</em> as a child and because I had a brief, torrid love affair with the <a href="https://en.wikipedia.org/wiki/Lambda_calculus">lambda calculus</a> as a university student.</p>
 
   <h2>Copyright</h2>
 
