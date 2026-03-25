@@ -3,18 +3,7 @@ import SearchNavIcon from "./SearchNavIcon.astro";
 import MapNavIcon from "./MapNavIcon.astro";
 import SubscribeNavIcon from "./SubscribeNavIcon.astro";
 import ColorPicker from "./ColorPicker.astro";
-import {
-  collectionWithGalleryMetadataMap,
-  type CollectionMetadata,
-} from "../consts";
 import { collectionMetadataMap } from "../consts";
-
-const collections: CollectionMetadata[] = [];
-for (const collectionMetadata of collectionWithGalleryMetadataMap.values()) {
-  if (collectionMetadata.isInHeader) {
-    collections.push(collectionMetadata);
-  }
-}
 
 const { parentCollection } = Astro.props;
 const parentCollectionMetadata =

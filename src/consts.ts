@@ -32,17 +32,3 @@ export const collectionMetadataMap: Map<Collection, CollectionMetadata> = new Ma
   ],
   ["logs", { title: "Logs", slug: "/logs", isInHeader: true, isInRSSFeed: false }],
 ]);
-
-export const collectionWithGalleryMetadataMap: Map<Collection | "gallery", CollectionMetadata> =
-  new Map([
-    ...collectionMetadataMap,
-    [
-      "gallery",
-      {
-        title: "Gallery",
-        slug: "/gallery",
-        isInHeader: true,
-        isInRSSFeed: false,
-      },
-    ],
-  ]);
