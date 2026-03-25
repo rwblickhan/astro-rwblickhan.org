@@ -30,9 +30,6 @@ export default defineConfig({
   site: "https://rwblickhan.org",
   integrations: [pagefind(), sitemap(), mdx()],
   cacheDir: process.env.ASTRO_CACHE_DIR ?? "../cache",
-  experimental: {
-    contentIntellisense: true,
-  },
   image: {
     responsiveStyles: true,
     layout: "constrained",
