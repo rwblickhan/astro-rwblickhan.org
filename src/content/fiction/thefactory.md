@@ -2,6 +2,7 @@
 title: The Factory
 lastUpdatedDate: 2025-07-18
 description: "A linguist studies an alien inscription in a mysterious facility."
+type: fiction
 ---
 
 <!-- markdownlint-disable no-emphasis-as-heading -->

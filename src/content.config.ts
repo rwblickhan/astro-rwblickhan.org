@@ -8,21 +8,8 @@ const fiction = defineCollection({
   }),
   schema: z.object({
     title: z.string(),
-    description: z.string(),
-    lastUpdatedDate: z
-      .string()
-      .or(z.date())
-      .transform((val) => new Date(val)),
-  }),
-});
-
-const poetry = defineCollection({
-  loader: glob({
-    pattern: ["**/*.md", "**/*.mdx"],
-    base: "./src/content/poetry",
-  }),
-  schema: z.object({
-    title: z.string(),
+    description: z.string().optional(),
+    type: z.enum(["fiction", "poetry"]).default("fiction"),
     lastUpdatedDate: z
       .string()
       .or(z.date())
@@ -110,7 +97,6 @@ const newsletters = defineCollection({
 
 export const collections = {
   fiction,
-  poetry,
   technical,
   tilTechnical,
   logs,

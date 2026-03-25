@@ -2,6 +2,7 @@
 title: The House
 lastUpdatedDate: 2025-07-18
 description: "A man buys a house that is larger on the inside than the outside."
+type: fiction
 ---
 
 

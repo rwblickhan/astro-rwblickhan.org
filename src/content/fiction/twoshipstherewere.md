@@ -2,6 +2,7 @@
 title: Two Ships There Were
 lastUpdatedDate: 2020-03-04
 description: "A nonsense poem in the tradition of Lewis Carroll."
+type: fiction
 ---
 
 Two ships there were  

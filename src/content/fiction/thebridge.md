@@ -2,6 +2,7 @@
 title: The Bridge
 lastUpdatedDate: 2020-03-04
 description: "There is a bridge with no end…"
+type: fiction
 ---
 
 There is a bridge with no end.

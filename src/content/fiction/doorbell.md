@@ -2,6 +2,7 @@
 title: Doorbell
 lastUpdatedDate: 2023-12-08
 description: "Flash fiction inspired by House of Leaves"
+type: fiction
 ---
 
 I am still here, waiting for the doorbell to ring.

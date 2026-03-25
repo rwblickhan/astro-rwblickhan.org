@@ -1,6 +1,7 @@
 ---
 title: Somewhere a child is dreaming
 lastUpdatedDate: 2024-07-17
+type: poetry
 ---
 
 Somewhere a child is dreaming\
