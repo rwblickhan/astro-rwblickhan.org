@@ -21,10 +21,7 @@ export async function GET(context: APIContext) {
         continue;
       }
       items.push({
-        title:
-          collection === "tilTechnical"
-            ? `TIL: ${post.data.title}`
-            : post.data.title,
+        title: post.data.title,
         pubDate: post.data.lastUpdatedDate,
         content: sanitizeHtml(parser.render(post.body)),
         link: `${metadata.slug}/${post.id}/`,
