@@ -1,4 +1,4 @@
-import { defineConfig } from "astro/config";
+import { defineConfig, fontProviders } from "astro/config";
 import pagefind from "astro-pagefind";
 import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";

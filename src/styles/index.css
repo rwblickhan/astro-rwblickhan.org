@@ -192,12 +192,13 @@ a:hover {
     border-radius: 0.375rem;
   }
 
+  code,
+  kbd {
+    font-family: "Atkinson Hyperlegible Mono Variable", monospace;
+  }
+
   pre code {
     white-space: pre-wrap;
-    /* Monospace Code from https://modernfontstacks.com */
-    font-family:
-      ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
-      "DejaVu Sans Mono", monospace;
     font-weight: normal;
   }
 
