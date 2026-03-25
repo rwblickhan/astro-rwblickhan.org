@@ -27,7 +27,10 @@
       "Bash(mv /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/pages/fiction /Users/rwblickhan/Developer/astro-rwblickhan.org/merge-creative-writing/src/pages/creativewriting)",
       "Bash(perl:*)",
       "Bash(cp /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/technical/technical-reading-list.md /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/evergreen/technical-reading-list.md)",
-      "Bash(rm /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/technical/technical-reading-list.md)"
+      "Bash(rm /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/technical/technical-reading-list.md)",
+      "Bash(head -5 /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/newsletters/*.md)",
+      "Bash(head -5 /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/evergreen/*.md)",
+      "Bash(head -5 /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/logs/*.md)"
     ],
     "deny": []
   }

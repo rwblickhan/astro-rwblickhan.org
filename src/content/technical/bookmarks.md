@@ -1,5 +1,6 @@
 ---
 title: "Building bookmarks.rwblickhan.org"
+publicationDate: 2024-01-01
 lastUpdatedDate: 2024-01-01
 description: "How I built my bookmark search site"
 ---

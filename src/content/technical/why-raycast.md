@@ -1,5 +1,6 @@
 ---
 title: Why I Use Raycast
+publicationDate: 2024-12-08
 lastUpdatedDate: 2025-03-07
 description: Keyboard shortcuts for days
 ---

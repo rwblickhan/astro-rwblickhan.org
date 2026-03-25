@@ -1,5 +1,6 @@
 ---
 title: "Visual Studio Code Plugins for 2023"
+publicationDate: 2023-05-31
 lastUpdatedDate: 2023-08-02
 description: "An evergreen list of VS Code plugins I use."
 ---

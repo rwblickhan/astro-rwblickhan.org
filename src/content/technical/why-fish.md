@@ -1,5 +1,6 @@
 ---
 title: Why I Use Fish Shell
+publicationDate: 2024-12-04
 lastUpdatedDate: 2024-12-04
 description: Finally, a command line shell for the 90s
 ---

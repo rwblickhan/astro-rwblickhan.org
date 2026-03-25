@@ -1,5 +1,6 @@
 ---
 title: "Building an Obsidian Plugin"
+publicationDate: 2023-01-30
 lastUpdatedDate: 2023-02-18
 description: "An overview of how I built an Obsidian plugin."
 ---

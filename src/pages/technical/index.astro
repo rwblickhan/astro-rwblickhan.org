@@ -17,6 +17,7 @@ const posts = (await getCollection("technical")).sort(
           href={`/technical/${post.id}`}
           description={post.data.description}
           lastUpdatedDate={post.data.lastUpdatedDate}
+          publicationDate={post.data.publicationDate}
         />
       ))
     }
