@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-03-25
+lastUpdatedDate: 2026-03-26
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -56,3 +56,4 @@ lastUpdatedDate: 2026-03-25
 51. *Live at the Apollo (1962)*, James Brown
 52. *Idyll*, marine eyes
 53. *Almost An Island*, marine eyes
+54. *Reasonable Doubt*, Jaÿ-Z
