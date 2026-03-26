@@ -12,54 +12,87 @@ import LinkBox from "../components/LinkBox.astro";
     var quotes = [
       {
         text: "\u201cThat is well said,\u201d Candide replied, \u201cbut we must cultivate our garden.\u201d",
-        citation: "<em>Candide<\/em>, Voltaire (trans. Peter Constantine)"
+        citation: "<em>Candide<\/em>, Voltaire (trans. Peter Constantine)",
       },
       {
         text: "Homo sum, humani nihil a me alienum puto.",
-        citation: "<em>Heauton Timorumenos<\/em>, Terence"
+        citation: "<em>Heauton Timorumenos<\/em>, Terence",
       },
       {
         text: "Horas non numero nisi serenas.",
-        citation: "Inscription of a Venetian sundial"
+        citation: "Inscription of a Venetian sundial",
       },
       {
         text: "Non fui, fui, non sum, non curo.",
-        citation: "Customary Epicurean epitaph"
+        citation: "Customary Epicurean epitaph",
       },
       {
         text: "Everything is strange, in this world. Wherever you look, strangeness blooms.",
-        citation: "<em>Moonbound</em>, Robin Sloan"
+        citation: "<em>Moonbound</em>, Robin Sloan",
       },
       {
         text: "Do not lose time on daily trivialities. Do not dwell on petty detail. For all of these things melt away and drift apart within the obscure traffic of time. Live well and live broadly. You are alive and living now. Now is the envy of all of the dead.",
-        citation: "<em>World of Tomorrow</em>, Don Hertzfeldt"
+        citation: "<em>World of Tomorrow</em>, Don Hertzfeldt",
       },
       {
         text: "The day of judgment is either approaching, or it is not. If it is not, there is no cause for an adjournment; if it is, I choose to be found doing my duty. I wish therefore that candles may be brought.",
-        citation: "A member of the Connecticut Governor's council during New England's Dark Day of 1780"
+        citation:
+          "A member of the Connecticut Governor's council during New England's Dark Day of 1780",
       },
       {
         text: "Ars longa, vita brevis",
-        citation: "Traditional Latin aphorism"
-      }
+        citation: "Traditional Latin aphorism",
+      },
     ];
     var q = quotes[Math.floor(Math.random() * quotes.length)];
     document.getElementById("homepage-quote").innerHTML =
       "<em>" + q.text + "<\/em> \u2014 " + q.citation;
   </script>
 
-  <p>Hi, I'm Russell, a writer and programmer in the Bay Area. I've been writing essays, newsletters, and evergreen notes on this little site for six years (!) now, totaling more than a quarter million words. Originally inspired by Robin Sloan's <a href="https://www.robinsloan.com/special/year-of-the-meteor/"><em>Year of the Meteor</em></a> newsletter, you'll find all kinds of topics within, including among others:</p>
+  <p>
+    Hi, I'm Russell, a writer and programmer in the Bay Area. I've been writing
+    essays, newsletters, and evergreen notes on this little site for six years
+    (!) now, totaling more than a quarter million words. Originally inspired by
+    Robin Sloan's <a
+      href="https://www.robinsloan.com/special/year-of-the-meteor/"
+      ><em>Year of the Meteor</em></a
+    > newsletter, you'll find all kinds of topics within, including among others:
+  </p>
 
   <ul>
-  <li><em>The trials and travails of writing (and rewriting, and rewriting...) a novel(s).</em></li>
-  <li><em>Musings on cultural evolution, memory, cognition, consciousness, and neurodiversity.</em></li>
-  <li><em>Technical content of interest to professional software engineers and particularly engaged amateurs.</em></li>
-  <li><em>Literary criticism, which is to say, music, book, and film recommendations.</em></li>
+    <li>
+      <em
+        >The trials and travails of writing (and rewriting, and rewriting...) a
+        novel(s).</em
+      >
+    </li>
+    <li>
+      <em
+        >Musings on cultural evolution, memory, cognition, consciousness, and
+        neurodiversity.</em
+      >
+    </li>
+    <li>
+      <em
+        >Technical content of interest to professional software engineers and
+        particularly engaged amateurs.</em
+      >
+    </li>
+    <li>
+      <em
+        >Literary criticism, which is to say, music, book, and film
+        recommendations.</em
+      >
+    </li>
   </ul>
 
   <h2>Samplers</h2>
 
-  <p>Here's a sampler of some of the content you can expect as you delve deeper into the forest of words. These aren't my <em>favorite</em> posts or even the most read, but they give a good idea of the typical content.</p>
+  <p>
+    Here's a sampler of some of the content you can expect as you delve deeper
+    into the forest of words. These aren't my <em>favorite</em> posts or even the
+    most read, but they give a good idea of the typical content.
+  </p>
 
   <IndexGrid>
     <LinkBox
@@ -162,9 +195,18 @@ import LinkBox from "../components/LinkBox.astro";
   <h2 class="cv">CV</h2>
 
   <p>
-    Professionally, I am a software engineer (that was probably obvious from saying I'm a programmer in the Bay Area, eh?). I am shortly joining <a href="https://www.vanta.com/">Vanta</a> and was formerly a product engineer at <a
-      href="https://www.descript.com">Descript</a
-    > and <a href="https://asana.com/">Asana</a>. I have a bachelor's degree in computer science & mathematics from the <a
+    Professionally, I am a software engineer (that was probably obvious from
+    saying I'm a programmer in the Bay Area, eh?). I am shortly joining <a
+      href="https://www.vanta.com/">Vanta</a
+    > and was formerly a product engineer at <a href="https://www.descript.com"
+      >Descript</a
+    > and <a href="https://asana.com/">Asana</a>. As you probably assumed, my
+    opinions here are my own and don't reflect the views of my current, future,
+    or former employers.
+  </p>
+
+  <p>
+    I have a bachelor's degree in computer science & mathematics from the <a
       href="https://www.ubc.ca/">University of British Columbia</a
     >. I live in San Francisco with <a href="http://sherryyuan.me"
       >my wife Sherry</a
@@ -174,18 +216,30 @@ import LinkBox from "../components/LinkBox.astro";
   <h2>Colophon</h2>
 
   <p>
-    This site is built with <a href="https://astro.build">Astro</a>. The body text is <a href="https://practicaltypography.com/charter.html">Charter</a> (falling back on the <a
+    This site is built with <a href="https://astro.build">Astro</a>. The body
+    text is <a href="https://practicaltypography.com/charter.html">Charter</a> (falling
+    back on the <a
       href="https://github.com/system-fonts/modern-font-stacks#transitional"
       >Transitional fonts</a
-    > from <a href="https://modernfontstacks.com">Modern Font Stacks</a>). Monospace text is <a href="https://www.brailleinstitute.org/freefont/">Atkinson Hyperlegible Mono</a>. The color palette is primarily from Matthew Howell's <a href="https://www.reasonable.work/colors/">Reasonable Colors</a>. The
-    site is served via <a href="https://workers.cloudflare.com"
+    > from <a href="https://modernfontstacks.com">Modern Font Stacks</a>).
+    Monospace text is <a href="https://www.brailleinstitute.org/freefont/"
+      >Atkinson Hyperlegible Mono</a
+    >. The color palette is primarily from Matthew Howell's <a
+      href="https://www.reasonable.work/colors/">Reasonable Colors</a
+    >. The site is served via <a href="https://workers.cloudflare.com"
       >Cloudflare Workers</a
     >. You can see the full source on <a
       href="https://github.com/rwblickhan/astro-rwblickhan.org">Github</a
     >.
   </p>
 
-  <p>I heavily use the Greek lambda as a personal symbol because I played too much <em>Half-Life 2</em> as a child and because I had a brief, torrid love affair with the <a href="https://en.wikipedia.org/wiki/Lambda_calculus">lambda calculus</a> as a university student.</p>
+  <p>
+    I heavily use the Greek lambda as a personal symbol because I played too
+    much <em>Half-Life 2</em> as a child and because I had a brief, torrid love affair
+    with the <a href="https://en.wikipedia.org/wiki/Lambda_calculus"
+      >lambda calculus</a
+    > as a university student.
+  </p>
 
   <h2>Copyright</h2>
 
