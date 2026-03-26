@@ -1,4 +1,5 @@
 /*
     X-Content-Type-Options: nosniff
     Referrer-Policy: no-referrer
-    Content-Security-Policy: script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval';
+    Content-Security-Policy: script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval'; frame-ancestors *;
+    X-Frame-Options: ALLOWALL
