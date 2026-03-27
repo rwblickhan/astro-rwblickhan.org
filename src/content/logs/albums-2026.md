@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-03-26
+lastUpdatedDate: 2026-03-27
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -57,3 +57,4 @@ lastUpdatedDate: 2026-03-26
 52. *Idyll*, marine eyes
 53. *Almost An Island*, marine eyes
 54. *Reasonable Doubt*, Jaÿ-Z
+55. *WOR$T GIRL IN AMERICA*, Slayyyter
