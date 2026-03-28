@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-03-27
+lastUpdatedDate: 2026-03-28
 ---
 
 1. *Blood on the Tracks*, Bob Dylan
@@ -58,3 +58,4 @@ lastUpdatedDate: 2026-03-27
 53. *Almost An Island*, marine eyes
 54. *Reasonable Doubt*, Jaÿ-Z
 55. *WOR$T GIRL IN AMERICA*, Slayyyter
+56. *TroikaFest 2021 EP*, Disparition & Rhandir
