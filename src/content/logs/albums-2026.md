@@ -60,3 +60,4 @@ lastUpdatedDate: 2026-03-28
 55. _WOR$T GIRL IN AMERICA_, Slayyyter
 56. _TroikaFest 2021 EP_, Disparition & Rhandir
 57. _Flies the Coop_, Hole Dweller
+58. _Beyond the Edge of the World_, Louie Zong
