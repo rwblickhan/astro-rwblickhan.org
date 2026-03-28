@@ -5,7 +5,7 @@ publicationDate: 2026-03-28
 season: 8
 ---
 
-![Gelli Haha performing at Brick & Morter Music Hall](../../assets/newsletters/gelli.jpg)
+![Gelli Haha performing at Brick & Mortar Music Hall](../../assets/newsletters/gelli.jpg)
 
 > I got to see [Gelli Haha](https://gelli.world/) live on Thursday, before she gets famous 🥹
 
