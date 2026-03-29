@@ -8,7 +8,8 @@ season: 4
 I had a nice offsprint — I started Moss Roberts’ very long translation of *Romance of the Three Kingdoms* — but tomorrow it’s back to writing. I wasn’t totally happy with how the first part turned out so I’m going to take another crack at it over the next two weeks — stay tuned!
 
 ![“The Fall of Simon Magus”, studio of Pompeo Batoni, c. 1745- 1750](../../assets/newsletters/fall_of_simon_magus.jpg)
-[“The Fall of Simon Magus”, studio of Pompeo Batoni, c. 1745- 1750](https://www.clevelandart.org/art/1983.217)
+
+- [“The Fall of Simon Magus”, studio of Pompeo Batoni, c. 1745- 1750](https://www.clevelandart.org/art/1983.217)
 
 ## Russell’s Fun Facts Corner
 

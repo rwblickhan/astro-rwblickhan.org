@@ -5,8 +5,9 @@ publicationDate: 2025-11-30
 season: 8
 ---
 
-![Stage design for the opera 'Armida'](../../assets/newsletters/opera.jpg)
-[“Decor voor opera 'Armida’”](https://www.rijksmuseum.nl/en/collection/object/Decor-voor-opera-Armida--533a224fb46c8f44b3cfebac34536aae)
+![Stage design for the opera ‘Armida’](../../assets/newsletters/opera.jpg)
+
+- [“Decor voor opera ‘Armida’”](https://www.rijksmuseum.nl/en/collection/object/Decor-voor-opera-Armida--533a224fb46c8f44b3cfebac34536aae)
 
 [I have watched Guillermo del Toro’s *Frankenstein*!](https://rwblickhan.org/newsletters/capital-r-romantic-melodrama/)
 

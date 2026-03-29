@@ -7,8 +7,9 @@ season: 4
 
 So I didn’t end up [taking that outline more seriously](https://buttondown.email/rwblickhan/archive/i-should-probably-take-that-outline-more/) and as a result didn’t finish it in time for April — I wish I could say “April Fools”, but I’m seriously not embarking on a new manuscript this month. Sad! But in fairness, work is going to be rough for a while, so perhaps it’s best to hold off. Still, I am hacking away at the outline — well, I actually restarted it, but I’ve made good progress since then! — and I’ll start NAprilWriMo *just* as soon as it’s done, hopefully by the 15th (which might mean I’m vaccinated before I start 😅).
 
-!["Two ladies, a cat and a parrot”, 1750-1800](../../assets/newsletters/two_ladies.jpg)
-["Two ladies, a cat and a parrot”, 1750-1800](https://www.britishmuseum.org/collection/object/A_1999-1202-0-4-19)
+![“Two ladies, a cat and a parrot”, 1750-1800](../../assets/newsletters/two_ladies.jpg)
+
+- [“Two ladies, a cat and a parrot”, 1750-1800](https://www.britishmuseum.org/collection/object/A_1999-1202-0-4-19)
 
 ## Table of Contents
 

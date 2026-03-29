@@ -8,7 +8,8 @@ season: 7
 Sorry, another LLM newsletter. I *promise* next week I have a different topic.
 
 ![A whiteboard showing sticky notes with ideas for the topic "library"](../../assets/newsletters/zine4_ideation.jpg)
-(But first, some ideation for [zine 4](sf-frens.org)!)
+
+- (But first, some ideation for [zine 4](sf-frens.org)!)
 
 Recently there’s been some Discourse™️ about the use of LLMs, with some noting a backlash against LLMs (primarily on Bluesky) and others noting a backlash against the backlash. There’s been plenty of newslettering, too, like:
 
@@ -44,7 +45,8 @@ So here is:
 - On the converse, perhaps LLMs are [not a productive path to true natural-language understanding](https://aclanthology.org/2020.acl-main.463/). If training on statistical patterns of large-scale data is *not* enough to produce a general language-understanding intelligence, because it is not possible to learn grounded meaning that way[^bender], then we are likely close to the ceiling of performance.[^performance] *From the perspective of NLU as a field*, we will have wasted decades of researcher time and billions of dollars. (Notably, this is a separate question from whether the resulting systems are economically useful.)
 
 ![A sign reading "no student access"](../../assets/newsletters/no_student_access.jpg)
-This was at a random stairwell at my workplace. 🤷‍♀️
+
+- This was at a random stairwell at my workplace. 🤷‍♀️
 
 ## So How Do I Feel?
 

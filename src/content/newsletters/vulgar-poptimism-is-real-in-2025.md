@@ -6,7 +6,8 @@ season: 8
 ---
 
 ![Palette, Rosa Bonheur](../../assets/newsletters/palette.jpg)
-[Palette, Rosa Bonheur](https://collections.artsmia.org/art/4483/palette-rosa-bonheur)
+
+- [Palette, Rosa Bonheur](https://collections.artsmia.org/art/4483/palette-rosa-bonheur)
 
 Two reading recommendations this weekend:
 

@@ -6,7 +6,8 @@ season: 8
 ---
 
 ![A medieval man and woman in a duel](../../assets/newsletters/fighting.webp)
-An illustration from a 1467 manuscript of Hans Talhoffer's fight book, from the always-wonderful [Public Domain Review](https://publicdomainreview.org/collection/fechtbucher/)
+
+- An illustration from a 1467 manuscript of Hans Talhoffer's fight book, from the always-wonderful [Public Domain Review](https://publicdomainreview.org/collection/fechtbucher/)
 
 [Jujutsu](https://docs.jj-vcs.dev/latest/): the future of version control is here! I’m really, truly breathless with excitement now that I’ve spent a week messing around with it.
 

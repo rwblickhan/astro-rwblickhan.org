@@ -6,7 +6,8 @@ season: 6
 ---
 
 ![The Harvesters by Pieter Bruegel the Elder](../../assets/newsletters/bruegel.jpg)
-["The Harvesters", Pieter Bruegel the Elder, 1565](https://www.metmuseum.org/art/collection/search/435809)
+
+- ["The Harvesters", Pieter Bruegel the Elder, 1565](https://www.metmuseum.org/art/collection/search/435809)
 
 ---
 

@@ -33,7 +33,9 @@
       "Bash(head -5 /Users/rwblickhan/Developer/astro-rwblickhan.org/main/src/content/logs/*.md)",
       "Bash(sort -t: -k3)",
       "WebFetch(domain:fontsource.org)",
-      "Bash(bun add:*)"
+      "Bash(bun add:*)",
+      "Bash(find /Users/rwblickhan/Developer/astro-rwblickhan.org/main/node_modules/rehype-figcaption -name *.js)",
+      "Bash(rg -U ![.+]\\\\\\(.+\\\\\\)nS src/content/newsletters --only-matching -n)"
     ],
     "deny": []
   }

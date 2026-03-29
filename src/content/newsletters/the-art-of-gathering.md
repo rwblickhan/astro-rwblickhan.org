@@ -7,7 +7,8 @@ season: 7
 
 
 ![A pylon in Bayfront Park](../../assets/newsletters/bayfront_park.jpg)
-Mission Bay's new Bayfront Park is now open!
+
+- Mission Bay's new Bayfront Park is now open!
 
 <hr />
 
@@ -36,4 +37,5 @@ But that’s not trivial when writing in Markdown. I didn’t want to manually a
 Or, more precisely, I got Claude to write most of a [Rehype plugin](https://github.com/rehypejs/rehype/blob/main/doc/plugins.md), which is what Astro uses to render Markdown to HTML. The [actual code](https://github.com/rwblickhan/rehype-blockquote-figures) is pretty simple — it just walks the HTML tree provided by Rehype and wraps `<blockquote>`s in `<figure>`s, moving the last `<p>` in the `<blockquote>` into a `<figcaption>`. I then [published to npm](https://www.npmjs.com/package/rehype-blockquote-figures) so that I could install it to my site. Tada! My blockquotes are now all automagically wrapped in `<figure>` tags.
 
 ![Rooibos rolled up in a ball](../../assets/newsletters/rooibos_ball.jpg)
-Why does Rooibos sit funny sometimes?
+
+- Why does Rooibos sit funny sometimes?

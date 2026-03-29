@@ -7,8 +7,9 @@ season: 2
 
 48,000 words. Just 2,000 left to go before the rough draft is done! Two essays this week, no miscellanea (didn’t you have enough miscellanea the last two newsletters? 🙂).
 
-![“The Nightmare", Henry Fuseli, 1781](../../assets/newsletters/the_nightmare.jpg)
-[“The Nightmare", Henry Fuseli, 1781](https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_Nightmare.JPG#mw-jump-to-license)
+![“The Nightmare”, Henry Fuseli, 1781](../../assets/newsletters/the_nightmare.jpg)
+
+- [“The Nightmare”, Henry Fuseli, 1781](https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_Nightmare.JPG#mw-jump-to-license)
 
 ## Table of Contents
 
@@ -28,8 +29,9 @@ Compare computer science (and its subfield, software engineering), which, despit
 
 Notably, I *don’t* think orders-of-magnitude estimation is a part of the “computer scientist’s toolbox” in the disciplinary sense, although it is part of other disciplines, notably physics. That’s not to say that estimation is not ever important, or that no programmers ever use orders-of-magnitude reasoning, but I’d argue it’s not part of the *core* skillset that defines computer science as a discipline. Thus, it is surprising, and maybe even unfair, when a question about Fermi estimation comes up during a software engineering interview.
 
-![”Dance of Death: Death the Strangler”, Alfred Rethel, 1850](../../assets/newsletters/dance_of_death.jpg)
-["Dance of Death: Death the Strangler", Alfred Rethel, 1850](https://www.clevelandart.org/art/1939.620)
+![“Dance of Death: Death the Strangler”, Alfred Rethel, 1850](../../assets/newsletters/dance_of_death.jpg)
+
+- [“Dance of Death: Death the Strangler”, Alfred Rethel, 1850](https://www.clevelandart.org/art/1939.620)
 
 ## "But truthfully, from now on my words/Will be naked": Thematic cohesion in the *Divine Comedy* and *Watchmen*
 
@@ -49,8 +51,9 @@ See? Isn’t this fun?
 
 There’s definitely stories I adore that don’t have a strong sense of thematic cohesion — I would defend *The Hitchhiker’s Guide to the Galaxy*, but that would just be apologetics — but I like to have this concept handy. A strong sense of thematic cohesion is basically catnip for me and tend to be stories that I happily revisit again and again — probably because a strong sense of thematic cohesion is exactly the hook you need to analyze a story a la English class.
 
-![“Saturn Devouring His Son", Francisco Goya, 1819-1823](../../assets/newsletters/saturn_goya.jpg)
-[“Saturn Devouring His Son", Francisco Goya, 1819-1823](https://en.wikipedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg)
+![“Saturn Devouring His Son”, Francisco Goya, 1819-1823](../../assets/newsletters/saturn_goya.jpg)
+
+- [“Saturn Devouring His Son”, Francisco Goya, 1819-1823](https://en.wikipedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg)
 
 [^1]: I may write more about this, at some point. I’ve often found (as with my study of mathematics) that what I find interesting about other academic disciplines is not so much the content (the “what”) but rather the culture (the “how”).
 

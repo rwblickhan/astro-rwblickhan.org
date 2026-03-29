@@ -6,7 +6,8 @@ season: 8
 ---
 
 ![The Four Horsemen of the Apocalypse](../../assets/newsletters/four_horsemen.jpg)
-["The Four Horsemen of the Apocalypse", Albrecht Dürer](https://www.artic.edu/artworks/55330/the-four-horsemen-of-the-apocalypse-from-the-apocalypse)
+
+- ["The Four Horsemen of the Apocalypse", Albrecht Dürer](https://www.artic.edu/artworks/55330/the-four-horsemen-of-the-apocalypse-from-the-apocalypse)
 
 Hello from a San Francisco that has suddenly decided that the end of February is the correct time for summer and has been experiencing a heat wave of high-70s (aka absurdly hot, for San Francisco). Perfect for a picnic, less perfect for getting a good night’s sleep when you live on the 10th floor and hot air rises.
 

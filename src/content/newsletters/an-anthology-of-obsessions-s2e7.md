@@ -10,12 +10,14 @@ Wait, it’s newsletter day again? That can’t be correct — let me check the 
 Ah, I see it *is* in fact newsletter day again. I’m sad to report that, for the first time in this newsletter’s (short) history, I don’t have any topics lined up to talk about. It turns out writing a rough draft of a novel in a month while also working \>40 hours per week[^1] is not conducive to dilettantery.
 
 ![“God Ganesha, Remover of Obstacles”, Central Java, Indonesia, 9th/10th century](../../assets/newsletters/god_ganesha.jpg)
-[“God Ganesha, Remover of Obstacles”, Central Java, Indonesia, 9th/10th century](https://www.artic.edu/artworks/146556/god-ganesha-remover-of-obstacles)
+
+- [“God Ganesha, Remover of Obstacles”, Central Java, Indonesia, 9th/10th century](https://www.artic.edu/artworks/146556/god-ganesha-remover-of-obstacles)
 
 Speaking of the novel, the bad news is that I will not be successfully completing 50,000 words by the end of the month — what with the \>40 hours per week mentioned above, I’m just burnt out and had to take the weekend off — which, to be clear, is not a bad thing! Rest is important. The good news is that I’m now past 37,000 words of the expected 52,000, or just a bit less than three-quarters of the way there, with the first half looking pretty complete. I’ll probably pull a few more heavy writing days in the coming week or two and get the rough — or, as I like to call, it, “pre-alpha” — draft done. Then I will likely rewrite most of the novel and then, finally, you, dear reader, will be able to beta read if you should so desire 🙂
 
 ![“Ganesha”, South India, Medieval period, Chola dynasty, c. 1070](../../assets/newsletters/ganesha.jpg)
-[“Ganesha”, South India, Medieval period, Chola dynasty, c. 1070](https://www.clevelandart.org/art/1970.62)
+
+- [“Ganesha”, South India, Medieval period, Chola dynasty, c. 1070](https://www.clevelandart.org/art/1970.62)
 
 So, by way of compensation for the lack of essays on my part, I offer this dilettante’s personal reading/listening list — or, as the title says, an “anthology of obsessions”. Some of these are in my “personal canon,”[^2] while others I simply find interesting or useful. I’ve mentioned many of them before, but I urge you once again to give them a try. Each is followed by a sentence or two of why I find it interesting and recommendations for particular articles/episodes to check out first. I’ve tended towards
 
@@ -117,7 +119,8 @@ So, by way of compensation for the lack of essays on my part, I offer this dilet
 Hopefully, at least something of the above caught your interest. I’ll be back in two weeks with a real newsletter issue and, hopefully, something to show for all my writing efforts 😉
 
 ![Lil' baby Ganesha, what a cutie!](../../assets/newsletters/baby_ganesha.jpg)
-[Lil' baby Ganesha, what a cutie!](https://en.wikipedia.org/wiki/File:Ganesha_Kangra_miniature_18th_century_Dubost_p51.jpg)
+
+- [Lil' baby Ganesha, what a cutie!](https://en.wikipedia.org/wiki/File:Ganesha_Kangra_miniature_18th_century_Dubost_p51.jpg)
 
 [^1]: Due primarily to deadlines that were largely self-imposed, but still.
 

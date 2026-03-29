@@ -9,8 +9,9 @@ season: 1
 
 *By the way, I’d love to have a recurring mailbag segment, but that would require I actually get mail. So, if you have any thoughts, feelings, or questions about this issue, fire away and (with your permission, of course), maybe I’ll include it in a future issue.*
 
-![”Temptation of Buddha by the Evil Forces of Mara”, Northern India, Kashmir, 8th century](../../assets/newsletters/temptation_of_buddha.jpg)
-[”Temptation of Buddha by the Evil Forces of Mara”, Northern India, Kashmir, 8th century](https://www.clevelandart.org/art/1971.18)
+![“Temptation of Buddha by the Evil Forces of Mara”, Northern India, Kashmir, 8th century](../../assets/newsletters/temptation_of_buddha.jpg)
+
+- [“Temptation of Buddha by the Evil Forces of Mara”, Northern India, Kashmir, 8th century](https://www.clevelandart.org/art/1971.18)
 
 I hope quarantine is treating you all well. Or, at least, not badly. It’s been another two weeks (has it really?) and the world keeps spinning, more or less.
 
@@ -33,7 +34,8 @@ Rolling Stone had a feature on [“The Unsolved Case of the Most Mysterious Song
 Also, Sherry started a newsletter, [Flash Fiction from Frostyshadows](https://buttondown.email/frostyshadows). I highly recommend subscribing 😉
 
 ![“Knight, Death, and the Devil”, Albrecht Dürer, 1513](../../assets/newsletters/knight_death_devil.jpg)
-[“Knight, Death, and the Devil”, Albrecht Dürer, 1513](https://www.clevelandart.org/art/1965.231) (this is relevant to the next section.)
+
+- [“Knight, Death, and the Devil”, Albrecht Dürer, 1513](https://www.clevelandart.org/art/1965.231) (this is relevant to the next section.)
 
 ### What I’m Watching
 
@@ -83,6 +85,7 @@ Friends and I also tried [Tabletopia’s online version of *Secret Hitler*](http
 On the topic of all these online versions of games, is there an online version of *Love Letter* (my other favorite tabletop game)? It should be extremely easy to clone, but it seems like nobody’s done it yet. Anybody want to work on that? 😃
 
 ![“Album of Landscape Paintings Illustrating Old Poems: An Old Man with a Staff walks a Wooded Path”, Hua Yan, 1700s](../../assets/newsletters/old_man_with_staff.jpg)
-[“Album of Landscape Paintings Illustrating Old Poems: An Old Man with a Staff walks a Wooded Path”, Hua Yan, 1700s](https://www.clevelandart.org/art/1982.68.3)
+
+- [“Album of Landscape Paintings Illustrating Old Poems: An Old Man with a Staff walks a Wooded Path”, Hua Yan, 1700s](https://www.clevelandart.org/art/1982.68.3)
 
 Whew, this was quite a long edition. Sorry about that, folks! Thanks for sticking with it to the end; hopefully you’ve enjoyed my ramblings. Hope you all have two good weeks until the next one 🙂

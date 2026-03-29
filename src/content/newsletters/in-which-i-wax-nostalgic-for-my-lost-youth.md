@@ -50,7 +50,8 @@ That said, I wouldn’t call the last two years a waste. For one thing, I learne
 > When you start and finish, by contrast — and it can be a project of any scope: a 24-hour comic, a one-page short story, truly anything — it is powerful fuel that goes straight back into the tank. When a project is finished, it exits the realm of “this is gonna be great” and becomes something you (and perhaps others) can actually evaluate. Even if that evaluation is disastrous, it is also, I will insist, thrilling and productive. It’s the pump of a piston, preparing the engine for the next one.
 
 ![Stable Diffusion-generated image of a writing compiler](../../assets/newsletters/writing_compiler_stable_diffusion.jpg)
-“writing compiler, photorealistic, abstract, words going into a machine in outer space”, Stable DIffusion[^3]
+
+- “writing compiler, photorealistic, abstract, words going into a machine in outer space”, Stable DIffusion[^3]
 
 ## Writing Compiler
 
@@ -85,7 +86,8 @@ Really, what I’m saying here is that my best guess is that, in 5-10 years, LLM
 On a related note: note that I have an M2 Mac, I used Sindre Sorhus’ [Amazing AI](https://sindresorhus.com/amazing-ai), which is backed by Stable Diffusion, to generate the images for this post. (Is that ethical? Is that _legal_? Erm…) On the one hand, it’s amazing to me that Stable Diffusion has a concept of “Guanyin” hanging out in its head; on the other hand, uh, [so does Wikipedia](https://en.wikipedia.org/wiki/Guanyin)?
 
 ![Stable Diffusion-generated image of a bicycle for the mind](../../assets/newsletters/bicycle_for_the_mind_stable_diffusion.jpg)
-“bicycle for the mind, photorealistic, unreal 3d, tools for thought”, Stable Diffusion[^4]
+
+- “bicycle for the mind, photorealistic, unreal 3d, tools for thought”, Stable Diffusion[^4]
 
 ## Bicycle ... for the Mind
 

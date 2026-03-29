@@ -8,7 +8,8 @@ season: 3
 Applied Dilettantery is on vacation. Come back in two weeks for the conclusion of “The Structure”. In the meantime, here is some flash fiction.
 
 ![“Flüelen, from the Lake of Lucerne”, Joseph Mallord William Turner, 1845](../../assets/newsletters/fluelen.jpg)
-[“Flüelen, from the Lake of Lucerne”, Joseph Mallord William Turner, 1845](https://www.clevelandart.org/art/1954.129)
+
+- [“Flüelen, from the Lake of Lucerne”, Joseph Mallord William Turner, 1845](https://www.clevelandart.org/art/1954.129)
 
 ## From the Travelogue of Multan Dzhon: Parvis
 

@@ -10,7 +10,8 @@ I recently turned 28. I started a silly tradition of forcing my friends to give 
 Apologies if this is a duplicate — Buttondown ate the formatting on the original version 😞
 
 ![“Suruga-chō” from _One Hundred Famous Views of Edo_, Hiroshige](../../assets/newsletters/suruga-cho.jpg)
-[“Suruga-chō” from _One Hundred Famous Views of Edo_, Hiroshige](https://en.wikipedia.org/wiki/One_Hundred_Famous_Views_of_Edo)[^1]
+
+- [“Suruga-chō” from _One Hundred Famous Views of Edo_, Hiroshige](https://en.wikipedia.org/wiki/One_Hundred_Famous_Views_of_Edo)[^1]
 
 1. **If running hurts, you’re running too fast.** Running should cause a pleasant soreness in your legs. If you feel pain in your chest or lungs, you should slow down; you want to stay in heart rate zone 1 or 2, which [this video](https://youtu.be/F3QcX58i3WE?si=6nfHaj4pheaFdfui) explains well. You can try the “talk test” — if you’re running in a lower heart rate zone, you should be able to hold a conversation without running out of breath — or you can get a fitness tracker or smartwatch to track it. This might feel _very_ slow if you haven’t run in a while, but you’ll improve fast!
 2. **Keep cilantro in a bowl of water in the fridge.** A bunch of fresh cilantro will only last a few days if it’s just left in the fridge; in a bowl of tap water, it can last for a month or longer.

@@ -9,8 +9,9 @@ I finally got around to finishing that outline! So, now I just need to write lik
 
 In good news, more than half the city of San Francisco has been vaccinated against Covid-19, and general availability (or close enough, anyway) opens on Thursday. So hopefully by the next newsletter I’ll have my first vaccine.
 
-!["Guanyin (Avalokiteshvara)”, Yuan/early Ming dynasty, late 14th century](../../assets/newsletters/avalokiteshvara.jpg)
-["Guanyin (Avalokiteshvara)”, Yuan/early Ming dynasty, late 14th century](https://www.artic.edu/artworks/28158/guanyin-avalokiteshvara)
+![“Guanyin (Avalokiteshvara)”, Yuan/early Ming dynasty, late 14th century](../../assets/newsletters/avalokiteshvara.jpg)
+
+- [“Guanyin (Avalokiteshvara)”, Yuan/early Ming dynasty, late 14th century](https://www.artic.edu/artworks/28158/guanyin-avalokiteshvara)
 
 ## In Which I Realize It’s Not Me, It’s The Translation
 

@@ -14,7 +14,8 @@ So I should probably take that outline more seriously if I expect to have it rea
 Anyway, on with the issue.
 
 ![Wilhelm Bernatzik (Artist), Die Flamme, 1902, Sammlung Wien Museum, CC BY 3.0 AT, Foto: Birgit und Peter Kainz, Wien Museum](../../assets/newsletters/die_flamme.jpg)
-[Wilhelm Bernatzik (Artist), Die Flamme, 1902, Sammlung Wien Museum, CC BY 3.0 AT, Foto: Birgit und Peter Kainz, Wien Museum](https://sammlung.wienmuseum.at/en/object/1812/)
+
+- [Wilhelm Bernatzik (Artist), Die Flamme, 1902, Sammlung Wien Museum, CC BY 3.0 AT, Foto: Birgit und Peter Kainz, Wien Museum](https://sammlung.wienmuseum.at/en/object/1812/)
 
 ## Table of Contents
 

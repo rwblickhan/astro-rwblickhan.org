@@ -6,7 +6,8 @@ season: 7
 ---
 
 ![A happy-looking octopus](../../assets/newsletters/mollusques.jpg)
-[One of Jean Baptiste Vérany’s chromolithographs of cephalopods](https://publicdomainreview.org/collection/verany-cephalopods/)
+
+- [One of Jean Baptiste Vérany’s chromolithographs of cephalopods](https://publicdomainreview.org/collection/verany-cephalopods/)
 
 I recently realized I may be one of the only people on Earth to hold this philosophical position: *LLMs have no conscious understanding, but they may have phenomenal consciousness*. That may sound like a contradiction, but I mean something subtly different by each use of “conscious.”
 

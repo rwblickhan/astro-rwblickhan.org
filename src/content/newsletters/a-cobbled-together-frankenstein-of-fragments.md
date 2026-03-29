@@ -10,7 +10,8 @@ Hello all and welcome back to rwblog. This time I’m revealing my top 10 books 
 Note that I’m only including books or films that were new to me this year. On rwblickhan.org you can find my complete [book log](https://rwblickhan.org/logs/books-2022/) and [film log](https://rwblickhan.org/logs/films-2022/) for 2022!
 
 ![Cover of *Orlando: A Biography*](../../assets/newsletters/orlando.jpg)
-[Cover of *Orlando: A Biography*](https://en.wikipedia.org/wiki/Orlando:_A_Biography#/media/File:Portadaorlando.jpg)
+
+- [Cover of *Orlando: A Biography*](https://en.wikipedia.org/wiki/Orlando:_A_Biography#/media/File:Portadaorlando.jpg)
 
 ## Books
 
@@ -26,7 +27,8 @@ Note that I’m only including books or films that were new to me this year. On 
 10. *His Dark Materials Book 2: The Subtle Knife*, Philip Pullman: I only regret that I came to *His Dark Materials* as an adult and not an impressionable tween. Had I read this series at age 12 or 13, I have no doubt it would occupy the all-time-favorite position now occupied by *The Hitchhiker’s Guide to the Galaxy*. Unfortunately, as an adult, I can’t help but notice that it’s sometimes just a little bit janky — an “off” line of dialogue here, an underdeveloped character there, a cheap plot trick in between. Nonetheless, I love this series; *The Subtle Knife* starts at a whippet pace and never slows down, featuring some of the wildest worldbuilding out there — it has witches and steampunk balloons and a knife that can open portals to another world and a war in Heaven and what’s not to love.
 
 ![“Goethe in the Roman Campagna”, Johann Heinrich Wilhelm Tischbein (1787)](../../assets/newsletters/goethe.jpg)
-[“Goethe in the Roman Campagna”, Johann Heinrich Wilhelm Tischbein (1787)](https://en.wikipedia.org/wiki/File:Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg)
+
+- [“Goethe in the Roman Campagna”, Johann Heinrich Wilhelm Tischbein (1787)](https://en.wikipedia.org/wiki/File:Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg)
 
 ## Films
 

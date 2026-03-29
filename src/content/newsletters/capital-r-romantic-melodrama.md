@@ -6,7 +6,8 @@ season: 8
 ---
 
 ![A papillon that looks suspiciously similar to Rooibos](../../assets/newsletters/papillon.jpg)
-[Seated Dog, c. 1650 - 1700 (this papillon looks a lot like Rooibos, right?)](https://www.rijksmuseum.nl/en/collection/object/Seated-Dog--6d080fc276f22d016506294f7a37f6c1?tab=data)
+
+- [Seated Dog, c. 1650 - 1700 (this papillon looks a lot like Rooibos, right?)](https://www.rijksmuseum.nl/en/collection/object/Seated-Dog--6d080fc276f22d016506294f7a37f6c1?tab=data)
 
 A dog thought:
 

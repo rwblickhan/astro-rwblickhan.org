@@ -6,7 +6,8 @@ season: 8
 ---
 
 ![A woodcut of witches feasting with devils](../../assets/newsletters/witches_feasting.webp)
-[Source](https://publicdomainreview.org/essay/woodcuts-and-witches/)
+
+- [Source](https://publicdomainreview.org/essay/woodcuts-and-witches/)
 
 Recently I’ve been thinking about the ineffability of art.
 

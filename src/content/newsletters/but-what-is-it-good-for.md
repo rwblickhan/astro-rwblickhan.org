@@ -8,7 +8,8 @@ season: 7
 Today I’d like to talk about AI again. Feel free to come back next time if that doesn’t interest you 🙂
 
 !["Leibniz’s Calculating Machine"](../../assets/newsletters/leibniz_calculating_machine.jpg)
-[‘Leibniz’s Calculating Machine’ from Theatrum arithmetico-geometricum (1727) | Public Domain Image Archive](https://pdimagearchive.org/images/26152c15-8b32-4edb-980e-ffae030cceae/)
+
+- [‘Leibniz’s Calculating Machine’ from Theatrum arithmetico-geometricum (1727) | Public Domain Image Archive](https://pdimagearchive.org/images/26152c15-8b32-4edb-980e-ffae030cceae/)
 
 Here is, roughly, my ethical standpoint:
 
@@ -21,7 +22,8 @@ Here is, roughly, my ethical standpoint:
 - **I’ll continue to avoid Perplexity**, for reasons I’ve [previously outlined](https://rwblickhan.org/newsletters/perplexed-with-perplexity/). I don’t trust them to behave ethically in this morally-complex space.
 
 ![Sinclair Lewis at the Wheel](../../assets/newsletters/sinclair_lewis_car.jpg)
-[‘Sinclair Lewis at the Wheel’ from The World's Work (1921) | Public Domain Image Archive](https://pdimagearchive.org/images/40573754-ed2d-4aa8-9fc1-6db7164a8bc6/)
+
+- [‘Sinclair Lewis at the Wheel’ from The World’s Work (1921) | Public Domain Image Archive](https://pdimagearchive.org/images/40573754-ed2d-4aa8-9fc1-6db7164a8bc6/)
 
 But what are these models *good for*? I would consider myself a “technical skeptic” per [this useful taxonomy](https://buildcognitiveresonance.substack.com/i/152913051/technical-ai-skeptics), a la Simon Willison (you’ll note I cite him often). Although we should remain skeptical of these tools, they are genuinely useful, not just for writing AI slop and cheating on tests! I almost exclusively use Anthropic’s Claude 3.5 Sonnet — I gravitate towards Anthropic’s products for aesthetic reasons, and industry insiders I know argue that Sonnet is the best general-purpose LLM available today. Here are a few of my uses:
 

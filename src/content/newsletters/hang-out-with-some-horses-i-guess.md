@@ -8,7 +8,8 @@ season: 4
 I don’t really have much to talk about this week so this is going to be a short issue mostly focused on links that caught my attention, sorry!
 
 ![“Dragon in the clouds”,  1832, Totoya Hokkei](../../assets/newsletters/dragon_in_the_clouds.jpg)
-[“Dragon in the clouds”,  1832, Totoya Hokkei](https://www.artic.edu/artworks/36318/dragon-in-the-clouds)
+
+- [“Dragon in the clouds”,  1832, Totoya Hokkei](https://www.artic.edu/artworks/36318/dragon-in-the-clouds)
 
 ## Neat Linguistic Theory of the Week
 

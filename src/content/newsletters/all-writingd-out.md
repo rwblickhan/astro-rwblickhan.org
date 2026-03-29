@@ -8,7 +8,8 @@ season: 4
 16,776 words out of 50,000, or about a third of the way done!
 
 ![“Guanyin (Avalokiteshvara) Standing before Flaming Aureole and Holding a Water Bottle”, Eastern or Western Wei dynasty, c. mid–5th century (rededicated 594)](../../assets/newsletters/guanyin_flame.jpg)
-[“Guanyin (Avalokiteshvara) Standing before Flaming Aureole and Holding a Water Bottle”, Eastern or Western Wei dynasty, c. mid–5th century (rededicated 594)](https://www.artic.edu/artworks/11151/guanyin-avalokiteshvara-standing-before-flaming-aureole-and-holding-a-water-bottle)
+
+- [“Guanyin (Avalokiteshvara) Standing before Flaming Aureole and Holding a Water Bottle”, Eastern or Western Wei dynasty, c. mid–5th century (rededicated 594)](https://www.artic.edu/artworks/11151/guanyin-avalokiteshvara-standing-before-flaming-aureole-and-holding-a-water-bottle)
 
 Unfortunately I am all writing’d out so this is more of a “yes, I’m still alive” newsletter. One interesting link this week:
 
