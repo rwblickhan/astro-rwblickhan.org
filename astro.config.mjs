@@ -1,10 +1,11 @@
-import { defineConfig, fontProviders } from "astro/config";
+import { defineConfig } from "astro/config";
 import pagefind from "astro-pagefind";
 import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import remarkA11yEmoji from "@fec/remark-a11y-emoji";
 import rehypeBlockquoteFigures from "rehype-blockquote-figures";
+import rehypeFigcaption from "rehype-figcaption";
 import remarkDirective from "remark-directive";
 import mdx from "@astrojs/mdx";
 import { visit } from "unist-util-visit";
@@ -50,6 +51,6 @@ export default defineConfig({
       remarkDirective,
       remarkHtmlDirectives,
     ],
-    rehypePlugins: [rehypeBlockquoteFigures],
+    rehypePlugins: [rehypeBlockquoteFigures, rehypeFigcaption],
   },
 });

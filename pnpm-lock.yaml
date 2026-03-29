@@ -41,6 +41,9 @@ importers:
       rehype-blockquote-figures:
         specifier: ^2.1.0
         version: 2.1.0
+      rehype-figcaption:
+        specifier: ^0.1.0
+        version: 0.1.0
       remark-collapse:
         specifier: ^0.1.2
         version: 0.1.2
@@ -1916,6 +1919,9 @@ packages:
 
   rehype-blockquote-figures@2.1.0:
     resolution: {integrity: sha512-ZHPGSVufTTRCbvl2x/M/xVmea77YnLg8lMSqzd8bCAH1p4fBfTW+Smu8BoWoEIKCUeUDPwFDqg1tqm/IwCqwew==}
+
+  rehype-figcaption@0.1.0:
+    resolution: {integrity: sha512-SCMl75XEPKiUN7gbbym8HK9xtapLX/CN5fjJtOSSCb0+Zdc7W12xWcHXWZ51LJc/QtAOr4OJgZLknKlaNxm8RQ==}
 
   rehype-parse@9.0.1:
     resolution: {integrity: sha512-ksCzCD0Fgfh7trPDxr2rSylbwq9iYDkSn8TCDmEJ49ljEUBxDVCzCHv7QNzZOfODanX4+bWQ4WZqLCRWYLfhag==}
@@ -4825,6 +4831,10 @@ snapshots:
       regex-utilities: 2.3.0
 
   rehype-blockquote-figures@2.1.0:
+    dependencies:
+      unist-util-visit: 5.0.0
+
+  rehype-figcaption@0.1.0:
     dependencies:
       unist-util-visit: 5.0.0
 
