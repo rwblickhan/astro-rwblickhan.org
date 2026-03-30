@@ -232,6 +232,18 @@ a:hover {
   }
 }
 
+@layer captions {
+  figure {
+  }
+
+  figure:has(img) figcaption {
+    padding: 1rem;
+    border-left: 6px solid var(--callout-primary);
+    background-color: var(--callout-background);
+    border-radius: 0 0 0.5rem 0.5rem;
+  }
+}
+
 @layer tables {
   table {
     border-collapse: collapse;
