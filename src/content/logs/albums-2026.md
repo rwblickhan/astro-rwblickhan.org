@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-03-28
+lastUpdatedDate: 2026-03-30
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -61,3 +61,4 @@ lastUpdatedDate: 2026-03-28
 56. _TroikaFest 2021 EP_, Disparition & Rhandir
 57. _Flies the Coop_, Hole Dweller
 58. _Beyond the Edge of the World_, Louie Zong
+59. _Leather Teeth_, Carpenter Brut
