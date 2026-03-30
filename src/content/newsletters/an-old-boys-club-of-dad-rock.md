@@ -7,7 +7,7 @@ season: 8
 
 ![A cookie cake labeled "30" in frosting](../../assets/newsletters/cookie-cake.jpg)
 
-Hooray, my age has continued to creep up on me... (but shoutout to Sherry for a beautiful and delicious cookie cake!).
+- Hooray, my age has continued to creep up on me... (but shoutout to Sherry for a beautiful and delicious cookie cake!).
 
 This has been a particularly busy week, for reasons that may or may not become clear shortly. San Francisco, meanwhile, has continued its heat wave; we’ve moved on from the pleasant-for-a-picnic warmth of a June to the oh-god-turn-the-sun-off heat of an August. I am currently cowering in the corner next to the portable A/C we bought last summer, since our 10th floor apartment is always a good five-to-ten degrees Fahrenheit warmer than street level, and dehydration stalks every attempt to leave the house. And all that’s without mentioning the ~ current events situation ~ — a situation impossibly idiotic and yet difficult to get a handle on what levers I, personally, could even pull to change things. Oh well. On to the dilletantery, of which I promise there is zero (0) discussion of LLMs in this issue.
 

@@ -7,25 +7,25 @@ season: 8
 
 ![“Americans Baking Bread (*Amerikajin pan wo yaku zu*)”](../../assets/newsletters/americans_baking_bread.jpg)
 
-[“Americans Baking Bread (*Amerikajin pan wo yaku zu*)”](https://www.artic.edu/artworks/32192/americans-baking-bread-amerikajin-pan-wo-yaku-zu)
+- [“Americans Baking Bread (_Amerikajin pan wo yaku zu_)”](https://www.artic.edu/artworks/32192/americans-baking-bread-amerikajin-pan-wo-yaku-zu)
 
-Some weeks go by and you look back and think... what even *happened* this week? What did I *do* with all my time? This week was one of those weeks.
+Some weeks go by and you look back and think... what even _happened_ this week? What did I _do_ with all my time? This week was one of those weeks.
 
 ---
 
-One thing I *did* do was (attempt to) make bagels. I followed the recipes in Cathy Barrow’s [*Bagels, Schmears, and a Nice Piece of Fish*](https://app.thestorygraph.com/books/829b38b4-7b2a-4854-9fc0-2103229973f7), which as far as I can tell is the only bagel cookbook in existence — certainly the only one with both New York and Montreal bagels. (I was also recommended Peter Reinhart’s classic [*The Bread Baker’s Apprentice*](https://app.thestorygraph.com/books/c656805f-d8ad-4fb9-a19c-8a6a3328f6c4), which had a nice bagel recipe, but just one.)
+One thing I _did_ do was (attempt to) make bagels. I followed the recipes in Cathy Barrow’s [_Bagels, Schmears, and a Nice Piece of Fish_](https://app.thestorygraph.com/books/829b38b4-7b2a-4854-9fc0-2103229973f7), which as far as I can tell is the only bagel cookbook in existence — certainly the only one with both New York and Montreal bagels. (I was also recommended Peter Reinhart’s classic [_The Bread Baker’s Apprentice_](https://app.thestorygraph.com/books/c656805f-d8ad-4fb9-a19c-8a6a3328f6c4), which had a nice bagel recipe, but just one.)
 
-Bagels are surprisingly easy. New York-style bagels only have five ingredients, only one of which (non-diastatic malt powder) is remotely exotic — the other ingredients are high-protein flour (usually sold as bread flour), yeast, kosher salt, and water. (And, no, it doesn’t have to be New York tap water.) Mix together, knead, divide into equal portion balls, poke a hole and stretch into a loop, leave to proof for a few hours, boil, bake, and you’re golden. Mine didn’t *quite* turn out perfectly — I think I baked them too long, so the crust was a bit too tough — but still perfectly edible.
+Bagels are surprisingly easy. New York-style bagels only have five ingredients, only one of which (non-diastatic malt powder) is remotely exotic — the other ingredients are high-protein flour (usually sold as bread flour), yeast, kosher salt, and water. (And, no, it doesn’t have to be New York tap water.) Mix together, knead, divide into equal portion balls, poke a hole and stretch into a loop, leave to proof for a few hours, boil, bake, and you’re golden. Mine didn’t _quite_ turn out perfectly — I think I baked them too long, so the crust was a bit too tough — but still perfectly edible.
 
 ![New York-style bagels](../../assets/newsletters/new_york_bagels.jpg)
 
-The difference with Montreal-style bagels (at least according to this cookbook) is the use of all-purpose instead of high-protein flour, a *dramatically* shorter proofing period, honey instead of malt barley, and honey-sweetened water for boiling. (Apparently some New York bagel bakeries also boil in sweetened water, but typically not with honey.) That results in a denser, sweeter bread without a crust. Also, they’re almost exclusively topped with sesame seeds or poppy seeds. I found it much easier to get good results out of the Montreal-style recipe.
+The difference with Montreal-style bagels (at least according to this cookbook) is the use of all-purpose instead of high-protein flour, a _dramatically_ shorter proofing period, honey instead of malt barley, and honey-sweetened water for boiling. (Apparently some New York bagel bakeries also boil in sweetened water, but typically not with honey.) That results in a denser, sweeter bread without a crust. Also, they’re almost exclusively topped with sesame seeds or poppy seeds. I found it much easier to get good results out of the Montreal-style recipe.
 
 ![Montreal-style bagels](../../assets/newsletters/montreal_bagels.jpg)
 
 The cookbook recommended a stand mixer — while also noting that the high-protein flour in New York-style bagels tends to strain typical home mixers — but I didn’t find any issue kneading for the 15 or so minutes required by hand.
 
-One particularly pro tip recommended by *Bagels, Schmears, and a Nice Piece of Fish* (which was also provided independently by my most-serious-baker friend) was a [10-minute autolyse](https://www.kingarthurbaking.com/blog/2017/09/29/autolyse-sourdough) — mix the flour and water, wait 10 minutes for gluten formation to start, and only then begin to knead. That has a number of benefits, but perhaps the most relevant one is a shorter, less intense kneading time.
+One particularly pro tip recommended by _Bagels, Schmears, and a Nice Piece of Fish_ (which was also provided independently by my most-serious-baker friend) was a [10-minute autolyse](https://www.kingarthurbaking.com/blog/2017/09/29/autolyse-sourdough) — mix the flour and water, wait 10 minutes for gluten formation to start, and only then begin to knead. That has a number of benefits, but perhaps the most relevant one is a shorter, less intense kneading time.
 
 ---
 

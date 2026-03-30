@@ -7,7 +7,7 @@ season: 8
 
 ![Ornately-decorated bowl in the form of a llama](../../assets/newsletters/llama.jpg)
 
-[_Bowl in the Form of a Llama with Geometric Motifs_](https://www.artic.edu/artworks/87116/bowl-in-the-form-of-a-llama-with-geometric-motifs), c. 600-1000, south coast of Peru or northern Bolivia
+- [_Bowl in the Form of a Llama with Geometric Motifs_](https://www.artic.edu/artworks/87116/bowl-in-the-form-of-a-llama-with-geometric-motifs), c. 600-1000, south coast of Peru or northern Bolivia
 
 So the reason for my busyness that I’ve been teasing the [past](https://rwblickhan.org/newsletters/an-old-boys-club-of-dad-rock/) [two](https://rwblickhan.org/newsletters/really-truly-breathless-with-excitement/) weeks is finally public (enough): after an intense couple weeks of interviewing, I’m leaving Descript, and I’ll be joining Vanta on April 20.
 

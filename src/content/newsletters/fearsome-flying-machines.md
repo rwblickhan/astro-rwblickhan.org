@@ -7,7 +7,7 @@ season: 8
 
 ![A sign reading "Diverted Traffic" in Knightsbridge, London](../../assets/newsletters/diverted-traffic.jpg)
 
-At least it's not a sign reading ["You Have Been Diverted"](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything)...
+- At least it's not a sign reading ["You Have Been Diverted"](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything)...
 
 Hello! I write, bleary-eyed, at 7am, having been in some sort of wakefulness for the past four hours. Yes, that’s right — I’m jetlagged.
 
