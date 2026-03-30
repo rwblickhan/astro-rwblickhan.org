@@ -62,3 +62,4 @@ lastUpdatedDate: 2026-03-30
 57. _Flies the Coop_, Hole Dweller
 58. _Beyond the Edge of the World_, Louie Zong
 59. _Leather Teeth_, Carpenter Brut
+60. _Leather Terror_, Carpenter Brut
