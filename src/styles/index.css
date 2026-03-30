@@ -236,6 +236,12 @@ a:hover {
   figure {
   }
 
+  figure:has(img) {
+    width: fit-content;
+    max-width: 100%;
+    margin-inline: auto;
+  }
+
   figure:has(img) figcaption {
     padding: 1rem;
     border-left: 6px solid var(--callout-primary);
