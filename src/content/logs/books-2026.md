@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-03-20
+lastUpdatedDate: 2026-03-31
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -19,6 +19,7 @@ lastUpdatedDate: 2026-03-20
 14. _Pale Fire_, Vladimir Nabokov
 15. _DIE Vol. 1: Fantasy Heartbreaker_, Kieron Gillen and Stephanie Hans
 16. _Land Vol. 1_, Kazumi Yamashita (trans. Kevin Gifford)
+17. _Rusty Brown_, Chris Ware
 
 ## Skimmed / DNF
 
