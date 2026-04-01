@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-03-30
+lastUpdatedDate: 2026-04-01
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -65,3 +65,9 @@ lastUpdatedDate: 2026-03-30
 60. _Leather Terror_, Carpenter Brut
 61. _Leather Temple_, Carpenter Brut
 62. _U_, underscores
+
+## Live Shows
+
+1. Not for Radio @ Fox Theater
+2. Gelli Haha @ Brick & Mortar Music Hall
+3. Health x Carpenter Brut @ the Warfield
