@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-03-31
+lastUpdatedDate: 2026-04-01
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -24,6 +24,7 @@ lastUpdatedDate: 2026-03-31
 ## Skimmed / DNF
 
 1. _Seven Empty Houses_, Samanta Schweblin (trans. Megan McDowell)
+2. _Flow: The Psychology of Optimal Experience_, Mihaly Csikszentmihalyi
 
 ## Short Stories
 
