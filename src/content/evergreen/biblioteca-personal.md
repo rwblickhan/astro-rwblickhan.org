@@ -1,7 +1,7 @@
 ---
 title: Biblioteca Personal
 description: A brief list of my favorite fiction
-lastUpdatedDate: 2026-03-22
+lastUpdatedDate: 2026-04-03
 ---
 
 In honor of Jorge Luis Borges’ [_biblioteca personal_](https://www.openculture.com/2015/03/jorge-luis-borges-personal-library.html), here’s my own list of media that has been deeply influential on me. (Incomplete, but I’ll finish it off later!)
@@ -18,7 +18,7 @@ But what I’ve always appreciated most, perhaps, is that Adams had a foot in bo
 
 I read _Scott Pilgrim_ in early high school because I liked Edgar Wright and I liked comics and I wanted to read the comic that inspired the new Edgar Wright movie. Needless to say, I thought Scott and his friends were the _coolest people ever_, and my mode of speech has ever since been deeply inflected by Pilgrim-isms. Also, the fact that I went to university in Canada (which in turn has determined the course of the rest of my life) may be, in part, attributable to the Toronto setting.
 
-I love _Scott Pilgrim_ because it [grew up with me](https://rwblickhan.org/newsletters/52-books-of-2021/#the-lifetime-achievement-award). When I first read it, in high school, I thought it was a story about being an _effortlessly cool_ adult. When I read it years later, well into adulthood, I realized it was a story about being an effortlessly lost child. Also, the big last-act reveal in the comics that Scott is (spoiler alert, again) an unreliable narrator is one of my favorite endings. It’s such a gimmick, such a trope, but somehow in the context of _Scott Pilgrim_ — a world of self-absorbed just-barely-adults that think they’re more mature than they are — it just works.
+I love _Scott Pilgrim_ because it [grew up with me](https://rwblickhan.org/newsletters/52-books-of-2021/#the-lifetime-achievement-award). When I first read it, in high school, I thought it was a story about being an _effortlessly cool_ adult. When I read it years later, well into adulthood, I realized it was a story about being an effortlessly lost child. Also, the big last-act reveal in the comics that Scott is (spoiler alert, again) an unreliable narrator is one of my favorite endings. It’s such a gimmick, such a trope, but somehow in the context of _Scott Pilgrim_ — a world of self-absorbed just-barely-adults that think they’re more mature than they are — it Just Works™️.
 
 And then Bryan Lee O’Malley followed it up with _Seconds_, a story about hitting 30 and realizing how many life paths are being closed off, and _Scott Pilgrim Takes Off_, a story about (spoiler alert) hitting 40 and realizing you’re _really actually_ an adult that’s lived half your life already, making mistakes all the way. But they all have a gentle optimism that people really _can_ change, _can_ improve themselves, even if they keep making the same mistakes; as Ramona says at the conclusion of _Takes Off_, “what I've done in the past doesn't have to define me. Help me keep remembering that, okay?”
 
