@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-02-16
+lastUpdatedDate: 2026-04-04
 ---
 
 ## Movies
@@ -20,6 +20,7 @@ lastUpdatedDate: 2026-02-16
 ## TV Shows
 
 1. *Blossoms Shanghai* (2023)
+2. *Stranger Things* Season 5 (2025)
 
 ## Musicals & Plays
 
