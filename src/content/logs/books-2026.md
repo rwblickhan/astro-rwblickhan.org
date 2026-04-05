@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-04-03
+lastUpdatedDate: 2026-04-04
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -21,6 +21,7 @@ lastUpdatedDate: 2026-04-03
 16. _Land Vol. 1_, Kazumi Yamashita (trans. Kevin Gifford)
 17. _Rusty Brown_, Chris Ware
 18. _Your Name Here_, Helen DeWitt and Ilya Gridneff
+19. _The Crying of Lot 49_, Thomas Pynchon
 
 ## Skimmed / DNF
 
