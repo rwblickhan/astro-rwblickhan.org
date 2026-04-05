@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-03-16
+lastUpdatedDate: 2026-04-04
 ---
 
 ## Favorites
@@ -415,6 +415,14 @@ The ones I find myself thinking about a lot...
 > Septimus: It will serve.
 
 - *Arcadia*, Tom Stoppard
+
+> "You could fall in love with me, you can talk to my shrink, you can hide a tape recorder in my bedroom, see what I talk about from wherever I am when I sleep. You want to do that? You can put together clues, develop a thesis, or several, about why characters reacted to the Trystero possibility the way they did, why the assassins came on, why the black costumes. You could waste your life that way and never touch the truth. Wharfinger supplied words and a yarn. I gave them life. That's it.”
+
+- *The Crying of Lot 49*, Thomas Pynchon
+
+> Each couple on the floor danced whatever was in the fellow's head: tango, two-step, bossa nova, slop. But how long, Oedipa thought, could it go on before collisions became a serious hindrance? There would have to be collisions. The only alternative was some unthinkable order of music, many rhythms, all keys at once, a choreography in which each couple meshed easy, predestined.
+
+- *The Crying of Lot 49*, Thomas Pynchon
 
 ## From Non-Fiction
 
