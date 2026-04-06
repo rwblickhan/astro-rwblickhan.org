@@ -1,6 +1,6 @@
 ---
 title: Russell's Brief, Opinionated Guide to US Employer-Sponsored Health Insurance
-lastUpdatedDate: 2024-11-15
+lastUpdatedDate: 2026-04-05
 publicationDate: 2024-11-15
 description: Wading through a swamp of acronyms for neither fun nor profit
 season: 7
@@ -32,6 +32,7 @@ Many plans also have **drug tiers** that determine how much the plan pays out fo
 - Tier 2: Preferred name-brand drugs
 - Tier 3: Non-preferred name-brand drugs
 - Tier 4: Specialty medication
+
 Here the higher tiers are more expensive than the lower tiers.
 
 ## Types of Plans (aka Even More Terminology You Have To Know)
@@ -48,7 +49,7 @@ Finally, you may see a **high-deductible health plan (HDHP)**, which is a PPO wi
 
 HDHPs with HSAs are usually recommended for young, healthy folks that don't expect to use much medical care. A high deductible doesn't matter if you're not using the medical system very much anyway.  However, the money in the HSA is yours to keep forever, so any money you put towards the tax-advantaged HSA instead of higher premiums is "free money". Some employers will even put money in the HSA for you because they save so much on premiums!
 
-Regardless of plan, you may be eligible for a **flexible savings account (FSA)**. This is a tax-advantaged savings account similar to an HSA, but the catch is that you *must* use any money you put in the FSA by the end of that year (unlike an HSA, which is permanent); on most FSAs, you can only rollover a small amount from year-to-year, if at all. FSAs are only useful if you know in advance that you'll be paying for specific medical expenses out-of-pocket. For instance, if you know in advance that you'll need to buy crutches that aren't covered by your insurance, setting aside money tax-free in an FSA is a good idea.
+Regardless of plan, you may be eligible for a **flexible savings account (FSA)**. This is a tax-advantaged savings account similar to an HSA, but the catch is that you *must* use any money you put in the FSA by the end of that year (unlike an HSA, which is permanent); on most FSAs, you can only rollover a small amount from year-to-year, if at all. FSAs are only useful if you know in advance that you'll be paying for specific medical expenses out-of-pocket, since you’ll get a (roughly) 30% discount by deducting FSA from your income tax. For instance, if you know in advance that you'll need to buy crutches that aren't covered by your insurance, setting aside money tax-free in an FSA is a good idea.
 
 There's various other systems like the FSA that you might also have access to, but in my experience the FSA is most common.
 
