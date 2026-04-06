@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-04-04
+lastUpdatedDate: 2026-04-06
 ---
 
 ## Movies
@@ -16,6 +16,7 @@ lastUpdatedDate: 2026-04-04
 9. 🔁 *The World’s End* (2013)
 10. *A Hard Day’s Night* (1964)
 11. *Megadoc* (2025)
+12. 🔁 *8½* (1963)
 
 ## TV Shows
 
