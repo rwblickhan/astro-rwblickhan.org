@@ -1,6 +1,6 @@
 ---
 title: Index Full Of In-Jokes Which Most Readers Probably Skip Over
-lastUpdatedDate: 2026-04-05
+lastUpdatedDate: 2026-04-07
 publicationDate: 2026-04-05
 season: 8
 ---
@@ -108,7 +108,7 @@ Now, I do understand why some people are turned off by the _plot_. Bored housewi
 
 It’s a very, very Russellcore book.
 
-It has multi-page-long exposition of Maxwell’s Demon and the connection between information and entropy. It has a made-up Puritan sect from the English Civil War and prominently features the Thurn-und-Taxis postal monopoly of the Holy Roman Empire. It starts as a light-hearted, indeed frivolous, comedy, and slowly devolves into paranoia that there might be _something_, vaster than any of us understand, hidden just out of sight, as the ominous muted-posthorn symbol and acronym W.A.S.T.E. start appearing everywhere. It has long stretches of beautiful prose to say, basically, “Oedipa was feeling nostalgic.” I loved it. I loved loved loved loved it. But I also suspect most people I recommend it to will be put off by it. Oh well — at 150 short pages, it’s worth a try.
+It has multi-page-long exposition of Maxwell’s Demon and the connection between information and entropy. It has a page-long discussion of Remedios Varo’s [“Bordando el manto terrestre”](https://historia-arte.com/obras/bordando-el-manto-terrestre), one of my favorite art pieces ever. It has a made-up Puritan sect from the English Civil War and prominently features the Thurn-und-Taxis postal monopoly of the Holy Roman Empire. It starts as a light-hearted, indeed frivolous, comedy, and slowly devolves into paranoia that there might be _something_, vaster than any of us understand, hidden just out of sight, as the ominous muted-posthorn symbol and acronym W.A.S.T.E. start appearing everywhere. It has long stretches of beautiful prose to say, basically, “Oedipa was feeling nostalgic.” I loved it. I loved loved loved loved it. But I also suspect most people I recommend it to will be put off by it. Oh well — at 150 short pages, it’s worth a try.
 
 :::aside{.note}
 Radiohead loves this novel too! Their online store is called W.A.S.T.E. I strongly suspect Wes Anderson does too — _Grand Budapest Hotel_ also has a plot that can basically be summed up as “someone unexpectedly inherits an estate and gets wrapped up in a conspiracy involved the Thurn-und-Taxis family.”
