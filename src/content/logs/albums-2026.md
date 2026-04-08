@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-04-03
+lastUpdatedDate: 2026-04-07
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -67,6 +67,7 @@ lastUpdatedDate: 2026-04-03
 62. _U_, underscores
 63. _Harvest_, Neil Young
 64. _Vol. II_, Angine de Poitrine
+65. _Lady Soul_, Aretha Franklin
 
 ## Live Shows
 
