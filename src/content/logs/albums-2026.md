@@ -71,6 +71,7 @@ lastUpdatedDate: 2026-04-11
 66. _The College Dropout_, Kanye West
 67. _Who’s Next_, The Who
 68. _The Sun Sessions_, Elvis Presley
+69. _Equus Asinus_, Men I Trust
 
 ## Live Shows
 
