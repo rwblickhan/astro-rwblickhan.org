@@ -42,92 +42,77 @@ export default function rehypeSidenotes() {
       }
     });
 
-    // Helper: build the label/input/aside nodes for one footnote reference.
-    function buildSidenoteNodes(slug, displayNum) {
+    // Build a self-contained <span class="sidenote-wrapper"> for one footnote reference:
+    //
+    //   <span class="sidenote-wrapper">
+    //     <label for="sn-{slug}" class="sidenote-toggle sidenote-number">{num}</label>
+    //     <input type="checkbox" id="sn-{slug}" class="sidenote-toggle-checkbox">
+    //     <span class="sidenote">
+    //       <span class="sidenote-number">{num}</span>
+    //       {content}
+    //     </span>
+    //   </span>
+    function buildSidenoteWrapper(slug, displayNum) {
       const content = footnotes.get(slug);
       if (!content) return null;
       const sidenoteId = `sn-${slug}`;
       return {
-        label: {
-          type: "element",
-          tagName: "label",
-          properties: { htmlFor: sidenoteId, className: ["sidenote-toggle", "sidenote-number"] },
-          children: [{ type: "text", value: displayNum }],
-        },
-        input: {
-          type: "element",
-          tagName: "input",
-          properties: { type: "checkbox", id: sidenoteId, className: ["sidenote-toggle-checkbox"] },
-          children: [],
-        },
-        aside: {
-          type: "element",
-          tagName: "aside",
-          properties: { className: ["sidenote"] },
-          children: [
-            {
-              type: "element",
-              tagName: "span",
-              properties: { className: ["sidenote-number"] },
-              children: [{ type: "text", value: displayNum }],
-            },
-            { type: "text", value: " " },
-            ...content,
-          ],
-        },
+        type: "element",
+        tagName: "span",
+        properties: { className: ["sidenote-wrapper"] },
+        children: [
+          {
+            type: "element",
+            tagName: "label",
+            properties: { htmlFor: sidenoteId, className: ["sidenote-toggle", "sidenote-number"] },
+            children: [{ type: "text", value: displayNum }],
+          },
+          {
+            type: "element",
+            tagName: "input",
+            properties: { type: "checkbox", id: sidenoteId, className: ["sidenote-toggle-checkbox"] },
+            children: [],
+          },
+          {
+            type: "element",
+            tagName: "span",
+            properties: { className: ["sidenote"] },
+            children: [
+              {
+                type: "element",
+                tagName: "span",
+                properties: { className: ["sidenote-number"] },
+                children: [{ type: "text", value: displayNum }],
+              },
+              { type: "text", value: " " },
+              ...content,
+            ],
+          },
+        ],
       };
     }
 
-    // Helper: replace <sup> refs within a children array with inline <label>s,
-    // collecting the corresponding input+aside pairs into toInsert.
-    // skipTags: set of tagNames not to recurse into (used to avoid double-processing).
-    function replaceSupsIn(children, toInsert, skipTags) {
-      for (let i = 0; i < children.length; i++) {
-        const child = children[i];
-        if (child.tagName === "sup") {
-          const link = child.children?.find(
-            (c) => c.tagName === "a" && c.properties?.dataFootnoteRef !== undefined,
-          );
-          if (!link) continue;
-          const href = link.properties?.href ?? "";
-          const slugMatch = href.match(/^#user-content-fn-(.+)$/) ?? href.match(/^#fn-(.+)$/);
-          if (!slugMatch) continue;
-          const slug = slugMatch[1];
-          const displayNum = link.children?.find((c) => c.type === "text")?.value?.trim() ?? slug;
-          const nodes = buildSidenoteNodes(slug, displayNum);
-          if (!nodes) continue;
-          children[i] = nodes.label;
-          toInsert.push(nodes.input, nodes.aside);
-        } else if (child.children && !skipTags.has(child.tagName)) {
-          replaceSupsIn(child.children, toInsert, skipTags);
-        }
-      }
-    }
-
-    // Second pass: replace <sup> refs with sidenote markup.
-    //
-    // For <p>: insert input+aside as siblings after the <p> in its parent.
-    //   (valid HTML; checkbox trick works since input and aside are siblings)
-    //
-    // For <li> (tight lists, where <sup> is a direct child of <li> with no <p>
-    //   wrapper): append input+aside inside the <li>.
-    //   Don't recurse into child <p> elements — the <p> visitor handles those.
+    // Second pass: replace every footnote <sup> with a self-contained sidenote wrapper.
+    // Because the wrapper is inline, this works anywhere a <sup> can appear —
+    // inside <p>, <li>, or any other element — without special-casing insertion logic.
     visit(tree, "element", (node, index, parent) => {
-      if (!parent) return;
+      if (node.tagName !== "sup" || !parent) return;
 
-      if (node.tagName === "p") {
-        const toInsert = [];
-        replaceSupsIn(node.children, toInsert, new Set());
-        if (toInsert.length > 0) {
-          parent.children.splice(index + 1, 0, ...toInsert);
-        }
-      } else if (node.tagName === "li") {
-        const toInsert = [];
-        replaceSupsIn(node.children, toInsert, new Set(["p"]));
-        if (toInsert.length > 0) {
-          node.children.push(...toInsert);
-        }
-      }
+      const link = node.children?.find(
+        (c) => c.tagName === "a" && c.properties?.dataFootnoteRef !== undefined,
+      );
+      if (!link) return;
+
+      const href = link.properties?.href ?? "";
+      const slugMatch = href.match(/^#user-content-fn-(.+)$/) ?? href.match(/^#fn-(.+)$/);
+      if (!slugMatch) return;
+
+      const slug = slugMatch[1];
+      const displayNum = link.children?.find((c) => c.type === "text")?.value?.trim() ?? slug;
+      const wrapper = buildSidenoteWrapper(slug, displayNum);
+      if (!wrapper) return;
+
+      parent.children[index] = wrapper;
     });
 
     // Third pass: remove the footnotes section

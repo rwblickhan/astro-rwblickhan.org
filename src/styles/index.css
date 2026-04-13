@@ -312,7 +312,7 @@ a:hover {
   }
 
   /* Desktop: float sidenote into the right margin */
-  aside.sidenote {
+  span.sidenote {
     float: right;
     clear: right;
     width: 250px;
@@ -321,7 +321,7 @@ a:hover {
     line-height: 1.4;
   }
 
-  aside.sidenote .sidenote-number {
+  span.sidenote .sidenote-number {
     vertical-align: super;
     font-size: 0.75em;
     line-height: 0;
@@ -334,7 +334,7 @@ a:hover {
       text-decoration: underline;
     }
 
-    aside.sidenote {
+    span.sidenote {
       display: none;
       float: none;
       width: 100%;
@@ -345,7 +345,7 @@ a:hover {
       border-radius: 0 0.5rem 0.5rem 0;
     }
 
-    .sidenote-toggle-checkbox:checked + aside.sidenote {
+    .sidenote-toggle-checkbox:checked + span.sidenote {
       display: block;
     }
   }
