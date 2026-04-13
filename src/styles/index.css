@@ -233,9 +233,6 @@ a:hover {
 }
 
 @layer captions {
-  figure {
-  }
-
   figure:has(img) {
     width: fit-content;
     max-width: 100%;
@@ -276,7 +273,7 @@ a:hover {
 }
 
 @layer callouts {
-  aside {
+  aside:not(.sidenote) {
     margin-block: 1rem;
     padding: 1rem;
     border-left: 6px solid var(--callout-primary);
@@ -298,5 +295,58 @@ a:hover {
 
   aside > *:last-child {
     margin-bottom: 0;
+  }
+}
+
+@layer sidenotes {
+  /* The label acts as the inline superscript reference number */
+  .sidenote-toggle {
+    vertical-align: super;
+    font-size: 0.75em;
+    line-height: 0;
+    cursor: default;
+  }
+
+  .sidenote-toggle-checkbox {
+    display: none;
+  }
+
+  /* Desktop: float sidenote into the right margin */
+  aside.sidenote {
+    float: right;
+    clear: right;
+    width: 250px;
+    margin-right: -280px;
+    font-size: 0.875rem;
+    line-height: 1.4;
+  }
+
+  aside.sidenote .sidenote-number {
+    vertical-align: super;
+    font-size: 0.75em;
+    line-height: 0;
+  }
+
+  /* Mobile: hide by default, show when label is toggled */
+  @media (max-width: 1200px) {
+    .sidenote-toggle {
+      cursor: pointer;
+      text-decoration: underline;
+    }
+
+    aside.sidenote {
+      display: none;
+      float: none;
+      width: 100%;
+      margin: 1rem 0;
+      padding: 0.5rem 1rem;
+      border-left: 4px solid var(--callout-primary);
+      background-color: var(--callout-background);
+      border-radius: 0 0.5rem 0.5rem 0;
+    }
+
+    .sidenote-toggle-checkbox:checked + aside.sidenote {
+      display: block;
+    }
   }
 }
