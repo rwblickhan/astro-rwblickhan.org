@@ -328,7 +328,7 @@ a:hover {
   }
 
   /* Mobile: hide by default, show when label is toggled */
-  @media (max-width: 1200px) {
+  @media (max-width: 1500px) {
     .sidenote-toggle {
       cursor: pointer;
       text-decoration: underline;
