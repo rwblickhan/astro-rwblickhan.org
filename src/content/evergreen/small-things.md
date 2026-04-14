@@ -1,23 +1,9 @@
 ---
 title: Small Things To Make Life Better
 description: aka cheap but lovely gifts for a surprise white elephant party
-lastUpdatedDate: 2025-05-15
+lastUpdatedDate: 2026-04-13
+floatImages: true
 ---
-
-import { Image } from 'astro:assets';
-import loop from '../../assets/evergreen/small-things/loop.png';
-import peugeot from '../../assets/evergreen/small-things/peugeot.png';
-import saltcellar from '../../assets/evergreen/small-things/saltcellar.png';
-import coldBrewer from '../../assets/evergreen/small-things/cold-brewer.webp';
-import frother from '../../assets/evergreen/small-things/milk-frother.png';
-import kingrinder from '../../assets/evergreen/small-things/kingrinder.png';
-import cuisipro from '../../assets/evergreen/small-things/cuisipro.png';
-import kamenoko from '../../assets/evergreen/small-things/kamenoko-tawashi.png';
-import choya from '../../assets/evergreen/small-things/choya.png';
-import anker from '../../assets/evergreen/small-things/anker.webp';
-import darnTough from '../../assets/evergreen/small-things/darn-tough.png';
-import coup from '../../assets/evergreen/small-things/coup.webp';
-import skull from '../../assets/evergreen/small-things/skull.webp';
 
 Alternative title: cheap but lovely gifts for a surprise white elephant party.
 
@@ -30,7 +16,7 @@ None of these are affiliate links or paid reviews - I just really like all these
 
 ### Loop Earplugs
 
-<Image src={loop} alt="Loop's Experience earplugs" class={'float'} />
+![Loop's Experience earplugs](../../assets/evergreen/small-things/loop.png)
 
 Due to my lifelong tinnitus, I'm religious about hearing safety.
 I keep a pair of earplugs on my keychain at all times, especially when going to concerts or loud parties.
@@ -45,7 +31,7 @@ so even though my conversation partner is quieter, they're louder relative to th
 
 ### Peugeot Pepper Mill
 
-<Image src={peugeot} alt="Peugeot's Paris pepper mill" class={'float'} />
+![Peugeot's Paris pepper mill](../../assets/evergreen/small-things/peugeot.png)
 
 Freshly-ground black pepper really does taste just a little bit better than store-bought pre-ground pepper.
 A sprinkle of fresh pepper is an easy way to make a good meal great.
@@ -56,7 +42,7 @@ They're $60 USD or so, which is admittedly on the pricey end, but think of how f
 
 ### Saltcellar
 
-<Image src={saltcellar} alt="A walnut saltcellar" class={'float'} />
+![A walnut saltcellar](../../assets/evergreen/small-things/saltcellar.png)
 
 Another way to feel like a fancier chef is to sprinkle salt with your hands instead of pouring it from a box.
 The easiest way to do that is to get a saltcellar and fill it up with nice chunky [kosher salt](https://www.seriouseats.com/ask-the-food-lab-do-i-need-to-use-kosher-salt).
@@ -66,15 +52,15 @@ It's reasonably high quality, with a magnetic latch for the lid, and it holds pl
 
 ### Hario Cold Brew Tea Bottle
 
-<Image src={coldBrewer} alt="Hario's cold brew tea bottle against a matte background" class={'float'} />
+![Hario's cold brew tea bottle against a matte background](../../assets/evergreen/small-things/cold-brewer.webp)
 
-Cold-brewing tea has suddenly become popular in the Bay Area. Cold-brewing takes a few hours or even days, but it results in delicious, refreshing chilled tea with a distinctive taste; I particularly like cold-brewing [Vahdam’s rose black tea](https://www.vahdam.com/products/blooming-rose-black-tea) and I also use cold-brew tea to make tea soda.
+Cold-brewing tea has suddenly become popular in the Bay Area. Cold-brewing takes a few hours or even days, but it results in delicious, refreshing chilled tea with a distinctive taste; I particularly like cold-brewing [Vahdam's rose black tea](https://www.vahdam.com/products/blooming-rose-black-tea) and I also use cold-brew tea to make tea soda.
 
-[Hario’s cold-brew bottle](https://www.hario-usa.com/products/cold-brew-tea-wine-bottle-1) (only $30!) makes this process a delight. Put a few tablespoons of loose-leaf tea at the bottom and fill it up with water. Leave the bottle in the fridge for a few hours. When you take it out, pour through the filtered cap and try a sip from the included tasting glasses.
+[Hario's cold-brew bottle](https://www.hario-usa.com/products/cold-brew-tea-wine-bottle-1) (only $30!) makes this process a delight. Put a few tablespoons of loose-leaf tea at the bottom and fill it up with water. Leave the bottle in the fridge for a few hours. When you take it out, pour through the filtered cap and try a sip from the included tasting glasses.
 
 ### Milk Frother
 
-<Image src={frother} alt="A milk frother" class={'float'} />
+![A milk frother](../../assets/evergreen/small-things/milk-frother.png)
 
 A milk frother comes in handy for a surprising number of drinks, from lattes to matcha to protein powder.
 That also makes them a great gift for anybody that likes coffee or tea drinks - they'll certainly find a use for it eventually.
@@ -84,7 +70,7 @@ as well as the one I use myself.
 
 ### Kingrinder P2 Coffee Grinder
 
-<Image src={kingrinder} alt="Kingrinder's P2 hand coffee grinder" class={'float'} />
+![Kingrinder's P2 hand coffee grinder](../../assets/evergreen/small-things/kingrinder.png)
 
 Once upon a time, every beginner coffee snob was recommended to buy a [Hario Mini Slim](https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus) hand grinder.
 I always found it slightly uncomfortable to use — it's not particularly ergonomic, and grinding enough beans for even a single cup of coffee takes upwards of a minute.
@@ -99,7 +85,7 @@ At the time of writing, none of the P series is available on Amazon, though King
 
 ### Cuisipro Box Grater
 
-<Image src={cuisipro} alt="Cuisipro's four-sided box grater" class={'float'} />
+![Cuisipro's four-sided box grater](../../assets/evergreen/small-things/cuisipro.png)
 
 If you (like myself) have suffered through the terrible, terrible Oxo plane graters, you owe it to yourself to get this box grater.
 
@@ -115,7 +101,7 @@ Just get this box grater.
 
 ### Kamenoko Tawashi
 
-<Image src={kamenoko} alt="A hand holding a kamenoko tawashi" class={'float'} />
+![A hand holding a kamenoko tawashi](../../assets/evergreen/small-things/kamenoko-tawashi.png)
 
 Kamenoko ("baby turtle") _tawashi_ scrub brushes, made famous by [_The Tatami Galaxy_](https://en.wikipedia.org/wiki/The_Tatami_Galaxy), are a replacement for icky sponges.
 Dab a bit of dish soap and scrub away without worries. If you wash all your dishes by hand, as I do, these will surely be a delight.
@@ -123,17 +109,11 @@ Even better, they're [only $9](https://jinenstore.com/products/kamenoko-tawashi)
 
 Here's [an ode to the kamenoko tawashi](https://catapult.co/stories/katie-okamoto-kamenoko-tawashi-turtle-brush-japanese-family), which points out that they're not actually that popular in Japan, but shh. We can love the baby turtle all the same.
 
-### Choya Uji Green Tea Umeshu
-
-<Image src={choya} alt="Choya's green tea umeshu" class={'float'} />
-
-I’m not generally a fan of _umeshu_ (plum wine), but [Choya’s _umeshu_ blended with cold-brewed green tea](https://choyausa.com/products/choya-uji-green-tea/) is one of my favourite alcoholic drinks — the green tea perfectly balances the tart sourness of the plum. Unfortunately, it’s not always easy to find; check your local Asian supermarket, where you should be able to find it for 20 bucks.
-
 ## Travel
 
 ### Anker Portable Charger
 
-<Image src={anker} alt="A portable charger made by Anker" class={'float'} />
+![A portable charger made by Anker](../../assets/evergreen/small-things/anker.webp)
 
 If you take more than one device (phone, laptop, etc) on a trip, you'll have to have a charger brick for each.
 Instead, consider Anker's line of portable chargers, like [this one](https://www.anker.com/products/a2667),
@@ -144,7 +124,7 @@ The only other thing you'll need for your electronics is a couple USB-C cables �
 
 ### Darn Tough
 
-<Image src={darnTough} alt="A set of three socks made by Darn Tough" class={'float'} />
+![A set of three socks made by Darn Tough](../../assets/evergreen/small-things/darn-tough.png)
 
 Everybody's favorite buy-it-for-life Merino wool socks. They may not be 100% Merino wool anymore, but they're still practically indestructible and come with a lifetime warranty.
 They're so indestructible that I have a recurring nightmare that my Darn Toughs have big holes in them like normal socks.
@@ -153,7 +133,7 @@ They're so indestructible that I have a recurring nightmare that my Darn Toughs 
 
 ### Coup
 
-<Image src={coup} alt="The cover of Coup" class={'float'} />
+![The cover of Coup](../../assets/evergreen/small-things/coup.webp)
 
 I am not sure that [_Coup_](https://boardgamegeek.com/boardgame/131357/coup) is my _favorite_ game, but relative to price ($20 or less, perfect for a white elephant) and time-to-play (15 minutes a round), it may be the highest value.
 Each player is trying to collect money to assassinate their opponents, with the help of two secret character cards that give them special abilities.
@@ -161,7 +141,7 @@ But the twist is that you can bluff as having _any_ character card, at the risk 
 
 ### Skull
 
-<Image src={skull} alt="The cover of Skull" class={'float'} />
+![The cover of Skull](../../assets/evergreen/small-things/skull.webp)
 
 [Skull](https://boardgamegeek.com/boardgame/92415/skull) is another cheap, quick party game perfect for a white elephant.
 Players take turns secretly putting down skulls or roses, then take turns bidding on how many roses they can pick up without picking up a skull.

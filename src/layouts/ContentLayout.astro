@@ -10,6 +10,7 @@ export interface Props {
   lastUpdatedDate?: Date;
   publicationDate?: Date;
   parentCollection?: Collection;
+  floatImages?: boolean;
 }
 
 const {
@@ -19,6 +20,7 @@ const {
   lastUpdatedDate,
   publicationDate,
   parentCollection,
+  floatImages = false,
 } = Astro.props;
 ---
 
@@ -51,7 +53,9 @@ const {
       )
     }
   </hgroup>
-  <slot />
+  <div class:list={[{ "float-images": floatImages }]}>
+    <slot />
+  </div>
   {
     includeResponseLink && (
       <a

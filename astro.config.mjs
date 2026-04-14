@@ -8,7 +8,6 @@ import rehypeBlockquoteFigures from "rehype-blockquote-figures";
 import rehypeFigcaption from "rehype-figcaption";
 import rehypeSidenotes from "./src/plugins/rehype-sidenotes.js";
 import remarkDirective from "remark-directive";
-import mdx from "@astrojs/mdx";
 import { visit } from "unist-util-visit";
 import { h } from "hastscript";
 
@@ -30,7 +29,7 @@ function remarkHtmlDirectives() {
 
 export default defineConfig({
   site: "https://rwblickhan.org",
-  integrations: [pagefind(), sitemap(), mdx()],
+  integrations: [pagefind(), sitemap()],
   cacheDir: process.env.ASTRO_CACHE_DIR ?? "../cache",
   image: {
     responsiveStyles: true,

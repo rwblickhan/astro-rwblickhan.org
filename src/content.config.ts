@@ -3,7 +3,7 @@ import { glob } from "astro/loaders";
 
 const creativeWriting = defineCollection({
   loader: glob({
-    pattern: ["**/*.md", "**/*.mdx"],
+    pattern: "**/*.md",
     base: "./src/content/creativewriting",
   }),
   schema: z.object({
@@ -19,7 +19,7 @@ const creativeWriting = defineCollection({
 
 const logs = defineCollection({
   loader: glob({
-    pattern: ["**/*.md", "**/*.mdx"],
+    pattern: "**/*.md",
     base: "./src/content/logs",
   }),
   schema: z.object({
@@ -33,7 +33,7 @@ const logs = defineCollection({
 
 const evergreen = defineCollection({
   loader: glob({
-    pattern: ["**/*.md", "**/*.mdx"],
+    pattern: "**/*.md",
     base: "./src/content/evergreen",
   }),
   schema: z.object({
@@ -43,12 +43,13 @@ const evergreen = defineCollection({
       .string()
       .or(z.date())
       .transform((val) => new Date(val)),
+    floatImages: z.boolean().optional(),
   }),
 });
 
 const newsletters = defineCollection({
   loader: glob({
-    pattern: ["**/*.md", "**/*.mdx"],
+    pattern: "**/*.md",
     base: "./src/content/newsletters",
   }),
   schema: z.object({
@@ -63,6 +64,7 @@ const newsletters = defineCollection({
       .or(z.date())
       .transform((val) => new Date(val)),
     season: z.number(),
+    floatImages: z.boolean().optional(),
   }),
 });
 
