@@ -58,31 +58,6 @@ Cold-brewing tea has suddenly become popular in the Bay Area. Cold-brewing takes
 
 [Hario's cold-brew bottle](https://www.hario-usa.com/products/cold-brew-tea-wine-bottle-1) (only $30!) makes this process a delight. Put a few tablespoons of loose-leaf tea at the bottom and fill it up with water. Leave the bottle in the fridge for a few hours. When you take it out, pour through the filtered cap and try a sip from the included tasting glasses.
 
-### Milk Frother
-
-![A milk frother](../../assets/evergreen/small-things/milk-frother.png)
-
-A milk frother comes in handy for a surprising number of drinks, from lattes to matcha to protein powder.
-That also makes them a great gift for anybody that likes coffee or tea drinks - they'll certainly find a use for it eventually.
-
-I've bought at least three of this $20 [Foodville milk frother](https://www.amazon.com/gp/product/B07V2ZGYJ1?ie=UTF8&th=1) as personal or white elephant gifts,
-as well as the one I use myself.
-
-### Kingrinder P2 Coffee Grinder
-
-![Kingrinder's P2 hand coffee grinder](../../assets/evergreen/small-things/kingrinder.png)
-
-Once upon a time, every beginner coffee snob was recommended to buy a [Hario Mini Slim](https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus) hand grinder.
-I always found it slightly uncomfortable to use — it's not particularly ergonomic, and grinding enough beans for even a single cup of coffee takes upwards of a minute.
-
-However, the industry has moved on, and the new hotness is Kingrinder's P series, as [recommended by coffee snob extraordinaire James Hoffmann](https://www.youtube.com/watch?v=EPbVUR6Y83k&t=1s).
-I can wholeheartedly second this recommendation. Their P2 grinder is only a few dollars more than the Hario grinder, but its build quality feels a tier above.
-It's extremely comfortable and easy to grind, though it only takes twenty or thirty seconds to finish grinding.
-It even has real grind-size measurements for dialing in beans!
-
-The only issue is that Kingrinder has been having trouble keeping them in stock.
-At the time of writing, none of the P series is available on Amazon, though Kingrinder's more expensive K series is still available.
-
 ### Cuisipro Box Grater
 
 ![Cuisipro's four-sided box grater](../../assets/evergreen/small-things/cuisipro.png)
