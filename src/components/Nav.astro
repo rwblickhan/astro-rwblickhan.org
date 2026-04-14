@@ -3,26 +3,10 @@ import SearchNavIcon from "./SearchNavIcon.astro";
 import MapNavIcon from "./MapNavIcon.astro";
 import SubscribeNavIcon from "./SubscribeNavIcon.astro";
 import ColorPicker from "./ColorPicker.astro";
-import { collectionMetadataMap } from "../consts";
-
-const { parentCollection } = Astro.props;
-const parentCollectionMetadata =
-  parentCollection && collectionMetadataMap.get(parentCollection);
 ---
 
 <nav id="header">
   <div class="title">
-    {
-      parentCollection && (
-        <a
-          href={parentCollectionMetadata.slug}
-          title={`Return to ${parentCollectionMetadata.title}`}
-          aria-label={`Return to ${parentCollectionMetadata.title}`}
-        >
-          ←
-        </a>
-      )
-    }
     <span>λ</span>
     <a href="/index.html">rwblickhan.org</a>
   </div>
