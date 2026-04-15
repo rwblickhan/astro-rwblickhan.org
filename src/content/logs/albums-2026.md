@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-04-14
+lastUpdatedDate: 2026-04-15
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -74,6 +74,7 @@ lastUpdatedDate: 2026-04-14
 69. _Equus Asinus_, Men I Trust
 70. _Equus Caballus_, Men I Trust
 71. _Never Mind The Bollocks, Here’s The Sex Pistols_, The Sex Pistols
+72. _Beyoncé_, Beyoncé
 
 ## Live Shows
 
