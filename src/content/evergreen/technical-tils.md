@@ -1,7 +1,7 @@
 ---
 title: "Technical TILs"
 description: Small technical things I've learned over the years
-lastUpdatedDate: 2025-07-18
+lastUpdatedDate: 2026-04-16
 ---
 
 This is my list of TIL (Today I Learned) posts, inspired by [Simon Willison's TIL](https://til.simonwillison.net) page.
@@ -175,7 +175,7 @@ It's all sorted `DESC` so that the newest files end up on top.
 
 - ["Dates" in Obsidian Dataview Docs](https://blacksmithgu.github.io/obsidian-dataview/reference/literals/#dates)
 
-## * and # in vim
+## \* and # in vim
 
 When in normal mode in vim, you can use `*` to start searching forwards for the word underneath the cursor and `#` to search backwards.
 You can then use `n` and `N` to jump forward and backward, like a regular search.
@@ -1105,3 +1105,11 @@ Each of my posts has a last-updated and originally-published date, so I've wrapp
 
 - [&lt;hgroup&gt;: The Heading Group element | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hgroup)
 - [What I learnt about making websites by reading two thousand web pages – alexwlchan](https://alexwlchan.net/2025/learning-how-to-make-websites/)
+
+## search-text
+
+A neat new experimental CSS pseudo-element: `::search-text` lets you style the highlighted text when users use the ⌘F "find in page" feature!
+
+### References
+
+- [::search-text - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/::search-text)
