@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-04-04
+lastUpdatedDate: 2026-04-15
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -22,6 +22,7 @@ lastUpdatedDate: 2026-04-04
 17. _Rusty Brown_, Chris Ware
 18. _Your Name Here_, Helen DeWitt and Ilya Gridneff
 19. _The Crying of Lot 49_, Thomas Pynchon
+20. _Little Women_, Louisa May Alcott
 
 ## Skimmed / DNF
 
