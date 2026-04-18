@@ -1,6 +1,6 @@
 ---
 title: You Might Not Think You Need A Milk Frother... (rwblog S6E1)
-lastUpdatedDate: 2024-07-17 00:31:52.761002+00:00
+lastUpdatedDate: 2026-04-18 00:31:52.761002+00:00
 publicationDate: 2022-12-11 00:31:52.761002+00:00
 season: 6
 ---
@@ -25,29 +25,29 @@ A fresh, clean start! A day full of possibilities! [It’s a magical world... le
 
 Occasionally, you can read an article arguing that modernity has lost something because we don’t build cathedrals anymore; us moderns can’t imagine building monuments on a societal, multi-generational scale ([Sagrada Familia](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia) aside). I find that argument a little specious, for various reasons, but it did lead me to an interesting thought:
 
-*What if cinema is the cathedral of modernity?*
+_What if cinema is the cathedral of modernity?_
 
-The full end credits of *Avengers Endgame* are literally tens of minutes long! A small city of actors, visual effects artists, and production assistants was kept employed for *years* at a cost of hundreds of millions of dollars, to produce a film that — artistic merits aside — can certainly be called monumental, as the capstone of a decade-plus of filmmaking efforts. That’s a cathedral right there!
+The full end credits of _Avengers Endgame_ are literally tens of minutes long! A small city of actors, visual effects artists, and production assistants was kept employed for _years_ at a cost of hundreds of millions of dollars, to produce a film that — artistic merits aside — can certainly be called monumental, as the capstone of a decade-plus of filmmaking efforts. That’s a cathedral right there!
 
 ![F. H. C. Mey's velocipede. “Two twenty-five pound dogs would hardly tread-mill a hundred-pound vehicle and a hundred-and-fifty pound female up some of the Baltimore hills.”](../../assets/newsletters/cycling_art_energy_and_locomotion.jpg)
 
-- [From *Cycling Art, Energy, and Locomotion* (1889)](https://publicdomainreview.org/collection/cycling-art)
+- [From _Cycling Art, Energy, and Locomotion_ (1889)](https://publicdomainreview.org/collection/cycling-art)
 
 ## Transmuting calories into time
 
 During my recent sabbatical, I finally (three years after moving to the Bay Area!) bought a new bicycle, specifically a [Trek FX2](https://www.trekbikes.com/us/en_US/bikes/hybrid-bikes/fitness-bikes/fx/fx-2-disc/p/35003/). I’ve since ridden it maybe a hundred miles and started to commute to work with it, and... I think I was reintroduced to my first true love!
 
-Many tech-adjacent folks talking about “tools for thought” like Notion will reference [Steve Jobs’ famous “bicycle for the mind” talk](https://medium.learningbyshipping.com/bicycle-121262546097), but interestingly we don’t often think of flipping that metaphor. Bicycles are kind of magical — a simple set of wheels and gears can transmute calories into time directly and efficiently! My half-hour walk to work is now 10 minutes flat, at the cost of *maybe* 150 calories, which are helpfully converted into fuel for muscles. That’s amazing! Sure, that slightly undersells the overall cultural package that enables bicycling — society did have to pave asphalt and lay out bike lanes and install bike racks — but it still amazes me that such a simple machine can be so effective.
+Many tech-adjacent folks talking about “tools for thought” like Notion will reference [Steve Jobs’ famous “bicycle for the mind” talk](https://medium.learningbyshipping.com/bicycle-121262546097), but interestingly we don’t often think of flipping that metaphor. Bicycles are kind of magical — a simple set of wheels and gears can transmute calories into time directly and efficiently! My half-hour walk to work is now 10 minutes flat, at the cost of _maybe_ 150 calories, which are helpfully converted into fuel for muscles. That’s amazing! Sure, that slightly undersells the overall cultural package that enables bicycling — society did have to pave asphalt and lay out bike lanes and install bike racks — but it still amazes me that such a simple machine can be so effective.
 
-Bicycles completely change the psychogeography of the city. Realistically, you can’t walk across San Francisco in an afternoon, but you can definitely bike it, despite the hills. From my house, my favorite bagelry, [Schlok’s](https://www.schloks.com/), is 45 minutes by transit or 20 minutes by a pricey rideshare (ugh)... *or* a fun 25 minute ride along [the Wiggle](https://en.wikipedia.org/wiki/The_Wiggle). Bicycling is not perfect in the Bay Area — my favourite cafe, [Delah Coffee](https://www.yelp.com/biz/delah-coffee-san-francisco), *still* has no bike rack within a block’s walk — but it feels like the *correct* way to experience a city the size of San Francisco.
+Bicycles completely change the psychogeography of the city. Realistically, you can’t walk across San Francisco in an afternoon, but you can definitely bike it, despite the hills. From my house, my favorite bagelry, [Schlok’s](https://www.schloks.com/), is 45 minutes by transit or 20 minutes by a pricey rideshare (ugh)... _or_ a fun 25 minute ride along [the Wiggle](https://en.wikipedia.org/wiki/The_Wiggle). Bicycling is not perfect in the Bay Area — my favourite cafe, [Delah Coffee](https://www.yelp.com/biz/delah-coffee-san-francisco), _still_ has no bike rack within a block’s walk — but it feels like the _correct_ way to experience a city the size of San Francisco.
 
 ## Worshipping on the altar of group chats
 
 Like many IndieWeb™️ folks, I spent a lot of time this week thinking about Robin Sloan’s [“A year of new avenues”](https://www.robinsloan.com/lab/new-avenues/). I fundamentally agree with his conviction that the late-aughts crop of social media services (Facebook and Twitter and the like) are dying, although I’m not quite sure I feel the excitement of new growth yet. I fondly remember the pre-consolidation era of Web 2.0, when a new service like Foursquare could suddenly spawn out of SXSW and leave a suburban kid dreaming of becoming mayor of a coffee shop in the big city — but maybe that’s just nostalgia talking.
 
-That said, it’s obvious to me that services like Mastodon are not the way forward — c.f. also [Alan Jacob’s rather sarcastic take](https://blog.ayjay.org/mastodonic-thoughts/) on Mastodon. I’m excited for what new models for social media might come, although I’m not sure I’m [quite inventive enough](https://rwblickhan.org/nonfiction/thinkingstyles/) to contribute. What I’m perhaps more excited for is a return to my preferred medium: group chats!
+That said, it’s obvious to me that services like Mastodon are not the way forward — c.f. also [Alan Jacob’s rather sarcastic take](https://blog.ayjay.org/mastodonic-thoughts/) on Mastodon. I’m excited for what new models for social media might come, although I’m not sure I’m [quite inventive enough](https://rwblickhan.org/evergreen/thinkingstyles/) to contribute. What I’m perhaps more excited for is a return to my preferred medium: group chats!
 
-Perhaps this will age me someday — perhaps it already does — but I’ve always worshipped on the altar of group chats. That’s the main reason I’m bullish on Discord — it’s group chats all the way down! I never fully understood the appeal of either Twitter’s or Facebook’s posting style, asynchronously spamming strangers or near-strangers with life updates. I want to actually, you know, *talk* to people.
+Perhaps this will age me someday — perhaps it already does — but I’ve always worshipped on the altar of group chats. That’s the main reason I’m bullish on Discord — it’s group chats all the way down! I never fully understood the appeal of either Twitter’s or Facebook’s posting style, asynchronously spamming strangers or near-strangers with life updates. I want to actually, you know, _talk_ to people.
 
 Alternatively: maybe we’re looking for the revival of forums? That’s essentially what Reddit is, after all.
 
@@ -76,11 +76,11 @@ That said, I’m still excited that folks are still willing to try something new
 
 ## Small Things That Make Life Better
 
-This is not a holiday gift guide, but it’s not *not* a holiday gift guide either.
+This is not a holiday gift guide, but it’s not _not_ a holiday gift guide either.
 
 ### Tea Infuser
 
-I’m a proponent of loose-leaf tea. If you can’t taste the difference between English Breakfast and Assam, then loose-leaf tea won’t make a difference, but if you *can*, well... In any case, loose-leaf tea is more convenient if you want to order a 10lb bag and drink through it over a few months. The only problem is straining the tea leaves. Luckily, you can just use a stainless steel infuser. Look, [here’s one for $10](https://www.vahdam.com/products/classic-tea-infuser)! If you like tea, just buy one and keep it around the kitchen.
+I’m a proponent of loose-leaf tea. If you can’t taste the difference between English Breakfast and Assam, then loose-leaf tea won’t make a difference, but if you _can_, well... In any case, loose-leaf tea is more convenient if you want to order a 10lb bag and drink through it over a few months. The only problem is straining the tea leaves. Luckily, you can just use a stainless steel infuser. Look, [here’s one for $10](https://www.vahdam.com/products/classic-tea-infuser)! If you like tea, just buy one and keep it around the kitchen.
 
 ### Hario Cold Brew Bottle
 
@@ -92,7 +92,7 @@ According to our Amazon order history, Sherry and I have bought [this milk froth
 
 ### Loop Experience Earplugs
 
-I am deadly serious about hearing damage, perhaps because I have mild tinnitus. I have on occasion worn *industrial earplugs* to concerts. Luckily, I learned about [Loop’s Experience earplugs](https://us.loopearplugs.com/products/experience)! They’re $30, last for hundreds of uses, and come in a tiny lanyard case that you can attach to your keys or wallet. They’re rated to reduce noise by 18 dB, which brings all but the noisiest concerts and parties to a comfortable level, and their design minimizes audio distortion. At parties, I can actually hear my conversation partners *better* because the Loops are so effective at blocking out the background noise.
+I am deadly serious about hearing damage, perhaps because I have mild tinnitus. I have on occasion worn _industrial earplugs_ to concerts. Luckily, I learned about [Loop’s Experience earplugs](https://us.loopearplugs.com/products/experience)! They’re $30, last for hundreds of uses, and come in a tiny lanyard case that you can attach to your keys or wallet. They’re rated to reduce noise by 18 dB, which brings all but the noisiest concerts and parties to a comfortable level, and their design minimizes audio distortion. At parties, I can actually hear my conversation partners _better_ because the Loops are so effective at blocking out the background noise.
 
 ### Vessis
 
@@ -104,7 +104,7 @@ Perhaps this isn’t a “small” thing to make life better, but after waxing l
 
 ### Library Card
 
-Libraries are, alongside public transit, one of the great triumphs of the public provision of goods in modernity. A library card is *free* and lets you check out almost any book you could imagine! You can wander the shelves and take any book that looks interesting and walk out with it! I appreciate a good bookstore, but they really have nothing on libraries. If you haven’t checked out your local library branch, consider a library card a little holiday gift to yourself.
+Libraries are, alongside public transit, one of the great triumphs of the public provision of goods in modernity. A library card is _free_ and lets you check out almost any book you could imagine! You can wander the shelves and take any book that looks interesting and walk out with it! I appreciate a good bookstore, but they really have nothing on libraries. If you haven’t checked out your local library branch, consider a library card a little holiday gift to yourself.
 
 ## What’s New On The Site
 
