@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-04-15
+lastUpdatedDate: 2026-04-20
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -23,6 +23,7 @@ lastUpdatedDate: 2026-04-15
 18. _Your Name Here_, Helen DeWitt and Ilya Gridneff
 19. _The Crying of Lot 49_, Thomas Pynchon
 20. _Little Women_, Louisa May Alcott
+21. _Ranma 1/2_ Vol. 1 + 2, Rumiko Takahashi (trans. Gerard Jones and Matt Thorn)
 
 ## Skimmed / DNF
 

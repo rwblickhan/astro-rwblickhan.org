@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-04-17
+lastUpdatedDate: 2026-04-20
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -77,6 +77,7 @@ lastUpdatedDate: 2026-04-17
 72. _Beyoncé_, Beyoncé
 73. _There’s a Riot Goin’ On_, Sly & The Family Stone
 74. _Dusty In Memphis_, Dusty Springfield
+75. _Back In Black_, AC/DC
 
 ## Live Shows
 
