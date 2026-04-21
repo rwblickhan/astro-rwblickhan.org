@@ -78,6 +78,7 @@ lastUpdatedDate: 2026-04-20
 73. _There’s a Riot Goin’ On_, Sly & The Family Stone
 74. _Dusty In Memphis_, Dusty Springfield
 75. _Back In Black_, AC/DC
+76. _Nine Inch Noize_, Nine Inch Nails & Boys Noize
 
 ## Live Shows
 
