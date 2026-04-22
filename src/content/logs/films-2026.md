@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-04-06
+lastUpdatedDate: 2026-04-21
 ---
 
 ## Movies
@@ -17,6 +17,7 @@ lastUpdatedDate: 2026-04-06
 10. *A Hard Day’s Night* (1964)
 11. *Megadoc* (2025)
 12. 🔁 *8½* (1963)
+13. *Little Women* (2019)
 
 ## TV Shows
 
