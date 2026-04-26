@@ -128,14 +128,14 @@ html {
   }
 }
 
-main {
+article {
   padding: 0 1rem;
   margin-bottom: 1rem;
   container-type: inline-size;
 }
 
 @media (min-width: 768px) {
-  main {
+  article {
     margin-left: auto;
     margin-right: auto;
 
@@ -326,29 +326,29 @@ a:hover {
 @layer toc {
   @media (min-width: 1200px) {
     /* Widen main only on pages that actually have a TOC */
-    main.small:has(h2#table-of-contents) {
+    article.small:has(h2#table-of-contents) {
       max-width: 66rem;
     }
 
     /* Two-column grid: sidebar | article */
-    main.small > div:has(> h2#table-of-contents) {
+    article.small > div:has(> h2#table-of-contents) {
       display: grid;
       grid-template-columns: 13rem 1fr;
       column-gap: 2rem;
     }
 
     /* All direct children go to the article column */
-    main.small > div:has(> h2#table-of-contents) > * {
+    article.small > div:has(> h2#table-of-contents) > * {
       grid-column: 2;
     }
 
     /* Remove the inline heading — recreated via ::before on the list */
-    main.small > div > h2#table-of-contents {
+    article.small > div > h2#table-of-contents {
       display: none;
     }
 
     /* Sticky sidebar that spans the full article height */
-    main.small > div > h2#table-of-contents + ul {
+    article.small > div > h2#table-of-contents + ul {
       grid-column: 1;
       grid-row: 1 / span 9999;
       position: sticky;
@@ -364,7 +364,7 @@ a:hover {
       scroll-target-group: auto;
     }
 
-    main.small > div > h2#table-of-contents + ul::before {
+    article.small > div > h2#table-of-contents + ul::before {
       content: "Contents";
       display: block;
       font-size: 0.7rem;
@@ -375,29 +375,29 @@ a:hover {
       margin-block-end: 0.5rem;
     }
 
-    main.small > div > h2#table-of-contents + ul li {
+    article.small > div > h2#table-of-contents + ul li {
       margin-block: 0;
     }
 
     /* Nested TOC lists */
-    main.small > div > h2#table-of-contents + ul ul {
+    article.small > div > h2#table-of-contents + ul ul {
       list-style: none;
       padding-inline-start: 0.75rem;
     }
 
-    main.small > div > h2#table-of-contents + ul a {
+    article.small > div > h2#table-of-contents + ul a {
       display: block;
       text-decoration: none;
       color: color-mix(in srgb, var(--text) 60%, transparent);
       transition: color 0.2s ease;
     }
 
-    main.small > div > h2#table-of-contents + ul a:hover {
+    article.small > div > h2#table-of-contents + ul a:hover {
       color: var(--text);
     }
 
     @supports (scroll-target-group: auto) {
-      main.small > div > h2#table-of-contents + ul a:target-current {
+      article.small > div > h2#table-of-contents + ul a:target-current {
         color: var(--text);
         font-weight: 600;
       }

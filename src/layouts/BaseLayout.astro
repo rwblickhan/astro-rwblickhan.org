@@ -31,17 +31,19 @@ const {
     publicationDate={publicationDate}
   />
   <Nav parentCollection={parentCollection} />
-  {
-    shouldIndex ? (
-      <main class={width} data-pagefind-body>
-        <slot />
-      </main>
-    ) : (
-      <main class={width}>
-        <slot />
-      </main>
-    )
-  }
+  <main>
+    {
+      shouldIndex ? (
+        <article class={width} data-pagefind-body>
+          <slot />
+        </article>
+      ) : (
+        <article class={width}>
+          <slot />
+        </article>
+      )
+    }
+  </main>
   <dialog id="search-modal" popover>
     <PagefindSearch
       id="search"
