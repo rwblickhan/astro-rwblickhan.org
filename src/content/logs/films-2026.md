@@ -24,6 +24,7 @@ lastUpdatedDate: 2026-04-26
 
 1. *Blossoms Shanghai* (2023)
 2. *Stranger Things* Season 5 (2025)
+3. *Heated Rivalry* Season 1 (2025)
 
 ## Musicals & Plays
 
