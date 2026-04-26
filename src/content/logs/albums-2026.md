@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-04-22
+lastUpdatedDate: 2026-04-26
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -82,6 +82,8 @@ lastUpdatedDate: 2026-04-22
 77. _John Lennon/Plastic Ono Band_, John Lennon
 78. _Yoko Ono/Plastic Ono Band_, Yoko Ono
 79. _The Doors_, The Doors
+80. _Paperclip Minimiser_, Paperclip Minimiser
+81. _II_, Paperclip Minimiser
 
 ## Live Shows
 
