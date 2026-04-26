@@ -128,6 +128,31 @@ html {
   }
 }
 
+main {
+  padding: 0 1rem;
+  margin-bottom: 1rem;
+  container-type: inline-size;
+}
+
+@media (min-width: 768px) {
+  main {
+    margin-left: auto;
+    margin-right: auto;
+
+    &.small {
+      max-width: 42rem;
+    }
+
+    &.medium {
+      max-width: 64rem;
+    }
+
+    &.large {
+      max-width: 80rem;
+    }
+  }
+}
+
 h1,
 h2,
 h3,
@@ -417,7 +442,7 @@ a:hover {
   }
 
   /* Mobile: hide by default, show when label is toggled */
-  @media (max-width: 1500px) {
+  @media (max-width: 1400px) {
     .sidenote-toggle {
       cursor: pointer;
       text-decoration: underline;
