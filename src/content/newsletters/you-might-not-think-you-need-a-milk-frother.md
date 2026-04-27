@@ -1,11 +1,9 @@
 ---
 title: You Might Not Think You Need A Milk Frother... (rwblog S6E1)
-lastUpdatedDate: 2026-04-18 00:31:52.761002+00:00
+lastUpdatedDate: 2026-04-27 00:31:52.761002+00:00
 publicationDate: 2022-12-11 00:31:52.761002+00:00
 season: 6
 ---
-
-## Table of Contents
 
 ## Welcome
 

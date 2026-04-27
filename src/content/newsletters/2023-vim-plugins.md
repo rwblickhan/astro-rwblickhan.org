@@ -1,7 +1,7 @@
 ---
 title: "Vim Plugins for 2023"
 publicationDate: 2023-06-14
-lastUpdatedDate: 2023-08-10
+lastUpdatedDate: 2026-04-27
 season: 6
 description: "An evergreen list of vim plugins I use."
 ---
@@ -9,8 +9,6 @@ description: "An evergreen list of vim plugins I use."
 I use quite a few vim plugins, but most of them are relatively simple editing plugins that introduce new text objects or commands.
 I shy away from more complicated plugins that try to turn vim into a fully-featured IDE.
 vim should be focused on text editing! If I want an IDE, I'll use an IDE... with the vim mode enabled 😉
-
-## Table of Contents
 
 ## vim-plug
 

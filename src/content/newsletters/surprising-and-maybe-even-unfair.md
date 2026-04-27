@@ -1,6 +1,6 @@
 ---
 title: Surprising, and Maybe Even Unfair (AD S2E8)
-lastUpdatedDate: 2024-07-17 04:16:02.085650+00:00
+lastUpdatedDate: 2026-04-27 04:16:02.085650+00:00
 publicationDate: 2020-10-12 04:16:02.085650+00:00
 season: 2
 ---
@@ -10,8 +10,6 @@ season: 2
 ![“The Nightmare”, Henry Fuseli, 1781](../../assets/newsletters/the_nightmare.jpg)
 
 - [“The Nightmare”, Henry Fuseli, 1781](https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_Nightmare.JPG#mw-jump-to-license)
-
-## Table of Contents
 
 ## How many programmers does it take to fix a lightbulb? Fermi estimation in computer science interviews as discipline error
 

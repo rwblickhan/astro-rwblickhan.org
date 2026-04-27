@@ -1,7 +1,7 @@
 ---
 title: Tools for 2022
 publicationDate: 2022-01-16
-lastUpdatedDate: 2022-01-16
+lastUpdatedDate: 2026-04-27
 season: 5
 description: "Tools I'm using in early 2022."
 ---
@@ -9,8 +9,6 @@ description: "Tools I'm using in early 2022."
 Hey folks, in the spirit of “what’s in your bag,” I wanted to do a quick (and by quick I apparently mean 2,600+ word) overview of the tools I use every day outside of work. Most of these are (surprise, surprise) iOS apps.
 
 ![A monk being annoyed by his lacking tools... and also a mouse!](../../assets/technical/2022-tools/cover.jpeg)
-
-## Table of Contents
 
 ## Notes
 

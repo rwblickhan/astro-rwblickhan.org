@@ -1,6 +1,6 @@
 ---
 title: Misplaced Institutional Incentives (AD S2E1)
-lastUpdatedDate: 2024-07-17 02:33:23.206554+00:00
+lastUpdatedDate: 2026-04-27 02:33:23.206554+00:00
 publicationDate: 2020-07-06 02:33:23.206554+00:00
 season: 2
 ---
@@ -16,8 +16,6 @@ I’m still experimenting with the format, so expect this to change. I’ve rece
 ![A selection from *Night Parade of One Hundred Demons*](../../assets/newsletters/night_parade1.jpg)
 
 Of course, I’ll also continue to include themed public domain art in between sections. This week we have selections from the 1890 *Night Parade of One Hundred Demons* by Kawanabe Kyōsai, as highlighted by [the wonderful Public Domain Review](https://publicdomainreview.org/collection/night-parade-of-one-hundred-demons).
-
-## Table of Contents
 
 ## Is Agamemnon just a bad leader?
 

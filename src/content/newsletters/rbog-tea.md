@@ -1,6 +1,6 @@
 ---
 title: "Russell's Brief, Opinionated Guide to Tea"
-lastUpdatedDate: 2023-01-09
+lastUpdatedDate: 2026-04-27
 publicationDate: 2023-01-09
 description: "My brief, opinionated guide to tea"
 season: 6
@@ -9,8 +9,6 @@ season: 6
 Tea is a bush in the camellia family, specifically [_Camellia sinensis_](https://en.wikipedia.org/wiki/Camellia_sinensis).
 
 If you steep tea leaves in water, you get a slightly bitter, caffeinated beverage.
-
-## Table of Contents
 
 ## A Very Brief History of Tea
 

@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code Plugins for 2023"
 publicationDate: 2023-05-31
-lastUpdatedDate: 2023-08-02
+lastUpdatedDate: 2026-04-27
 season: 6
 description: "An evergreen list of VS Code plugins I use."
 ---
@@ -11,8 +11,6 @@ As a result, I also moved from Xcode to Visual Studio Code, which has quickly be
 
 One of the nicest parts of VS Code is how extensible it is, especially compared to the locked-down-to-a-fault Xcode.
 I use a number of plugins, which I've documented here.
-
-## Table of Contents
 
 ## VSCodeVim
 

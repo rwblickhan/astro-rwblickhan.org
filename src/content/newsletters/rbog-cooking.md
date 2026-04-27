@@ -1,14 +1,12 @@
 ---
 title: Russell's Brief, Opinionated Guide to Home Cooking
-lastUpdatedDate: 2024-10-17
+lastUpdatedDate: 2026-04-27
 publicationDate: 2024-10-17
 description: Cooking for fun but not really profit
 season: 7
 ---
 
 About two years ago, I decided to learn how to cook. After much experimentation and reference to _The Food Lab_, here is what I learned about decent home cooking.
-
-## Table of Contents
 
 ## Assembling a Recipe
 

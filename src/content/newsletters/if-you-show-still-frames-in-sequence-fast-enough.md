@@ -1,6 +1,6 @@
 ---
 title: If You Show Still Frames In Sequence Fast Enough (rwblog S6E10)
-lastUpdatedDate: 2024-07-17 04:33:07.736323+00:00
+lastUpdatedDate: 2026-04-27 04:33:07.736323+00:00
 publicationDate: 2023-10-04 04:33:07.736323+00:00
 season: 6
 ---
@@ -8,8 +8,6 @@ season: 6
 Last month I introduced a 500-word cap. I’ll keep the cap and try to make this newsletter biweekly. Let’s go!
 
 ![Negroni cat decorations at a bar in Melbourne](../../assets/newsletters/negroni_cats.webp)
-
-## Table of Contents
 
 ## Communities of Practice
 

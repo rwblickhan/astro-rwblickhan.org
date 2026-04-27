@@ -1,6 +1,6 @@
 ---
 title: Once The Canadians In The Audience Recover From Their Shock… (rwblog S6E9)
-lastUpdatedDate: 2024-07-17 01:07:54.272886+00:00
+lastUpdatedDate: 2026-04-27 01:07:54.272886+00:00
 publicationDate: 2023-09-04 01:07:54.272886+00:00
 season: 6
 ---
@@ -8,8 +8,6 @@ season: 6
 New experiment: to keep this newsletter fairly lightweight — easy to write, easy to read — I’m going to try capping it at about 500 words. So here goes!
 
 ![The facade of a new building under construction in Mission Bay](../../assets/newsletters/mission_rock.webp)
-
-## Table of Contents
 
 ## Safari is the Lightest Browser
 

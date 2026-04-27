@@ -1,10 +1,8 @@
 ---
 title: Technical Reading List
-lastUpdatedDate: 2024-01-21
+lastUpdatedDate: 2026-04-27
 description: "An evergreen list of technical books, papers, and talks I love."
 ---
-
-## Table of Contents
 
 ## Books
 

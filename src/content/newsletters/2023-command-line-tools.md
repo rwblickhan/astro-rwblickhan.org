@@ -1,12 +1,10 @@
 ---
 title: "Command Line Tools for 2023"
 publicationDate: 2023-01-27
-lastUpdatedDate: 2026-04-26
+lastUpdatedDate: 2026-04-27
 season: 6
 description: "An overview of command line tools I like."
 ---
-
-## Table of Contents
 
 I like to use the command line, perhaps because I ["always bet on text"](https://graydon2.dreamwidth.org/193447.html).
 Here are a few of the command line tools I use the most heavily.

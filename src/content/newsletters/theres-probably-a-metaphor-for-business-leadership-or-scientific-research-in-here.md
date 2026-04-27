@@ -1,6 +1,6 @@
 ---
 title: There’s Probably a Metaphor for Business Leadership or Scientific Research in Here (rwblog S6E8)
-lastUpdatedDate: 2025-03-10 06:07:58.892888+00:00
+lastUpdatedDate: 2026-04-27 06:07:58.892888+00:00
 publicationDate: 2023-07-29 06:07:58.892888+00:00
 season: 6
 ---
@@ -8,8 +8,6 @@ season: 6
 > Currently listening to: _The Loveliest Time_, Carly Rae Jepsen[^1]
 
 Aight this is a short one — buckle up.
-
-## Table of Contents
 
 ## Calendrical and Cartographic Thinking
 

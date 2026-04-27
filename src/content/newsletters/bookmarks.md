@@ -1,14 +1,12 @@
 ---
 title: "Building bookmarks.rwblickhan.org"
 publicationDate: 2024-01-01
-lastUpdatedDate: 2024-01-01
+lastUpdatedDate: 2026-04-27
 season: 6
 description: "How I built my bookmark search site"
 ---
 
 Recently I built a [site](https://bookmarks.rwblickhan.org) to do full-text search of links I’ve bookmarked. This article explains how it’s built and assumes some basic familiarity with JavaScript and web technologies generally. You can see the full code in the [GitHub repo](https://github.com/rwblickhan/bookmarks).
-
-## Table of Contents
 
 ## Evolution
 

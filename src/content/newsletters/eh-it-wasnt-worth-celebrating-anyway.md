@@ -1,6 +1,6 @@
 ---
 title: Eh, It Wasn’t Worth Celebrating Anyway (rwblog S6E4)
-lastUpdatedDate: 2026-03-25 06:04:29.925757+00:00
+lastUpdatedDate: 2026-04-27 06:04:29.925757+00:00
 publicationDate: 2023-04-06 06:04:29.925757+00:00
 season: 6
 ---
@@ -12,8 +12,6 @@ I’m writing to you here, from the safe side of April Fools Day, a day which se
 ![claymation julius caesar partying at saturnalia](../../assets/newsletters/claymation_julius_caesar_stable_diffusion.png)
 
 - “claymation julius caesar partying at saturnalia”, Stable Diffusion[^1]
-
-## Table of Contents
 
 ## New Absurdism
 

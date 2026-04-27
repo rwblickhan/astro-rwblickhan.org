@@ -1,10 +1,8 @@
 ---
 title: Restaurant Recommendations
 description: My favourite restaurants
-lastUpdatedDate: 2024-07-31
+lastUpdatedDate: 2026-04-27
 ---
-
-## Table of Contents
 
 ## San Francisco
 

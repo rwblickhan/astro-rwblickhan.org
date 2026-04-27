@@ -1,9 +1,11 @@
 ---
 import Head from "../components/Head.astro";
 import Nav from "../components/Nav.astro";
+import TocNavIcon from "../components/TocNavIcon.astro";
 import PagefindSearch from "astro-pagefind/components/Search";
 import "@fontsource-variable/atkinson-hyperlegible-mono/wght.css";
 import "../styles/index.css";
+import type { MarkdownHeading } from "astro";
 
 // export interface Props {
 //   title: string;
@@ -19,6 +21,7 @@ const {
   publicationDate,
   parentCollection,
   shouldIndex,
+  headings,
 } = Astro.props.frontmatter || Astro.props;
 ---
 
@@ -50,6 +53,28 @@ const {
       uiOptions={{ showSubResults: true, showImages: false }}
     />
   </dialog>
+  {headings && headings.length > 0 && (
+    <div id="toc-trigger">
+      <TocNavIcon />
+    </div>
+  )}
+  {
+    headings && headings.length > 0 && (
+      <dialog id="toc-modal" popover>
+        <nav aria-label="Table of contents">
+          <ol>
+            {headings
+              .filter((h: MarkdownHeading) => h.depth <= 3)
+              .map((h: MarkdownHeading) => (
+                <li class:list={[{ "depth-3": h.depth === 3 }]}>
+                  <a href={"#" + h.slug}>{h.text}</a>
+                </li>
+              ))}
+          </ol>
+        </nav>
+      </dialog>
+    )
+  }
 </html>
 
 <style>
@@ -71,6 +96,76 @@ const {
 
   #search-modal::backdrop {
     background: rgba(0, 0, 0, 0.5);
+  }
+
+  #toc-modal {
+    width: min(90vw, 24rem);
+    max-height: 70vh;
+    overflow-y: auto;
+    border: 1px solid var(--text);
+    border-radius: 0.5rem;
+    padding: 1rem;
+    background: var(--background);
+    color: var(--text);
+    position: fixed;
+    top: 4rem;
+    left: 1rem;
+    margin: 0;
+  }
+
+  @media (min-width: 1200px) {
+    #toc-modal {
+      width: auto;
+      max-width: none;
+      /* 4rem top nav + 1.75rem button + 1.5rem button offset + 1rem gap */
+      max-height: calc(100vh - 8.25rem);
+      right: calc(50% + 21rem + 0.5rem);
+    }
+  }
+
+  #toc-trigger {
+    display: none;
+  }
+
+  @media (min-width: 1200px) {
+    #toc-trigger {
+      display: flex;
+      position: fixed;
+      bottom: 1.5rem;
+      left: 1.5rem;
+    }
+  }
+
+  #toc-modal::backdrop {
+    background: transparent;
+  }
+
+  #toc-modal ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    scroll-target-group: auto;
+  }
+
+  #toc-modal li {
+    margin-bottom: 0.5rem;
+  }
+
+  #toc-modal li.depth-3 {
+    padding-left: 1rem;
+  }
+
+  #toc-modal a {
+    text-decoration: none;
+    color: var(--text);
+
+    &:hover {
+      color: var(--primary);
+    }
+
+    &:target-current {
+      font-weight: bold;
+    }
   }
 </style>
 

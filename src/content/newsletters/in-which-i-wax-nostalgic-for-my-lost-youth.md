@@ -1,6 +1,6 @@
 ---
 title: In Which I Wax Nostalgic for My Lost Youth (rwblog S6E3)
-lastUpdatedDate: 2026-03-25 05:48:44.084227+00:00
+lastUpdatedDate: 2026-04-27 05:48:44.084227+00:00
 publicationDate: 2023-02-09 05:48:44.084227+00:00
 season: 6
 ---
@@ -10,8 +10,6 @@ Let’s get right in to the meaty content!
 ![Rooibos resting his head on a new pillow](../../assets/newsletters/rooibos-pillow.jpg)
 
 Rooibos![^1]
-
-## Table of Contents
 
 ## In Which I Wax Nostalgic for My Lost Youth
 

@@ -1,6 +1,6 @@
 ---
 title: Picking and Choosing Elements of Western Culture to Adopt (AD S4E4)
-lastUpdatedDate: 2024-07-17 17:09:39.918272+00:00
+lastUpdatedDate: 2026-04-27 17:09:39.918272+00:00
 publicationDate: 2021-04-04 17:09:39.918272+00:00
 season: 4
 ---
@@ -10,8 +10,6 @@ So I didn’t end up [taking that outline more seriously](https://buttondown.ema
 ![“Two ladies, a cat and a parrot”, 1750-1800](../../assets/newsletters/two_ladies.jpg)
 
 - [“Two ladies, a cat and a parrot”, 1750-1800](https://www.britishmuseum.org/collection/object/A_1999-1202-0-4-19)
-
-## Table of Contents
 
 ## There Are No More Mysteries Anymore And Maybe That’s Okay
 

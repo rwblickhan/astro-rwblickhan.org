@@ -1,14 +1,12 @@
 ---
 title: Why I Use Raycast
 publicationDate: 2024-12-08
-lastUpdatedDate: 2025-03-07
+lastUpdatedDate: 2026-04-27
 season: 7
 description: Keyboard shortcuts for days
 ---
 
 A couple years ago, I started using [Raycast](https://www.raycast.com), which quickly became indispensable. It started as, roughly, a replacement for macOS’ Spotlight or a modern version of [Alfred](https://www.alfredapp.com), but has slowly grown more features over time. Here’s a few of the ways I use it.
-
-## Table of Contents
 
 ## File and Application Search That Actually Works
 

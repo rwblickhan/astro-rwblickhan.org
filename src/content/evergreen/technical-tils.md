@@ -1,14 +1,12 @@
 ---
 title: "Technical TILs"
 description: Small technical things I've learned over the years
-lastUpdatedDate: 2026-04-26
+lastUpdatedDate: 2026-04-27
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
 
 This is my list of TIL (Today I Learned) posts, inspired by [Simon Willison's TIL](https://til.simonwillison.net) page.
-
-## Table of Contents
 
 ## Vim Text Objects
 

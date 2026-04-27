@@ -1,7 +1,6 @@
 import { defineConfig } from "astro/config";
 import pagefind from "astro-pagefind";
 import sitemap from "@astrojs/sitemap";
-import remarkToc from "remark-toc";
 import remarkA11yEmoji from "@fec/remark-a11y-emoji";
 import rehypeBlockquoteFigures from "rehype-blockquote-figures";
 import rehypeFigcaption from "rehype-figcaption";
@@ -17,11 +16,7 @@ export default defineConfig({
     breakpoints: [640, 1080, 1280, 1920],
   },
   markdown: {
-    remarkPlugins: [
-      // Generate a table of contents if we see a "Table of Contents" header
-      [remarkToc, { maxDepth: 2 }],
-      remarkA11yEmoji,
-    ],
+    remarkPlugins: [remarkA11yEmoji],
     rehypePlugins: [rehypeBlockquoteFigures, rehypeFigcaption, rehypeSidenotes],
   },
 });

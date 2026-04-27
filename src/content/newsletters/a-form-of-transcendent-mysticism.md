@@ -1,6 +1,6 @@
 ---
 title: A Form of Transcendent Mysticism (S2E6)
-lastUpdatedDate: 2026-04-26 04:32:16.808646+00:00
+lastUpdatedDate: 2026-04-27 04:32:16.808646+00:00
 publicationDate: 2020-09-14 04:32:16.808646+00:00
 season: 2
 ---
@@ -10,8 +10,6 @@ Apologies, this will once again be a short issue—pages don’t write themselve
 ![“Ruin by the Sea”, Arnold Böcklin, 1881](../../assets/newsletters/ruin_by_the_sea.jpg)
 
 - [“Ruin by the Sea”, Arnold Böcklin, 1881](https://www.clevelandart.org/art/1979.57)
-
-## Table of Contents
 
 ## Modernism as Global Monoculture
 

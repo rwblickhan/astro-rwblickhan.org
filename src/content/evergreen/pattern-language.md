@@ -1,14 +1,12 @@
 ---
 title: Pattern Language
 description: Patterns I keep coming back to
-lastUpdatedDate: 2026-03-22
+lastUpdatedDate: 2026-04-27
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
 
 These are various “patterns” that I tend to use and reuse in my thinking. This page is inspired in no small part by Jacky Zhao’s [“A Pattern Language”](https://jzhao.xyz/thoughts/A-Pattern-Language/) and her [list of patterns](https://jzhao.xyz/tags/pattern/). Is this really accurate to Christopher Alexander’s [_A Pattern Language_](https://en.wikipedia.org/wiki/A_Pattern_Language)? No idea, but I find this useful.
-
-## Table of Contents
 
 ## Chesterton's Fence
 
