@@ -1,6 +1,6 @@
 ---
 title: You Didn’t Expect a 3000 Word Post Every Week, Did You?
-lastUpdatedDate: 2026-03-29
+lastUpdatedDate: 2026-04-26
 publicationDate: 2026-03-28
 season: 8
 ---
@@ -31,11 +31,7 @@ While I was there, I also updated the epigraph at the top so that it picks rando
 
 Of more far-reaching consequence: I’ve cleaned up the structure of my site, or, as the cool kids call it, the ~ information architecture ~
 
-If you check the [sitemap](https://rwblickhan.org/map/), you’ll now see that there’s only three major categories: evergreen (for “evergreen” lists and notes that I keep up to date), creative writing (for short stories and poetry), and newsletters (for everything else, including essays I didn’t originally send as newsletters).
-
-:::aside{.note}
-I’m still trying to think of a better name for “newsletters”. They _are_ mostly newsletters, but it’s also, just, all the rest of the content on the site? If you have a recommendation hit me up...
-:::
+If you check the [sitemap](https://rwblickhan.org/map/), you’ll now see that there’s only three major categories: evergreen (for “evergreen” lists and notes that I keep up to date), creative writing (for short stories and poetry), and newsletters (for everything else, including essays I didn’t originally send as newsletters).[^note1]
 
 I’ve been meaning to do this for a long time, but never really had the time — but now I have some time free _and_ a Claude Code that can do all the grunt work of moving the pages around and so on. I _think_ I’ve set up all the redirects correctly, but if you see a broken link, do let me know!
 
@@ -59,3 +55,5 @@ I _also_ finally wrote a custom fish prompt, so that I could [see my jj status](
 ---
 
 Tata for now. I’m off to the [San Francisco Chocolate Salon](https://www.sfchocolatesalon.com/) where I will, hopefully, have some tasty chocolate.
+
+[^note1]: I’m still trying to think of a better name for “newsletters”. They _are_ mostly newsletters, but it’s also, just, all the rest of the content on the site? If you have a recommendation hit me up...

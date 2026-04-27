@@ -1,6 +1,6 @@
 ---
 title: Essentially A Catholic Tragic Opera
-lastUpdatedDate: 2025-11-30
+lastUpdatedDate: 2026-04-26
 publicationDate: 2025-11-30
 season: 8
 ---
@@ -23,11 +23,7 @@ Speaking of Christianity: we now have season 2 of *Hazbin Hotel*, everybody’s 
 
 I enjoy *Hazbin Hotel* very much, but I acknowledge it is very much Not For Everyone. There’s a particular subgenre of intentionally-campy, found-family-focused, LGBT-authored, often-animated, often-musical media — which I am completely failing to think of other examples for, but if you know you know — which often ends up aggressively beloved more for vibes than actual quality. Which is to say, I’m sometimes underimpressed by the writing in *Hazbin* — it’s a show that often seems to think “maturity” means “using naughty words unnecessarily” and not, say, dealing with mature topics — *but* I am very much a fan of the vibes. Also, *Hazbin* has a very particular 1920s jazz-and-bootleggers aesthetic shared by, say, [*Lackadaisy*](https://lackadaisy.com/), which is like catnip to me. Or, perhaps, like a top-shelf pre-Prohibition bottle served at a speakeasy circa 1927. (I tried to make this metaphor work, I really tried.)
 
-Perhaps more importantly: *Hazbin* is another step in the long, long evolution of Abrahamic mythology. *Hazbin* quietly assumes a fairly extensive familiarity with esoteric Christian concepts — not just the overall theme of redemption, but for instance the existence of Metatron as God’s spokesangel, or Lilith as the first human woman-turned-demon (now cast as Charlie’s absentee mom).
-
-:::aside{.note}
-Esoterica alert: he had a [great video](https://youtu.be/3592DMH-eyM?si=4oLCg0zWCWIi1Tpe) this week discussing how Lilith went from a generic demonic entity to the Lilith we all know and love, thanks to a *deeply* satirical tract called *The Alphabet of Ben Sirah*.
-:::
+Perhaps more importantly: *Hazbin* is another step in the long, long evolution of Abrahamic mythology. *Hazbin* quietly assumes a fairly extensive familiarity with esoteric Christian concepts — not just the overall theme of redemption, but for instance the existence of Metatron as God’s spokesangel, or Lilith as the first human woman-turned-demon (now cast as Charlie’s absentee mom).[^note1]
 
 It’s particularly fascinating to watch while rereading *Paradise Lost*, which did so much to cement English-language conceptions of Satan. Indeed, *Hazbin* is almost as much an inversion of *Paradise Lost* as Pullman’s *His Dark Materials*, and worth watching on those grounds alone.
 
@@ -48,3 +44,5 @@ The course is (sadly) Very Not Free, although I’ve found plenty of value in it
 ---
 
 Finally, a recommendation: if you’re in the Bay Area, consider seeing Masako Miki’s [*Midnight March*](https://www.icasf.org/exhibitions/20-midnight-march) at the ICA, *for free*, while it’s still open! (You have a week!!) It’s small, but incredibly charming.
+
+[^note1]: Esoterica alert: he had a [great video](https://youtu.be/3592DMH-eyM?si=4oLCg0zWCWIi1Tpe) this week discussing how Lilith went from a generic demonic entity to the Lilith we all know and love, thanks to a *deeply* satirical tract called *The Alphabet of Ben Sirah*.

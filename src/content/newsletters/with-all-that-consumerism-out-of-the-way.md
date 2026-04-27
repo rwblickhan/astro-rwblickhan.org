@@ -1,6 +1,6 @@
 ---
 title: With All That Consumerism Out Of The Way
-lastUpdatedDate: 2025-11-02
+lastUpdatedDate: 2026-04-26
 publicationDate: 2025-10-12
 season: 8
 ---
@@ -21,11 +21,7 @@ Speaking of tomtoc: I’ve been very happy with their high-quality-lowish-price 
 
 ---
 
-My friend Kevin recently pointed out that he’s had the same Zojirushi water bottle for something like a decade. I was in the market for a new water bottle...
-
-:::aside{.note}
-My beloved [a6 memobottle](https://www.memobottle.us/products/a6-memobottle) receives far too many “is that a flask?” comments and only carries 376ml of water.
-:::
+My friend Kevin recently pointed out that he’s had the same Zojirushi water bottle for something like a decade. I was in the market for a new water bottle...[^note1]
 
 So I ended up ordering Zojirushi’s [SM-VA60](https://www.zojirushi.com/app/product/smva), which holds 20oz (~600ml) of water, keeps drinks hot or cold for hours, has a handy lip for sipping, and locks so it doesn’t spill. Highly recommended!
 
@@ -33,11 +29,7 @@ So I ended up ordering Zojirushi’s [SM-VA60](https://www.zojirushi.com/app/pro
 
 With all that consumerism out of the way:
 
-I recently finished the new R.F. Kuang novel _Katabasis_. I have... conflicted feelings. I love the concept in theory — grad school is so hellish that literally going to Hell is easier — but in practice found it a slog. It’s 550 pages! It didn’t need to be that long!
-
-:::aside{.note}
-It almost feels like two novels awkwardly stapled together. There’s a lot of _Poppy War_-style classic fantasy (bone monsters controlled by evil sorcerers) but there’s also a lot of Ishiguro-adjacent introspection about Being A Very Sad Grad Student. I probably would have liked _Katabasis_ more if the fantasy elements were cut and the focus was squarely on the mental torment of the main characters. But that probably wouldn’t have sold as well 🤷‍♀️
-:::
+I recently finished the new R.F. Kuang novel _Katabasis_. I have... conflicted feelings. I love the concept in theory — grad school is so hellish that literally going to Hell is easier — but in practice found it a slog. It’s 550 pages! It didn’t need to be that long![^note2]
 
 Which led me to a more general thought. Is novel length an underrated aspect of quality? _The English Understood Wool_ works so well _because_ it’s a breezy hundred pages — the snarky narrator would get annoying otherwise. On the other hand, I just finished Stephen King’s _It_, and that certainly couldn’t be less than 800 pages — it needs the time to worldbuild Derry and introduce two different versions of all seven main characters.
 
@@ -67,3 +59,6 @@ Anyway, Schwitzgebel fits into a long line of skeptical philosophers, from Zhuan
 ---
 
 Happy Canadian Thanksgiving! I hope the Thanksgiving turkey brought you gifts in the night.
+
+[^note1]: My beloved [a6 memobottle](https://www.memobottle.us/products/a6-memobottle) receives far too many “is that a flask?” comments and only carries 376ml of water.
+[^note2]: It almost feels like two novels awkwardly stapled together. There’s a lot of _Poppy War_-style classic fantasy (bone monsters controlled by evil sorcerers) but there’s also a lot of Ishiguro-adjacent introspection about Being A Very Sad Grad Student. I probably would have liked _Katabasis_ more if the fantasy elements were cut and the focus was squarely on the mental torment of the main characters. But that probably wouldn’t have sold as well 🤷‍♀️

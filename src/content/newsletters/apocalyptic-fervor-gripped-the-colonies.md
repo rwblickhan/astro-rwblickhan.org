@@ -1,6 +1,6 @@
 ---
 title: Apocalyptic Fervor Gripped The Colonies
-lastUpdatedDate: 2026-02-28
+lastUpdatedDate: 2026-04-26
 publicationDate: 2026-02-28
 season: 8
 ---
@@ -13,15 +13,11 @@ Hello from a San Francisco that has suddenly decided that the end of February is
 
 Things are not looking so great out there, eh? But I’m going to Ignore All That and keep writing this newsletter normally.
 
-Back in 1780, with the American Revolutionary War in full swing, the lights went out in the sky (apparently due to forest fires from Canada, so hey, I guess history does rhyme). Apocalyptic fervor gripped the colonies; many people decided to just give up  on work and go home. But one member of the Connecticut Governor’s council [refused to budge](https://www.mavengame.com/p/bring-the-candles):
+Back in 1780, with the American Revolutionary War in full swing, the lights went out in the sky (apparently due to forest fires from Canada, so hey, I guess history does rhyme). Apocalyptic fervor gripped the colonies; many people decided to just give up on work and go home. But one member of the Connecticut Governor’s council [refused to budge](https://www.mavengame.com/p/bring-the-candles):
 
 > I am against adjournment. The day of judgment is either approaching, or it is not. If it is not, there is no cause for an adjournment; if it is, I choose to be found doing my duty. I wish therefore that candles may be brought.
 
-Apparently (apparently), my duty is writing these dumb little weekly updates. Perhaps someday after [our very own Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/), someone will happen to find these newsletters on a dusty out-of-the-way server that miraculously wasn’t wiped and [use them to reconstruct our entire society](https://en.wikipedia.org/wiki/Ugaritic_texts). Who knows. I choose to be found doing my self-appointed duty.
-
-:::aside{.note}
-It may not surprise you to find out that this same event is referenced in [the latest Tor’s Cabinet](https://youtube.com/watch?v=zx5TzjRkiFc), which is otherwise a typically fascinating episode about the Universal Public Friend, a nonbinary (?) Quaker mystic who claimed to have died and been possessed by... _something from beyond_. Highly recommended as, frankly, most of Tor’s episodes are.
-:::
+Apparently (apparently), my duty is writing these dumb little weekly updates. Perhaps someday after [our very own Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)[^note1], someone will happen to find these newsletters on a dusty out-of-the-way server that miraculously wasn’t wiped and [use them to reconstruct our entire society](https://en.wikipedia.org/wiki/Ugaritic_texts). Who knows. I choose to be found doing my self-appointed duty.
 
 ---
 
@@ -34,17 +30,17 @@ A life pro tip that I suppose I should have included in my [30 pieces of advice 
 I really started to feel the inflection point earlier this week, when I decided I needed a language server for hledger. I use [hledger](https://hledger.org/) for plain-text accounting and budgeting. Sometimes I need to edit entries manually with [Helix](https://helix-editor.com/), and I wanted autocompletion, but hledger’s markup language doesn’t have a (well-maintained) [language server](https://microsoft.github.io/language-server-protocol/). So I set Claude Code up with this prompt:
 
 > Scaffold a new Rust project and implement. I want a language server for the ledger / hledger programming languages, following the LSP protocol. In particular, I want syntax
-  highlighting as well as autocompletion for account names. I'll be using this in the helix eventually, if that's important, but make it work across editors (I may use it in VS
-  Code as well). Write this as thoroughly and clearly as you can, and include automated tests where relevant. Eventually I want this to run as a single binary a la other language
-   servers
+> highlighting as well as autocompletion for account names. I'll be using this in the helix eventually, if that's important, but make it work across editors (I may use it in VS
+> Code as well). Write this as thoroughly and clearly as you can, and include automated tests where relevant. Eventually I want this to run as a single binary a la other language
+> servers
 
 I set this to auto-accept edits and left for 20 minutes to make lunch. I came back to a _complete language server implementation for hledger_, including unit tests and instructions for how to install it in Helix! There was one bug:
 
 > helix is not autocompleting quite right if I start from the middle of a world. for instance:
-  `expenses:discretionary`
-  if I delete "discretionary" and start typing "d", it correctly proposes "expenses:discretionary". however, it doesn't replace the existing "expenses:", so I end up with
-  "expenses:expenses:discretionary" when I autocomplete. is this an lsp issue? is it solvable in this codebase?
-  
+> `expenses:discretionary`
+> if I delete "discretionary" and start typing "d", it correctly proposes "expenses:discretionary". however, it doesn't replace the existing "expenses:", so I end up with
+> "expenses:expenses:discretionary" when I autocomplete. is this an lsp issue? is it solvable in this codebase?
+
 ... which Claude Code churned through given another two minutes. I barely looked at the code (so, yes, this is real vibe-coding), but it’s worked perfectly so far.
 
 And now I’m going to see if Claude can build me a fully-complete Helix implementation for CodeMirror, so I can use Helix keybindings in Obsidian.
@@ -56,7 +52,7 @@ Am I worried? After all, the very top of my homepage lists my name and identitie
 - I still need to be technical enough to _know and care_ what a language server is and why I might want to implement one.
 - As mentioned, I don’t _quite_ trust Claude enough to completely vibe-code. When using Claude Code at work, I thoroughly vet (and, often, edit) each line it outputs. Anecdotally, Claude Code feels pretty strong at the areas I tend to focus on (webapps, command line apps), and less strong at, say, mobile apps.
 - Perhaps I never put as much emphasis on the “typing keys to output code” part of programming (despite, yes, being a vimmer). I _like_ typing in code, yes, but also, a lot of programming... did feel like not-entirely-necessary boilerplate?
-- I am an _unusually_ generalist developer, in that I have worked in a professional capacity on C++ (for embedded), C++ (for computer graphics), iOS, backend, frontend, desktop (via Electron), and  prompt engineering. I perhaps feel a bit less threatened by a tool that “knows everything”
+- I am an _unusually_ generalist developer, in that I have worked in a professional capacity on C++ (for embedded), C++ (for computer graphics), iOS, backend, frontend, desktop (via Electron), and prompt engineering. I perhaps feel a bit less threatened by a tool that “knows everything”
 
 But I also feel a bit of that expressed in, say, Nolan Lawson’s [“We mourn our craft”](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/). Programming _is_ changing, for better or worse, and our careers will change with it — if they even continue at all.
 
@@ -65,3 +61,5 @@ Oh well. The day of judgment is either approaching, or it is not.
 In the meantime, I have the words of [_World of Tomorrow_](https://youtube.com/watch?v=4PUIxEWmsvI) to remember:
 
 > Do not lose time on daily trivialities. Do not dwell on petty detail. For all of these things melt away and drift apart within the obscure traffic of time. Live well and live broadly. You are alive and living now. Now is the envy of all of the dead.
+
+[^note1]: It may not surprise you to find out that this same event is referenced in [the latest Tor’s Cabinet](https://youtube.com/watch?v=zx5TzjRkiFc), which is otherwise a typically fascinating episode about the Universal Public Friend, a nonbinary (?) Quaker mystic who claimed to have died and been possessed by... _something from beyond_. Highly recommended as, frankly, most of Tor’s episodes are.

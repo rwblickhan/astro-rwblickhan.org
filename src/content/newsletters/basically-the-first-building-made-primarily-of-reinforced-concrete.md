@@ -1,6 +1,6 @@
 ---
 title: Basically The First Building Made Primarily Of Reinforced Concrete
-lastUpdatedDate: 2026-04-12
+lastUpdatedDate: 2026-04-26
 publicationDate: 2026-04-12
 season: 8
 ---
@@ -13,11 +13,7 @@ The photo up top is the [Rookery Building](https://en.wikipedia.org/wiki/Rookery
 
 ---
 
-You’ve heard of extraverts. You’ve heard of introverts. You may have heard of ambiverts, who are right in the middle of the distribution — they need some social time and some alone time. But have you heard of _omniverts_?
-
-:::aside{.note}
-I’m _still_ not sure whether “extravert” or “extrovert” is considered the more correct spelling. I’ve been corrected on _both_ spellings 🤷‍♀️
-:::
+You’ve heard of extraverts. You’ve heard of introverts. You may have heard of ambiverts, who are right in the middle of the distribution — they need some social time and some alone time. But have you heard of _omniverts_?[^note1]
 
 That’s right — I’m going to start identifying as a whole new, unexplored quadrant of the introvert/extravert axis! Because, as folks have sometimes pointed out, it’s _quite odd_ that I seem completely comfortable with _any_ level of social interaction. I can spend a week going to house parties every night after work none the worse for the wear (assuming I like the people at the parties). On the other hand, I suffered essentially no negative mental impacts from pandemic lockdowns; as long as I walked the dog every day, I was completely fine being alone all day every day.
 
@@ -46,3 +42,5 @@ I rewatched Fellini’s [_8½_](https://letterboxd.com/film/8-half/) (thanks to 
 ---
 
 I somehow missed that Men I Trust released [not one but _two_](https://en.wikipedia.org/wiki/Men_I_Trust#2025%E2%80%93present:_Forever_Live_Sessions,_Vol._2_and_Equus_albums) albums in 2025. I don’t think they quite reach the heights of their earlier EPs but I still love my funky Quebecois indie dream pop!!
+
+[^note1]: I’m _still_ not sure whether “extravert” or “extrovert” is considered the more correct spelling. I’ve been corrected on _both_ spellings 🤷‍♀️

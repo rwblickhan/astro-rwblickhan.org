@@ -1,6 +1,6 @@
 ---
 title: Just Chilly Enough For Winter, But No Rain
-lastUpdatedDate: 2025-10-19
+lastUpdatedDate: 2026-04-26
 publicationDate: 2025-10-19
 season: 8
 ---
@@ -15,11 +15,7 @@ Our team took an introductory curling class, which was surprisingly fun? I would
 
 ---
 
-I only recently learned that deodorant and anti-perspirant are _different_.
-
-:::aside{.note}
-Yes, yes, I know. Sadly there’s a lot of things you’re supposed to know as an adult that sometimes just don’t get passed down.
-:::
+I only recently learned that deodorant and anti-perspirant are _different_.[^note1]
 
 Deodorant, aside from perfuming, makes your pits acidic, so that smelly bacteria can’t hang out. Anti-perspirant literally plugs up your pores so that you can’t sweat, most commonly with aluminum, which tends to stain clothes.
 
@@ -33,15 +29,7 @@ That said: I do like the Wirecutter’s podcast. It has a fair amount of self-co
 
 ---
 
-I was listening to [Sam Arbesman’s interview with Linda Liukas](https://youtu.be/qYbhMV0W-m4?si=u-BJZifvzGSnC-dT) on _Orthogonal Bet_, and while I can’t entirely recommend the episode...
-
-:::aside{.note}
-I’ve never really preferred these podcasts that are just “two people talking”, since they often feel like an unedited ramble, with no narrative or themes. I tend to skip boring questions, get lost in the conversation, and give up on the episode.
-
-_Conversations with Tyler_ and _Ones & Tooze_ are the exceptions that prove the rule. _Conversations_ is mostly engaging from the sheer weirdness of Tyler Cowen’s questions, while _Ones & Tooze_ is a conversation in name only — in practice, Adam Tooze takes over most episodes with an economic narrative.
-
-Otherwise, I strongly prefer public-radio-style narrative podcasts.
-:::
+I was listening to [Sam Arbesman’s interview with Linda Liukas](https://youtu.be/qYbhMV0W-m4?si=u-BJZifvzGSnC-dT) on _Orthogonal Bet_, and while I can’t entirely recommend the episode...[^note2]
 
 ... but Linda did make an interesting point, which was that curiosity is like a muscle — you have to practice, you have to keep asking _why_.
 
@@ -62,3 +50,6 @@ So to find that link above, I just typed something along the lines of “have a 
 ---
 
 I’ve run out of holidays to wish! Although I suppose Diwali and Halloween are coming up. In any case, have a good week.
+
+[^note1]: Yes, yes, I know. Sadly there’s a lot of things you’re supposed to know as an adult that sometimes just don’t get passed down.
+[^note2]: I’ve never really preferred these podcasts that are just “two people talking”, since they often feel like an unedited ramble, with no narrative or themes. I tend to skip boring questions, get lost in the conversation, and give up on the episode.  _Conversations with Tyler_ and _Ones & Tooze_ are the exceptions that prove the rule. _Conversations_ is mostly engaging from the sheer weirdness of Tyler Cowen’s questions, while _Ones & Tooze_ is a conversation in name only — in practice, Adam Tooze takes over most episodes with an economic narrative.  Otherwise, I strongly prefer public-radio-style narrative podcasts.

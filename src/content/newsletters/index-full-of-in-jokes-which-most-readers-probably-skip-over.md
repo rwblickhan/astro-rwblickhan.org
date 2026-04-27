@@ -1,6 +1,6 @@
 ---
 title: Index Full Of In-Jokes Which Most Readers Probably Skip Over
-lastUpdatedDate: 2026-04-07
+lastUpdatedDate: 2026-04-26
 publicationDate: 2026-04-05
 season: 8
 ---
@@ -28,15 +28,7 @@ I’ve also been reading a lot, because of _course_ I have. Partly that’s beca
 9. A novel by [Nabokov](https://en.wikipedia.org/wiki/Vladimir_Nabokov) (I picked [_Pale Fire_](https://en.wikipedia.org/wiki/Pale_Fire))
 10. A novel by [Pynchon](https://en.wikipedia.org/wiki/Thomas_Pynchon) (I picked [_The Crying of Lot 49_](https://en.wikipedia.org/wiki/The_Crying_of_Lot_49))
 11. A novel by [Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami) (no idea what I’ll pick, hit me up if you have opinions)
-12. A novel by [Toni Morrison](https://en.wikipedia.org/wiki/Toni_Morrison) (no idea what I’ll pick, hit me up if you have opinions)
-
-:::aside{.note}
-It’s interesting that it feels very natural to refer to “Nabokov”, “Pynchon”, and “Murakami” mononymously but not so much P.G. Wodehouse and Toni Morrison. I’m not convinced this is just a case of Toni Morrison being less valued, or Morrison being a more common last name (I could be talking about [Grant Morrison](https://en.wikipedia.org/wiki/Grant_Morrison) I suppose, which would be fitting, in a [“Last War in Albion”](https://www.eruditorumpress.com/last-war-in-albion) way, with the inclusion of Alan Moore’s _From Hell_ on the list). Something about referring to Toni Morrison as just “Morrison” just... feels wrong. Incomplete. She’s _Toni Morrison_! She’s a titan of 20th century literature! She deserves her whole name!
-:::
-
-:::aside{.note}
-macOS is insisting that “mononymously” is not a valid word, but I swear I’ve seen it before — I even know how to spell it! But, sure enough, the OED says that the [earliest reference](https://www.oed.com/dictionary/mononymously_adv?tl=true) to “mononymously” is only 2001!
-:::
+12. A novel by [Toni Morrison](https://en.wikipedia.org/wiki/Toni_Morrison) (no idea what I’ll pick, hit me up if you have opinions)[^note1][^note2]
 
 This list may be... ambitious... given that _Middlemarch_, _Infinite Jest_, and _Jonathan Strange and Mr Norrell_ are a thousand pages a piece. (There’s a reason I picked Pynchon’s shortest book by a country mile...) Also, I keep getting distracted with mere 500-page novels like _Your Name Here_ (see below). But so far I’ve kept up, so we’ll see where I am in a couple months!
 
@@ -108,23 +100,11 @@ Now, I do understand why some people are turned off by the _plot_. Bored housewi
 
 It’s a very, very Russellcore book.
 
-It has multi-page-long exposition of Maxwell’s Demon and the connection between information and entropy. It has a page-long discussion of Remedios Varo’s [“Bordando el manto terrestre”](https://historia-arte.com/obras/bordando-el-manto-terrestre), one of my favorite art pieces ever. It has a made-up Puritan sect from the English Civil War and prominently features the Thurn-und-Taxis postal monopoly of the Holy Roman Empire. It starts as a light-hearted, indeed frivolous, comedy, and slowly devolves into paranoia that there might be _something_, vaster than any of us understand, hidden just out of sight, as the ominous muted-posthorn symbol and acronym W.A.S.T.E. start appearing everywhere. It has long stretches of beautiful prose to say, basically, “Oedipa was feeling nostalgic.” I loved it. I loved loved loved loved it. But I also suspect most people I recommend it to will be put off by it. Oh well — at 150 short pages, it’s worth a try.
-
-:::aside{.note}
-Radiohead loves this novel too! Their online store is called W.A.S.T.E. I strongly suspect Wes Anderson does too — _Grand Budapest Hotel_ also has a plot that can basically be summed up as “someone unexpectedly inherits an estate and gets wrapped up in a conspiracy involved the Thurn-und-Taxis family.”
-:::
-
-:::aside{.note}
-I was vaguely aware that _One Battle After Another_ was a loose adaptation of Pynchon’s novel _Vineland_, but I didn’t realize just how much Pynchon it had. The weird names? The alternate America that is almost, but not exactly, just like the America of the late 20th century? The picaresque structure? The sense of paranoia? The sense of rootlessness, of a world gone slightly mad by modernity? All Pynchon.
-:::
+It has multi-page-long exposition of Maxwell’s Demon and the connection between information and entropy. It has a page-long discussion of Remedios Varo’s [“Bordando el manto terrestre”](https://historia-arte.com/obras/bordando-el-manto-terrestre), one of my favorite art pieces ever. It has a made-up Puritan sect from the English Civil War and prominently features the Thurn-und-Taxis postal monopoly of the Holy Roman Empire. It starts as a light-hearted, indeed frivolous, comedy, and slowly devolves into paranoia that there might be _something_, vaster than any of us understand, hidden just out of sight, as the ominous muted-posthorn symbol and acronym W.A.S.T.E. start appearing everywhere. It has long stretches of beautiful prose to say, basically, “Oedipa was feeling nostalgic.” I loved it. I loved loved loved loved it. But I also suspect most people I recommend it to will be put off by it. Oh well — at 150 short pages, it’s worth a try.[^note3][^note4]
 
 ---
 
-Recently a friend asked me if I was an “oakloh kid”. I had to ask what they meant three times, because I had _no idea_ what they meant, but I eventually worked out that they were talking about French underground musician [Oklou](https://en.wikipedia.org/wiki/Oklou).
-
-:::aside{.note}
-Apparently Oklou is pronounced “okay Lou”, since her name is Marylou.
-:::
+Recently a friend asked me if I was an “oakloh kid”. I had to ask what they meant three times, because I had _no idea_ what they meant, but I eventually worked out that they were talking about French underground musician [Oklou](https://en.wikipedia.org/wiki/Oklou).[^note5]
 
 I was not, at the time, an Oklou kid. So I dutifully looked up her first full-length LP, [_choke enough_](https://en.wikipedia.org/wiki/Choke_Enough), and uh that was a week ago and I’ve listened to the entire album at least 3 times a day since then so I guess I’m an Oklou kid now. She combines some of the best downtempo production I’ve ever heard with Broadcast-style word-salad tone poetry and the result is intoxicating.
 
@@ -133,3 +113,9 @@ Meanwhile, the new [Underscores](<https://en.wikipedia.org/wiki/Underscores_(mus
 ---
 
 Alright, I’m off to Chicago for a week. Next missive in T-minus one week.
+
+[^note1]: It’s interesting that it feels very natural to refer to “Nabokov”, “Pynchon”, and “Murakami” mononymously but not so much P.G. Wodehouse and Toni Morrison. I’m not convinced this is just a case of Toni Morrison being less valued, or Morrison being a more common last name (I could be talking about [Grant Morrison](https://en.wikipedia.org/wiki/Grant_Morrison) I suppose, which would be fitting, in a [“Last War in Albion”](https://www.eruditorumpress.com/last-war-in-albion) way, with the inclusion of Alan Moore’s _From Hell_ on the list). Something about referring to Toni Morrison as just “Morrison” just... feels wrong. Incomplete. She’s _Toni Morrison_! She’s a titan of 20th century literature! She deserves her whole name!
+[^note2]: macOS is insisting that “mononymously” is not a valid word, but I swear I’ve seen it before — I even know how to spell it! But, sure enough, the OED says that the [earliest reference](https://www.oed.com/dictionary/mononymously_adv?tl=true) to “mononymously” is only 2001!
+[^note3]: Radiohead loves this novel too! Their online store is called W.A.S.T.E. I strongly suspect Wes Anderson does too — _Grand Budapest Hotel_ also has a plot that can basically be summed up as “someone unexpectedly inherits an estate and gets wrapped up in a conspiracy involved the Thurn-und-Taxis family.”
+[^note4]: I was vaguely aware that _One Battle After Another_ was a loose adaptation of Pynchon’s novel _Vineland_, but I didn’t realize just how much Pynchon it had. The weird names? The alternate America that is almost, but not exactly, just like the America of the late 20th century? The picaresque structure? The sense of paranoia? The sense of rootlessness, of a world gone slightly mad by modernity? All Pynchon.
+[^note5]: Apparently Oklou is pronounced “okay Lou”, since her name is Marylou.

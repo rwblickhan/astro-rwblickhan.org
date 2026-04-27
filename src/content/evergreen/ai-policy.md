@@ -1,12 +1,8 @@
 ---
 title: AI Policy
-lastUpdatedDate: 2026-03-22
+lastUpdatedDate: 2026-04-26
 description: My policy on the use of large language models, diffusion models, and other so-called generative AI tools
 ---
-
-:::aside{.note}
-This is a living document, which will evolve as my thinking does. I’ll keep a changelog at the bottom.
-:::
 
 _Previously: [“Perplexed with Perplexity”](https://rwblickhan.org/newsletters/perplexed-with-perplexity/), [“But What Is It \*Good\* For?”](https://rwblickhan.org/newsletters/but-what-is-it-good-for/), [“Let’s Think Step-by-Step”](https://rwblickhan.org/newsletters/lets-think-step-by-step/)_
 

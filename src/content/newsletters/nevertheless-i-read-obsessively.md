@@ -1,6 +1,6 @@
 ---
 title: Nevertheless, I Read Obsessively
-lastUpdatedDate: 2025-12-28
+lastUpdatedDate: 2026-04-26
 publicationDate: 2025-12-28
 season: 8
 ---
@@ -85,11 +85,7 @@ But if you, like myself, are a fan of all things Carrington — if you went to M
 
 I read Philip Ball’s [*Beyond Weird*](https://app.thestorygraph.com/books/5e86090c-f1f0-4fff-921c-c8cd18c014d7) years ago in university and decided to revisit it, since I had retained almost nothing. This time, however, I carefully wrote up spaced-repetition notes as I read, so *hopefully* I will actually retain some of it this time.
 
-*Beyond Weird* is *probably* the best pop-science introduction to quantum mechanics available.
-
-:::aside{.note}
-If you have enough of a math or physics background, [*Quantum Mechanics: The Theoretical Minimum*](https://app.thestorygraph.com/books/5cac03b9-8902-4592-a071-97b0970f36a8) is probably the best introduction overall, but it’s so minimal and moves so fast that, frankly, I still found it too dense. But I also didn’t devote the time to it that I should have — you’ll probably have a better experience if you actually take the time to do all the exercises.
-:::
+*Beyond Weird* is *probably* the best pop-science introduction to quantum mechanics available.[^note1]
 
 Ball is fantastic at explaining the rather esoteric concepts of quantum mechanics without *overexplaining* or, as the case may be, oversimplifying. In particular, he avoids the trap of treating quantum mechanics as particularly spooky or weird, instead clearly explaining the core conceptual difficulties and what physicists *have* unraveled since the field was founded (notably, how decoherence occurs, which is usually dropped even from undergraduate physics classes!). I’m excited to check out his latest book, [*How Life Works*](https://app.thestorygraph.com/books/a266fa71-5e93-4742-a5b7-aac053b4047d), next year.
 
@@ -122,3 +118,5 @@ I [discussed](https://rwblickhan.org/newsletters/essentially-a-catholic-tragic-o
 I’ve [complained](https://rwblickhan.org/newsletters/time-to-read-the-eastern-classics/#zhuangzi) about the [*Zhuangzi*](https://app.thestorygraph.com/books/737d2fbe-a5d2-4088-b761-522715fe222e) before, but I did in fact power through it this year and come to appreciate it, especially after reading Brook Zipporyn’s supplemental essay [“Zhuangzi as Philosopher”](https://hackettpublishing.com/zhuangziphil). That essay explains Zhuangzi as a (rather unique) skeptical philosopher who maintains a “wild card” perspective in which *every* perspective is valid *from the point of view of that perspective* (including, of course, the “wild card” perspective itself) and can therefore be used or discarded as appropriate.
 
 I still can’t exactly recommend the *Zhuangzi* to the average reader, but if you’re interested at all in skepticism or Chinese philosophy or religion, the *Zhuangzi* is one of the most important works to engage with.
+
+[^note1]: If you have enough of a math or physics background, [*Quantum Mechanics: The Theoretical Minimum*](https://app.thestorygraph.com/books/5cac03b9-8902-4592-a071-97b0970f36a8) is probably the best introduction overall, but it’s so minimal and moves so fast that, frankly, I still found it too dense. But I also didn’t devote the time to it that I should have — you’ll probably have a better experience if you actually take the time to do all the exercises.

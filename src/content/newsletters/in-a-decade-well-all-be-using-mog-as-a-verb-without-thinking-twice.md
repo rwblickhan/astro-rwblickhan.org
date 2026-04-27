@@ -1,6 +1,6 @@
 ---
 title: In A Decade We’ll All Be Using “Mog” As A Verb Without Thinking Twice
-lastUpdatedDate: 2026-02-21
+lastUpdatedDate: 2026-04-26
 publicationDate: 2026-02-21
 season: 8
 ---
@@ -17,11 +17,7 @@ Also, if I recall correctly, the video was talking about _Andor_, which may have
 
 ---
 
-A stray thought I haven’t had a chance to fully explore yet: perhaps liberal democracy is breaking down because shame has stopped working, but perhaps shame stopped working _because liberal democracy is functioning correctly_.
-
-:::aside{.note}
-Friendly reminder that I use “liberalism” in the political theory sense — think Rawls, not the Democrats.
-:::
+A stray thought I haven’t had a chance to fully explore yet: perhaps liberal democracy is breaking down because shame has stopped working, but perhaps shame stopped working _because liberal democracy is functioning correctly_.[^note1]
 
 To wit: Trump is successful (insofar as he is successful) because he’s utterly shameless. In a “reasonable” world, the sheer inanity of what he says would send most politicians fleeing to a comfortable retirement. The only thing stopping American presidents from misusing their powers is a.) constitutional mechanisms (which are clearly breaking down) b.) a deeply-ingrained sense of dignity and externally-enforced shame. But if you have someone totally shameless, in the sense of _being unable to be shamed_, the system just flops over.
 
@@ -34,3 +30,5 @@ Of course all this gets complicated when political theory meets political realit
 This week Apple Music’s suggestions came in use for perhaps the first time in history, as I discovered Sparks, or more specifically their 1974 breakout _Kimono My House_ and their 2015 crossover with Franz Ferdinand, _FFS_.
 
 The Sparks brothers are a beloved cult classic band — they’ve influenced bands from Pet Shop Boys to They Might Be Giants, and they even have an [Edgar Wright-directed documentary](https://letterboxd.com/film/the-sparks-brothers/)  — but despite being active continuously since the early ‘70s (!) I’ve literally never heard of them. That has now been corrected — their blend of jaunty electropop-meets-nonsense lyrics is, of course, right up my alley.
+
+[^note1]: Friendly reminder that I use “liberalism” in the political theory sense — think Rawls, not the Democrats.
