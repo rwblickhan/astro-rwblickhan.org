@@ -1,6 +1,6 @@
 ---
 title: All Writing’d Out (AD S4E7)
-lastUpdatedDate: 2024-07-17 00:02:31.178204+00:00
+lastUpdatedDate: 2026-04-26 00:02:31.178204+00:00
 publicationDate: 2021-04-26 00:02:31.178204+00:00
 season: 4
 ---
@@ -13,7 +13,7 @@ season: 4
 
 Unfortunately I am all writing’d out so this is more of a “yes, I’m still alive” newsletter. One interesting link this week:
 
-* ["Candida Xu: a highly literate Chinese woman of the 17th century”](https://languagelog.ldc.upenn.edu/nll/?p=47585&utm_source=rss&utm_medium=rss&utm_campaign=candida-xu-a-highly-literate-chinese-woman-of-the-17th-century)
+- ["Candida Xu: a highly literate Chinese woman of the 17th century”](https://languagelog.ldc.upenn.edu/nll/?p=47585&utm_source=rss&utm_medium=rss&utm_campaign=candida-xu-a-highly-literate-chinese-woman-of-the-17th-century)
 
 ## What’s New, Rooby-Doo?
 

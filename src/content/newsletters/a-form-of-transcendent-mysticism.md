@@ -1,6 +1,6 @@
 ---
 title: A Form of Transcendent Mysticism (S2E6)
-lastUpdatedDate: 2024-07-17 04:32:16.808646+00:00
+lastUpdatedDate: 2026-04-26 04:32:16.808646+00:00
 publicationDate: 2020-09-14 04:32:16.808646+00:00
 season: 2
 ---
@@ -19,10 +19,10 @@ We frequently talk of “Westernization”, but it may be more profitable to spe
 
 Interestingly, I don’t think this package of cultural features includes some things that most people would assume. For instance, I *don’t* think secularization is a necessary part of modernization—or, at least, Mormons seem a counterexample. So what kind of cultural practices might be included?  
 
-* Relatively widespread, if not universal, literacy
-* An emphasis on monogamy (concubinage and polygamy are largely foreign to modernity, even in societies—even in Europe!—that once had them) and binary gender (now being exploded, of course—but it’s interesting to note that many pre-modern societies had gender categories, notably eunuchs, that simply don’t exist anymore)
-* Clothing—traditional clothing worldwide seems to be dying out, in favor of a more standardized, globalized style, of suits and pants and the like (interestingly, this isn’t purely a Western imposition—after all, [Mao suits](https://en.wikipedia.org/wiki/Mao_suit) are called that for a reason!)
-* [Modern militaries](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) (the linked piece is incidentally about why chemical weapons are rarely used, but along the way explains the development of modern militaries)
+- Relatively widespread, if not universal, literacy
+- An emphasis on monogamy (concubinage and polygamy are largely foreign to modernity, even in societies—even in Europe!—that once had them) and binary gender (now being exploded, of course—but it’s interesting to note that many pre-modern societies had gender categories, notably eunuchs, that simply don’t exist anymore)
+- Clothing—traditional clothing worldwide seems to be dying out, in favor of a more standardized, globalized style, of suits and pants and the like (interestingly, this isn’t purely a Western imposition—after all, [Mao suits](https://en.wikipedia.org/wiki/Mao_suit) are called that for a reason!)
+- [Modern militaries](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) (the linked piece is incidentally about why chemical weapons are rarely used, but along the way explains the development of modern militaries)
 
 Anyway, I’m not an anthropologist, for whom these kinds of observations are probably old hat, but I thought it was interesting to consider the spread of “modernity” nonetheless.
 
