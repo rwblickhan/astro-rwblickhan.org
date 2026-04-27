@@ -1,6 +1,6 @@
 ---
 title: Hopefully A Nice Chance for Rest and Relaxation (AiD #22)
-lastUpdatedDate: 2024-07-17 05:24:12.314458+00:00
+lastUpdatedDate: 2026-04-26 05:24:12.314458+00:00
 publicationDate: 2020-04-27 05:24:12.314458+00:00
 season: 1
 ---
@@ -13,7 +13,7 @@ Hello all and hopefully you’re all staying safe and sane. Personally, I (and, 
 
 Art this week is a series of Neoclassical Roman ruins, found by browsing the [open access portion of the Art Institute of Chicago’s collection](https://www.artic.edu/collection?is_public_domain=1)[^1] I could have highfalutin’ thoughts about these, but to be honest, I think they simply caught my eye because they remind me of video game concept art. It also helps that they have a distinctly early-medieval-ruins-of-past-glories vibe that gels well with, well…
 
-### What I’m Working On
+## What I’m Working On
 
 I didn’t get much done on buttonup, my Buttondown iOS client, this week, though interestingly Sherry started a rival Android client and got significantly farther than me. As always, you can follow the development in the [dev diary](https://buttondown.email/buttonup). In fact, I didn’t get much at all “productive” done—perhaps I’ve been working too hard at my day job 😛 Then again, I did just receive a promotion, so that’s nice.
 
@@ -55,7 +55,7 @@ I’ve also _once again_ starting a writing project that will probably never go 
 
 [The Obelisk, Hubert Robert, 1787-88](https://www.artic.edu/artworks/57049/the-obelisk)
 
-### What I’m Reading
+## What I’m Reading
 
 I keep saying I’ve been too lazy to read books, but actually I’ve gotten through both [Leviticus](https://en.wikipedia.org/wiki/Book_of_Leviticus) and [Numbers](https://en.wikipedia.org/wiki/Book_of_Numbers) in [Robert Alter’s Hebrew Bible translation](https://www.goodreads.com/book/show/38212108-the-hebrew-bible?ac=1&from_search=true&qid=K1tdOGbxBQ&rank=1), both of which are… not that easy to get through! ([Apocrypals](http://apocrypals.libsyn.com) helped.) I’m sad to say _Ancillary Justice_ failed to grab my attention (I’ll try it again soon) and while I’m still getting through _Rise and Kill First_, I wanted a break for some fiction. So, before jumping into Deuteronomy, I’m finally tackling that Oxford World’s Classics copy of _Paradise Lost_ I bought a while back, which is, of course, astounding from pretty much the first line.
 
@@ -73,9 +73,9 @@ Finally, here’s a random Wikipedia page on the [Yarsani religion](https://en.w
 
 [The Landing Place, Hubert Robert, 1787-88](https://www.artic.edu/artworks/57050/the-landing-place)
 
-### What I’m Watching
+## What I’m Watching
 
-I thought _Parasite_ was the clear winner of 2019, but I hadn’t caught _Knives Out_,  a classic murder mystery (with a twist!) written and directed by Rian Johnson (of _The Last Jedi_ infamy, although I actually _like_ _The Last Jedi_, so…). I don’t have much to add other than this syllogism: a.) I love murder mysteries b.) this is a really, really good murder mystery c.) therefore, I love this really, really good murder mystery. Much like _Parasite_, the _craft_ of filmmaking is on display every scene—it will no doubt reward rewatches—and like any good genre fiction, the clever and rewarding. For more on the first, watch [Rian Johnson break down a scene](https://youtu.be/69GjaVWeGQM), and for the second, here’s [video essayist Just Write on how it switches genres](https://youtu.be/AfF7-vJJBNY) (although be forewarned that the second in particular spoils essentially the whole film, and this is one of those very very rare films that I think is worth seeing unspoiled).
+I thought _Parasite_ was the clear winner of 2019, but I hadn’t caught _Knives Out_, a classic murder mystery (with a twist!) written and directed by Rian Johnson (of _The Last Jedi_ infamy, although I actually _like_ _The Last Jedi_, so…). I don’t have much to add other than this syllogism: a.) I love murder mysteries b.) this is a really, really good murder mystery c.) therefore, I love this really, really good murder mystery. Much like _Parasite_, the _craft_ of filmmaking is on display every scene—it will no doubt reward rewatches—and like any good genre fiction, the clever and rewarding. For more on the first, watch [Rian Johnson break down a scene](https://youtu.be/69GjaVWeGQM), and for the second, here’s [video essayist Just Write on how it switches genres](https://youtu.be/AfF7-vJJBNY) (although be forewarned that the second in particular spoils essentially the whole film, and this is one of those very very rare films that I think is worth seeing unspoiled).
 
 Maybe video games are not art; but if not, then they definitely constitute literature, and in literature, there are literary critics who can [greatly enrich](https://www.goodreads.com/book/show/38212108-the-hebrew-bible?ac=1&from_search=true&qid=ak4wfU7SeI&rank=1) the experience of a work. In video games, one example is [_Killing Is Harmless: A Critical Reading of Spec Ops: The Line_](https://www.goodreads.com/book/show/16162864-killing-is-harmless?from_search=true&from_srp=true&qid=YnOSnMXetO&rank=1) (a member of my personal [antilibrary](https://www.antilibrari.es/about/)—unread but influenced), and another is the work of video essayist Jacob Geller (who, if memory serves, I have linked before). Geller has [done it again](https://youtu.be/7MOKTU9tCbw), combining history and video games criticism into an alluring yet terrifying exploration of the uncanny appeal of the deep places of the world.
 
@@ -93,9 +93,9 @@ I’ve been hitting up the _Crusader Kings 2_ soundtrack, for reasons probably b
 
 On the podcast side, I fell in love with [Radiolab’s “The Other Latif”](https://www.wnycstudios.org/podcasts/radiolab/projects/other-latif-series), in which Radiolab’s Latif Nasser discovers he shares a name with a Guantanamo internee. Interesting for all the reasons you would expect (i.e. gross miscarriage of justice), but it also serves as a great vehicle to explore the history of the US and radical Islam in the late ‘90s and early 2000s, which is to say, did you know Osama Bin Laden owned a [Yemeni farm “larger than the United Arab Emirates”](https://en.wikipedia.org/wiki/Al-Damazin_Farms)?
 
-I’ve also just started (and consumed half of) the [_History of Persia_ podcast](https://historyofpersiapodcast.com), which does fall squarely in that genre of “American history undergrad inspired by [_History of Rome_](https://en.wikipedia.org/wiki/The_History_of_Rome_(podcast)) explains two thousand years of history” (see also: [_History of Byzantium_](https://thehistoryofbyzantium.com), [_History of China_](https://thehistoryofchina.wordpress.com)), but also… it’s pretty good? I mean, the host is a flaired commenter on r/AskHistorians, and not just anybody can be a flaired commenter on r/AskHistorians 🙂
+I’ve also just started (and consumed half of) the [_History of Persia_ podcast](https://historyofpersiapodcast.com), which does fall squarely in that genre of “American history undergrad inspired by [_History of Rome_](<https://en.wikipedia.org/wiki/The_History_of_Rome_(podcast)>) explains two thousand years of history” (see also: [_History of Byzantium_](https://thehistoryofbyzantium.com), [_History of China_](https://thehistoryofchina.wordpress.com)), but also… it’s pretty good? I mean, the host is a flaired commenter on r/AskHistorians, and not just anybody can be a flaired commenter on r/AskHistorians 🙂
 
-### The Rooibos Corner
+## The Rooibos Corner
 
 ![Rooibos sleeping](../../assets/newsletters/rooibos_sleeping.jpg)
 

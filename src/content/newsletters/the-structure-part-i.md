@@ -1,6 +1,6 @@
 ---
 title: The Structure, Part I (S3E4)
-lastUpdatedDate: 2024-07-17 04:42:37.885794+00:00
+lastUpdatedDate: 2026-04-26 04:42:37.885794+00:00
 publicationDate: 2020-12-28 04:42:37.885794+00:00
 season: 3
 ---
@@ -31,7 +31,7 @@ Tamblyn felt a pit open at the bottom of her stomach. Nobody could remember the 
 
 “It’s not a mistake,” Lee said, side-eyeing the ambitious young lieutenant. “The Three Magi triple-checked the output.”
 
-“Well, what *can* He say about it?” Tomis broke in, hoping to head off a conflict between the two rivals.
+“Well, what _can_ He say about it?” Tomis broke in, hoping to head off a conflict between the two rivals.
 
 Lee shuffled through her papers. “It’s some kind of superstructure. Based on His description, the Three Magi have estimated it at 1.36% of Terra’s mass.”
 
@@ -43,7 +43,7 @@ Lee shuffled through her papers. “It’s some kind of superstructure. Based on
 
 “Mm, He feels there may be other such structures that He has not been able to detect yet. Indeed, He feels they may even be…” She hesitated to say the curse word.
 
-“*Alien*,” Tamblyn supplied. Lee and Tomis glanced over at her — Tamblyn was not known to swear freely, unlike some of her underlings — but given the gravity of the situation they didn’t comment.
+“_Alien_,” Tamblyn supplied. Lee and Tomis glanced over at her — Tamblyn was not known to swear freely, unlike some of her underlings — but given the gravity of the situation they didn’t comment.
 
 “In any case,” Lee continued, “the Three Magi have calculated a threat assessment of Orange-Omega, which, as you know, demands an immediate exploratory team and a state of high alert among those with clearance.”
 

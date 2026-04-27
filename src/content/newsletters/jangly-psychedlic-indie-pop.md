@@ -1,15 +1,15 @@
 ---
 title: Jangly Psychedelic Indie Pop
-lastUpdatedDate: 2024-07-17 06:34:20.911876+00:00
+lastUpdatedDate: 2026-04-26 06:34:20.911876+00:00
 publicationDate: 2019-12-09 06:34:20.911876+00:00
 season: 1
 ---
 
 ![Warning lights along Caltrain](../../assets/newsletters/train_warning_lights.jpg)
 
- Short one this week because I’m lazy, sorry.
+Short one this week because I’m lazy, sorry.
 
-### What I'm Watching
+## What I'm Watching
 
 We finished up _American Horror Story: Cult_, which was reasonably entertaining if not particularly good.
 
@@ -19,11 +19,11 @@ We’ve also watched a bit more of David Chang’s other show, _Breakfast, Lunch
 
 … I will keep kicking the metaphorical _End of Evangelion_ can down the road, probably until Christmas, or I forget about it.
 
-### What I’m Eating
+## What I’m Eating
 
 Trader Joe’s has ghost pepper potato chips that combine umami, spicy, and crunchy in such equal measure that they’re basically my idea of a perfect snack. They almost, but not _quite_, make up for the inability to find Sichuan peppercorn Lay’s in North America.
 
-### What I'm Listening To
+## What I'm Listening To
 
 There’s new [Broken Bells](https://youtu.be/Lkv2zF2Bgq0)!!!
 
@@ -33,7 +33,7 @@ I heard [Anemone](https://youtu.be/ByQPLnw604w) at an Everlane (I wasn’t doing
 
 Hopefully this has been a very exciting section to read!!!
 
-### What I'm Reading
+## What I'm Reading
 
 I finished (and loved) Harry Miller’s _State Vs Gentry in Late Ming Dynasty China, 1572-1644_, a scholarly monograph about (what else?) political battles between the state and the gentry in late Ming dynasty China. You can probably tell if it’s a book for you based on the fact the title ends with a date range, but! If it is a book for you, it is _definitely_ a book for you—Miller writes very clearly and concisely, but covers pretty much everything you might want to know about, well, the topic in the title.
 
@@ -41,7 +41,7 @@ So. I finish _Black Leopard, Red Wolf_. If ever there was a book to be described
 
 Anyway, I liked [Amal El-Mohtar’s review](https://www.npr.org/2019/02/08/692415906/black-leopard-red-wolf-is-a-beast-of-a-book) (on a related note, I’m still waiting for my hold on _This Is How You Lose The Time War_ to come in 🙂).
 
-### What I'm Working On
+## What I'm Working On
 
 As I mentioned last time, I was revamping and rebuilding my NaNoWriMo story; that’s now at about 10,000 words (although I could probably double that by picking wisely from the NaNoWriMo draft). I was hoping to have a first draft done by Christmas, but… eh, that’s not going to happen. But I might get most of the way there.
 

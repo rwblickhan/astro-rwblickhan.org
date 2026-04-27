@@ -1,8 +1,10 @@
 ---
 title: "Technical TILs"
 description: Small technical things I've learned over the years
-lastUpdatedDate: 2026-04-16
+lastUpdatedDate: 2026-04-26
 ---
+
+<!-- markdownlint-disable no-duplicate-heading -->
 
 This is my list of TIL (Today I Learned) posts, inspired by [Simon Willison's TIL](https://til.simonwillison.net) page.
 
@@ -118,7 +120,7 @@ Whenever I click an anchor link or load the page (which might load directly to a
 
 ## scroll-padding
 
-[Yesterday I said](#position-sticky-scrolling) that, when using a sticky header, there's no way to scroll to the correct position using only CSS. I should have known better than to trust ChatGPT or my Googling abilities!
+[Yesterday I said](#position-sticky-and-scrolling) that, when using a sticky header, there's no way to scroll to the correct position using only CSS. I should have known better than to trust ChatGPT or my Googling abilities!
 
 You can in fact specify [`scroll-padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding), which adds padding to the scrollable area and allows anchor links to respect the header offset, just like I wanted. I've removed the extra JavaScript and added a `scroll-padding-top` instead.
 
@@ -841,7 +843,7 @@ Did you know you can add custom keyboard shortcuts for pretty much any app on ma
 
 I learned this recently reading the [iA Writer docs](https://ia.net/writer/support/basics/shortcuts?tab=mac#custom-keyboard-shortcuts-mac). If you go into System Settings -> Keyboard -> Keyboard Shortcuts... -> App Shortcuts[^change], you can set arbitrary keyboard shortcuts for any menu items in any app, even if they already have keyboard shortcuts set. That let me swap around Cmd-O and Cmd-Shift-O in iA Writer!
 
-See also: [Command K Bars in Any App via Raycast](#command-k-via-raycast)!
+See also: [Command K Bars in Any App via Raycast](#command-k-bars-in-any-app-via-raycast)!
 
 ### References
 

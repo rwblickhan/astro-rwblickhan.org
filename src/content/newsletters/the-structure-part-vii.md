@@ -1,11 +1,16 @@
 ---
 title: The Structure, Part VII (AD S3E12)
-lastUpdatedDate: 2024-07-17 04:06:53.808228+00:00
+lastUpdatedDate: 2026-04-26 04:06:53.808228+00:00
 publicationDate: 2021-02-22 04:06:53.808228+00:00
 season: 3
 ---
 
-The complete story can be found [here](https://rwblickhan.org/stories/thestructure/).
+- [Part I](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/)
+- [Part II](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/)
+- [Part III](https://buttondown.email/rwblickhan/archive/the-structure-part-iii-s3e6/)
+- [Part IV](https://buttondown.email/rwblickhan/archive/the-structure-part-iv-s3e7/)
+- [Part V](https://buttondown.email/rwblickhan/archive/the-structure-part-v-s3e8/)
+- [Part VI](https://buttondown.email/rwblickhan/archive/the-structure-part-vi-s3e9/)
 
 ![Celestograph by August Strindberg](../../assets/newsletters/celestograph.jpg)
 

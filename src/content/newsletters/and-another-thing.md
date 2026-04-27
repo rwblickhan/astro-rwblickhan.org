@@ -1,11 +1,11 @@
 ---
 title: ... And Another Thing
-lastUpdatedDate: 2024-07-17 04:19:14.633100+00:00
+lastUpdatedDate: 2026-04-26 04:19:14.633100+00:00
 publicationDate: 2020-03-16 04:19:14.633100+00:00
 season: 1
 ---
 
-Right after going to press, I saw [this video](https://youtu.be/Q734VN0N7hw) about Italians singing from the rooftop to survive quarantine and Chinese sending videos of support to Italy, which is achingly beautiful; despite it all, despite whatever rivalries and madness, humans are social creatures and stand together when necessary. It reminds me of a reference in *How to Do Nothing* (a reference to which book, I don't remember) that explained that, contrary to pop culture representations, after natural disasters people don't loot and take advantage of each other, but rather help each other out. And that brings to mind a poem I read, from the great (if sometimes inconsistent; not all poems can be winners) [Pome newsletter](https://tinyletter.com/pome):
+Right after going to press, I saw [this video](https://youtu.be/Q734VN0N7hw) about Italians singing from the rooftop to survive quarantine and Chinese sending videos of support to Italy, which is achingly beautiful; despite it all, despite whatever rivalries and madness, humans are social creatures and stand together when necessary. It reminds me of a reference in _How to Do Nothing_ (a reference to which book, I don't remember) that explained that, contrary to pop culture representations, after natural disasters people don't loot and take advantage of each other, but rather help each other out. And that brings to mind a poem I read, from the great (if sometimes inconsistent; not all poems can be winners) [Pome newsletter](https://tinyletter.com/pome):
 
 ## Small Kindnesses
 
@@ -26,10 +26,10 @@ Right after going to press, I saw [this video](https://youtu.be/Q734VN0N7hw) abo
 > from tribe and fire. Only these brief moments of exchange.  
 > What if they are the true dwelling of the holy, these  
 > fleeting temples we make together when we say, “Here,
-> have my seat,” “Go ahead — you first,” “I like your hat.”  
+> have my seat,” “Go ahead — you first,” “I like your hat.”
 
 - Danusha Laméris
 
-(The source seems to be [here](https://voxpopulisphere.com/2019/08/11/danusha-lameris-small-kindnesses/); I have no permission to reprint it but in times like this I'm not sure anyone would mind.)
+(The source seems to be [this website](https://voxpopulisphere.com/2019/08/11/danusha-lameris-small-kindnesses/); I have no permission to reprint it but in times like this I'm not sure anyone would mind.)
 
 "Don't die," we are saying. Beautiful.

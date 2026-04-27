@@ -1,11 +1,13 @@
 ---
 title: The Structure, Part IV (S3E7)
-lastUpdatedDate: 2024-07-17 04:59:20.666279+00:00
+lastUpdatedDate: 2026-04-26 04:59:20.666279+00:00
 publicationDate: 2021-01-18 04:59:20.666279+00:00
 season: 3
 ---
 
-Part I can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/). Part II can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/). Part III can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-iii-s3e6/).
+- [Part I](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/)
+- [Part II](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/)
+- [Part III](https://buttondown.email/rwblickhan/archive/the-structure-part-iii-s3e6/)
 
 ![Celestograph by August Strindberg](../../assets/newsletters/celestograph.jpg)
 

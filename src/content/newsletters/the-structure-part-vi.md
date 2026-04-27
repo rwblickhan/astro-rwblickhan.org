@@ -1,11 +1,15 @@
 ---
 title: The Structure, Part VI (S3E9)
-lastUpdatedDate: 2024-07-17 05:20:32.872808+00:00
+lastUpdatedDate: 2026-04-26 05:20:32.872808+00:00
 publicationDate: 2021-02-01 05:20:32.872808+00:00
 season: 3
 ---
 
-Part I can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/). Part II can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/). Part III can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-iii-s3e6/). Part IV can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-iv-s3e7/). Part V can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-v-s3e8/). Part VI can be found below. Part VII can be found next week.
+- [Part I](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/)
+- [Part II](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/)
+- [Part III](https://buttondown.email/rwblickhan/archive/the-structure-part-iii-s3e6/)
+- [Part IV](https://buttondown.email/rwblickhan/archive/the-structure-part-iv-s3e7/)
+- [Part V](https://buttondown.email/rwblickhan/archive/the-structure-part-v-s3e8/)
 
 ![Celestograph by August Strindberg](../../assets/newsletters/celestograph.jpg)
 
@@ -39,7 +43,7 @@ As they started down the hallway, Tamblyn hung back with Raxton. “What else di
 
 Raxton shook his head. “Nothing else. It doesn’t matter.” He marched off to catch up with the others, leaving Tamblyn there to think.
 
-----
+---
 
 The hallways continued as they had before reaching the Farm, the gloom settling heavily on their souls. They walked for a few hours, though they could tell only by the ticking of the watch on Tamblyn’s wrist, as it felt much longer. They had long since stopped talking, but now Raxton and Father Pedra were talking quietly, barely audible even to their comrades standing close to them.
 
@@ -65,7 +69,7 @@ He looked up at her, then shook his head. “Like I said, we shouldn’t have co
 
 “And yet we’re here, Father, and we have to continue on.” She looked around at the ragged faces around her. “But perhaps we can take a break. This is as good a place as any.” She and Alia set up the little tent while Thoman handed out apples. They sat there and ate the apples as Father Pedra began to pace around. “You should join us,” Tamblyn said. Alia and Thoman looked at Tamblyn when he didn’t respond, but she merely shook her head. “We’re all under a lot of stress right now. He’ll be better after a good night’s sleep.”
 
-They were busy setting up the tent when they heard a click. They scrambled out of the tent to find the priest standing there with one of Alia’s explosives. “We shouldn’t have come,” he said. “We weren’t meant to be here. *I* wasn’t meant to be here. You should have chosen someone else, Tamblyn.”
+They were busy setting up the tent when they heard a click. They scrambled out of the tent to find the priest standing there with one of Alia’s explosives. “We shouldn’t have come,” he said. “We weren’t meant to be here. _I_ wasn’t meant to be here. You should have chosen someone else, Tamblyn.”
 
 “It’s all going to be okay.” Tamblyn reached out her hands, beckoning to him. “Just put the explosive down.”
 
@@ -103,7 +107,7 @@ They turned again. Now there were three of the ovals, all identical, all stoppin
 
 They turned and kept walking, Alia looking more and more uncomfortable, until finally stopping and turning. “Please, sir, permission to shoot?”
 
-Tamblyn stared at the ovals. They *were* getting closer. She thought it over. “Permission granted.”
+Tamblyn stared at the ovals. They _were_ getting closer. She thought it over. “Permission granted.”
 
 Alia opened fire, the sound strangely muffled, as if the walls had absorbed it. The ovals, too, absorbed the fire, the bullets simply disappearing into the black glassy surface, as if a leaf disturbing a pool. Still, when they looked closer, the ovals were farther away than they had been. They turned and kept walking.
 

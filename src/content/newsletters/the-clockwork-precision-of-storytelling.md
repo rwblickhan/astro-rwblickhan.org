@@ -1,6 +1,6 @@
 ---
 title: The Clockwork Precision of Storytelling (AiD \#24)
-lastUpdatedDate: 2024-07-17 05:26:25.871452+00:00
+lastUpdatedDate: 2026-04-26 05:26:25.871452+00:00
 publicationDate: 2020-05-25 05:26:25.871452+00:00
 season: 1
 ---
@@ -11,7 +11,7 @@ Hello, one and all, from the latter half of a delightful four day weekend (that 
 
 [_View of a City at Night_, Camille Roqueplan, 1831](https://www.clevelandart.org/art/2015.586)
 
-### What I’m Working On
+## What I’m Working On
 
 I _finally_ returned to [buttonup](https://github.com/rwblickhan/buttonup), my Buttondown iOS client. Sherry’s [Android version](https://github.com/frostyshadows/buttonup) has gotten along much farther than mine. If you’re subscribed to the [buttonup dev diary](https://buttondown.email/buttonup), you may have noticed a sad lack of updates these last two weeks; that will hopefully be rectified tomorrow, though admittedly I haven’t gotten that much more done 🙂
 
@@ -23,7 +23,7 @@ For some reason, I’ve suddenly started to be tempted by game design, for the f
 
 [_Smelting Works at Denver_, Thomas Moran, 1892](https://www.clevelandart.org/art/1938.56)
 
-### What I’m Watching
+## What I’m Watching
 
 Nobody told me _Kiki’s Delivery Service_ had a talking cat! (I have a serious soft spot for the Cheshire Cat, Behemoth, Salem, and friends.) So, of course, I think _Kiki’s_ is a lovely film that everybody should watch—I don’t think I can add too much to Patrick H Willem’s [analysis of artistic burnout in _Kiki’s_](https://youtu.be/KfB69eDCbOI). That said, I do want to point out one thing that’s starting to bother me about Miyazaki’s films, which is the _pacing_. _Kiki’s_ definitely does not suffer the narrative missteps and lack of closure of, say, _Howl’s Moving Castle_[^2], but the pacing did leave me unsatisfied; the central conflict, of Kiki’s burnout/depression, only really becomes a focus in the last half hour or so, and seems to take place after just three or so deliveries (none of which fail). It almost feels like a montage in the middle is missing, although perhaps that’s more of an American filmmaking concept. But this is something I’ve noticed in basically all of his films that I’ve watched; even _Princess Mononoke_ (one of my favorite films, mind) feels a _little_ too rushed or too slow at some points.
 
@@ -37,11 +37,11 @@ From the maker of [“hangman is a weird game”](https://youtu.be/le5uGqHKll8) 
 
 [_Nocturne: Blue and Gold—Southampton Water_, James McNeill Whistler, 1872](https://www.artic.edu/artworks/56905/nocturne-blue-and-gold-southampton-water)
 
-### What I’m Listening To
+## What I’m Listening To
 
 I’m not the biggest fan of the narration on [Dig: A History Podcast](https://digpodcast.org), a history podcast with an explicitly feminist lens, which is a shame, because they usually cover fascinating topics that more “mainstream” history podcasts[^4] neglect. But, catching up on their backlog, I did find an exception: [“Dancing Toward Wounded Knee: The Hope and Tragedy of the Ghost Dance Religion”](https://digpodcast.org/2019/10/13/ghost-dance-religion/) is a beautiful and painful overview of the millenarian ghost dance religion that emerged in American Indian communities in the latter part of the 19th century and how it ties into the infamous Wounded Knee massacre.
 
-### What I’m Playing
+## What I’m Playing
 
 Mainly, _Legends of Runeterra_, which to my mind is exactly what _Hearthstone_ _should_ have been; the deluge of free cards, which makes it reasonable to build non-trivial decks without shelling out cash or grinding for months, does indeed make it easy to get started, and the more complicated, _Magic_-esque mechanics keep it from going stale. In any case, if you want to add me, just reply to this email 😉
 
@@ -51,12 +51,12 @@ Mikey Neumann’s beautiful [tribute to _Breath of the Wild_](https://youtu.be/s
 
 [_Le Pont des Arts_, Maxime Lalanne, 1869](https://www.artic.edu/artworks/61557/le-pont-des-arts)
 
-### What I’m Reading
+## What I’m Reading
 
 I’ve been a bit behind on my 52-books-per-year goal, so I powered through the copy of William Dever’s _Did God Have A Wife?: Archaeology and Folk Religion in Ancient Israel_, which is recommended by [r/AskHistorians’ booklist](https://www.reddit.com/r/AskHistorians/wiki/books/middleeast#wiki_ancient_israel) and oft cited on the relevant Wikipedia pages. His main arguments, based on archeological evidence, are that:
 
-* Ancient Israelite folk religion was much more varied than “Book religion” (i.e. the Torah) would have you believe.
-* Asherah, descended from the Canaanite goddess of the same name, was most likely popularly conceived of as Yahweh’s consort and worshipped as a “mother goddess.”
+- Ancient Israelite folk religion was much more varied than “Book religion” (i.e. the Torah) would have you believe.
+- Asherah, descended from the Canaanite goddess of the same name, was most likely popularly conceived of as Yahweh’s consort and worshipped as a “mother goddess.”
 
 But, though I personally found value in the text, I can’t really recommend it to anybody else; Dever comes across as, well, a tremendous asshole, and spends many many precious pages ranting about how other scholars fail to consider archeology and misinterpret the evidence they do consider, not to mention taking potshots at postmodernism and “doctrinaire” feminism. Now, I feel like I agree with him more than I disagree, but it does make this a pretty annoying read.
 

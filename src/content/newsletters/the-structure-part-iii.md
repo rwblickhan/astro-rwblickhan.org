@@ -1,11 +1,12 @@
 ---
 title: The Structure, Part III (S3E6)
-lastUpdatedDate: 2024-07-17 18:38:50.335086+00:00
+lastUpdatedDate: 2026-04-26 18:38:50.335086+00:00
 publicationDate: 2021-01-10 18:38:50.335086+00:00
 season: 3
 ---
 
-Part I can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/). Part II can be found [here](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/).
+- [Part I](https://buttondown.email/rwblickhan/archive/the-structure-part-i-s3e4/)
+- [Part II](https://buttondown.email/rwblickhan/archive/the-structure-part-ii-s3e5/)
 
 ![Celestograph by August Strindberg](../../assets/newsletters/celestograph.jpg)
 

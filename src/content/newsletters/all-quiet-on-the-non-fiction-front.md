@@ -1,6 +1,6 @@
 ---
 title: All Quiet on the Non-Fiction Front
-lastUpdatedDate: 2024-07-17 05:49:16.211028+00:00
+lastUpdatedDate: 2026-04-26 05:49:16.211028+00:00
 publicationDate: 2024-05-01 05:49:16.211028+00:00
 season: 1
 ---
@@ -11,7 +11,7 @@ Happy New Year, one and all! I’ve had a nice two weeks off (exactly coinciding
 
 For pretty much the first time, I’ve decided to set myself some “resolutions”, aka goals; I’m hoping to grade myself at the end of the year, sprint-goals-style (for those that do sprint goals), and hence they’re fairly quantitative. One of the more ambitious (maybe?) is to read 52 books this year (so, one per week)—we’ll see if that happens, but I have been quite happy to be reading more books in this past year. I also want to write more (which I did a bit of towards the end of the year); in particular I want to write more short stories (so you might see those here at some point 🙂) and finally finish a rough draft of _some_ novel (probably the one I started for NaNoWriMo a few months ago). I also want to (finally) relaunch [rwblickhan.org](https://rwblickhan.org) so it’s not just a (badly out of date) blog anymore; interestingly, John Sundell (famous Swift fellow) just released a static site generator called [Publish](https://github.com/JohnSundell/Publish/blob/master/README.md) that looks quite interesting. And, of course, I want to keep writing this newsletter, more for my benefit than that of any readers 😛
 
-### What I’m Watching
+## What I’m Watching
 
 I watched _Parasite_ and it was, in fact, just as good as everybody says. Easily one of the tightest films I’ve ever seen—the editing is just astonishing, as [good ol’ Nerdwriter points out](https://youtu.be/ma1rD2OP85c). It’s really something special and to talk about it more would, in my opinion, diminish it (I don’t usually care about spoilers, but in this case I think it is valuable to see it blind at least once.) if you haven’t seen it—so, you should go see it!
 
@@ -25,7 +25,7 @@ On the other hand, with nothing else going on during Christmas, I somehow got su
 
 ![Long shadows along Market St](../../assets/newsletters/long_shadows.jpg)
 
-### What I’m Reading
+## What I’m Reading
 
 I got through _This Is How You Lose The Time War_ (it’s pretty short) and it definitely also belongs on my “wow” list. Whether you love it or not probably depends on if you appreciate the epistolary, foes-becoming-friends format, but even if not I think it’s worth reading for the beauty of the language alone—it’s very much “poetic,” in the sense of rolling off the tongue like poetry.
 
@@ -33,9 +33,9 @@ On the non-fiction front, we had _In God’s Path_ and _The Bible Unearthed_.
 
 _In God’s Path: The Arab Conquests and the Creation of an Islamic Empire_ (to give it its full title) is a very readable account of, well, the Arab conquests and the creation of an Islamic empire. It treats them from a world history/political history stance, positioning the Arab conquests as a “tribal conquest” a la the Turks or Mongols, wherein marginal-but-connected nomadic peoples attempt to take over the empires that employ them. In particular, the Arabs took advantage of a Cold War of sorts between the Byzantine Romans and the Sassanian Persians and thus managed to conquer the entire Persian Empire and large parts of the Byzantine Empire, which in turn led to the creation of the Islamic civilization. It’s a really rather nice summary of early Islamic history, though I do have three complaints:
 
-* It assumes a casual acquaintance with “traditional” Islamic history—if you don’t already know the story of the Sunni/Shi’ite split, for instance, this book _will_ explain it, but in an extremely tortured and convoluted way that makes it clear it’s supposed to be prior knowledge.
-* It doesn’t dwell on Muhammad, the early caliphs, or the textual history of the Qur’an. That’s not really the _point_ of the book, of course, and it definitely makes sense to dispatch with it when focusing on the conquests; but I do want a book dealing with it now.
-* The middle part of the book is, sad to say, quote boring—it devolves into a list of “then this general tried to conquer this city, and this general failed to put down a rebellion, and…”. I was a bit worried that would take up most of the book, but luckily the last chapter delves back into some conceptual analysis that is quite rewarding (namely, why an Islamic civilization developed from the Arab conquests—in part because of Arabization, with Arabic, and the attached Arabic cultural identity, becoming a lingua franca among the diverse conquered lands, as well as an infusion of Persian cultural ideas, from the mostly-independent eastern parts of Persia).
+- It assumes a casual acquaintance with “traditional” Islamic history—if you don’t already know the story of the Sunni/Shi’ite split, for instance, this book _will_ explain it, but in an extremely tortured and convoluted way that makes it clear it’s supposed to be prior knowledge.
+- It doesn’t dwell on Muhammad, the early caliphs, or the textual history of the Qur’an. That’s not really the _point_ of the book, of course, and it definitely makes sense to dispatch with it when focusing on the conquests; but I do want a book dealing with it now.
+- The middle part of the book is, sad to say, quote boring—it devolves into a list of “then this general tried to conquer this city, and this general failed to put down a rebellion, and…”. I was a bit worried that would take up most of the book, but luckily the last chapter delves back into some conceptual analysis that is quite rewarding (namely, why an Islamic civilization developed from the Arab conquests—in part because of Arabization, with Arabic, and the attached Arabic cultural identity, becoming a lingua franca among the diverse conquered lands, as well as an infusion of Persian cultural ideas, from the mostly-independent eastern parts of Persia).
 
 On the other hand, we have _The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts_, which argues that the Hebrew Bible is essentially the product of the late monarchic reign of King Josiah and thus reflects the culture and concerns of that time, and thus has little basis in history, which is widely agreed upon by biblical scholars and archaeologists but was popularized by this account. It’s quite interesting (if you’re interested in the Bible, of course), though occasionally feels somewhat monomaniacal in emphasizing the origins of the Hebrew Bible; it also only briefly touches on some of the things I’m most interested in, like say Asherah, which will probably have to be covered by _Did God Have A Wife?_ (the first book I’ve been unable to find in the San Francisco public library system).
 
