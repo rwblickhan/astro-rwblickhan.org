@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-04-26
+lastUpdatedDate: 2026-04-27
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -84,6 +84,8 @@ lastUpdatedDate: 2026-04-26
 79. _The Doors_, The Doors
 80. _Paperclip Minimiser_, Paperclip Minimiser
 81. _II_, Paperclip Minimiser
+82. _Los Thuthanaka_, Los Thuthanaka
+83. _Wak’a_, Los Thuthanaka
 
 ## Live Shows
 
