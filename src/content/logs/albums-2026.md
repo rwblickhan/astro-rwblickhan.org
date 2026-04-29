@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-04-28
+lastUpdatedDate: 2026-04-29
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -89,6 +89,7 @@ lastUpdatedDate: 2026-04-28
 84. _After the Gold Rush_, Neil Young
 85. _Come Closer_, Tomora
 86. _Forage_, Cadence Weapon & Junia-T
+87. _Darkness on the Edge of Town_, Bruce Springsteen
 
 ## Live Shows
 
