@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-04-27
+lastUpdatedDate: 2026-04-28
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -86,6 +86,8 @@ lastUpdatedDate: 2026-04-27
 81. _II_, Paperclip Minimiser
 82. _Los Thuthanaka_, Los Thuthanaka
 83. _Wak’a_, Los Thuthanaka
+84. _After the Gold Rush_, Neil Young
+85. _Come Closer_, Tomora
 
 ## Live Shows
 
