@@ -20,6 +20,10 @@ run = 'fish -c "utils/push"'
 alias = 's'
 run = 'pnpm run astro sync'
 
+[tasks.lint]
+alias = 'l'
+run = "pnpm exec markdownlint 'src/**/*.md' 'src/**/*.mdx' && pnpm exec astro check"
+
 [tasks.format]
 alias = 'f'
 run = 'pnpm exec prettier --write .'

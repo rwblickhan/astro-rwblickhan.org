@@ -1,0 +1,7 @@
+{
+  "default": true,
+  "line-length": false,
+  "single-trailing-newline": false,
+  "no-blanks-blockquote": false,
+  "no-inline-html": false
+}
