@@ -33,4 +33,4 @@ if test $run_astro_check = true
 end
 
 jj bookmark advance
-jj push
+jj git push
