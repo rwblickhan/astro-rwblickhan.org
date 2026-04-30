@@ -10,6 +10,7 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v2
       - uses: pnpm/action-setup@v2
         with:
           version: 9.5.0
@@ -18,7 +19,4 @@ jobs:
           node-version: 20
           cache: 'pnpm'
       - run: pnpm i
-      - name: Run markdownlint
-        run: pnpm exec markdownlint 'src/**/*.md' 'src/**/*.mdx'
-      - name: Run astro check
-        run: pnpm exec astro check
+      - run: mise run lint
