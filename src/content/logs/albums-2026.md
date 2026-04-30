@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-04-29
+lastUpdatedDate: 2026-04-30
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -90,6 +90,7 @@ lastUpdatedDate: 2026-04-29
 85. _Come Closer_, Tomora
 86. _Forage_, Cadence Weapon & Junia-T
 87. _Darkness on the Edge of Town_, Bruce Springsteen
+88. _Axis: Bold as Love_, The Jimi Hendrix Experience
 
 ## Live Shows
 
