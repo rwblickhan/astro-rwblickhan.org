@@ -3,12 +3,14 @@ on:
   push:
     branches:
       - main
+  pull_request:
 jobs:
-  deploy:
+  lint-and-deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v2
       - uses: pnpm/action-setup@v2
         with:
           version: 9.5.0
@@ -16,16 +18,20 @@ jobs:
         with:
           node-version: 20
           cache: 'pnpm'
+      - run: pnpm i
+      - run: mise run lint
       - name: Restore cached images
+        if: github.event_name == 'push'
         uses: actions/cache@v4
         with:
           path: cache
           key: _astro-${{ hashFiles('src/assets/**/*.jpg', 'src/assets/**/*.jpeg', 'src/assets/**/*.webp') }}
-      - run: pnpm i
       - run: pnpm run build
+        if: github.event_name == 'push'
         env:
           ASTRO_CACHE_DIR: cache
       - name: Build & Deploy Site
+        if: github.event_name == 'push'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
