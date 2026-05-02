@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-01
+lastUpdatedDate: 2026-05-02
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -92,6 +92,7 @@ lastUpdatedDate: 2026-05-01
 87. _Darkness on the Edge of Town_, Bruce Springsteen
 88. _Axis: Bold as Love_, The Jimi Hendrix Experience
 89. _Supa Dupa Fly_, Missy Elliot
+90. _Perfect World_, Ax14
 
 ## Live Shows
 
