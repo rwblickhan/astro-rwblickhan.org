@@ -1,6 +1,6 @@
 ---
 title: Games of 2026
-lastUpdatedDate: 2026-03-22
+lastUpdatedDate: 2026-05-02
 ---
 
 ## Video Games
@@ -13,3 +13,4 @@ lastUpdatedDate: 2026-03-22
 
 1. *Regicide Legacy*
 2. *Flip 7*
+3. *Mistborn: The Deckbuilding Game*
