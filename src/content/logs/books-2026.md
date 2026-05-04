@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-04-20
+lastUpdatedDate: 2026-05-03
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -35,3 +35,5 @@ lastUpdatedDate: 2026-04-20
 1. “Young Zaphod Plays It Safe”, Douglas Adams
 
 ## Papers
+
+1. “The Two Cultures and the Scientific Revolution”, C.P. Snow
