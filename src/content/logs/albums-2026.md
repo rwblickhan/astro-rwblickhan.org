@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-02
+lastUpdatedDate: 2026-05-04
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -93,6 +93,8 @@ lastUpdatedDate: 2026-05-02
 88. _Axis: Bold as Love_, The Jimi Hendrix Experience
 89. _Supa Dupa Fly_, Missy Elliot
 90. _Perfect World_, Ax14
+91. _Fun House_, The Stooges
+92. _Foundry_, Yu Su
 
 ## Live Shows
 
