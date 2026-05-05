@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-04
+lastUpdatedDate: 2026-05-05
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -96,6 +96,7 @@ lastUpdatedDate: 2026-05-04
 91. _Fun House_, The Stooges
 92. _Foundry_, Yu Su
 93. _Unrelated_, Sam Gendel & Sam Wilkes
+94. _Take Care_, Drake
 
 ## Live Shows
 
