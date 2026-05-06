@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-04-26
+lastUpdatedDate: 2026-05-05
 ---
 
 ## Movies
@@ -19,6 +19,7 @@ lastUpdatedDate: 2026-04-26
 12. 🔁 *8½* (1963)
 13. *Little Women* (2019)
 14. *The Rocky Horror Picture Show* (1975)
+15. *The Greatest Showman* (2017)
 
 ## TV Shows
 
