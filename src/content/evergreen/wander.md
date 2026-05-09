@@ -10,6 +10,7 @@ Once upon a time people had ~ blogrolls ~ Well here in 2026, we have wander page
 - [Alan Jacobs](https://social.ayjay.org/): One of the greatest literary and cultural critics of our time, even if he _occasionally_ presumes the truth of his Christian faith.
 - [anhvn](https://anhvn.com/): Anh is a designer (?) based in Vancouver (??) I think (???). But in any case she redesigns her site about once a month and it’s always downright delightful.
 - [Articles Of Interest](https://articlesofinterest.substack.com/): Everybody’s favorite podcast about clothes, why we wear them, and what they mean to us. Seriously Avery Trufelman is one of the best in the (podcast) biz.
+- [Esoterica](https://www.youtube.com/@TheEsotericaChannel): Short educational videos from a PhD in Western esotericism. If you have any interest in the history of mysticism, occultism, or Western esotericism, you _must_ watch.
 - [Futility Closet](https://www.futilitycloset.com/): A charming collection of fun facts and curiosities. Their podcast is dearly missed.
 - [Gastropod](https://gastropod.com/): Delightfully nerdy podcast that looks at "food through the lens of science and history" — one of those podcasts where you learn something every episode, no matter how well you know the topic at hand.
 - [Jacob Geller](https://www.youtube.com/@JacobGeller): The most important media critic of our generation, and it’s not even close. You can skip the year’s-best and “games that do x” video essays if you really don’t care about video games, but everything else is essential.
