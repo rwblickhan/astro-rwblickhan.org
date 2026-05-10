@@ -23,7 +23,7 @@ Anyway, it’s pretty short (50 short pages, so it took me maybe a half hour to 
 
 ---
 
-Recently Sherry and I ran a salon night, in the tradition of Parisian Enlightenment salons[^Note: relationship to Parisian Enlightenment salons tenuous at best; it was mostly just inspiration.], where we asked a bunch of our friends to present on some niche topic of interest. To my surprise, ten people (!) signed up to present (plus Sherry and myself), on topics ranging from drugs to pop culture conspiracy theories to the 2008 writer’s strike to women’s health to Costco,[^And almost all of us made powerpoints, too!] and another twenty decided to cram into our apartment to watch the presentations. So, a highly recommended event format — it turns out that people love to talk about their favourite topics and other people love to hear about it.
+Recently Sherry and I ran a salon night, in the tradition of Parisian Enlightenment salons[^salons], where we asked a bunch of our friends to present on some niche topic of interest. To my surprise, ten people (!) signed up to present (plus Sherry and myself), on topics ranging from drugs to pop culture conspiracy theories to the 2008 writer’s strike to women’s health to Costco,[^ppts] and another twenty decided to cram into our apartment to watch the presentations. So, a highly recommended event format — it turns out that people love to talk about their favourite topics and other people love to hear about it.
 
 ---
 
@@ -92,4 +92,6 @@ If I wrote such a list today, it would probably have a lot of the same albums, b
 - I still love Quebecois indie dream-poppers Men I Trust, but for a top 50 list I’m surprised I included not just an album but a _specific single_.
 - A few of these are definitely subject to recency bias — I’m quite fond of Slint, Moses Sumney, Ghost, and Gazelle Twin, but their presence on the list probably speaks more to pandemic-lockdown-era repeats. Similarly, I almost definitely included the _Game of Thrones_ soundtrack because I was writing a fantasy novel at the time. Today I would probably include the _Succession_ soundtrack instead 😉
 
+[^salons]: Note: relationship to Parisian Enlightenment salons tenuous at best; it was mostly just inspiration.
+[^ppts]: And almost all of us made powerpoints, too!
 [^daft-punk]: Though much lower than I would have expected — _Discovery_ really should be top ten.
