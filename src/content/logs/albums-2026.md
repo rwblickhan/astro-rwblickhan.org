@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-08
+lastUpdatedDate: 2026-05-11
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -98,6 +98,8 @@ lastUpdatedDate: 2026-05-08
 93. _Unrelated_, Sam Gendel & Sam Wilkes
 94. _Take Care_, Drake
 95. _Car Wheels on a Gravel Road_, Lucinda Williams
+96. _Ö_, Fcukers
+97. _Red (Taylor’s Version)_, Taylor Swift
 
 ## Live Shows
 
