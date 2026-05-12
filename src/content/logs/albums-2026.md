@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-11
+lastUpdatedDate: 2026-05-12
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -100,6 +100,7 @@ lastUpdatedDate: 2026-05-11
 95. _Car Wheels on a Gravel Road_, Lucinda Williams
 96. _Ö_, Fcukers
 97. _Red (Taylor’s Version)_, Taylor Swift
+98. _Music from Big Pink_, The Band
 
 ## Live Shows
 
