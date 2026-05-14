@@ -47,7 +47,7 @@ const {
       )
     }
   </main>
-  <dialog id="search-modal" popover>
+  <dialog id="search-modal">
     <PagefindSearch
       id="search"
       uiOptions={{ showSubResults: true, showImages: false }}
@@ -170,11 +170,11 @@ const {
 </style>
 
 <script>
-  const modal = document.getElementById("search-modal") as HTMLElement;
+  const modal = document.getElementById("search-modal") as HTMLDialogElement;
   document.addEventListener("keydown", (e) => {
     if ((e.metaKey || e.ctrlKey) && e.key === "k") {
       e.preventDefault();
-      modal?.showPopover();
+      modal?.showModal();
     }
   });
 </script>
