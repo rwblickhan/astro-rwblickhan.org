@@ -52,6 +52,7 @@ const {
       id="search"
       uiOptions={{ showSubResults: true, showImages: false }}
     />
+    <button id="search-modal-close" aria-label="Close search">✕</button>
   </dialog>
   {headings && headings.length > 0 && (
     <div id="toc-trigger">
@@ -84,7 +85,7 @@ const {
     overflow-y: auto;
     border: none;
     border-radius: 0.5rem;
-    padding: 1.5rem;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
     background: var(--background);
     color: var(--text);
     position: fixed;
@@ -92,6 +93,19 @@ const {
     left: 50%;
     translate: -50% 0;
     margin: 0;
+  }
+
+  #search-modal-close {
+    position: absolute;
+    top: .25rem;
+    left: .5rem;
+    border: none;
+    cursor: pointer;
+    color: var(--text);
+
+    &:hover {
+      color: var(--primary);
+    }
   }
 
   #search-modal::backdrop {
@@ -176,5 +190,8 @@ const {
       e.preventDefault();
       modal?.showModal();
     }
+  });
+  document.getElementById("search-modal-close")?.addEventListener("click", () => {
+    modal?.close();
   });
 </script>
