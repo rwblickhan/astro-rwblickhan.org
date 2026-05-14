@@ -188,7 +188,7 @@ const {
   document.addEventListener("keydown", (e) => {
     if ((e.metaKey || e.ctrlKey) && e.key === "k") {
       e.preventDefault();
-      modal?.showModal();
+      modal?.open ? modal.close() : modal?.showModal();
     }
   });
   document.getElementById("search-modal-close")?.addEventListener("click", () => {
