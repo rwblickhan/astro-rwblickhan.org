@@ -102,6 +102,7 @@ lastUpdatedDate: 2026-05-14
 97. _Red (Taylor’s Version)_, Taylor Swift
 98. _Music from Big Pink_, The Band
 99. _The Clash_, The Clash
+100. _The Della Variant EP_, DellaXOZ
 
 ## Live Shows
 
