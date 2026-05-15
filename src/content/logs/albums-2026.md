@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-12
+lastUpdatedDate: 2026-05-14
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -101,6 +101,7 @@ lastUpdatedDate: 2026-05-12
 96. _Ö_, Fcukers
 97. _Red (Taylor’s Version)_, Taylor Swift
 98. _Music from Big Pink_, The Band
+99. _The Clash_, The Clash
 
 ## Live Shows
 
