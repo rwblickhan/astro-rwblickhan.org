@@ -48,17 +48,20 @@ const {
     }
   </main>
   <dialog id="search-modal">
-    <PagefindSearch
-      id="search"
-      uiOptions={{ showSubResults: true, showImages: false }}
-    />
-    <button id="search-modal-close" aria-label="Close search">✕</button>
-  </dialog>
-  {headings && headings.length > 0 && (
-    <div id="toc-trigger">
-      <TocNavIcon />
+    <div id="search-modal-inner">
+      <PagefindSearch
+        id="search"
+        uiOptions={{ showSubResults: true, showImages: false }}
+      />
     </div>
-  )}
+  </dialog>
+  {
+    headings && headings.length > 0 && (
+      <div id="toc-trigger">
+        <TocNavIcon />
+      </div>
+    )
+  }
   {
     headings && headings.length > 0 && (
       <dialog id="toc-modal" popover>
@@ -80,14 +83,9 @@ const {
 
 <style>
   #search-modal {
-    width: min(90vw, 48rem);
-    max-height: 80vh;
-    overflow-y: auto;
     border: none;
-    border-radius: 0.5rem;
-    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
-    background: var(--background);
-    color: var(--text);
+    background: transparent;
+    padding: 0;
     position: fixed;
     top: 10vh;
     left: 50%;
@@ -95,17 +93,14 @@ const {
     margin: 0;
   }
 
-  #search-modal-close {
-    position: absolute;
-    top: .25rem;
-    left: .5rem;
-    border: none;
-    cursor: pointer;
+  #search-modal-inner {
+    width: min(90vw, 48rem);
+    max-height: 80vh;
+    overflow-y: auto;
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    background: var(--background);
     color: var(--text);
-
-    &:hover {
-      color: var(--primary);
-    }
   }
 
   #search-modal::backdrop {
@@ -191,7 +186,7 @@ const {
       modal?.open ? modal.close() : modal?.showModal();
     }
   });
-  document.getElementById("search-modal-close")?.addEventListener("click", () => {
-    modal?.close();
+  modal?.addEventListener("click", (e) => {
+    if (e.target === modal) modal.close();
   });
 </script>
