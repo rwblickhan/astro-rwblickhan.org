@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-05-03
+lastUpdatedDate: 2026-05-14
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -24,6 +24,7 @@ lastUpdatedDate: 2026-05-03
 19. _The Crying of Lot 49_, Thomas Pynchon
 20. _Little Women_, Louisa May Alcott
 21. _Ranma 1/2_ Vol. 1 + 2, Rumiko Takahashi (trans. Gerard Jones and Matt Thorn)
+22. _On Bullshit_, Harry G. Frankfurt
 
 ## Skimmed / DNF
 
