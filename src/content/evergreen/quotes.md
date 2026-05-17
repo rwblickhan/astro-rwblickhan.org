@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-04-04
+lastUpdatedDate: 2026-05-17
 ---
 
 ## Favorites
@@ -426,7 +426,7 @@ The ones I find myself thinking about a lot...
 
 ## From Non-Fiction
 
-> Butler’s novel [*Parable of the Sower*] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
+> Butler’s novel [_Parable of the Sower_] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
 
 - Robin Sloan, "The plot against", _Society of the Double Dagger_ Jun 10, 2020
 
@@ -478,7 +478,7 @@ The ones I find myself thinking about a lot...
 
 - "What Is A Novelist?", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
-> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their *agelasty* is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
+> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their _agelasty_ is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
 
 - "Aesthetics and Existence", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
