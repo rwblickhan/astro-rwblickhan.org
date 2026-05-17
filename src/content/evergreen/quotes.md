@@ -524,6 +524,26 @@ The ones I find myself thinking about a lot...
 
 - *Catching the Big Fish*, David Lynch
 
+> Books, very little, though perhaps not many would go so far as one hero, who perhaps I should admit was further down the scientific ladder than the people I've been talking about — who, when asked what books he read, replied firmly and confidently: 'Books? I prefer to use my books as tools.' It was very hard not to let the mind wander—what sort of tool would a book make? Perhaps a hammer? A primitive digging instrument?
+
+- *The Two Cultures and the Scientific Revolution*, C.P. Snow
+
+> Each of us is solitary: each of us dies alone: all right, that's a fate against which we can't struggle — but there is plenty in our condition which is not fate, and against which we are less than human unless we do struggle.
+> 
+> Most of our fellow human beings, for instance, are underfed and die before their time. In the crudest terms, that is the social condition. There is a moral trap which comes through the insight into man's loneliness: it tempts one to sit back, complacent in one's unique tragedy, and let the others go without a meal.
+
+- *The Two Cultures and the Scientific Revolution*, C.P. Snow
+
+> Industrialisation is the only hope of the poor. I use the word 'hope' in a crude and prosaic sense. I have not much use for the moral sensibility of anyone who is too refined to use it so. It is all very well for us, sitting pretty, to think that material standards of living don't matter all that much. It is all very well for one, as a personal choice, to reject industrialisation — do a modern Walden, if you like, and if you go without much food, see most of your children die in infancy, despise the comforts of literacy, accept twenty years off your own life, then I respect you for the strength of your aesthetic revulsion. But I don't respect you in the slightest if, even passively, you try to impose the same choice on others who are not free to choose.
+> 
+> In fact, we know what their choice would be. For, with singular unanimity, in any country where they have had the chance, the poor have walked off the land into the factories as fast as the factories could take them.
+
+- *The Two Cultures and the Scientific Revolution*, C.P. Snow
+
+> The lack of any significant connection between a person's opinions and his apprehension of reality will be even more severe, needless to say, for someone who believes it his responsibility, as a conscientious moral agent, to evaluate events and conditions in all parts of the world.
+
+- *On Bullshit*, Harry G. Frankfurt
+
 ## From Poetry
 
 > Death, no matter our desires\
