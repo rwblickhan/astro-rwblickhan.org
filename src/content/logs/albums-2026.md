@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-14
+lastUpdatedDate: 2026-05-18
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -104,6 +104,7 @@ lastUpdatedDate: 2026-05-14
 99. _The Clash_, The Clash
 100. _The Della Variant EP_, DellaXOZ
 101. _The Provocateur_, Adéla
+102. _Sticky Fingers_, The Rolling Stones
 
 ## Live Shows
 
