@@ -1,3 +1,6 @@
+[tools]
+"npm:wrangler" = "latest"
+
 [tasks.dev]
 alias = 'd'
 run = 'pnpm run dev'
