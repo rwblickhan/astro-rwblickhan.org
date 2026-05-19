@@ -1113,3 +1113,37 @@ A neat new experimental CSS pseudo-element: `::search-text` lets you style the h
 ### References
 
 - [::search-text - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/::search-text)
+
+## Hammerspoon App Hotkeys
+
+After some trouble syncing my Raycast settings, I decided to move my [app-opening hotkeys](https://rwblickhan.org/newsletters/why-raycast/#keyboard-shortcuts-for-days) to [Hammerspoon](https://rwblickhan.org/newsletters/automating-the-personal/). After a bit of trial and error, and begging Claude to do things correctly, and reading the Hammerspoon docs, this is what I came up with:
+
+```lua
+local function showOrHide(appName)
+  local app = hs.application.find(appName)
+  if app ~= nil and app:isFrontmost() then
+    app:hide()
+  else
+    hs.application.open(appName)
+  end
+end
+
+local hyper = { "cmd", "ctrl", "alt", "shift" }
+
+-- t = terminal
+hs.hotkey.bind(hyper, "t", function() showOrHide("Ghostty") end)
+-- and so on...
+```
+
+This attempts to find the running application by name. If it’s already running and frontmost (focused), then the app is hidden, and otherwise an “open” event is sent. For well-behaved macOS apps, that open event will launch the app, create a new main window (if it doesn’t exist), and focus the main window. Together that implements the same logic as Raycast performs.
+
+One note: `hs.application.find` will find _any_ application matching the given name, which doesn’t work for [Things](https://culturedcode.com/things/), because it runs a background application called Things Helper. So, instead of the app name, I had to specify the full bundle ID:
+
+```lua
+-- * = Things
+hs.hotkey.bind(hyper, "8", function() showOrHide("com.culturedcode.ThingsMac") end)
+```
+
+### References
+
+- [TIL: using hammerspoon to launch any app with a hotkey | patrick.wtf](https://patrick.wtf/posts/til-hammerspoon-logseq-hotkey/)
