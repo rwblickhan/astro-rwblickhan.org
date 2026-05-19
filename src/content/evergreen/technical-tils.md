@@ -1,7 +1,7 @@
 ---
 title: "Technical TILs"
 description: Small technical things I've learned over the years
-lastUpdatedDate: 2026-04-27
+lastUpdatedDate: 2026-05-19
 ---
 
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -1147,3 +1147,4 @@ hs.hotkey.bind(hyper, "8", function() showOrHide("com.culturedcode.ThingsMac") e
 ### References
 
 - [TIL: using hammerspoon to launch any app with a hotkey | patrick.wtf](https://patrick.wtf/posts/til-hammerspoon-logseq-hotkey/)
+
