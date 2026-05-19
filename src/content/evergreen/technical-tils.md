@@ -1147,4 +1147,3 @@ hs.hotkey.bind(hyper, "8", function() showOrHide("com.culturedcode.ThingsMac") e
 ### References
 
 - [TIL: using hammerspoon to launch any app with a hotkey | patrick.wtf](https://patrick.wtf/posts/til-hammerspoon-logseq-hotkey/)
-
