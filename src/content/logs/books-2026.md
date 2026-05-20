@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-05-14
+lastUpdatedDate: 2026-05-20
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -25,6 +25,7 @@ lastUpdatedDate: 2026-05-14
 20. _Little Women_, Louisa May Alcott
 21. _Ranma 1/2_ Vol. 1 + 2, Rumiko Takahashi (trans. Gerard Jones and Matt Thorn)
 22. _On Bullshit_, Harry G. Frankfurt
+23. _Carthage Must Be Destroyed: The Rise and Fall of an Ancient Civilization_, Richard Miles
 
 ## Skimmed / DNF
 
