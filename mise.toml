@@ -1,6 +1,7 @@
 [tools]
 hk = "latest"
 "npm:wrangler" = "latest"
+pkl = "latest"
 
 [tasks.dev]
 alias = 'd'
