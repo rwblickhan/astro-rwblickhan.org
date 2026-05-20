@@ -19,7 +19,7 @@ jobs:
           node-version: 22
           cache: 'pnpm'
       - run: pnpm i
-      - run: mise run lint
+      - run: mise run lint --verbose
       - name: Restore cached images
         if: github.event_name == 'push'
         uses: actions/cache@v4

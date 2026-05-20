@@ -38,7 +38,8 @@
       "Bash(rg -U ![.+]\\\\\\(.+\\\\\\)nS src/content/newsletters --only-matching -n)",
       "Bash(xargs rg -l \"image\")",
       "Bash(hk generate *)",
-      "Bash(pkl eval *)"
+      "Bash(pkl eval *)",
+      "Bash(rg *)"
     ],
     "deny": []
   }

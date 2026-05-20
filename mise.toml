@@ -1,4 +1,5 @@
 [tools]
+hk = "latest"
 "npm:wrangler" = "latest"
 
 [tasks.dev]
@@ -9,9 +10,6 @@ run = 'pnpm run dev'
 alias = 'b'
 run = 'pnpm run build'
 
-[tasks.check]
-run = 'pnpm run astro check'
-
 [tasks.clean]
 run = 'rm -rf _dist/*'
 
@@ -21,29 +19,7 @@ run = 'pnpm run astro sync'
 
 [tasks.lint]
 alias = 'l'
-depends = ['lint:*']
-
-[tasks."lint:markdownlint"]
-run = "pnpm exec markdownlint 'src/**/*.md'"
-
-[tasks."lint:astro"]
-run = "pnpm exec astro check"
-
-[tasks."lint:lastUpdatedDate"]
-run = """
-TODAY=$(date +%Y-%m-%d)
-failed=0
-for f in $(git diff --name-only HEAD 2>/dev/null | grep '\\.md$'); do
-  test -f "$f" || continue
-  FILE_DATE=$(grep -m 1 '^lastUpdatedDate: ' "$f" | cut -d' ' -f2) || continue
-  test -n "$FILE_DATE" || continue
-  if [ "$FILE_DATE" != "$TODAY" ]; then
-    echo "ERROR: lastUpdatedDate in $f should be $TODAY (got $FILE_DATE)"
-    failed=1
-  fi
-done
-exit $failed
-"""
+run = 'hk check'
 
 [tasks.format]
 alias = 'f'
