@@ -2,6 +2,7 @@
 hk = "latest"
 "npm:wrangler" = "latest"
 pkl = "latest"
+pnpm = "latest"
 
 [tasks.dev]
 alias = 'd'
