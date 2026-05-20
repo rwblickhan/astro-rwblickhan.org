@@ -1,5 +1,4 @@
 [tools]
-hk = "latest"
 "npm:wrangler" = "latest"
 
 [tasks.dev]

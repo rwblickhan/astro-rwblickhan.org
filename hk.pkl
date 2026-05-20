@@ -1,0 +1,31 @@
+amends "package://github.com/jdx/hk/releases/download/v1.45.0/hk@1.45.0#/Config.pkl"
+import "package://github.com/jdx/hk/releases/download/v1.45.0/hk@1.45.0#/Builtins.pkl"
+
+local linters = new Mapping<String, Step> {
+    ["markdownlint"] = Builtins.markdown_lint
+    ["astro"] = Builtins.astro
+    ["lastUpdatedDate"] {
+        glob = "src/**/*.md"
+        check = """
+            TODAY=$(date +%Y-%m-%d)
+            failed=0
+            for f in {{ files }}; do
+              test -f "$f" || continue
+              FILE_DATE=$(grep -m 1 '^lastUpdatedDate: ' "$f" | cut -d' ' -f2) || continue
+              test -n "$FILE_DATE" || continue
+              if [ "$FILE_DATE" != "$TODAY" ]; then
+                echo "ERROR: lastUpdatedDate in $f should be $TODAY (got $FILE_DATE)"
+                failed=1
+              fi
+            done
+            exit $failed
+            """
+    }
+}
+
+hooks {
+    ["pre-push"] {
+        fix = true
+        steps = linters
+    }
+}
