@@ -16,7 +16,7 @@ Well, you can’t, unless you happen to a.) hack my laptop and steal unpublished
 
 ## Why do you use so many footnotes?
 
-I’m not sure. Footnotes were more common in old-school Web 1.0 blogging culture, and of course I love a good academic paper. But as for the _specific_ vector, I’m not sure. [Jason Kottke](http://kottke.org/) of the now-almost-30-year-old Kottke.org is a [big fan of footnotes](https://craigmod.com/onmargins/005/), and is also famously a great fan of David Foster Wallace and specifically the footnote-laden *Infinite Jest*, and I’ve been reading Kottke for a decade+ at this point, so perhaps that’s a factor. Then again: I read a nonzero amount of DFW in high school (*Consider the Lobster* most notably) so it’s entirely possible I picked it up from DFW independently.
+I’m not sure. Footnotes were more common in old-school Web 1.0 blogging culture, and of course I love a good academic paper. But as for the _specific_ vector, I’m not sure. [Jason Kottke](http://kottke.org/) of the now-almost-30-year-old Kottke.org is a [big fan of footnotes](https://craigmod.com/onmargins/005/), and is also famously a great fan of David Foster Wallace and specifically the footnote-laden _Infinite Jest_, and I’ve been reading Kottke for a decade+ at this point, so perhaps that’s a factor. Then again: I read a nonzero amount of DFW in high school (_Consider the Lobster_ most notably) so it’s entirely possible I picked it up from DFW independently.
 
 ## Why are the footnotes floating off to the side?
 
@@ -28,6 +28,6 @@ Here’s my dog! A cute little Chihuahua mix I got at the SFSPCA shortly before 
 
 ## What’s your photography workflow?
 
-I’ve always been “photography curious”, but I never really got into photography as a hobby, on which more [here](https://rwblickhan.org/newsletters/if-you-show-still-frames-in-sequence-fast-enough/#communities-of-practice). So, while I have a hand-me-down DSLR from high school that I play with once every five years, most of my photography is just shot on iPhone, usually in RAW, in the stock Camera app or [Halide](https://halide.cam/), then touched up very lightly in [Photomator](https://www.pixelmator.com/photomator/). Some of my more-favorite shots are in the [gallery](https://rwblickhan.org/gallery/).
+I’ve always been “photography curious”, but I never really got into photography as a hobby, on which more [in this newsletter issue](https://rwblickhan.org/newsletters/if-you-show-still-frames-in-sequence-fast-enough/#communities-of-practice). So, while I have a hand-me-down DSLR from high school that I play with once every five years, most of my photography is just shot on iPhone, usually in RAW, in the stock Camera app or [Halide](https://halide.cam/), then touched up very lightly in [Photomator](https://www.pixelmator.com/photomator/). Some of my more-favorite shots are in the [gallery](https://rwblickhan.org/gallery/).
 
 [^newsletter]: Which, curiously, references an older version of my newsletter hosted on TinyLetter. I have absolutely no memory of this other newsletter and no record of its existence.
