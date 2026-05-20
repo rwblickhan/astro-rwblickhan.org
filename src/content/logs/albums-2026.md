@@ -106,6 +106,7 @@ lastUpdatedDate: 2026-05-19
 101. _The Provocateur_, Adéla
 102. _Sticky Fingers_, The Rolling Stones
 103. _At Fillmore East_, The Allman Brothers Band
+104. _Court and Spark_, Joni Mitchell
 
 ## Live Shows
 

@@ -39,7 +39,9 @@
       "Bash(xargs rg -l \"image\")",
       "Bash(hk generate *)",
       "Bash(pkl eval *)",
-      "Bash(rg *)"
+      "Bash(rg *)",
+      "Bash(jj config *)",
+      "Bash(jj fix *)"
     ],
     "deny": []
   }
