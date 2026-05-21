@@ -1,20 +1,20 @@
 ---
 title: /about
-lastUpdatedDate: 2026-05-19
+lastUpdatedDate: 2026-05-20
 description: Some basic facts about myself
 ---
 
 A short FAQ about myself, which, like all good FAQs, is not questions I've actually been asked but rather questions I felt like answering ...
 
-## Are you a real person? You use an awful lot of em dashes...
+## Are you a real person? You use an awful lot of em dashes
 
 Boy, I sure hope so. Otherwise I’m not sure what these fleshy appendages are.
 
-I use em dashes fairly consistently (and, I hope, correctly) because a long time ago I read [*Butterick’s Typography*](https://practicaltypography.com/hyphens-and-dashes.html) and shortly after started using the <kbd>⌥ ⇧-</kbd> shortcut for em dash. Today the muscle memory is so strong I find it more difficult _not_ to put an em dash when I need to.
+I use em dashes fairly consistently (and, I hope, correctly) because a long time ago I read [*Butterick’s Typography*](https://practicaltypography.com/hyphens-and-dashes.html) and shortly after started using the <kbd>⌥ ⇧-</kbd> shortcut for em dash. Today the muscle memory is so strong I find it more difficult *not* to put an em dash when I need to.
 
 ## Are you from the Bay Area? If not, how long have you been here?
 
-Oh no, definitely not. I’m from the North Shore suburbs of Chicago (but _not_, curiously enough, Naperville, where seemingly everyone else in the Chicago region grew up). I moved to San Francisco in mid-2019, shortly before [my very first newsletter post](https://rwblickhan.org/newsletters/soma-or-moving-to-san-francisco-and-living-to-tell/)![^newsletter]
+Oh no, definitely not. I’m from the North Shore suburbs of Chicago (but *not*, curiously enough, Naperville, where seemingly everyone else in the Chicago region grew up). I moved to San Francisco in mid-2019, shortly before [my very first newsletter post](https://rwblickhan.org/newsletters/soma-or-moving-to-san-francisco-and-living-to-tell/)![^newsletter]
 
 ## Where else can I read your writing?
 
@@ -22,7 +22,7 @@ Well, you can’t, unless you happen to a.) hack my laptop and steal unpublished
 
 ## Why do you use so many footnotes?
 
-I’m not sure. Footnotes were more common in old-school Web 1.0 blogging culture, and of course I love a good academic paper. But as for the _specific_ vector, I’m not sure. [Jason Kottke](http://kottke.org/) of the now-almost-30-year-old Kottke.org is a [big fan of footnotes](https://craigmod.com/onmargins/005/), and is also famously a great fan of David Foster Wallace and specifically the footnote-laden _Infinite Jest_, and I’ve been reading Kottke for a decade and a half at this point, so perhaps that’s a factor. Then again: I read a nonzero amount of DFW in high school (_Consider the Lobster_ most notably) so it’s entirely possible I picked it up from DFW independently.
+I’m not sure. Footnotes were more common in old-school Web 1.0 blogging culture, and of course I love a good academic paper. But as for the *specific* vector, I’m not sure. [Jason Kottke](http://kottke.org/) of the now-almost-30-year-old Kottke.org is a [big fan of footnotes](https://craigmod.com/onmargins/005/), and is also famously a great fan of David Foster Wallace and specifically the footnote-laden *Infinite Jest*, and I’ve been reading Kottke for a decade and a half at this point, so perhaps that’s a factor. Then again: I read a nonzero amount of DFW in high school (*Consider the Lobster* most notably) so it’s entirely possible I picked it up from DFW independently.
 
 ## Why are the footnotes floating off to the side?
 
