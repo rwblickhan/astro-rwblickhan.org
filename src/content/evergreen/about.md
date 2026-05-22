@@ -1,16 +1,18 @@
 ---
 title: /about
-lastUpdatedDate: 2026-05-20
+lastUpdatedDate: 2026-05-21
 description: Some basic facts about myself
 ---
 
 A short FAQ about myself, which, like all good FAQs, is not questions I've actually been asked but rather questions I felt like answering ...
 
-## Are you a real person? You use an awful lot of em dashes
+## Are you a real person? You use an awful lot of em dashes...
 
 Boy, I sure hope so. Otherwise I’m not sure what these fleshy appendages are.
 
 I use em dashes fairly consistently (and, I hope, correctly) because a long time ago I read [*Butterick’s Typography*](https://practicaltypography.com/hyphens-and-dashes.html) and shortly after started using the <kbd>⌥ ⇧-</kbd> shortcut for em dash. Today the muscle memory is so strong I find it more difficult *not* to put an em dash when I need to.
+
+You can read more about my usage of ai at [/ai](/ai).
 
 ## Are you from the Bay Area? If not, how long have you been here?
 
