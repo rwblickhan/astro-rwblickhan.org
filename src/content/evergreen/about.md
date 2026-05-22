@@ -16,6 +16,10 @@ I use em dashes fairly consistently (and, I hope, correctly) because a long time
 
 You can read more about my usage of ai at [/ai](/ai).
 
+## What’s with the lowercase lambdas (λ)?
+
+I heavily use the Greek lambda as a personal symbol because I played too much [*Half-Life 2*](https://en.wikipedia.org/wiki/Half-Life_2) as a child, because I had a brief, torrid love affair with the [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) as a university student, because it’s directly descended from the Phoenician *lamed*  𐤋 and thus a good symbol for my interest in cultural technologies, and frankly just because frankly the lowercase lambda looks sick.
+
 ## Are you from the Bay Area? If not, how long have you been here?
 
 Oh no, definitely not. I’m from the North Shore suburbs of Chicago (but *not*, curiously enough, Naperville, where seemingly everyone else in the Chicago region grew up). I moved to San Francisco in mid-2019, shortly before [my very first newsletter post](https://rwblickhan.org/newsletters/soma-or-moving-to-san-francisco-and-living-to-tell/)![^newsletter]
