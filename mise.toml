@@ -4,6 +4,9 @@ hk = "latest"
 pkl = "latest"
 pnpm = "latest"
 
+[hooks]
+postinstall = "hk install"
+
 [tasks.dev]
 alias = 'd'
 run = 'pnpm run dev'
