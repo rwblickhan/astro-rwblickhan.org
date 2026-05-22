@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-21
+lastUpdatedDate: 2026-05-22
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -109,6 +109,7 @@ lastUpdatedDate: 2026-05-21
 104. _Court and Spark_, Joni Mitchell
 105. _Promised Land_, Ax14
 106. _DigiPool_, Ax14
+107. _When the Pawn..._, Fiona Apple
 
 ## Live Shows
 
