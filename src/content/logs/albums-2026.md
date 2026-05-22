@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-20
+lastUpdatedDate: 2026-05-21
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -107,6 +107,8 @@ lastUpdatedDate: 2026-05-20
 102. _Sticky Fingers_, The Rolling Stones
 103. _At Fillmore East_, The Allman Brothers Band
 104. _Court and Spark_, Joni Mitchell
+105. _Promised Land_, Ax14
+106. _DigiPool_, Ax14
 
 ## Live Shows
 
