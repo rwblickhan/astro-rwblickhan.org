@@ -4,9 +4,11 @@ lastUpdatedDate: 2026-05-21
 description: Some basic facts about myself
 ---
 
+<!-- markdownlint-disable no-trailing-punctuation -->
+
 A short FAQ about myself, which, like all good FAQs, is not questions I've actually been asked but rather questions I felt like answering ...
 
-## Are you a real person? You use an awful lot of em dashes
+## Are you a real person? You use an awful lot of em dashes...
 
 Boy, I sure hope so. Otherwise I’m not sure what these fleshy appendages are.
 
