@@ -41,7 +41,10 @@
       "Bash(pkl eval *)",
       "Bash(rg *)",
       "Bash(jj config *)",
-      "Bash(jj fix *)"
+      "Bash(jj fix *)",
+      "Bash(mise run *)",
+      "Bash(python3 -m json.tool)",
+      "Bash(pnpm *)"
     ],
     "deny": []
   }
