@@ -1,6 +1,5 @@
 [tools]
 hk = "latest"
-"npm:astro" = "latest"
 "npm:wrangler" = "latest"
 pkl = "latest"
 pnpm = "latest"
