@@ -4,6 +4,7 @@ import "package://github.com/jdx/hk/releases/download/v1.45.0/hk@1.45.0#/Builtin
 local linters = new Mapping<String, Step> {
     ["markdownlint"] = Builtins.markdown_lint
     ["astro"] {
+        glob = "**/*.astro"
         check = "pnpm exec astro check"
     }
     ["lastUpdatedDate"] {
