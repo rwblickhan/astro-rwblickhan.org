@@ -1,6 +1,6 @@
 ---
 title: Logs Thrown Overboard To Track Speed
-lastUpdatedDate: 2026-05-22
+lastUpdatedDate: 2026-05-23
 publicationDate: 2026-05-22
 season: 8
 ---
