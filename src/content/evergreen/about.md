@@ -18,7 +18,7 @@ You can read more about my usage of ai at [/ai](/ai).
 
 **What’s with the lowercase lambdas (λ)?**
 
-I heavily use the Greek lambda as a personal symbol because I played too much [_Half-Life 2_](https://en.wikipedia.org/wiki/Half-Life_2) as a child, because I had a brief, torrid love affair with the [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) as a university student, because it’s directly descended from the Phoenician _lamed_ 𐤋 and thus a good symbol for my interest in cultural technologies, and frankly just because frankly the lowercase lambda looks sick.
+I heavily use the Greek lambda as a personal symbol because I played too much [_Half-Life 2_](https://en.wikipedia.org/wiki/Half-Life_2) as a child, because I had a brief, torrid love affair with the [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) as a university student, because it’s directly descended from the Phoenician _lamed_ 𐤋 and thus a good symbol for my interest in cultural technologies, and frankly just because the lowercase lambda looks sick.
 
 **Are you from the Bay Area? If not, how long have you been here?**
 
