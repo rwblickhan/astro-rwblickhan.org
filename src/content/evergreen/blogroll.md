@@ -1,6 +1,6 @@
 ---
 title: Blogroll
-lastUpdatedDate: 2026-05-02
+lastUpdatedDate: 2026-05-22
 description: What passes for a blogroll these days
 ---
 
