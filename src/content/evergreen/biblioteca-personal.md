@@ -1,7 +1,7 @@
 ---
-title: Biblioteca Personal
+title: Biblioteca Personal (aka /canon)
 description: A brief list of my favorite fiction
-lastUpdatedDate: 2026-04-03
+lastUpdatedDate: 2026-05-22
 ---
 
 In honor of Jorge Luis Borges’ [_biblioteca personal_](https://www.openculture.com/2015/03/jorge-luis-borges-personal-library.html), here’s my own list of media that has been deeply influential on me. (Incomplete, but I’ll finish it off later!)
