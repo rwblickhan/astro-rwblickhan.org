@@ -3,10 +3,7 @@ import "package://github.com/jdx/hk/releases/download/v1.45.0/hk@1.45.0#/Builtin
 
 local linters = new Mapping<String, Step> {
     ["markdownlint"] = Builtins.markdown_lint
-    ["astro"] {
-        glob = "**/*.astro"
-        check = "pnpm exec astro check"
-    }
+    ["astro"] = Builtins.astro
     ["lastUpdatedDate"] {
         glob = "src/**/*.md"
         fix = #"sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: $(date +%Y-%m-%d)" {{ files }}"#
