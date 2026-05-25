@@ -311,3 +311,4 @@ Working fast means you can get more done per unit time. But as James Somers poin
 - ["Fast Tools are Wonderful "](https://v5.chriskrycho.com/journal/fast-tools-are-wonderful/), Chris Krycho
 - ["Why speed matters"](https://lemire.me/blog/2025/12/05/why-speed-matters/), Daniel Lemire
 - ["Fast is better than slow"](https://dubroy.com/blog/fast-is-better-than-slow/), Patrick Dubroy
+- ["Moving faster"](https://www.scattered-thoughts.net/writing/moving-faster/), Jamie Brandon
