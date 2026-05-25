@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-23
+lastUpdatedDate: 2026-05-25
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -112,6 +112,7 @@ lastUpdatedDate: 2026-05-23
 107. _When the Pawn..._, Fiona Apple
 108. _Floral Shoppe_, Macintosh Plus
 109. _Theft World_, Lip Critic
+110. _Love You_, The Beach Boys
 
 ## Live Shows
 
