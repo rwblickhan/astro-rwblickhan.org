@@ -113,6 +113,7 @@ lastUpdatedDate: 2026-05-25
 108. _Floral Shoppe_, Macintosh Plus
 109. _Theft World_, Lip Critic
 110. _Love You_, The Beach Boys
+111. _Pacific Ocean Blue_, Dennis Wilson
 
 ## Live Shows
 
