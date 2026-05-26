@@ -38,7 +38,7 @@ What I’m trying to say is, _Paddington 2_ is a masterpiece and you should watc
 
 ## A Good Samurai Will Parry The Blow
 
-_Note from years later: this is an embarrassingly shallow reading of Neo-Confucianism, and conflates Zhu Xi, the founder of Neo-Confucianism, with Wang Yangming, who really did say “the people filling the street are all sages.” Hopefully this section is still of interest, but please don’t take me (a rando on the internet) as an authoritative source on Neo-Confucianism._ 
+_Note from years later: this is an embarrassingly shallow reading of Neo-Confucianism, and conflates Zhu Xi, the founder of Neo-Confucianism, with Wang Yangming, who really did say “the people filling the street are all sages.” Hopefully this section is still of interest, but please don’t take me (a rando on the internet) as an authoritative source on Neo-Confucianism._
 
 I’ve been thinking a lot about Neo-Confucianism lately because of a book called _The Last Samurai_, which ironically has very little to do with samurai. Rather, one could argue that _The Last Samurai_ has much more to do with one of the main tenets of Neo-Confucianism — in fact, arguably _the_ central tent — which is the inherent perfectibility of human beings. Yes, perhaps some of us are born with more virtue than others, but anyone can, in theory, cultivate virtue, or so says Song dynasty scholar Zhu Xi anyway.
 
