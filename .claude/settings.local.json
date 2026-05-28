@@ -44,7 +44,8 @@
       "Bash(jj fix *)",
       "Bash(mise run *)",
       "Bash(python3 -m json.tool)",
-      "Bash(pnpm *)"
+      "Bash(pnpm *)",
+      "WebFetch(domain:astro.build)"
     ],
     "deny": []
   }

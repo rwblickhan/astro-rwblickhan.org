@@ -1,4 +1,5 @@
 import { defineConfig } from "astro/config";
+import { unified } from "@astrojs/markdown-remark";
 import pagefind from "astro-pagefind";
 import sitemap from "@astrojs/sitemap";
 import remarkA11yEmoji from "@fec/remark-a11y-emoji";
@@ -16,7 +17,9 @@ export default defineConfig({
     breakpoints: [640, 1080, 1280, 1920],
   },
   markdown: {
-    remarkPlugins: [remarkA11yEmoji],
-    rehypePlugins: [rehypeBlockquoteFigures, rehypeFigcaption, rehypeSidenotes],
+    processor: unified({
+      remarkPlugins: [remarkA11yEmoji],
+      rehypePlugins: [rehypeBlockquoteFigures, rehypeFigcaption, rehypeSidenotes],
+    }),
   },
 });
