@@ -45,7 +45,10 @@
       "Bash(mise run *)",
       "Bash(python3 -m json.tool)",
       "Bash(pnpm *)",
-      "WebFetch(domain:astro.build)"
+      "WebFetch(domain:astro.build)",
+      "WebFetch(domain:satteri.bruits.org)",
+      "Bash(jj new *)",
+      "Bash(jj log *)"
     ],
     "deny": []
   }
