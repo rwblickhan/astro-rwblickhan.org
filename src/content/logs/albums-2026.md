@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-25
+lastUpdatedDate: 2026-05-28
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -114,6 +114,8 @@ lastUpdatedDate: 2026-05-25
 109. _Theft World_, Lip Critic
 110. _Love You_, The Beach Boys
 111. _Pacific Ocean Blue_, Dennis Wilson
+112. *Control*, Janet Jackson
+113. *Live Through This*, Hole
 
 ## Live Shows
 

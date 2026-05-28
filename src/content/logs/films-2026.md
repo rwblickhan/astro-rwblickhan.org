@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-05-18
+lastUpdatedDate: 2026-05-28
 ---
 
 ## Movies
@@ -22,6 +22,7 @@ lastUpdatedDate: 2026-05-18
 15. *The Greatest Showman* (2017)
 16. *Good Time* (2017)
 17. 🔁 *Lake Mungo* (2008)
+18. *Fruitvale Station* (2013)
 
 ## TV Shows
 
