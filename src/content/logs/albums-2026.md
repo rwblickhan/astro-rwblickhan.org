@@ -114,8 +114,8 @@ lastUpdatedDate: 2026-05-28
 109. _Theft World_, Lip Critic
 110. _Love You_, The Beach Boys
 111. _Pacific Ocean Blue_, Dennis Wilson
-112. *Control*, Janet Jackson
-113. *Live Through This*, Hole
+112. _Control_, Janet Jackson
+113. _Live Through This_, Hole
 
 ## Live Shows
 
