@@ -5,6 +5,7 @@ import sitemap from "@astrojs/sitemap";
 import { satteriBlockquoteFigures, satteriBlockquoteFiguresFallback } from "./src/plugins/satteri-blockquote-figures.js";
 import { satteriFigcaption } from "./src/plugins/satteri-figcaption.js";
 import { satteriSidenotes } from "./src/plugins/satteri-sidenotes.js";
+import { satteriA11yEmoji } from "./src/plugins/satteri-a11y-emoji.js";
 
 export default defineConfig({
   site: "https://rwblickhan.org",
@@ -18,7 +19,7 @@ export default defineConfig({
   markdown: {
     processor: satteri({
       features: { math: false },
-      hastPlugins: [satteriBlockquoteFigures, satteriBlockquoteFiguresFallback, satteriFigcaption, satteriSidenotes],
+      hastPlugins: [satteriA11yEmoji, satteriBlockquoteFigures, satteriBlockquoteFiguresFallback, satteriFigcaption, satteriSidenotes],
     }),
   },
 });

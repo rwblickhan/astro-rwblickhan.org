@@ -32,6 +32,12 @@ importers:
       astro-pagefind:
         specifier: ^1.8.3
         version: 1.8.3(astro@6.4.2(@types/node@24.12.2)(rollup@4.45.1)(sass@1.89.2)(yaml@2.8.3))
+      emoji-regex:
+        specifier: ^10.6.0
+        version: 10.6.0
+      gemoji:
+        specifier: ^8.1.0
+        version: 8.1.0
       hastscript:
         specifier: ^9.0.1
         version: 9.0.1
@@ -1210,6 +1216,9 @@ packages:
   emoji-regex@10.4.0:
     resolution: {integrity: sha512-EC+0oUMY1Rqm4O6LLrgjtYDvcVYTy7chDnM4Q7030tP4Kwj3u/pR6gP9ygnp2CJMK5Gq+9Q2oqmrFJAz01DXjw==}
 
+  emoji-regex@10.6.0:
+    resolution: {integrity: sha512-toUI84YS5YmxW219erniWD0CIVOo46xGKColeNQRgOzDorgBi1v4D71/OFzgD9GO2UGKIv1C3Sp8DAn0+j5w7A==}
+
   emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
 
@@ -1316,6 +1325,9 @@ packages:
 
   gemoji@6.1.0:
     resolution: {integrity: sha512-MOlX3doQ1fsfzxQX8Y+u6bC5Ssc1pBUBIPVyrS69EzKt+5LIZAOm0G5XGVNhwXFgkBF3r+Yk88ONyrFHo8iNFA==}
+
+  gemoji@8.1.0:
+    resolution: {integrity: sha512-HA4Gx59dw2+tn+UAa7XEV4ufUKI4fH1KgcbenVA9YKSj1QJTT0xh5Mwv5HMFNN3l2OtUe3ZIfuRwSyZS5pLIWw==}
 
   get-caller-file@2.0.5:
     resolution: {integrity: sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==}
@@ -3544,6 +3556,8 @@ snapshots:
 
   emoji-regex@10.4.0: {}
 
+  emoji-regex@10.6.0: {}
+
   emoji-regex@8.0.0: {}
 
   end-of-stream@1.4.5:
@@ -3655,6 +3669,8 @@ snapshots:
     optional: true
 
   gemoji@6.1.0: {}
+
+  gemoji@8.1.0: {}
 
   get-caller-file@2.0.5: {}
 
