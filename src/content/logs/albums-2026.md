@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-28
+lastUpdatedDate: 2026-05-29
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -117,6 +117,8 @@ lastUpdatedDate: 2026-05-28
 112. _Control_, Janet Jackson
 113. _Live Through This_, Hole
 114. _Colossal Youth_, Young Marble Giants
+115. _Inferno_, Boards of Canada
+116. _Goodbye Yellow Brick Road_, Elton John
 
 ## Live Shows
 
