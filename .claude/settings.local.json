@@ -52,7 +52,8 @@
       "WebFetch(domain:github.com)",
       "Bash(ASTRO_CACHE_DIR=/tmp/astro-cache-a11y npm run build)",
       "Bash(ASTRO_CACHE_DIR=/tmp/astro-cache-a11y npx astro build)",
-      "Bash(ASTRO_CACHE_DIR=/tmp/astro-cache-noa11y node *)"
+      "Bash(ASTRO_CACHE_DIR=/tmp/astro-cache-noa11y node *)",
+      "Bash(hk check *)"
     ],
     "deny": []
   }
