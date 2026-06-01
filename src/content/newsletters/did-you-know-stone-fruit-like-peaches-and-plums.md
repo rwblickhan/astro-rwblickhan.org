@@ -68,7 +68,7 @@ To do this I decided to use an outliner, in particular [Zavala](https://zavala.v
 
 ## Site Updates
 
-I added a [TIL section](https://rwblickhan.org/technical/), where I’ve been trying to write short (\<500 word) posts about new things I learn technically, heavily inspired by inspired by [Simon Willison's TIL page](https://til.simonwillison.net). I also cleaned up how the hamburger menu up top works, but eh who cares about that.
+I added a [TIL section](/technical/), where I’ve been trying to write short (\<500 word) posts about new things I learn technically, heavily inspired by inspired by [Simon Willison's TIL page](https://til.simonwillison.net). I also cleaned up how the hamburger menu up top works, but eh who cares about that.
 
 ![Rooibos asleep atop his mountain of blankets](../../assets/newsletters/rooibos_mountain.jpg)
 

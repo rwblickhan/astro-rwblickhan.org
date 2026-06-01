@@ -24,7 +24,7 @@ I’ve dribbled life updates slowly over the course of many newsletters, but I h
 * I’m still an iOS engineer at Asana.[^2]
 * I shelved the book I was working on — I took a crack at cleaning up the first draft, struggled, decided to throw it out and start a second draft, barely managed two new chapters, then decided it might be better to take some time off it…
 * … so I’m starting a different book instead 😂 This will be more of a sci-fi/thriller and I don’t “care” as much about it, so hopefully that makes it easier for me to, er, actually sell it someday. I’m currently drafting an outline and plan to spend April getting through a first draft (NAprilWriMo?).
-* My quest to read 52 books per year is coming along — so far [I’ve read 13 this year](https://rwblickhan.org/52books/2021/), with another close to completion. My attempt to watch 52 films this year is not going [quite so well](https://rwblickhan.org/52films/2021/).
+* My quest to read 52 books per year is coming along — so far [I’ve read 13 this year](/logs/books-2021/), with another close to completion. My attempt to watch 52 films this year is not going [quite so well](/logs/films-2021/).
 * Sherry and I took up tennis a few months ago, which has been lovely, since it’s one of the few activities that is essentially unchanged by the pandemic. We also took a couple weekend trips to Tahoe to go skiing (for the first time, in my case), which is also relatively unchanged — I’m happy to say I enjoy going down moderately-difficult greens already, although I don’t love how much logistics is required to get up the mountain. We also tried snowshoeing, which is nice, even if it’s really “just” hiking.
 * And, of course, I still walk Rooibos 2-3 times a day.
 

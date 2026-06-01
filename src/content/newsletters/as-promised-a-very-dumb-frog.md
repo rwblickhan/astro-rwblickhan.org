@@ -17,7 +17,7 @@ So I’ve been enjoying my time as a full-stack engineer, even as Apple platform
 
 [Last month](https://buttondown.email/rwblickhan/archive/did-you-know-stone-fruit-like-peaches-and-plums/) I talked about how cool WebGPU is, but that’s not all. Here’s an attempt to [build a signal analyzer on the web](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/), with the takeaway that the web is very much ready to be a “real” platform now.
 
-Also neat from a frontend perspective is the upcoming [scroll-driven animations](https://developer.chrome.com/articles/scroll-driven-animations/), which let you drive an animation from, well, how far a user has scrolled. That’s really nice! Sometimes I wish iOS had stuff like this, instead of forcing me to get a [border with corner radius](https://rwblickhan.org/technical/til/20230610-border-in-swiftui/). Similarly, I just learned about [Open UI](https://open-ui.org), a W3C community group trying to specify as many common components as possible. They even have a [neat chart](https://open-ui.org/research/component-matrix/) of every component in every web framework!
+Also neat from a frontend perspective is the upcoming [scroll-driven animations](https://developer.chrome.com/articles/scroll-driven-animations/), which let you drive an animation from, well, how far a user has scrolled. That’s really nice! Sometimes I wish iOS had stuff like this, instead of forcing me to get a [border with corner radius](/technical/til/20230610-border-in-swiftui/). Similarly, I just learned about [Open UI](https://open-ui.org), a W3C community group trying to specify as many common components as possible. They even have a [neat chart](https://open-ui.org/research/component-matrix/) of every component in every web framework!
 
 Honestly, I didn’t really have a point with this section, other than to point out that web technologies are really cool?
 
@@ -60,11 +60,11 @@ You should read _The Magic Fish_ by Trung Le Nguyen! Drop everything and read it
 
 ## Today I Learned I Know Nothing
 
-I’m still writing irregular technical [TIL posts](https://rwblickhan.org/technical/) inspired by [Simon Willison](https://til.simonwillison.net) — I definitely recommend checking them out 😉 I also wrote up a [list of VS Code plugins](https://rwblickhan.org/technical/vscode-plugins/) that I’ve been using. Also, in case you missed it (and want even more links), I have reading lists for some of the major theme areas I list on my site, which I update every so often:
+I’m still writing irregular technical [TIL posts](/technical/) inspired by [Simon Willison](https://til.simonwillison.net) — I definitely recommend checking them out 😉 I also wrote up a [list of VS Code plugins](/technical/vscode-plugins/) that I’ve been using. Also, in case you missed it (and want even more links), I have reading lists for some of the major theme areas I list on my site, which I update every so often:
 
-- [Tools for Thought](https://rwblickhan.org/misc/tools-for-thought-reading-list/)
-- [Consciousness, Identity, & Neurodiversity](https://rwblickhan.org/misc/consciousness-neurodiversity-reading-list/)
-- [Culture & Technology](https://rwblickhan.org/misc/culture-reading-list/)
+- [Tools for Thought](/misc/tools-for-thought-reading-list/)
+- [Consciousness, Identity, & Neurodiversity](/misc/consciousness-neurodiversity-reading-list/)
+- [Culture & Technology](/misc/culture-reading-list/)
 
 I’ve also been working on a personal library [a la Borges](https://whyisthisinteresting.substack.com/p/the-biblioteca-personal-edition?utm_source=post-email-title&publication_id=7000&post_id=126916949&isFreemail=true&utm_medium=email), but that’s not ready for prime time yet.
 

@@ -5,7 +5,7 @@ publicationDate: 2024-09-01
 season: 7
 ---
 
-Recently I hosted a cocktail party. Most of my friends assumed I intended to host a fun night, but actually I just wanted to practice making cocktails, which is one of my [yearly goals](https://rwblickhan.org/essays/yearly-goals/) this year. So here are some brief reviews of cocktails I tried making.
+Recently I hosted a cocktail party. Most of my friends assumed I intended to host a fun night, but actually I just wanted to practice making cocktails, which is one of my [yearly goals](/essays/yearly-goals/) this year. So here are some brief reviews of cocktails I tried making.
 
 ## Lemon Drop
 

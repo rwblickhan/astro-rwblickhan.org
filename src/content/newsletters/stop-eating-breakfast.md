@@ -7,7 +7,7 @@ season: 7
 
 Stop eating breakfast!
 
-I hold to few [folk mental models](https://rwblickhan.org/newsletters/accessible-understandable-answers-in-a-broad-domain-of-interest/#folk-mental-models), but this is a hill I will, if not *die* on, then at least be mildly wounded on.
+I hold to few [folk mental models](/newsletters/accessible-understandable-answers-in-a-broad-domain-of-interest/#folk-mental-models), but this is a hill I will, if not *die* on, then at least be mildly wounded on.
 
 A couple years ago, I tried an experiment in intermittent fasting, where I only ate between the hours of 12pm and 8pm. I lost a *little* bit of weight, largely because I was no longer tempted by late-night snacks, but otherwise I felt basically the same as I always did. After a few months, I gave up time-tracking; I still avoid eating late at night, but otherwise I can’t say my brave experiment in biohacking was particularly life-changing.
 

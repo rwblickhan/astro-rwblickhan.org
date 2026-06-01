@@ -5,7 +5,7 @@ publicationDate: 2022-08-08 04:50:56.254024+00:00
 season: 5
 ---
 
-> I recommend reading this article [on my website](https://rwblickhan.org/technical/thinkingstyles/)!
+> I recommend reading this article [on my website](/newsletters/thinkingstyles/)!
 
 Lately, I’ve been thinking about two thinking styles, which we could call _analyzing_ and _synthesizing_. Analyzers think “cleverly” and make interpretive leaps without additional context, excelling at “pure” problem solving, while synthesizers absorb large amounts of information and combine it in novel ways.
 

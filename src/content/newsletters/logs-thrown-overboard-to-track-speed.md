@@ -27,11 +27,11 @@ Anyway: good product, I understand why many people love it, but just not for me.
 
 ---
 
-Sadly, unlike [last week](https://rwblickhan.org/newsletters/definitely-a-technical-exercise-in-academic-philosophy/) or [the week before](https://rwblickhan.org/newsletters/not-even-disdain-but-simply-incomprehension/), I didn’t read a classic this week. But I _did_ put the classic [_A Pattern Language_](https://en.wikipedia.org/wiki/A_Pattern_Language) by Christopher Alexander et. al. on hold,[^hendren] so perhaps expect some notes in that direction in the near future.
+Sadly, unlike [last week](/newsletters/definitely-a-technical-exercise-in-academic-philosophy/) or [the week before](/newsletters/not-even-disdain-but-simply-incomprehension/), I didn’t read a classic this week. But I _did_ put the classic [_A Pattern Language_](https://en.wikipedia.org/wiki/A_Pattern_Language) by Christopher Alexander et. al. on hold,[^hendren] so perhaps expect some notes in that direction in the near future.
 
 ---
 
-Every week I think to myself: boy, I haven’t done a [good old-fashioned linkblog](https://rwblickhan.org/newsletters/good-old-fashioned-linkblog/) in quite a while. And I _do like_ sharing things I’ve read (because I [read a lot](https://rwblickhan.org/newsletters/reading-lots/)...), and I _do like_ clicking the nice tempting links in other people’s newsletters. So, perhaps, I’ll start throwing in a couple links I enjoyed into each newsletter. And so:
+Every week I think to myself: boy, I haven’t done a [good old-fashioned linkblog](/newsletters/good-old-fashioned-linkblog/) in quite a while. And I _do like_ sharing things I’ve read (because I [read a lot](/newsletters/reading-lots/)...), and I _do like_ clicking the nice tempting links in other people’s newsletters. So, perhaps, I’ll start throwing in a couple links I enjoyed into each newsletter. And so:
 
 ---
 
@@ -65,8 +65,8 @@ Which is a [lens](https://approximateknowledge.net/inkhaven/2026/04/30/lenses.ht
 
 This week elsewhere on the site:
 
-- I set up an [/about](https://rwblickhan.org/about/) page answering some not-actually-frequently-asked questions about myself! That’s the first of a [number of slash pages](https://rwblickhan.org/evergreen/slashes/) I’ll be rolling out soon.
-- I set up [Hammerspoon replacements](https://rwblickhan.org/evergreen/technical-tils/#hammerspoon-app-hotkeys) for some of my Raycast hotkeys, which led me to spend a bunch of time messing around with _other_ Hammerspoon hotkeys, which ended up reminding me why I love [automating the personal](https://rwblickhan.org/newsletters/automating-the-personal/).
+- I set up an [/about](/about/) page answering some not-actually-frequently-asked questions about myself! That’s the first of a [number of slash pages](/evergreen/slashes/) I’ll be rolling out soon.
+- I set up [Hammerspoon replacements](/evergreen/technical-tils/#hammerspoon-app-hotkeys) for some of my Raycast hotkeys, which led me to spend a bunch of time messing around with _other_ Hammerspoon hotkeys, which ended up reminding me why I love [automating the personal](/newsletters/automating-the-personal/).
 
 ---
 

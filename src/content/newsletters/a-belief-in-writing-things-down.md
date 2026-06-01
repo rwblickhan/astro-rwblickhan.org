@@ -7,11 +7,11 @@ season: 8
 
 ![An origami crane in a tree in Japantown](../../assets/newsletters/origami-crane.jpg)
 
-Short one this week, because I’ve a.) finally started work, for real, and need brain space for that b.) have been writing a thousand words a day (give or take) as I race to complete my latest manuscript asap c.) am working on a [how to jujutsu](https://rwblickhan.org/newsletters/really-truly-breathless-with-excitement/) article that I should also reserve some brain space for.
+Short one this week, because I’ve a.) finally started work, for real, and need brain space for that b.) have been writing a thousand words a day (give or take) as I race to complete my latest manuscript asap c.) am working on a [how to jujutsu](/newsletters/really-truly-breathless-with-excitement/) article that I should also reserve some brain space for.
 
 ---
 
-I [recently mentioned](https://rwblickhan.org/newsletters/you-can-take-my-em-dashes-from-my-cold-dead-hands/) some of the properties of my oft-repeated core identities of “writer and programmer”. I spent some time this week thinking about what else defines those identities, or perhaps more precisely what traits I identify in myself as coming from those disciplines:
+I [recently mentioned](/newsletters/you-can-take-my-em-dashes-from-my-cold-dead-hands/) some of the properties of my oft-repeated core identities of “writer and programmer”. I spent some time this week thinking about what else defines those identities, or perhaps more precisely what traits I identify in myself as coming from those disciplines:
 
 - Programming:
   - A belief that processes _can_ be automated (not to say anything about whether they _should_). So many people are happy to copy-paste-repeat, but programmers tend to ask “why don’t you write a script for that?” I’ve slowly grown to the conviction that, historically, automation is not very natural to the human mindset and has to be learned.
@@ -29,7 +29,7 @@ Anyway, this was an interesting exercise, and probably one I’ll continue to th
 
 ---
 
-This week’s update to the website: a new table of contents popover in the bottom left (if I put headings in, which I don’t always do). So, for instance, if you open my [brief, opinionated guide to tea](https://rwblickhan.org/newsletters/rbog-tea/), you’ll see the option in the bottom left if your window is wide enough. The design took a few attempts, but I’m reasonably happy with the outcome. I also set up [`scroll-target-group`](https://una.im/scroll-target-group), so if you’re on Chrome you should also see the current heading bolded.
+This week’s update to the website: a new table of contents popover in the bottom left (if I put headings in, which I don’t always do). So, for instance, if you open my [brief, opinionated guide to tea](/newsletters/rbog-tea/), you’ll see the option in the bottom left if your window is wide enough. The design took a few attempts, but I’m reasonably happy with the outcome. I also set up [`scroll-target-group`](https://una.im/scroll-target-group), so if you’re on Chrome you should also see the current heading bolded.
 
 ---
 

@@ -35,8 +35,8 @@ Friend of the newsletter (can I say friend of the newsletter? Who knows!) Kerls 
 
 ## What Are The Haps My Friends
 
-I wrote a couple things on my lil garden on the internets recently. First up I wrote about [how I set yearly goals](https://rwblickhan.org/essays/yearly-goals/), which unfortunately ended up with a bit of a techbro vibe 🤷‍♀️ I also set up a [pattern language](https://rwblickhan.org/misc/pattern-language/), where I define some mental models that I tend to use, mostly so that I can link to them in the future — you can see a couple of those links above.
+I wrote a couple things on my lil garden on the internets recently. First up I wrote about [how I set yearly goals](/essays/yearly-goals/), which unfortunately ended up with a bit of a techbro vibe 🤷‍♀️ I also set up a [pattern language](/misc/pattern-language/), where I define some mental models that I tend to use, mostly so that I can link to them in the future — you can see a couple of those links above.
 
-I also updated the [search page](https://rwblickhan.org/search/) to only search titles — that is, I made it more of a quick-jump page — because that’s personally more useful than a full-site search.
+I also updated the search page to only search titles — that is, I made it more of a quick-jump page — because that’s personally more useful than a full-site search.
 
 Oh, also, some folks I know started a podcast called [The Growth Gradient](https://open.spotify.com/show/7ADTUMcMgPYCsVizP1CfSx?si=oVJpCjBEQaq1IP1ST8Wq_Q&nd=1) and asked me to show up on an episode about productivity! So that’s hopefully coming out in the near future.

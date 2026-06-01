@@ -26,7 +26,7 @@ Speaking of travel: a thought occurred while waiting in the TSA Precheck line[^p
 
 ![A piece of art in a gallery in Chelsea in New York City](../../assets/newsletters/new_york_art.jpg)
 
-After yet another fruitless argument about the precise boundary of Gen Z and Millennials, I realized generations are another example of a [folk mental model](https://rwblickhan.org/newsletters/accessible-understandable-answers-in-a-broad-domain-of-interest/#folk-mental-models). “Generations” are [not really a useful concept in the social sciences](https://www.newyorker.com/magazine/2021/10/18/its-time-to-stop-talking-about-generations) and don’t even have a clear definition — Wikipedia says Gen Z is “most frequently defined as people born between 1997 to 2012”, for no clear reason! — yet we love to argue about them. Indeed, much like astrology, we often assign personality traits based on generation — Baby Boomers are lackadaisical and carefree, Millennials don’t like to work, and so on — even though these often overlap or are outright contradictory.
+After yet another fruitless argument about the precise boundary of Gen Z and Millennials, I realized generations are another example of a [folk mental model](/newsletters/accessible-understandable-answers-in-a-broad-domain-of-interest/#folk-mental-models). “Generations” are [not really a useful concept in the social sciences](https://www.newyorker.com/magazine/2021/10/18/its-time-to-stop-talking-about-generations) and don’t even have a clear definition — Wikipedia says Gen Z is “most frequently defined as people born between 1997 to 2012”, for no clear reason! — yet we love to argue about them. Indeed, much like astrology, we often assign personality traits based on generation — Baby Boomers are lackadaisical and carefree, Millennials don’t like to work, and so on — even though these often overlap or are outright contradictory.
 
 That may explain my frustration when I talk to people that take the existence of generations for granted — it’s like talking to an astrologer when you think the planets are just rocks in the sky. Still, I find it fascinating just how many folk mental models are quietly lurking beneath the surface.
 
@@ -36,7 +36,7 @@ Recently I assigned a [hyperkey](https://rachsmith.com/hyperkey/) via the eponym
 
 The nice part is that this has native support in [Raycast](https://www.raycast.com) — you can even configure it to show a special icon! — so I can use the new hyperkey as a shortcut to open apps directly. In particular, I’ve set up a rough system of mnemonics for my most-used apps — hyper-T opens Things, hyper-C opens the console (well, iTerm2), hyper-O opens Obsidian, and so on. Conveniently, you can use the same Raycast shortcut to *hide* the app as well, which keeps my desktop windows nice and tidy.‌
 
-This may be a micro-optimization, but then again, [speed matters](https://rwblickhan.org/misc/pattern-language/#speed-matters).
+This may be a micro-optimization, but then again, [speed matters](/misc/pattern-language/#speed-matters).
 
 <hr />
 

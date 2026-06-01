@@ -5,7 +5,7 @@ publicationDate: 2026-02-14
 season: 8
 ---
 
-Travel, like the discipline of anthropology, tends to “make the strange familiar and the familiar strange.” So, [just like last time](https://rwblickhan.org/essays/strange-things-about-melbourne/), here’s some strange things I noticed about London during a recent week-long trip there.
+Travel, like the discipline of anthropology, tends to “make the strange familiar and the familiar strange.” So, [just like last time](/essays/strange-things-about-melbourne/), here’s some strange things I noticed about London during a recent week-long trip there.
 
 ## Beigels
 

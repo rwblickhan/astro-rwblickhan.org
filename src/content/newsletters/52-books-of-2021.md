@@ -7,7 +7,7 @@ season: 5
 
 Hello all, and welcome back to a new year and a new season of `rwblog`, née Applied Dilettantery. As a housekeeping note, I’ll no longer be keeping to a regular schedule, but instead send these out whenever I feel like it. I expect most issues to consist of short essays or observations, typically about what I’ve been reading or thinking about — similar to many of the previous formats, but probably quite a bit shorter.
 
-So, without further ado, here are my reflections on my reading for the past year. I managed to read about [56 books this year](https://rwblickhan.org/52books/2021) and intend to read at least 52 next year as well. I expect to follow up with reflections on the films I watched in the past year in the coming weeks as well. Also, as that old canard goes, I apologize for such a long letter — I didn’t have time to write a short one 🙂
+So, without further ado, here are my reflections on my reading for the past year. I managed to read about [56 books this year](/logs/books-2021) and intend to read at least 52 next year as well. I expect to follow up with reflections on the films I watched in the past year in the coming weeks as well. Also, as that old canard goes, I apologize for such a long letter — I didn’t have time to write a short one 🙂
 
 !["Difference is Time", San Francisco Public Library, Thomas Hawk](../../assets/newsletters/difference_is_time.jpg)
 

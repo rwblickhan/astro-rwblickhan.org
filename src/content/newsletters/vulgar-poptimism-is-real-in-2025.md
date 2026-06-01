@@ -12,7 +12,7 @@ season: 8
 Two reading recommendations this weekend:
 
 - Celine Nguyen has a [thought-provoking commentary on criticism](https://asteriskmag.com/issues/12-books/is-the-internet-making-culture-worse) (literary and otherwise). She makes the point that art is formed in response to and in collaboration with criticism, while also often acting as criticism of its own — “Instead of the accusation that ‘All critics are failed artists,’ it may be more correct to say that ‘All art is successful criticism.’” — but professional criticism is slowly dying, which may explain why culture feels so stagnant. It definitely made me reconsider my own critical practice (lol @ saying I have a critical practice) — maybe I need to write more reviews like my [loving tribute to *Speed Racer*](https://letterboxd.com/rwblickhan/film/speed-racer/) and less quippy one-liners.
-- James Somers presents [“The Case That A.I. Is Thinking”](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking). The article does a good job of balancing the excitement of “something genuinely seems novel here” and the cautious skepticism of “but intelligence is hard to define, let alone measure”. He ends up in a slightly different place than my own [‘If The United States Is Conscious, Then Why Not An LLM?”](https://rwblickhan.org/newsletters/if-the-united-states-is-conscious-then-why-not-an-llm/), but highly recommended nevertheless.
+- James Somers presents [“The Case That A.I. Is Thinking”](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking). The article does a good job of balancing the excitement of “something genuinely seems novel here” and the cautious skepticism of “but intelligence is hard to define, let alone measure”. He ends up in a slightly different place than my own [‘If The United States Is Conscious, Then Why Not An LLM?”](/newsletters/if-the-united-states-is-conscious-then-why-not-an-llm/), but highly recommended nevertheless.
 
 ---
 
@@ -34,7 +34,7 @@ This was hammered home when I talked to a friend about goal-setting. We realized
 
 ---
 
-If you check out [rwblickhan.org](https://rwblickhan.org/), you’ll notice a fetching new color picker in the top right corner that lets you pick either a blue or red accent color for the site.
+If you check out [rwblickhan.org](/), you’ll notice a fetching new color picker in the top right corner that lets you pick either a blue or red accent color for the site.
 
 A few thoughts:
 

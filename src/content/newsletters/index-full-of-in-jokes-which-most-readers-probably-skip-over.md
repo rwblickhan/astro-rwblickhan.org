@@ -9,13 +9,13 @@ season: 8
 
 - A spooky stone on the Embarcadero is _very_ San Francisco
 
-Hello all, I hope you had a lovely week. I’ve been busy getting [lots of productive work done](https://rwblickhan.org/newsletters/i-will-no-doubt-get-lots-of-productive-work-done/), like for instance taxes and buying real hanging file folders. I know I’m an adult now because I practically started salivating at the Container Store 🙃
+Hello all, I hope you had a lovely week. I’ve been busy getting [lots of productive work done](/newsletters/i-will-no-doubt-get-lots-of-productive-work-done/), like for instance taxes and buying real hanging file folders. I know I’m an adult now because I practically started salivating at the Container Store 🙃
 
 _Actually_, I have been writing 1k words a day, and I’m now past 31k words on the latest draft, so maybe something like 2/5ths of the way there? But then, of course, yet another draft begins...
 
 ---
 
-I’ve also been reading a lot, because of _course_ I have. Partly that’s because I set a [yearly goal](https://rwblickhan.org/newsletters/yearly-goals/) to read 12 specific books, which include:
+I’ve also been reading a lot, because of _course_ I have. Partly that’s because I set a [yearly goal](/newsletters/yearly-goals/) to read 12 specific books, which include:
 
 1. [_From Hell_](https://en.wikipedia.org/wiki/From_Hell)
 2. [_Middlemarch_](https://en.wikipedia.org/wiki/Middlemarch)
@@ -57,7 +57,7 @@ Next up: _Rusty Brown_.
 
 This was intended as a “popcorn read” by my book club, after _Pale Fire_. Obviously nobody realized that the LARB review of the book was titled [“Does Chris Ware Still Hate Fun?”](https://lareviewofbooks.org/article/does-chris-ware-still-hate-fun/).
 
-Yep! Chris Ware still hates fun! A lesson I should have learned when [I read _Quimby Mouse_](https://rwblickhan.org/newsletters/on-self-deprecation/).
+Yep! Chris Ware still hates fun! A lesson I should have learned when [I read _Quimby Mouse_](/newsletters/on-self-deprecation/).
 
 _Rusty Brown_ is (almost) unrelentingly bleak. (Almost) all of the stories are grim, depressing, misanthropic. Every time you feel a character might be redeemed, they are almost immediately unredeemed. All of the male characters are outright creeps, and the female characters generally aren’t much better.
 

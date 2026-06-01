@@ -53,7 +53,17 @@
       "Bash(ASTRO_CACHE_DIR=/tmp/astro-cache-a11y npm run build)",
       "Bash(ASTRO_CACHE_DIR=/tmp/astro-cache-a11y npx astro build)",
       "Bash(ASTRO_CACHE_DIR=/tmp/astro-cache-noa11y node *)",
-      "Bash(hk check *)"
+      "Bash(hk check *)",
+      "Bash(lychee --version)",
+      "Bash(lychee --help)",
+      "Bash(lychee --offline src/)",
+      "Bash(hk --help)",
+      "Bash(hk builtins *)",
+      "Bash(xargs sd 'https://rwblickhan\\\\.org/' '/')",
+      "Bash(sd '\\\\[habanero-garlic \"aioli\"\\\\]\\\\\\(/misc/recipes/habanerogarlicaioli/\\\\\\)' 'habanero-garlic \"aioli\"' src/content/newsletters/wait-this-sounds-familiar.md)",
+      "Bash(sd '/52books/2021/' '/logs/books-2021/' src/content/newsletters/whats-new-rooby-doo.md)",
+      "Bash(sd '\\\\\\(/misc/recipes/habanerogarlicaioli/\\\\\\)' '' src/content/newsletters/wait-this-sounds-familiar.md)",
+      "Bash(sd '\\\\[habanero-garlic ' 'habanero-garlic ' src/content/newsletters/wait-this-sounds-familiar.md)"
     ],
     "deny": []
   }

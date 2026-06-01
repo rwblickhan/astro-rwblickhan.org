@@ -11,7 +11,7 @@ season: 8
 
 [Jujutsu](https://docs.jj-vcs.dev/latest/): the future of version control is here! I’m really, truly breathless with excitement now that I’ve spent a week messing around with it.
 
-If you don’t know what version control or git are, you can probably skip this issue 🙂 Perhaps in the near future I’ll talk about Jujutsu for non-software engineers. P.S. yes I will soon discuss my mysterious reasons for being busy mentioned [last week](https://rwblickhan.org/newsletters/an-old-boys-club-of-dad-rock/).
+If you don’t know what version control or git are, you can probably skip this issue 🙂 Perhaps in the near future I’ll talk about Jujutsu for non-software engineers. P.S. yes I will soon discuss my mysterious reasons for being busy mentioned [last week](/newsletters/an-old-boys-club-of-dad-rock/).
 
 I’ve always had an alarming level of comfort with git, perhaps because I invested the time to understand its mental model and primarily use it on the command line. I’m not sure I can recommend either; git’s mental model is famously convoluted and counterintuitive, and the git command-line interface is famously clunky (just see the long-standing reuse of “checkout” to mean both “move to a different branch” and “delete a tracked change”!).
 

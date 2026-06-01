@@ -7,7 +7,7 @@ season: 5
 
 Hey folks! This is a fairly technical newsletter about how I built the latest iteration of [my personal website](https://rwblickhan.org). If that doesn't interest you, feel free to skip this one! I'll be back soon with more essays 😃 (yes I do have actual essays in the pipeline).
 
-You can also view this [as a webpage](https://rwblickhan.org/technical/2022-site/)!
+You can also view this [as a webpage](/technical/2022-site/)!
 
 ## Main Setup
 
@@ -49,13 +49,13 @@ Publish divides content into **items**, **sections**, freeform **pages**, and a 
 As examples:
 
 - This page is an item!
-- [Its parent](https://rwblickhan.org/technical/) is a section.
-- [Quotes](https://rwblickhan.org/quotes/) is a freeform page.
+- [Its parent](/technical/) is a section.
+- [Quotes](/evergreen/quotes/) is a freeform page.
 - [The homepage](https://rwblickhan.org) is the index page.
 
 Each section needs a `SectionID`, although to be honest I don’t know what Publish uses it for internally. You can also add `ItemMetadata` like publish date, which is pulled from the Markdown frontmatter, but I don’t use that.
 
-I also have to define some constants Publish uses internally, like a reference to the base `url` of the site so Publish can statically replace relative links with absolute links (`/images` -\> `https://rwblickhan.org/images`, for example).
+I also have to define some constants Publish uses internally, like a reference to the base `url` of the site so Publish can statically replace relative links with absolute links (`/images` -\> `/images`, for example).
 
 ```swift
 try RWBlickhanOrg().publish(

@@ -54,6 +54,6 @@ Colin Dickey[^8] has a [new essay](https://www.poetryfoundation.org/articles/180
 [^3]: Which is basically a modern-day, iOS-native Instapaper or Pocket, made by (as far as I can tell) one solo developer. It's _really_ well-implemented.
 [^4]: If something _is_ broken with the script, well, worst case it'll delete a few throwaway files. And the total token cost was something like $0.50, so _hopefully_ it is not boiling the ocean any more than say using a kettle regularly.
 [^5]: Though I have _some_ issues with _Inferno_ — I don't love it as much as _Tomorrow's Harvest_, unfortunately — some of the not-quite-spoken-word and Indian-influenced sections, though fitting for their apocalyptic-70s theme, feel clumsy.
-[^6]: See my love of _House of Leaves_ or [some of the stories](https://rwblickhan.org/creativewriting/doorbell/) I've put up here!
+[^6]: See my love of _House of Leaves_ or [some of the stories](/creativewriting/doorbell/) I've put up here!
 [^7]: Which, sadly, seems to now be paywalled...
 [^8]: Of [_The Unidentified_](https://app.thestorygraph.com/books/ce6c3757-e049-4438-a2e2-dc5c854fbcd8), which I read way back when it came out in 2020; apparently I never wrote about it, but it's a fantastic cultural history of America's postwar obsession with "unexplainable" phenomena.

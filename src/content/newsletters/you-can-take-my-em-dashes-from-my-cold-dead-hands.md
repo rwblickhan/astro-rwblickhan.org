@@ -9,7 +9,7 @@ season: 8
 
 - The Bay Area has such a rich sticker culture! But now I'm realizing... I _don't actually know_ what these stickers are on. (It's near Good Vibes in the Mission if you want to check it out yourself.) Some kind of postbox? A fire alarm?
 
-So following on from [last week](https://rwblickhan.org/newsletters/an-intensively-researched-finely-crafted-educational-program-intended-to-teach-children-values-like-say-curiosity/), I watched Greta Gerwig’s 2019 _Little Women_ adaptation!
+So following on from [last week](/newsletters/an-intensively-researched-finely-crafted-educational-program-intended-to-teach-children-values-like-say-curiosity/), I watched Greta Gerwig’s 2019 _Little Women_ adaptation!
 
 ... sad to say, I was [a bit disappointed](https://letterboxd.com/rwblickhan/film/little-women-2019/). Even though the actors were fantastic, the pace just didn’t work; the film rushed to hit the high points of the book, which ironically removed their emotional impact!
 

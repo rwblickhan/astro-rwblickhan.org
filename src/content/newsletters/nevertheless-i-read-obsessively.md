@@ -5,11 +5,11 @@ publicationDate: 2025-12-28
 season: 8
 ---
 
-This year I read [60(ish) books and graphic novels](https://rwblickhan.org/logs/books-2025/), as well as three books I got most of the way through but gave up on.
+This year I read [60(ish) books and graphic novels](/logs/books-2025/), as well as three books I got most of the way through but gave up on.
 
-It was a better year for my reading than [last year](https://rwblickhan.org/newsletters/best-of-the-rest/), particularly for fiction, but I still feel a degree of diminishing returns — I just didn’t read all that much that truly moved me. Nevertheless, I read obsessively. Who can say why?
+It was a better year for my reading than [last year](/newsletters/best-of-the-rest/), particularly for fiction, but I still feel a degree of diminishing returns — I just didn’t read all that much that truly moved me. Nevertheless, I read obsessively. Who can say why?
 
-Next year, as part of my [yearly goals](https://rwblickhan.org/essays/yearly-goals/), I set a goal to read twelve specific books, including (among others) *Middlemarch*, *Infinite Jest*, *Jonathan Strange and Mr Norrell*, the Gormenghast trilogy, *Jane Eyre*, *Wide Sargasso Sea*, and a Pynchon novel. Is that an ambitious list? Perhaps, but they all feel valuable.
+Next year, as part of my [yearly goals](/essays/yearly-goals/), I set a goal to read twelve specific books, including (among others) *Middlemarch*, *Infinite Jest*, *Jonathan Strange and Mr Norrell*, the Gormenghast trilogy, *Jane Eyre*, *Wide Sargasso Sea*, and a Pynchon novel. Is that an ambitious list? Perhaps, but they all feel valuable.
 
 In any case, here’s a list of some of my favorites from this year. Next week I’ll follow up with films, television, and video games.
 
@@ -109,13 +109,13 @@ Also, to be honest, the fact that each “chapter” is only a page or two long 
 
 ![Cover of *Waking Up*](../../assets/newsletters/waking-up.jpg)
 
-I [discussed](https://rwblickhan.org/newsletters/essentially-a-catholic-tragic-opera/) Sam Harris’ [*Waking Up*](https://app.thestorygraph.com/books/99c9b0f6-04ac-4e76-a10a-d273468caaa2) recently, and I don’t have much to add. The full course *is* probably more useful, but I’d still recommend the book as one of the better self-help books out there (if, that is, you can ignore the Harris-isms).
+I [discussed](/newsletters/essentially-a-catholic-tragic-opera/) Sam Harris’ [*Waking Up*](https://app.thestorygraph.com/books/99c9b0f6-04ac-4e76-a10a-d273468caaa2) recently, and I don’t have much to add. The full course *is* probably more useful, but I’d still recommend the book as one of the better self-help books out there (if, that is, you can ignore the Harris-isms).
 
 ### Zhuangzi
 
 ![Cover of *Zhuangzi*](../../assets/newsletters/zhuangzi.jpg)
 
-I’ve [complained](https://rwblickhan.org/newsletters/time-to-read-the-eastern-classics/#zhuangzi) about the [*Zhuangzi*](https://app.thestorygraph.com/books/737d2fbe-a5d2-4088-b761-522715fe222e) before, but I did in fact power through it this year and come to appreciate it, especially after reading Brook Zipporyn’s supplemental essay [“Zhuangzi as Philosopher”](https://hackettpublishing.com/zhuangziphil). That essay explains Zhuangzi as a (rather unique) skeptical philosopher who maintains a “wild card” perspective in which *every* perspective is valid *from the point of view of that perspective* (including, of course, the “wild card” perspective itself) and can therefore be used or discarded as appropriate.
+I’ve [complained](/newsletters/time-to-read-the-eastern-classics/#zhuangzi) about the [*Zhuangzi*](https://app.thestorygraph.com/books/737d2fbe-a5d2-4088-b761-522715fe222e) before, but I did in fact power through it this year and come to appreciate it, especially after reading Brook Zipporyn’s supplemental essay [“Zhuangzi as Philosopher”](https://hackettpublishing.com/zhuangziphil). That essay explains Zhuangzi as a (rather unique) skeptical philosopher who maintains a “wild card” perspective in which *every* perspective is valid *from the point of view of that perspective* (including, of course, the “wild card” perspective itself) and can therefore be used or discarded as appropriate.
 
 I still can’t exactly recommend the *Zhuangzi* to the average reader, but if you’re interested at all in skepticism or Chinese philosophy or religion, the *Zhuangzi* is one of the most important works to engage with.
 

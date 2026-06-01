@@ -5,7 +5,7 @@ publicationDate: 2020-12-21 05:21:01.389022+00:00
 season: 3
 ---
 
-You can find the entirety of [*The House*](https://rwblickhan.org/stories/thehouse/), lightly edited, on my website.
+You can find the entirety of [*The House*](/creativewriting/thehouse/), lightly edited, on my website.
 
 ![*The Haunted House: We Both Saw a Large Pale Light*, Odilon Redon, 1896](../../assets/newsletters/haunted_house.jpg)
 

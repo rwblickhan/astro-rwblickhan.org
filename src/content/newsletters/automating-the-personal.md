@@ -5,7 +5,7 @@ publicationDate: 2025-04-30
 season: 7
 ---
 
-Is there really value in personal automation? I wrote a [whole essay on Raycast](https://rwblickhan.org/technical/why-raycast/) and I’m still not really sure. Even though xkcd has a [helpful chart](https://xkcd.com/1205/) for how much time you can spend automating a task, the joke is that you’re probably spending _too much time_.
+Is there really value in personal automation? I wrote a [whole essay on Raycast](/technical/why-raycast/) and I’m still not really sure. Even though xkcd has a [helpful chart](https://xkcd.com/1205/) for how much time you can spend automating a task, the joke is that you’re probably spending _too much time_.
 
 But it’s so much fun! I’ve seen this referred to as a [worry stone](https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/) or by the Dutch term [_prutsen_](https://stefan.vanburen.xyz/blog/prutsen/). Sometimes it’s okay to waste a bit of time on something trivial.
 
@@ -13,7 +13,7 @@ Anyway: [Hammerspoon](https://www.hammerspoon.org) [^hammerspoon] is a neat pers
 
 The most common use of Hammerspoon (even included in the [getting started guide](https://www.hammerspoon.org/go/)) is window management — adding hotkeys or automations to move windows around. I was more interested in automating keystrokes.
 
-For instance, when writing up PRs on GitHub, I often have to type out the Markdown for a checkbox: `- [x]`. Five whole characters! For each checkbox! I could make a [snippet in Raycast](https://rwblickhan.org/technical/why-raycast/#snippets), but then I still have to pop open Raycast and search for the snippet each time. I’d much rather have a single key combination to just immediately print that out.
+For instance, when writing up PRs on GitHub, I often have to type out the Markdown for a checkbox: `- [x]`. Five whole characters! For each checkbox! I could make a [snippet in Raycast](/technical/why-raycast/#snippets), but then I still have to pop open Raycast and search for the snippet each time. I’d much rather have a single key combination to just immediately print that out.
 
 ```lua
 hs.loadSpoon("LeftRightHotkey")
@@ -64,4 +64,4 @@ Hammerspoon is fun largely because Lua is simple (in the [“Simple Made Easy”
 
 [^hammerspoon]: I’m sure I’ve seen it mentioned in passing many times before, but specifically I learned about Hammerspoon from [this recent tooling post](https://macwright.com/2025/04/03/personal-tools) by Tom MacWright.
 
-[^right]: Specifically the right Option key, because I don’t want to clobber my normal Option key use, similar to how I use the [right Command key as a hyperkey](https://rwblickhan.org/technical/why-raycast/#keyboard-shortcuts-for-days). (So, technically, I have _two_ hyperkeys now.) That’s what that `LeftRightHotkey` rigamarole is all about — Hammerspoon’s default [`hs.hotkey`](https://www.hammerspoon.org/docs/hs.hotkey.html) is insensitive to right or left modifier keys, which the [LeftRightHotkey spoon](https://www.hammerspoon.org/Spoons/LeftRightHotkey.html) fixes.
+[^right]: Specifically the right Option key, because I don’t want to clobber my normal Option key use, similar to how I use the [right Command key as a hyperkey](/technical/why-raycast/#keyboard-shortcuts-for-days). (So, technically, I have _two_ hyperkeys now.) That’s what that `LeftRightHotkey` rigamarole is all about — Hammerspoon’s default [`hs.hotkey`](https://www.hammerspoon.org/docs/hs.hotkey.html) is insensitive to right or left modifier keys, which the [LeftRightHotkey spoon](https://www.hammerspoon.org/Spoons/LeftRightHotkey.html) fixes.

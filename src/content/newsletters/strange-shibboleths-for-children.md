@@ -13,7 +13,7 @@ Recently I’ve been thinking about the ineffability of art.
 
 Which is a fancy way of saying “hey, some stories are really weird and hard to explain what the artist was thinking, right?” And many of those are among my _favorite_ stories, even though I can’t quite explain what the stories “mean”.
 
-A few months back I talked about [_Twin Peaks: The Return_](https://rwblickhan.org/newsletters/welcome-to-season-8/) (which you will certainly hear about again from me...), and David Lynch is definitely the poster child of this:
+A few months back I talked about [_Twin Peaks: The Return_](/newsletters/welcome-to-season-8/) (which you will certainly hear about again from me...), and David Lynch is definitely the poster child of this:
 
 ![David Lynch's iconic "Elaborate on that." "No." response](../../assets/newsletters/davidlynch.jpg)
 
@@ -43,7 +43,7 @@ Who _does_ have the right to impose meanings on art, to exhibit art, to decide w
 
 ---
 
-I was thinking more about _Frankenstein_ and _Dracula_ (prompted by a reply to [last week’s letter](https://rwblickhan.org/newsletters/capital-r-romantic-melodrama/)) and I realized they’re partly interesting because they’re epistolary — and there’s just not that many epistolary novels these days.
+I was thinking more about _Frankenstein_ and _Dracula_ (prompted by a reply to [last week’s letter](/newsletters/capital-r-romantic-melodrama/)) and I realized they’re partly interesting because they’re epistolary — and there’s just not that many epistolary novels these days.
 
 Certainly, there’s some great surreal, formally-inventive work out there — conveniently, Lincoln Michel published a list of [“Short Little Difficult Books”](https://countercraft.substack.com/p/short-little-difficult-books) this week. But most of those aren’t _epistolary_ or, as I might otherwise describe it, _bricolage_ — they may have frame-narratives-in-frame-narratives or use of the second person or whatnot, but they’re not told as collections of in-world documents. _This Is How You Lose The Time War_ does the letter-writing thing to great effect, and _House of Leaves_ is ostensibly a film studies dissertation (again, to great effect), but otherwise I can’t really think of other major modern novels with that kind of bricolage structure. Am I just missing something? Or probably there’s an English dissertation out there that has the answer that I’m too lazy to look up right now.
 
@@ -61,7 +61,7 @@ I never realized that “writing about music is like dancing about architecture�
 
 I am officially an Old™️ — I don’t understand the 6/7 meme, I don’t know how to perform it, and I don’t find it uproariously funny when somebody accidentally says “6/7”. Or, rather, I _do_, but only a solid six months late, when the actual kids have moved on, and then only really on an intellectual level — as one of those strange shibboleths for children that doesn’t really _mean_ anything, but intentionally exercises us Olds attempting to find out what it _really means_.
 
-Curiously, I _didn’t_ have this reaction to Skibidi Toilet, because I actually have the full context there! Skibidi Toilet, in case you didn’t know, is machinima made in [_Garry’s Mod_](https://store.steampowered.com/app/4000/Garrys_Mod/), a circus of Source Engine ragdoll physics with a long history of inspiring nonsensical, absurdist humor. In fact, following on from [the discussion of arts criticism](https://rwblickhan.org/newsletters/vulgar-poptimism-is-real-in-2025/) a few weeks ago, I’m surprised there’s not _more_ literary criticism explaining this history — 99 Percent Invisible and Endless Thread ran a [solid episode on machinima](https://99percentinvisible.org/episode/hl-04-machinima/transcript/) recently that explained Skibidi Toilet without mentioning _Garry’s Mod_ at all!
+Curiously, I _didn’t_ have this reaction to Skibidi Toilet, because I actually have the full context there! Skibidi Toilet, in case you didn’t know, is machinima made in [_Garry’s Mod_](https://store.steampowered.com/app/4000/Garrys_Mod/), a circus of Source Engine ragdoll physics with a long history of inspiring nonsensical, absurdist humor. In fact, following on from [the discussion of arts criticism](/newsletters/vulgar-poptimism-is-real-in-2025/) a few weeks ago, I’m surprised there’s not _more_ literary criticism explaining this history — 99 Percent Invisible and Endless Thread ran a [solid episode on machinima](https://99percentinvisible.org/episode/hl-04-machinima/transcript/) recently that explained Skibidi Toilet without mentioning _Garry’s Mod_ at all!
 
 (And, of course, _The Stanley Parable_ also fits into that absurdist Source Engine-based tradition, which brings this all full circle.)
 

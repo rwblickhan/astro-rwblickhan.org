@@ -20,7 +20,7 @@ description: "An evergreen list of technical books, papers, and talks I love."
 ## Sites
 
 - [*Simon Willison’s Weblog*](https://simonwillison.net), Simon Willison
-  - The best voice to listen to on LLMs right now. Simon coined the term "prompt injection" and has been an early explorer of what LLMs can do; as of late 2023, ["Making Large Language Models work for you"](https://simonwillison.net/2023/Aug/27/wordcamp-llms/) is my favorite introduction. His [TILs](https://til.simonwillison.net) are also often interesting and inspired [my own TILs](https://rwblickhan.org/technical/).
+  - The best voice to listen to on LLMs right now. Simon coined the term "prompt injection" and has been an early explorer of what LLMs can do; as of late 2023, ["Making Large Language Models work for you"](https://simonwillison.net/2023/Aug/27/wordcamp-llms/) is my favorite introduction. His [TILs](https://til.simonwillison.net) are also often interesting and inspired [my own TILs](/technical/).
 - [*Computer Things*](https://buttondown.email/hillelwayne), Hillel Wayne
   - Hillel's newsletter is always interesting, often covering esoteric programming languages or obscure software engineering techniques. His ["Advice for new software devs who've read all those other advice essays"](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/) is useful even for those with an intermediate level of experience.
 - [jvns.ca](https://jvns.ca) and [Wizard Zines](https://wizardzines.com), Julia Evans

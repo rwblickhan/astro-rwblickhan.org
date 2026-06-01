@@ -6,7 +6,7 @@ season: 6
 description: Using Typst to typeset a resume
 ---
 
-I recently realized it’s been over 4 years since I last updated [my resume](https://rwblickhan.org/resume.pdf) (!). While trying to update it, I grew frustrated manually setting typography again and again in Pages, not to mention my inability to version-control it like a good little software engineer.
+I recently realized it’s been over 4 years since I last updated [my resume](/resume.pdf) (!). While trying to update it, I grew frustrated manually setting typography again and again in Pages, not to mention my inability to version-control it like a good little software engineer.
 
 The other option is a full typesetting markup system, like [LaTeX](https://www.latex-project.org). However, I know from experience as a former math major that LaTeX is a pain at best. Luckily, I learned about a new option from [this article](https://mattrighetti.com/2023/10/25/i-rewrote-my-cv-in-typst): [Typst](https://typst.app)!
 

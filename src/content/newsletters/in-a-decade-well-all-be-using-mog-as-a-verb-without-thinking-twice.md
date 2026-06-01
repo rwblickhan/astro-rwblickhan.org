@@ -13,7 +13,7 @@ This week’s case in point: _mogging_. This term has finally infiltrated my soc
 
 In particular, that YouTube video used it in a sentence like “this TV show completely mogs every other show out there.” What a perfect little turn of phrase! How else would you express that idea of “completely and obviously superior” as a verb in the English language? It “shows up” or “outclasses” the other shows? Perhaps, but that’s lacking the hint of aggression in “mog”. It “dominates” the other shows? That’s a bit _too_ aggressive; it’s lacking the light irony of “mog”. There’s something so _punchy_ about “mog” that it just feels, well, obvious — almost as obvious as “slop”. I am absolutely certain that in a decade we’ll all be using “mog” as a verb without thinking twice — it’s just fascinating to see that process in progress.
 
-Also, if I recall correctly, the video was talking about _Andor_, which may have contributed to how natural the usage felt. I in fact [agree](https://rwblickhan.org/newsletters/that-was-the-year-that-was-in-movies/#serial-experiments-award-andor-season-1) that _Andor_ mogs most other TV shows.
+Also, if I recall correctly, the video was talking about _Andor_, which may have contributed to how natural the usage felt. I in fact [agree](/newsletters/that-was-the-year-that-was-in-movies/#serial-experiments-award-andor-season-1) that _Andor_ mogs most other TV shows.
 
 ---
 

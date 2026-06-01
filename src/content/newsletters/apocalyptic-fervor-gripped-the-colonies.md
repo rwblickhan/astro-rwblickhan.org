@@ -21,7 +21,7 @@ Apparently (apparently), my duty is writing these dumb little weekly updates. Pe
 
 ---
 
-A life pro tip that I suppose I should have included in my [30 pieces of advice for 30](https://rwblickhan.org/newsletters/30-pieces-of-advice-for-30/): put things in “canonical” places, and you’re less likely to misplace them. My wedding ring is usually on the nightstand, my wallet and AirPods are next to my keyboard, and so on. That’s always the first place I look for something, and I try my best to always put it back there (or one of a small number of other “canonical” locations). When I “misplace” something, it’s usually because I didn’t put it back where I expected to find it!
+A life pro tip that I suppose I should have included in my [30 pieces of advice for 30](/newsletters/30-pieces-of-advice-for-30/): put things in “canonical” places, and you’re less likely to misplace them. My wedding ring is usually on the nightstand, my wallet and AirPods are next to my keyboard, and so on. That’s always the first place I look for something, and I try my best to always put it back there (or one of a small number of other “canonical” locations). When I “misplace” something, it’s usually because I didn’t put it back where I expected to find it!
 
 ---
 

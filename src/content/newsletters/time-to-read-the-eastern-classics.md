@@ -5,7 +5,7 @@ publicationDate: 2025-04-12
 season: 7
 ---
 
-As promised [last time](https://rwblickhan.org/newsletters/time-to-read-the-western-classics/): more classics! To keep this one manageable, I’ve kept it to just East Asian classics, which makes up the bulk of the non-western classics I’ve read. Next week I will be back to shorter essays!
+As promised [last time](/newsletters/time-to-read-the-western-classics/): more classics! To keep this one manageable, I’ve kept it to just East Asian classics, which makes up the bulk of the non-western classics I’ve read. Next week I will be back to shorter essays!
 
 ## Analects
 

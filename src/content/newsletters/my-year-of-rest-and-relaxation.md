@@ -19,7 +19,7 @@ In the words of _The Last Unicorn_, “that’s the way life was meant to be. Yo
 
 ## In Other News
 
-- If you haven’t heard enough from me, I wrote [an article](https://rwblickhan.org/technical/bookmarks/) about how I built [bookmarks.rwblickhan.org](https://bookmarks.rwblickhan.org).
+- If you haven’t heard enough from me, I wrote [an article](/technical/bookmarks/) about how I built [bookmarks.rwblickhan.org](https://bookmarks.rwblickhan.org).
 - If you still haven’t heard enough from me, my pals Denalex and Jacqline invited me to chat about productivity on their new podcast [The Growth Gradient](https://open.spotify.com/episode/3W7scevGp0L4XV3x8ZKABM?si=FsSGuZ7QR-uKUzXolvhTAw). I came off sounding like a knock-off [Simon Willison](https://simonwillison.net) but anyway…
 - I finally read the classic psychology paper [“The Magical Number Seven, Plus or Minus Two”](http://psychclassics.yorku.ca/Miller/), which introduced the idea that humans can keep about seven “items” in short-term memory at a time. However, the paper has much more of interest than that!
 - I am trying to learn illustration (… very slowly …) and I like comics, so I was fascinated by [this reflection](https://joelmorris.substack.com/p/scratchy-ink-lines-on-cheap-newsprint) on a “corrected”, colorized version of the final _Calvin & Hobbes_ comic fascinating. Basically, they screwed it up, because the “rough”, muted comic was perfectly suited to its medium and its themes!

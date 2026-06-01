@@ -9,7 +9,7 @@ Hello frens,
 
 I no longer feel comfortable using [Perplexity](https://www.perplexity.ai).
 
-You may remember I was [trialing it a few months ago](https://rwblickhan.org/newsletters/the-old-cyberpunk-vision-of-a-world-of-neoliberal-corporations-run-amok/#other-stuff). In many ways, it’s an impressive product, combining an LLM-powered chatbot with a search index — ask a question, and it’ll come back with a specific answer and citations to websites that it’s pulling from. In the example above, I asked for the San Francisco city budget, and it immediately spat out both the correct answer and the PDF from the city that included it.
+You may remember I was [trialing it a few months ago](/newsletters/the-old-cyberpunk-vision-of-a-world-of-neoliberal-corporations-run-amok/#other-stuff). In many ways, it’s an impressive product, combining an LLM-powered chatbot with a search index — ask a question, and it’ll come back with a specific answer and citations to websites that it’s pulling from. In the example above, I asked for the San Francisco city budget, and it immediately spat out both the correct answer and the PDF from the city that included it.
 
 Recently, however, they’ve made a number of decisions that leave me feeling... queasy.
 
@@ -42,6 +42,6 @@ Russell
 
 P.S. I know I said this would come in two weeks, but I’m bored and this seemed topical. I suspect newsletters will come more often for the next few weeks.
 
-P.P.S. I wrote up [what apps I’ve been using recently](https://rwblickhan.org/technical/2024-apps/). I’m not sure if anybody gets value out of lists like these, but I like reading them when other people post 🤷‍♀️
+P.P.S. I wrote up [what apps I’ve been using recently](/technical/2024-apps/). I’m not sure if anybody gets value out of lists like these, but I like reading them when other people post 🤷‍♀️
 
 [^quotes]: I note the irony that I’m quoting Heer at length with a link for context, not all that different than Perplexity is doing. The difference, of course, is that I’m a regular reader that sees every sponsored post and I currently have the site open to copy-paste quotes.

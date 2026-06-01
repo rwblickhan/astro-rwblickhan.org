@@ -4,7 +4,7 @@ lastUpdatedDate: 2026-04-26
 description: My policy on the use of large language models, diffusion models, and other so-called generative AI tools
 ---
 
-_Previously: [“Perplexed with Perplexity”](https://rwblickhan.org/newsletters/perplexed-with-perplexity/), [“But What Is It \*Good\* For?”](https://rwblickhan.org/newsletters/but-what-is-it-good-for/), [“Let’s Think Step-by-Step”](https://rwblickhan.org/newsletters/lets-think-step-by-step/)_
+_Previously: [“Perplexed with Perplexity”](/newsletters/perplexed-with-perplexity/), [“But What Is It \*Good\* For?”](/newsletters/but-what-is-it-good-for/), [“Let’s Think Step-by-Step”](/newsletters/lets-think-step-by-step/)_
 
 This is my AI policy — on the usage of large language models, diffusion models, and similar tools. First I have a set of guiding principles, then a set of practical commitments, and finally a set of references that I’ve consulted in writing this.
 
@@ -59,7 +59,7 @@ I like this framework to think through whether to automate with LLMs. I’m happ
 
 ### LLMs probably aren’t conscious
 
-I try to maintain my [“farmer” skeptical mindset](https://rwblickhan.org/essays/farmers-foragers/), so I am [open to the idea](https://rwblickhan.org/newsletters/if-the-united-states-is-conscious-then-why-not-an-llm/) that LLMs are phenomenally conscious, or that they’re a [“genuinely new kind of entity”](https://www.anthropic.com/news/claude-new-constitution#:~:text=Sophisticated%20AIs%20are%20a%20genuinely%20new%20kind%20of%20entity). But, frankly, I’ve always thought it’s [just pareidolia](https://rwblickhan.org/newsletters/if-you-show-still-frames-in-sequence-fast-enough/#pareidolia) — I assign a very low probability to LLMs being genuinely phenomenally conscious[^conscious], given their current architecture. So, on the one hand, I don’t account for Claude’s well-being in my usage (though I try to remain polite, occasional jokes about clankers aside, since it seems ethically corrosive to be needlessly rude to an entity that _might_ be conscious). On the other hand, I don’t think it’s possible to have a “relationship” with an LLM in the way we can have with a dog or a child, let alone another adult human, and I find using LLMs as a therapist or parasocial relationship alarming.
+I try to maintain my [“farmer” skeptical mindset](/essays/farmers-foragers/), so I am [open to the idea](/newsletters/if-the-united-states-is-conscious-then-why-not-an-llm/) that LLMs are phenomenally conscious, or that they’re a [“genuinely new kind of entity”](https://www.anthropic.com/news/claude-new-constitution#:~:text=Sophisticated%20AIs%20are%20a%20genuinely%20new%20kind%20of%20entity). But, frankly, I’ve always thought it’s [just pareidolia](/newsletters/if-you-show-still-frames-in-sequence-fast-enough/#pareidolia) — I assign a very low probability to LLMs being genuinely phenomenally conscious[^conscious], given their current architecture. So, on the one hand, I don’t account for Claude’s well-being in my usage (though I try to remain polite, occasional jokes about clankers aside, since it seems ethically corrosive to be needlessly rude to an entity that _might_ be conscious). On the other hand, I don’t think it’s possible to have a “relationship” with an LLM in the way we can have with a dog or a child, let alone another adult human, and I find using LLMs as a therapist or parasocial relationship alarming.
 
 ## Practices
 
@@ -92,7 +92,7 @@ So, given the above principles, what is my actual AI policy?
 
 [^problems]: Recently I had Claude Code adapt [fzf-git](https://github.com/junegunn/fzf-git.sh) for use [with jujutsu](https://github.com/rwblickhan/fzf-jj.sh). That probably would have taken at least two or three hours of my time before LLMs, which I would have struggled to justify; with Claude Code, it took about a minute to write the prompt, and when I came back from lunch it was ready for use.
 
-[^conscious]: Or, rather, given my [slightly wonky illusionist](https://rwblickhan.org/evergreen/philosophical-positions/#consciousness) beliefs about consciousness, it might be more appropriate to say that I assign a high degree of probability to LLMs being minimally conscious (certainly no more than, say, an ant).
+[^conscious]: Or, rather, given my [slightly wonky illusionist](/evergreen/philosophical-positions/#consciousness) beliefs about consciousness, it might be more appropriate to say that I assign a high degree of probability to LLMs being minimally conscious (certainly no more than, say, an ant).
 
 [^variance]: Another way of thinking about this is to consider the variance in expression. If you tell a dozen people to write their own version of a short argument, you’ll probably get a dozen _very_ different expressions, even if the core argument is the same. On the other hand, if you ask a dozen people to write the same JavaScript function, at least half are likely to be very similar, if not identical; code simply isn’t that expressive!
 

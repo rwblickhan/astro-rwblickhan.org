@@ -26,12 +26,12 @@ But folk mental models are more common than usually recognized! For instance, ta
 
 Folk mental models can sometimes move into the mainstream and become institutionalized. For instance, I suspect Traditional Chinese Medicine (TCM) started as a vague, culturally-informed folk mental model about health and wellness before being written down and institutionalized as a coherent medical practice harmonized with large-scale cultural beliefs like *qi*. Indeed, “science” as a discipline is arguably a folk mental model gone formal — but maybe I’ll think about that another time.
 
-Also, may I recommend [my doc on my own thinking patterns](https://rwblickhan.org/misc/pattern-language/) 😉
+Also, may I recommend [my doc on my own thinking patterns](/misc/pattern-language/) 😉
 
 ## In Other News
 
 - I wrote a web extension! It’s called [Sneak](https://github.com/rwblickhan/sneak) and it lets you open links in your browser from the command line, taking inspiration from the [Sneak plugin for vim](https://github.com/justinmk/vim-sneak). It’s live now on the Apple App Store and (hopefully) soon on the Chrome Web Store[^4]. Writing it was easy-peasy thanks to the [wxt framework](https://wxt.dev); highly recommended if you want to write a [web standards™️ web extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) using nice tools like TypeScript and Vite.
-- I wrote an [article](https://rwblickhan.org/technical/typst-resume/) about rewriting my resume in [Typst](https://typst.app), a new-ish competitor to LaTeX with wild syntax.
+- I wrote an [article](/technical/typst-resume/) about rewriting my resume in [Typst](https://typst.app), a new-ish competitor to LaTeX with wild syntax.
 - Are you playing [*Balatro*](https://www.playbalatro.com)? You should be playing *Balatro*; it single-handedly brought me out of gaming retirement.[^5] For the gamers in the audience: it’s a poker deckbuilding roguelite. For the non-gamers: it’s a super-simple, super-addictive game where you score points by playing illegal poker hands, and you get to upgrade your deck of playing cards in between rounds. It’s only $15 with no extra subscription or microtransactions necessary. Highly highly recommended.
 
 [^1]: There’s no widely-accepted Institute of Cartomancy, for instance, though [Biddy](https://biddytarot.com) comes close.

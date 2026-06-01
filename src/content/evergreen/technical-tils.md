@@ -130,7 +130,7 @@ Huge hat-tip to [Tiger Oakes](https://tigeroakes.com) for pointing this out to m
 
 ## Web Workers
 
-I've got a [search page](/search), using [Fuse.js](https://fusejs.io) to do searching on the client-side.
+I used to have a search page, using [Fuse.js](https://fusejs.io) to do searching on the client-side.
 I wanted to move it to a background thread to improve performance, since searches are sometimes slow enough to block interaction on the main thread.
 The [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) seems to be the standard way to do that.
 
@@ -647,7 +647,7 @@ However, an extra neat fact is that `nextd` and `prevd` have [default keybinding
 ## fzf Preview Options
 
 [fzf](https://github.com/junegunn/fzf) is one of my all-time favourite pieces of software;
-it allows you to fuzzy-find entries in a list, which I use [all over my dotfiles](https://rwblickhan.org/technical/dotfiles/).
+it allows you to fuzzy-find entries in a list, which I use [all over my dotfiles](/technical/dotfiles/).
 It has an absurd amount of additional functionality, however, some of which I'll explore now.
 
 One of my favorite little command-line utilities, based off [an example](https://github.com/junegunn/fzf/blob/master/ADVANCED.md#ripgrep-integration) in the fzf docs, combines fzf and [ripgrep](https://github.com/BurntSushi/ripgrep) to do fancy searching:
@@ -1116,7 +1116,7 @@ A neat new experimental CSS pseudo-element: `::search-text` lets you style the h
 
 ## Hammerspoon App Hotkeys
 
-After some trouble syncing my Raycast settings, I decided to move my [app-opening hotkeys](https://rwblickhan.org/newsletters/why-raycast/#keyboard-shortcuts-for-days) to [Hammerspoon](https://rwblickhan.org/newsletters/automating-the-personal/). After a bit of trial and error, and begging Claude to do things correctly, and reading the Hammerspoon docs, this is what I came up with:
+After some trouble syncing my Raycast settings, I decided to move my [app-opening hotkeys](/newsletters/why-raycast/#keyboard-shortcuts-for-days) to [Hammerspoon](/newsletters/automating-the-personal/). After a bit of trial and error, and begging Claude to do things correctly, and reading the Hammerspoon docs, this is what I came up with:
 
 ```lua
 local function showOrHide(appName)

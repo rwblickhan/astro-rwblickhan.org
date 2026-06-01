@@ -43,7 +43,7 @@ Most beginner home cooks underuse salt — restaurant food tastes better because
 Two other tips:
 
 - Adding salt earlier is generally more effective than adding salt later. For instance, boiling pasta in salty water is more effective than sprinkling salt on top of the final dish.
-- For everyday table salt, use [kosher salt](https://www.seriouseats.com/ask-the-food-lab-do-i-need-to-use-kosher-salt) from a [saltcellar](https://rwblickhan.org/misc/small-things/#saltcellar).
+- For everyday table salt, use [kosher salt](https://www.seriouseats.com/ask-the-food-lab-do-i-need-to-use-kosher-salt) from a [saltcellar](/misc/small-things/#saltcellar).
 
 #### Umami / savoriness
 

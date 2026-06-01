@@ -5,7 +5,7 @@ publicationDate: 2026-01-04
 season: 8
 ---
 
-Following on from [last week](https://rwblickhan.org/newsletters/nevertheless-i-read-obsessively/), here’s some of my favorite films, shows, and games from the last year.
+Following on from [last week](/newsletters/nevertheless-i-read-obsessively/), here’s some of my favorite films, shows, and games from the last year.
 
 ## Film
 
@@ -53,7 +53,7 @@ We need to believe that, no matter how stacked the deck is, no matter how rigged
 
 God damn. I hope someday to make something a tenth as marvelous as this film. I literally teared up and in the spirit of this film I am not afraid to admit it.
 
-P.S. I love that I’ve recently seen two separate films about the relationship between art and finance where a key plot point is John Goodman wrestling somebody. Absolutely splendid. (The other is [*Barton Fink*](https://letterboxd.com/film/barton-fink/), which you [may remember from last year’s list](https://rwblickhan.org/newsletters/that-was-the-year-that-was-in-movies/).)
+P.S. I love that I’ve recently seen two separate films about the relationship between art and finance where a key plot point is John Goodman wrestling somebody. Absolutely splendid. (The other is [*Barton Fink*](https://letterboxd.com/film/barton-fink/), which you [may remember from last year’s list](/newsletters/that-was-the-year-that-was-in-movies/).)
 
 P.P.S. I said almost flawless. I think some of the comic relief is aimed at a younger audience than will really appreciate this film (although, hey, good on the Wachowski sisters for trying to make something for the whole family) and also there’s one reveal towards the end of the film that is, actually, pretty silly. But those are minor complaints!!
 
@@ -167,7 +167,7 @@ It’s the kind of bonkers experience you can only really have with a medium lik
 
 ![*Andor* Season 2 poster](../../assets/newsletters/andor-season-2.jpg)
 
-[*Andor* Season 2](https://en.wikipedia.org/wiki/Andor) is [not as good as](https://rwblickhan.org/newsletters/that-was-the-year-that-was-in-movies/#special-awards) *Andor* Season 1. Alas: that was probably too high a bar. Season 2 was unfortunately required to squash four seasons of material into one, resulting in a constant feeling of rush, with half the plot happening off-screen during plot jumps. And the pacing of *Andor* Season 1 is part of what makes it work so well!
+[*Andor* Season 2](https://en.wikipedia.org/wiki/Andor) is [not as good as](/newsletters/that-was-the-year-that-was-in-movies/#special-awards) *Andor* Season 1. Alas: that was probably too high a bar. Season 2 was unfortunately required to squash four seasons of material into one, resulting in a constant feeling of rush, with half the plot happening off-screen during plot jumps. And the pacing of *Andor* Season 1 is part of what makes it work so well!
 
 But, despite its flaws, *Andor* Season 2 is still a masterpiece and we should be happy Disney allowed it to be made at all. It may not have any moments quite as iconic as “one way out” or “I burn my life to make a sunrise that I know I’ll never see”, but it *does* have Ben Mendelsohn’s hilarious ad-libbed head poke, so there’s that!
 
@@ -181,4 +181,4 @@ If anybody tells you that performance art is dead, that there is no contemporary
 
 ![*The Beginner's Guide* poster](../../assets/newsletters/the-beginners-guide.jpg)
 
-I didn’t play [too many games](https://rwblickhan.org/logs/games-2025/) this year, unfortunately, but one really stuck in my head as a unique artistic experience that could only really be a video game: [Davey Wreden’s *The Beginner’s Guide*](https://store.steampowered.com/app/303210/The_Beginners_Guide/). That said, I talked about it in a [previous newsletter](https://rwblickhan.org/newsletters/strange-shibboleths-for-children/) and don’t have much to add, other than to recommend it once again, particularly if you are interested in games *as an aesthetic experience*.
+I didn’t play [too many games](/logs/games-2025/) this year, unfortunately, but one really stuck in my head as a unique artistic experience that could only really be a video game: [Davey Wreden’s *The Beginner’s Guide*](https://store.steampowered.com/app/303210/The_Beginners_Guide/). That said, I talked about it in a [previous newsletter](/newsletters/strange-shibboleths-for-children/) and don’t have much to add, other than to recommend it once again, particularly if you are interested in games *as an aesthetic experience*.

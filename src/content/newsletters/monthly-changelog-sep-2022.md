@@ -11,8 +11,8 @@ Hello friendos!
 
 ## General Site Updates
 
-- I’ve added a [bookmarks page](https://rwblickhan.org/misc/bookmarks/) to collect a few of my favorite talks, articles, etc.
-- I cleaned up the site taxonomy a bit more by adding a [miscellaneous category](https://rwblickhan.org/misc/) for stuff like the bookmarks or quotes pages. (Hey, did you know I collect some of [my favorite quotes](https://rwblickhan.org/misc/quotes/)?)
+- I’ve added a [bookmarks page](/newsletters/bookmarks/) to collect a few of my favorite talks, articles, etc.
+- I cleaned up the site taxonomy a bit more by adding a [miscellaneous category](/misc/) for stuff like the bookmarks or quotes pages. (Hey, did you know I collect some of [my favorite quotes](/evergreen/quotes/)?)
 
 ## Life Updates
 

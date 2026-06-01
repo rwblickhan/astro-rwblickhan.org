@@ -91,7 +91,7 @@ Bonus fun fact: extensions are [written in React / TypeScript / Node, but compil
 
 ## Other Minor Stuff
 
-- There’s a Search Menu Item command that searches macOS menu items. I assigned that to ◆P to get [a “Command K bar” in any app](https://rwblickhan.org/technical/til/20230802-command-k-via-raycast/).
+- There’s a Search Menu Item command that searches macOS menu items. I assigned that to ◆P to get [a “Command K bar” in any app](/technical/til/20230802-command-k-via-raycast/).
 - There’s a few sysadmin commands like Restart, Empty Trash, and Toggle System Appearance (to switch between light mode and dark mode) that are handier than hunting for the appropriate button.
 - The Calendar extension puts a link to your next Zoom call right at the top of the main search panel.
 

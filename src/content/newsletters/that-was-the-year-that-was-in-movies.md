@@ -6,7 +6,7 @@ season: 7
 floatImages: true
 ---
 
-In 2024, I [watched](https://rwblickhan.org/logs/films-2024/) 68 movies and 20 seasons of television. Here are some of the standouts. Imagine that each one gets a little statue of me saluting them 🫡
+In 2024, I [watched](/logs/films-2024/) 68 movies and 20 seasons of television. Here are some of the standouts. Imagine that each one gets a little statue of me saluting them 🫡
 
 ## Special Awards
 

@@ -9,7 +9,7 @@ season: 8
 
 - [“Decor voor opera ‘Armida’”](https://www.rijksmuseum.nl/en/collection/object/Decor-voor-opera-Armida--533a224fb46c8f44b3cfebac34536aae)
 
-[I have watched Guillermo del Toro’s *Frankenstein*!](https://rwblickhan.org/newsletters/capital-r-romantic-melodrama/)
+[I have watched Guillermo del Toro’s *Frankenstein*!](/newsletters/capital-r-romantic-melodrama/)
 
 Now *puts on everything-is-neurodiversity hat* this film is absolutely definitely about Victor abusing his nonverbal autistic child, right?
 

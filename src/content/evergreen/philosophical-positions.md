@@ -41,4 +41,4 @@ This is an evergreen list of philosophical positions and beliefs I generally hol
 ## Other Tools
 
 - [Checklists are great](https://atulgawande.com/book/the-checklist-manifesto/). We should use more checklists.
-- [Spaced repetition is great](https://rwblickhan.org/evergreen/pattern-language/#spaced-repetition). We should use more spaced repetition systems.
+- [Spaced repetition is great](/evergreen/pattern-language/#spaced-repetition). We should use more spaced repetition systems.

@@ -43,7 +43,7 @@ Bicycles completely change the psychogeography of the city. Realistically, you c
 
 Like many IndieWeb™️ folks, I spent a lot of time this week thinking about Robin Sloan’s [“A year of new avenues”](https://www.robinsloan.com/lab/new-avenues/). I fundamentally agree with his conviction that the late-aughts crop of social media services (Facebook and Twitter and the like) are dying, although I’m not quite sure I feel the excitement of new growth yet. I fondly remember the pre-consolidation era of Web 2.0, when a new service like Foursquare could suddenly spawn out of SXSW and leave a suburban kid dreaming of becoming mayor of a coffee shop in the big city — but maybe that’s just nostalgia talking.
 
-That said, it’s obvious to me that services like Mastodon are not the way forward — c.f. also [Alan Jacob’s rather sarcastic take](https://blog.ayjay.org/mastodonic-thoughts/) on Mastodon. I’m excited for what new models for social media might come, although I’m not sure I’m [quite inventive enough](https://rwblickhan.org/evergreen/thinkingstyles/) to contribute. What I’m perhaps more excited for is a return to my preferred medium: group chats!
+That said, it’s obvious to me that services like Mastodon are not the way forward — c.f. also [Alan Jacob’s rather sarcastic take](https://blog.ayjay.org/mastodonic-thoughts/) on Mastodon. I’m excited for what new models for social media might come, although I’m not sure I’m [quite inventive enough](/newsletters/thinkingstyles/) to contribute. What I’m perhaps more excited for is a return to my preferred medium: group chats!
 
 Perhaps this will age me someday — perhaps it already does — but I’ve always worshipped on the altar of group chats. That’s the main reason I’m bullish on Discord — it’s group chats all the way down! I never fully understood the appeal of either Twitter’s or Facebook’s posting style, asynchronously spamming strangers or near-strangers with life updates. I want to actually, you know, _talk_ to people.
 
@@ -106,7 +106,7 @@ Libraries are, alongside public transit, one of the great triumphs of the public
 
 ## What’s New On The Site
 
-Inspired by [my pal Yuan](https://yzhang0.github.io/food.html), I wrote up a few [restaurant recommendations](https://rwblickhan.org/misc/restaurantrecs/) for San Francisco and Vancouver. I’ll add more over time as I think of them!
+Inspired by [my pal Yuan](https://yzhang0.github.io/food.html), I wrote up a few [restaurant recommendations](/misc/restaurantrecs/) for San Francisco and Vancouver. I’ll add more over time as I think of them!
 
 ## Next Time
 

@@ -45,7 +45,7 @@ So far, I haven’t played with LLMs that much! But I suppose I should.
 
 ## What Else Is New?
 
-Well, I added [search](https://rwblickhan.org/search/) to my site, which more-or-less works. I have to say I did like [how easy](https://docs.astro.build/en/guides/integrations-guide/preact/) Astro made it to add a [one-off Preact component](https://github.com/rwblickhan/astro-rwblickhan.org/blob/main/src/components/Search.tsx) for search, although also, hey I guess I’m a frontend engineer now, which made it quite a bit easier.
+Well, I added search to my site, which more-or-less works. I have to say I did like [how easy](https://docs.astro.build/en/guides/integrations-guide/preact/) Astro made it to add a [one-off Preact component](https://github.com/rwblickhan/astro-rwblickhan.org/blob/main/src/components/Search.tsx) for search, although also, hey I guess I’m a frontend engineer now, which made it quite a bit easier.
 
 Oh, I’m working on a new novel. Shush, you in the back. I’ll edit things eventually.
 

@@ -24,11 +24,11 @@ Apropos of nothing, here are event or icebreaker ideas I want to pursue:
 
 <hr />
 
-New essay week! I finally finished [“Russell’s Brief, Opinionated Guide to Home Cooking”](https://rwblickhan.org/essays/rbog-cooking/) collating everything I’ve learned about cooking in the past ~2 years. I also wrote a brief technical post on [“Building rwblickhan.org in 2024”](https://rwblickhan.org/technical/2024-site/), which updates [my two-and-a-half-year-old article](https://rwblickhan.org/technical/2022-site/) about how my site is built.
+New essay week! I finally finished [“Russell’s Brief, Opinionated Guide to Home Cooking”](/essays/rbog-cooking/) collating everything I’ve learned about cooking in the past ~2 years. I also wrote a brief technical post on [“Building rwblickhan.org in 2024”](/technical/2024-site/), which updates [my two-and-a-half-year-old article](/technical/2022-site/) about how my site is built.
 
 <hr />
 
-In other website news, I made my [quotes page](https://rwblickhan.org/misc/quotes/) much prettier.
+In other website news, I made my [quotes page](/misc/quotes/) much prettier.
 
 The inspiration was [Heydon Pickering’s article on `<blockquote>`](https://heydonworks.com/article/the-blockquote-element/). I’ve always used blockquotes heavily, but I never found a good way to represent the citations. Heydon recommends wrapping `<blockquote>`s in a `<figure>` with a `<figcaption>` for the citation, which works nicely and allows for clean styling.
 

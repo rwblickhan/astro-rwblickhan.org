@@ -5,11 +5,11 @@ publicationDate: 2025-01-01
 season: 7
 ---
 
-After my list of [best films of 2024](https://rwblickhan.org/newsletters/that-was-the-year-that-was-in-movies/), here’s the best of the rest of media in 2024.
+After my list of [best films of 2024](/newsletters/that-was-the-year-that-was-in-movies/), here’s the best of the rest of media in 2024.
 
 ## Books
 
-[My reading this year](https://rwblickhan.org/logs/books-2024/) tended more towards non-fiction than previous years, so it was an okay year for non-fiction but pretty abysmal for fiction. Thus, I’m not even going to bother with a top 5 countdown like I did for movies.
+[My reading this year](/logs/books-2024/) tended more towards non-fiction than previous years, so it was an okay year for non-fiction but pretty abysmal for fiction. Thus, I’m not even going to bother with a top 5 countdown like I did for movies.
 
 For non-fiction, some of the standouts were:
 
@@ -34,7 +34,7 @@ And for fiction, some of the standouts were:
 
 ## Video Games
 
-In 2024 I played (a significant portion of) [12 video games](https://rwblickhan.org/logs/games-2024/), as well as trying 8 new board games.
+In 2024 I played (a significant portion of) [12 video games](/logs/games-2024/), as well as trying 8 new board games.
 
 The game of the year, as pretty much everybody agrees, is *Balatro*. It takes a simple-but-inspired concept — what if Big 2 was a deckbuilding roguelike a la *Slay the Spire*? — and runs away with it. If I ever need to describe [“juice”](https://www.youtube.com/watch?v=Fy0aCDmgnxg), I’ll just point to *Balatro* — the music, the art, the little touches like how the score counter is set on fire when you’re about to when. Also, the developer hates gambling so much he [*wrote it into his will*](https://www.pcgamer.com/games/roguelike/i-hate-the-thought-of-balatro-becoming-a-true-gambling-game-localthunk-is-making-sure-casinos-cant-get-their-hands-on-his-game-even-after-he-dies-by-literally-writing-it-into-his-will/).
 
@@ -48,7 +48,7 @@ That said, the most meaningful experiences were with two older games, both liter
 
 Here’s a few of my favorite blog posts from the year. I read a *lot* of blogs — I subscribe to a lot of RSS feeds via [NetNewsWire](https://netnewswire.com) and quite a few email newsletters, too — which all eventually get read through [GoodLinks](https://goodlinks.app) (the closest app I’ve found to old-school Instapaper). This is basically the process I’ve followed for reading blogs since I was, like, 13. Every year I think, maybe this year I won’t waste so much time reading blogs. But, honestly, I get a lot of value out of some of them, like these:
 
-- [“1933 and the Definition of Fascism”](https://acoup.blog/2024/10/25/new-acquisitions-1933-and-the-definition-of-fascism/) by Bret Devereaux: In which my favorite public-facing historian discusses multiple definitions of fascism and whether Donald Trump meets any of them. Don’t let the current-events frame ward you off, though — what really makes this article sing is the clear-eyed explanation of how the National Socialists and the Italian Fascists overturned their respective liberal democracies and what traits both movements shared. This was also the direct inspiration for my own essay, [“A Cancer on Liberalism”](https://rwblickhan.org/newsletters/a-cancer-on-liberalism/).
+- [“1933 and the Definition of Fascism”](https://acoup.blog/2024/10/25/new-acquisitions-1933-and-the-definition-of-fascism/) by Bret Devereaux: In which my favorite public-facing historian discusses multiple definitions of fascism and whether Donald Trump meets any of them. Don’t let the current-events frame ward you off, though — what really makes this article sing is the clear-eyed explanation of how the National Socialists and the Italian Fascists overturned their respective liberal democracies and what traits both movements shared. This was also the direct inspiration for my own essay, [“A Cancer on Liberalism”](/newsletters/a-cancer-on-liberalism/).
 - [“Investigation: Who’s Telling the Truth about Disco Elysium?”](https://www.youtube.com/watch?v=JGIGA8taN-M) from *People Make Games*: *Disco Elysium* is a masterpiece (see above), but the tangled story of its creation — featuring the most infamous novelist in Estonian history, secretive multimillionaires / convicted fraudsters, accusations and counter-accusations, and half a dozen splinter studios — is almost as interesting. It’s truly impressive that the small team behind *People Make Games* was able to piece the whole story together.
 - [“good artists copy, ai artists ____”](https://www.personalcanon.com/p/good-artists-copy-ai-artists-____) by Celine Nguyen: Celine operates in exactly the intersection of programming and literature that I, too, want to live in. This essay on the definition of art, the possibilities of aleatory art, and how LLMs might fit into genuine artistic practice is the best starting point for thinking about AI and art that I know of.
 - [“Dunbar's Number is Quadratic”](https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic) by John Bjorn Nelson: Frankly, this essay is a little difficult to understand — it uses a lot of jargon without definitions and seems to presuppose a familiarity with the discipline of computational social science that I lack. That said, if I can summarize what I personally got out of the essay: Dunbar’s Number says we can’t understand a social network with more than 150 people, but the author argues that’s not a *cognitive* constraint so much as a *time* constraint. With more than 150 people, we can’t sample enough behavior from other people to understand how they would interact with everyone else in the network, because the number of connections in the social network grows quadratically. So we have a number of more-efficient sampling algorithms to draw on, like gossip or cliques, that enable us to reason over much larger social networks, but at the cost of relying on social signals rather than direct experience. In the most degenerate case (that is, Twitter), we have a *massive* social network, but basically all interactions are dominated by not-necessarily-informative signaling. Or, as the author puts it, “I think I like this post but let me first check the profile description and a few other tweets to make sure.”
@@ -61,7 +61,7 @@ Here’s a few of my favorite blog posts from the year. I read a *lot* of blogs 
 
 ## Music
 
-Apparently I listened to [217 new albums](https://rwblickhan.org/logs/albums-2024/) this year, half of which I don’t even remember 😅 That said, there were plenty of standouts:
+Apparently I listened to [217 new albums](/logs/albums-2024/) this year, half of which I don’t even remember 😅 That said, there were plenty of standouts:
 
 - Obviously this was the year of pop girlie summer, with Charli xcx’s *brat*, Chappell Roan’s *The Rise and Fall of a Midwest Princess*, and Sabrina Carpenter’s *Short ’n’ Sweet*. They’re all great, although I still think *brat* is the greatest 😉
 - At the start of the year, I was still catching up on [Juana Molina](https://en.wikipedia.org/wiki/Juana_Molina), the Argentine queen of weird pop. Highly recommended if you like old-school St Vincent or Chairlift.
@@ -83,12 +83,12 @@ Apparently I listened to [217 new albums](https://rwblickhan.org/logs/albums-202
 
 ## Goals
 
-Now, one final aside. As you may know, I set [yearly goals](https://rwblickhan.org/essays/yearly-goals/) to encourage behaviors I want more of. In the spirit of New Years, and in case it’s of interest (and if it’s not, feel free to skip), here are how my goals from last year went:
+Now, one final aside. As you may know, I set [yearly goals](/essays/yearly-goals/) to encourage behaviors I want more of. In the spirit of New Years, and in case it’s of interest (and if it’s not, feel free to skip), here are how my goals from last year went:
 
 - ✅ Play 12 video games: see above!
 - ✅ Work through 3 textbooks: see above!
-- ✅ Write 12 [essays](https://rwblickhan.org/essays/) and 24 [newsletters](https://rwblickhan.org/newsletters/): see the last newsletter!
-- ✅ Learn mixology: I learned [half a dozen](https://rwblickhan.org/newsletters/cocktail-codex/) cocktails
+- ✅ Write 12 [essays](/essays/) and 24 [newsletters](/newsletters/): see the last newsletter!
+- ✅ Learn mixology: I learned [half a dozen](/newsletters/cocktail-codex/) cocktails
 - 💛 Finish a draft of REDACTED: instead of one full draft, I wrote two drafts of the first 3/4 of this novel
 - 💛 Learn a language: I did my Mochi flashcards every day — but I don’t think I learned that much
 - 💛 Learn to illustrate: I did all 30 days of Inktober, but otherwise I didn’t do much illustration

@@ -25,7 +25,7 @@ Anyway: what other “types” of thinking might be out there, powered by tools?
 
 ## Agelasty
 
-_Update: I ended up writing an entire article epxloring this concept! [Farmers & Foragers](https://rwblickhan.org/essays/farmers-foragers/)_
+_Update: I ended up writing an entire article epxloring this concept! [Farmers & Foragers](/essays/farmers-foragers/)_
 
 I read a quote from recently-deceased not-a-Nobel-Prize-winner Milan Kundera that resonated with me, though I’ve never read another word by the man:
 

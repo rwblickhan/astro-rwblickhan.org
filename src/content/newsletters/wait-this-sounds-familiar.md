@@ -9,7 +9,7 @@ season: 6
 
 ## Balatro and Deliberate Practice
 
-So lately I, like everybody else, have been playing *Balatro*. (You may remember that I recommended it [a month ago](https://rwblickhan.org/newsletters/accessible-understandable-answers-in-a-broad-domain-of-interest/#in-other-news)). *Balatro* is great! You should be playing *Balatro*.
+So lately I, like everybody else, have been playing *Balatro*. (You may remember that I recommended it [a month ago](/newsletters/accessible-understandable-answers-in-a-broad-domain-of-interest/#in-other-news)). *Balatro* is great! You should be playing *Balatro*.
 
 Game design and professor (and game design professor) Frank Lantz has [also been playing *Balatro*](https://franklantz.substack.com/p/playing-balatro). His newsletter is always fantastic,[^donkeyspace] but this one was particularly interesting. He points out that *Balatro* is similar to poker because it’s *high variance* — even a “perfect” playthrough may result in failure due to randomness, which means you get almost no information about “optimal” play from any single result!
 
@@ -25,7 +25,7 @@ On a tangentially related note: check out [this *wild* playing card set](https:/
 
 ## In Other News
 
-- New recipes on my website! I finally wrote up the [tea soda](https://rwblickhan.org/misc/recipes/teasoda/) I’ve been making recently, and I made a [breakfast burger](https://rwblickhan.org/misc/recipes/breakfastburger/) with a [habanero-garlic “aioli”](https://rwblickhan.org/misc/recipes/habanerogarlicaioli/) that was quite tasty.
-- I also cleaned up my [logs pages](https://rwblickhan.org/logs/). There’s now a legend on the main page; entries tagged with ❤️ were on my best-of list for that year, which is honestly mostly useful for myself, since the rules change every year 🤷‍♀️
+- New recipes on my website! I finally wrote up the tea soda I’ve been making recently, and I made a breakfast burger with a habanero-garlic “aioli” that was quite tasty.
+- I also cleaned up my [logs pages](/logs/). There’s now a legend on the main page; entries tagged with ❤️ were on my best-of list for that year, which is honestly mostly useful for myself, since the rules change every year 🤷‍♀️
 
 [^donkeyspace]: I first started reading a year ago with [his reflections on art in the age of LLMs](https://franklantz.substack.com/p/well-here-we-are).

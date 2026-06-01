@@ -1,0 +1,5 @@
+root_dir = "dist"
+exclude = [
+  "https://app.thestorygraph.com",
+  "https://worldcat.org",
+]

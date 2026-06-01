@@ -37,7 +37,7 @@ Just imagine reading a book that’s sentence after sentence of that quality! Th
 
 ![Cover of _The Magic Fish_](../../assets/newsletters/the_magic_fish.jpg)
 
-I read a lot of comics this year, but _The Magic Fish_ was obviously the best — I even [wrote about it before](https://rwblickhan.org/newsletters/as-promised-a-very-dumb-frog/#you-should-read-the-magic-fish)! All you really need to know is that it’s about a gay Vietnamese teen and his refugee mother bonding over fairy tales, it’s extremely charming and heartwarming while also bittersweet, and it has some of the most gorgeous illustrations I’ve ever seen, with a completely different style for each of the fairy tales and the real world.
+I read a lot of comics this year, but _The Magic Fish_ was obviously the best — I even [wrote about it before](/newsletters/as-promised-a-very-dumb-frog/#you-should-read-the-magic-fish)! All you really need to know is that it’s about a gay Vietnamese teen and his refugee mother bonding over fairy tales, it’s extremely charming and heartwarming while also bittersweet, and it has some of the most gorgeous illustrations I’ve ever seen, with a completely different style for each of the fairy tales and the real world.
 
 ### 2. _The Hearing Trumpet_, Leonora Carrington
 

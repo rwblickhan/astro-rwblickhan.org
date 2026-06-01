@@ -45,7 +45,7 @@ Small-world fun fact of the week: Eric Schwitzgebel, my favorite living philosop
 
 ---
 
-Speaking of Schwitzgebel: I’ve been noodling with my concept of [farmers and foragers](https://rwblickhan.org/essays/farmers-foragers/) a bit more. A better framing I’ve come up with is _fundamentalists_ vs _skeptics_.
+Speaking of Schwitzgebel: I’ve been noodling with my concept of [farmers and foragers](/essays/farmers-foragers/) a bit more. A better framing I’ve come up with is _fundamentalists_ vs _skeptics_.
 
 I might expand on this more in a real essay, but essentially:
 

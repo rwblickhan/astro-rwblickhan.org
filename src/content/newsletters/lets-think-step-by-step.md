@@ -9,7 +9,7 @@ Sorry, another LLM newsletter. I *promise* next week I have a different topic.
 
 ![A whiteboard showing sticky notes with ideas for the topic "library"](../../assets/newsletters/zine4_ideation.jpg)
 
-- (But first, some ideation for [zine 4](sf-frens.org)!)
+- (But first, some ideation for [zine 4](https://sf-frens.org)!)
 
 Recently there’s been some Discourse™️ about the use of LLMs, with some noting a backlash against LLMs (primarily on Bluesky) and others noting a backlash against the backlash. There’s been plenty of newslettering, too, like:
 
@@ -18,9 +18,9 @@ Recently there’s been some Discourse™️ about the use of LLMs, with some no
 - Miriam Suzanne’s [“Tech continues to be political”](https://www.miriamsuzanne.com/2025/02/12/tech-ai-wtf/)
 - A confusing dustup on Bluesky involving the journalists / pundits Matthew Yglesias, Kevin Roose, Ezra Klein, Mike Masnick, and Casey Newton (among others), which [Max Read helpfully summarized](https://maxread.substack.com/p/the-ai-backlash-backlash)
 
-Frankly, a lot of it is exhausting, and some of it seems like folks talking past each other —  a great example of the [farmer-forager dichotomy](https://rwblickhan.org/essays/farmers-foragers/) I defined a while back. (At one point Bjarnason accuses Sloan of being a bullshitter-a-la-Harry-Frankfurt, which is a very farmer-on-forager move!)
+Frankly, a lot of it is exhausting, and some of it seems like folks talking past each other —  a great example of the [farmer-forager dichotomy](/essays/farmers-foragers/) I defined a while back. (At one point Bjarnason accuses Sloan of being a bullshitter-a-la-Harry-Frankfurt, which is a very farmer-on-forager move!)
 
-That said, I never want to be accused of having underthought things, and while I mostly stand by [my last post](https://rwblickhan.org/newsletters/but-what-is-it-good-for/), it does feel a little *too*... forager-y?
+That said, I never want to be accused of having underthought things, and while I mostly stand by [my last post](/newsletters/but-what-is-it-good-for/), it does feel a little *too*... forager-y?
 
 So here is:
 
@@ -52,11 +52,11 @@ So here is:
 
 Uneasy, definitely uneasy.
 
-I don’t think LLMs are at all fake or useless — I listed genuine use cases in the [last post](https://rwblickhan.org/newsletters/but-what-is-it-good-for/)!
+I don’t think LLMs are at all fake or useless — I listed genuine use cases in the [last post](/newsletters/but-what-is-it-good-for/)!
 
 But I am skeptical of the AI labs’ claims that we’re “just a few months” from a general intelligence, let alone a *super*intelligence (and that’s without getting into the murky waters of comparing intelligences...). Just today, I found myself nodding along to [this bear case for AI progress](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress) on LessWrong — it argues we’re likely close to the ceiling on reasoning performance (c.f. the disappointing release of GPT 4.5 just last week) and most of the benchmarks are not really measuring genuine intelligence. As the article puts it: “It seems to me that "vibe checks" for how smart a model feels are easily gameable by making it have a better personality. \[...\] Deep Research was this for me, at first. Some of its summaries were just *pleasant* to read, they felt so information-dense and intelligent! Not like typical AI slop at all! But then it turned out most of it was just AI slop underneath anyway, and now my slop-recognition function has adjusted and the effect is gone.” The fact that I could even *use* the term “mechanical sympathy” meaningfully in the last post is a clue that this really is “just a machine”.
 
-And, really, most of the non-programming uses I listed in the last newsletter are useful, but not *that* useful — not multi-percentage-point-GDP-growth useful, certainly, but [maybe as useful as a spreadsheet](https://rwblickhan.org/newsletters/perhaps-the-llm-juice-isnt-worth-the-electrical-squeeze/#llm-llm-llm).[^newsletter] At the end of the day, I have a few niche tasks that I use LLMs for — converting equations into clean LaTeX is *pretty* darn useful when I need it — but I really don’t use LLMs *that often*.
+And, really, most of the non-programming uses I listed in the last newsletter are useful, but not *that* useful — not multi-percentage-point-GDP-growth useful, certainly, but [maybe as useful as a spreadsheet](/newsletters/perhaps-the-llm-juice-isnt-worth-the-electrical-squeeze/#llm-llm-llm).[^newsletter] At the end of the day, I have a few niche tasks that I use LLMs for — converting equations into clean LaTeX is *pretty* darn useful when I need it — but I really don’t use LLMs *that often*.
 
 So, where do I stand, given the critiques above?
 

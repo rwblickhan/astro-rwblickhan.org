@@ -15,7 +15,7 @@ First and most important: my friends and I are making another zine, and we’re 
 
 ---
 
-So Phil Christman had a [great post](https://philipchristman.substack.com/p/helen-dewitt-and-ilya-gridneffs-your) about Helen DeWitt and _Your Name Here_ ([recall](https://rwblickhan.org/newsletters/index-full-of-in-jokes-which-most-readers-probably-skip-over/)).[^paywall] The main point he makes[^gridneff] is that DeWitt is a paradox: she is thoroughly democratic, in the sense that she writes novels that treat the reader with respect, like the reader is just as intelligent as the novel, novels that say that it’s okay to be an idiosyncratic autodidact, that good taste can be _learned_. But she’s _also_ a snob, a real snob, who genuinely seems to believe that her interests are obviously better and more interesting than the average person, who genuinely seems to be basically unable to function in a world that is less than perfect.
+So Phil Christman had a [great post](https://philipchristman.substack.com/p/helen-dewitt-and-ilya-gridneffs-your) about Helen DeWitt and _Your Name Here_ ([recall](/newsletters/index-full-of-in-jokes-which-most-readers-probably-skip-over/)).[^paywall] The main point he makes[^gridneff] is that DeWitt is a paradox: she is thoroughly democratic, in the sense that she writes novels that treat the reader with respect, like the reader is just as intelligent as the novel, novels that say that it’s okay to be an idiosyncratic autodidact, that good taste can be _learned_. But she’s _also_ a snob, a real snob, who genuinely seems to believe that her interests are obviously better and more interesting than the average person, who genuinely seems to be basically unable to function in a world that is less than perfect.
 
 That perfectly encapsulates a deep vein of discomfort I have with DeWitt’s work, which has only increased the more I read. Another great example is the running joke in _The Last Samurai_ that everyone thinks “Sesame Street is about the right level” for prodigy protagonist Ludo. That always struck me as a low blow[^children] — Sesame Street is, after all, an intensively researched, finely-crafted educational program intended to teach children values like, say, curiosity. It’s unfortunate that people keep trying to force it on Ludo, but for most children Ludo’s age, it really _is_ about the right level!
 
@@ -43,7 +43,7 @@ That said: I’m almost more comfortable with footnotes because my site now has 
 
 ---
 
-I also set up a [“wander” page](https://rwblickhan.org/wander/), which is what kids used to call a blogroll. If you’re bored and looking for more to read, check it out!
+I also set up a [“wander” page](/wander/), which is what kids used to call a blogroll. If you’re bored and looking for more to read, check it out!
 
 [^paywall]: It’s behind a paywall, but Christman is a fantastic critic, so it’s well worth it.
 

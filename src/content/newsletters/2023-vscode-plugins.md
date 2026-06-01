@@ -17,11 +17,11 @@ I use a number of plugins, which I've documented here.
 I've used vim keybindings in pretty much everything - including Xcode and VS Code - for close to a decade now.
 
 In VS Code, I use the (very popular and polish) [VSCodeVim](https://github.com/VSCodeVim/Vim) plugin, which emulates vim's modal editing in VS Code.
-VSCodeVim has implemented a surprisingly large portion of vim's default functionality, including [smartcase](https://rwblickhan.org/technical/til/20230717-smartcase-in-vim/), [relative line numbers](https://rwblickhan.org/technical/til/20230615-relative-line-numbers-in-vim/), and highlighted yanks,
+VSCodeVim has implemented a surprisingly large portion of vim's default functionality, including [smartcase](/technical/til/20230717-smartcase-in-vim/), [relative line numbers](/technical/til/20230615-relative-line-numbers-in-vim/), and highlighted yanks,
 as well as a number of plugins I rely on,
-including [commentary.vim](https://rwblickhan.org/technical/vim-plugins/#commentaryvim), [surround.vim](https://rwblickhan.org/technical/vim-plugins/#surroundvim), [CamelCaseMotion](https://rwblickhan.org/technical/vim-plugins/#camelcasemotion), and sending yanks to the clipboard.
+including [commentary.vim](/technical/vim-plugins/#commentaryvim), [surround.vim](/technical/vim-plugins/#surroundvim), [CamelCaseMotion](/technical/vim-plugins/#camelcasemotion), and sending yanks to the clipboard.
 I've also started trying its [sneak.vim](https://github.com/justinmk/vim-sneak) mode, too!
-In fact, just about the only plugin I (very occasionally) miss is [vim-swap](https://rwblickhan.org/technical/vim-plugins/#vim-swap).
+In fact, just about the only plugin I (very occasionally) miss is [vim-swap](/technical/vim-plugins/#vim-swap).
 
 I previously used [VSCode Neovim](https://github.com/vscode-neovim/vscode-neovim), which connects VS Code to a real Neovim instance with full plugin support.
 However, there have always been a few annoying edge cases, like how Neovim visual selections aren't mapped to VS Code selections, and a recent VS Code update started causing wild issues,

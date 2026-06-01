@@ -11,16 +11,16 @@ Hey all, here's what's new on [rwblickhan.org](https://rwblickhan.org) this mont
 
 ## General Site Updates
 
-- I cleaned up the site taxonomy a bit. It's now (mostly) cleanly separated between [fiction](https://rwblickhan.org/fiction/), [non-fiction](https://rwblickhan.org/nonfiction/), [book/film logs](https://rwblickhan.org/logs/), and the [gallery](https://rwblickhan.org/gallery/).
+- I cleaned up the site taxonomy a bit. It's now (mostly) cleanly separated between [fiction](/fiction/), [newsletters](/newsletters/), [book/film logs](/logs/), and the [gallery](/gallery/).
 - While I was at it, I also cleaned up the section pages. Each page now gets a cute little card!
 - I also added RSS (well, JSON Feed), so you can subscribe via your favorite RSS reader, like [NetNewsWire](https://netnewswire.com).
 
 ## Articles
 
-- While walking to work one day, I started thinking about some tips for reading a lot, which turned into an article: ["How to Read a Lot"](https://rwblickhan.org/nonfiction/reading-lots/), reprinted below.
-- I put up a new section for [how I use git](https://rwblickhan.org/nonfiction/dotfiles/#git) in my dotfiles page.
-- I put up a recipe for [chili-lime seared salmon](https://rwblickhan.org/recipes/chililimesalmon/) that I've been making a lot recently.
-- Finally, a friend asked me what blogs and newsletters I follow, so I wrote up [some of my favorite reading recommendations](https://rwblickhan.org/nonfiction/reading-recs/).
+- While walking to work one day, I started thinking about some tips for reading a lot, which turned into an article: ["How to Read a Lot"](/newsletters/reading-lots/), reprinted below.
+- I put up a new section for [how I use git](/newsletters/2023-command-line-tools#git) in my dotfiles page.
+- I put up a recipe for chili-lime seared salmon that I've been making a lot recently.
+- Finally, a friend asked me what blogs and newsletters I follow, so I wrote up some of my favorite reading recommendations.
 
 ## Other Stuff
 
@@ -28,7 +28,7 @@ Hey all, here's what's new on [rwblickhan.org](https://rwblickhan.org) this mont
 
 ## How to Read a Lot
 
-I enjoy reading a lot and usually read a [book a week](https://rwblickhan.org/logs/), so the following are my tips for those who are “book curious” or just want to recapture the feeling of staying up all night to finish a book in grade school.
+I enjoy reading a lot and usually read a [book a week](/logs/), so the following are my tips for those who are “book curious” or just want to recapture the feeling of staying up all night to finish a book in grade school.
 
 1. **Make the time.** Unfortunately, life is finite, and though some of these tips will help you read faster, you still need to put the time in. That means you’ll need decide what to give up to spend more time reading. In my case, that’s other forms of media, especially video games and television. If you’re having trouble finding time, you can consider drawing up an explicit timetable for an average day and explicitly decide what to give up.
    1. **You don’t have to read.** If it’s too hard to decide what to give up, you actually might not want to prioritize reading, and that’s okay! There’s no shame in deciding there’s other things you’d rather do.

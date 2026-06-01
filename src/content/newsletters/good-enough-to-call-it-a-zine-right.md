@@ -18,6 +18,6 @@ brew install linty
 
 Again, I’ll probably write a more in-depth article about this at a later point.
 
-Some friends and I (including Ker Lee, who you may remember as a [talented newsletterer](https://rwblickhan.org/newsletters/once-the-canadians-in-the-audience-recover-from-their-shock/#you-should-read-weekend-coffee-time)) threw together an open mic to celebrate the launch of a zine! Yes, we threw together a bunch of short stories and poems and printed it; that’s good enough to call it a zine, right?  I’m hoping to throw together a very-90s-aesthetic website to show it off. Maybe there will be another issue in the future? Anyway, the open mic was pretty successful.
+Some friends and I (including Ker Lee, who you may remember as a [talented newsletterer](/newsletters/once-the-canadians-in-the-audience-recover-from-their-shock/#you-should-read-weekend-coffee-time)) threw together an open mic to celebrate the launch of a zine! Yes, we threw together a bunch of short stories and poems and printed it; that’s good enough to call it a zine, right?  I’m hoping to throw together a very-90s-aesthetic website to show it off. Maybe there will be another issue in the future? Anyway, the open mic was pretty successful.
 
 And finally, I recently started a second draft of a novel I wrote earlier this year. Maybe this is the one 👀 Wish me luck!

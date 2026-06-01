@@ -7,7 +7,7 @@ season: 6
 
 Hello all and welcome back to rwblog. This time I’m revealing my top 10 books and top 5 films of 2022. I was intending to write longer essays for each of these over the holidays, but then it didn’t happen! Instead I just wrote up some quick notes for each of these, because I’d rather get this send out before we get too far into 2023. Sometimes the perfect really is the enemy of the good, or at least the productive.
 
-Note that I’m only including books or films that were new to me this year. On rwblickhan.org you can find my complete [book log](https://rwblickhan.org/logs/books-2022/) and [film log](https://rwblickhan.org/logs/films-2022/) for 2022!
+Note that I’m only including books or films that were new to me this year. On rwblickhan.org you can find my complete [book log](/logs/books-2022/) and [film log](/logs/films-2022/) for 2022!
 
 ![Cover of *Orlando: A Biography*](../../assets/newsletters/orlando.jpg)
 
