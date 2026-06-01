@@ -2,8 +2,9 @@ amends "package://github.com/jdx/hk/releases/download/v1.45.0/hk@1.45.0#/Config.
 import "package://github.com/jdx/hk/releases/download/v1.45.0/hk@1.45.0#/Builtins.pkl"
 
 local linters = new Mapping<String, Step> {
-    ["markdownlint"] = Builtins.markdown_lint
     ["astro"] = Builtins.astro
+    ["lychee"] = Builtins.lychee
+    ["markdownlint"] = Builtins.markdown_lint
     ["lastUpdatedDate"] {
         glob = "src/**/*.md"
         fix = #"sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: $(date +%Y-%m-%d)" {{ files }}"#

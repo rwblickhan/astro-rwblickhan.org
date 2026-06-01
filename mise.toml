@@ -1,5 +1,6 @@
 [tools]
 hk = "latest"
+lychee = "latest"
 "npm:astro" = "latest"
 "npm:wrangler" = "latest"
 pkl = "latest"
