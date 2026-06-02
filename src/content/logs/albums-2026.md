@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-05-29
+lastUpdatedDate: 2026-06-02
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -119,6 +119,8 @@ lastUpdatedDate: 2026-05-29
 114. _Colossal Youth_, Young Marble Giants
 115. _Inferno_, Boards of Canada
 116. _Goodbye Yellow Brick Road_, Elton John
+117. _Is This It_, The Strokes
+118. _Both Sides of the Brain_, Del the Funky Homosapien
 
 ## Live Shows
 
