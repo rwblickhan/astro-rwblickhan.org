@@ -424,6 +424,30 @@ The ones I find myself thinking about a lot...
 
 - _The Crying of Lot 49_, Thomas Pynchon
 
+> Fifteen-year-old Jo was very tall, thin, and brown, and reminded one of a colt; for she never seemed to know what to do with her long limbs, which were very much in her way.
+
+- _Little Women_, Lousia May Alcott
+
+> There are many Beths in the world, shy and quiet, sitting in corners till needed, and living for others so cheerfully that no one sees the sacrifices till the little cricket on the hearth stops chirping, and the sweet, sunshiny presence vanishes, leaving silence and shadow behind.
+
+- _Little Women_, Lousia May Alcott
+
+> “You don’t know, you can’t guess how bad it is! It seems as if I could do anything when I’m in a passion; I get so savage, I could hurt anyone, and enjoy it. I’m afraid I shall do something dreadful some day, and spoil my life, and make everybody hate me.”
+
+- _Little Women_, Lousia May Alcott
+
+> This cap was a beacon to the inquiring eyes of her family, who during these periods kept their distance, merely popping in their heads semi-occasionally, to ask, with interest, “Does genius burn, Jo?”
+
+- _Little Women_, Lousia May Alcott
+
+> She did not think herself a genius by any means; but when the writing fit came on, she gave herself up to it with entire abandon, and led a blissful life, unconscious of want, care, or bad weather, while she sat safe and happy in an imaginary world, full of friends almost as real and dear to her as any in the flesh. Sleep forsook her eyes, meals stood untasted, day and night were all too short to enjoy the happiness which blessed her only at such times, and made these hours worth living, even if they bore no other fruit. The divine afflatus usually lasted a week or two, and then she emerged from her “vortex,” hungry, sleepy, cross, or despondent.
+
+- _Little Women_, Lousia May Alcott
+
+> “ I never wanted to go away, and the hard part now is the leaving you all. I’m not afraid, but it seems as if I should be homesick for you even in heaven.”
+
+- _Little Women_, Lousia May Alcott
+
 ## From Non-Fiction
 
 > Butler’s novel [_Parable of the Sower_] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
