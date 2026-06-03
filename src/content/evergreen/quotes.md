@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-05-17
+lastUpdatedDate: 2026-06-02
 ---
 
 ## Favorites
