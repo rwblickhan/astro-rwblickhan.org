@@ -63,7 +63,8 @@
       "Bash(sd '\\\\[habanero-garlic \"aioli\"\\\\]\\\\\\(/misc/recipes/habanerogarlicaioli/\\\\\\)' 'habanero-garlic \"aioli\"' src/content/newsletters/wait-this-sounds-familiar.md)",
       "Bash(sd '/52books/2021/' '/logs/books-2021/' src/content/newsletters/whats-new-rooby-doo.md)",
       "Bash(sd '\\\\\\(/misc/recipes/habanerogarlicaioli/\\\\\\)' '' src/content/newsletters/wait-this-sounds-familiar.md)",
-      "Bash(sd '\\\\[habanero-garlic ' 'habanero-garlic ' src/content/newsletters/wait-this-sounds-familiar.md)"
+      "Bash(sd '\\\\[habanero-garlic ' 'habanero-garlic ' src/content/newsletters/wait-this-sounds-familiar.md)",
+      "Bash(lychee *)"
     ],
     "deny": []
   }
