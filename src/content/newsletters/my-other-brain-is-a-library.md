@@ -40,7 +40,7 @@ That's especially true for [smaller or specialized or personal libraries](/newsl
 
 ## Happenstance
 
-For many topics about the [ancient world](/newsletters/my-other-brain-is-a-library/#renaissane), we only know as much as we do because of [happenstance](/newsletters/my-other-brain-is-a-library/#century-scale-storage). Papyrus mummified by the dry, desiccating heat of Egypt. Clay tablets from the Canaanite city of Ugarit, permanently baked by the fires that destroyed the city as it fell. Bamboo strips of early Daoist texts, buried with long-dead nobles, the string binding them together rotted away, so that we know the content but not the correct order.
+For many topics about the [ancient world](/newsletters/my-other-brain-is-a-library/#renaissance), we only know as much as we do because of [happenstance](/newsletters/my-other-brain-is-a-library/#century-scale-storage). Papyrus mummified by the dry, desiccating heat of Egypt. Clay tablets from the Canaanite city of Ugarit, permanently baked by the fires that destroyed the city as it fell. Bamboo strips of early Daoist texts, buried with long-dead nobles, the string binding them together rotted away, so that we know the content but not the correct order.
 
 ## Century-Scale Storage
 
@@ -94,7 +94,7 @@ The very best libraries have an air of the sacred about them — they are so [su
 
 ## Double Fold
 
-Perhaps a modern example? [Nicholson Baker's](/newsletters/my-other-brain-is-a-library/#the-mezzanine) [*Double Fold*](https://search.worldcat.org/title/1012692758) argues that, throughout the 1980s and 90s, libraries obsessed with microfilm and microfiche systematically and unnecessarily destroyed paper records — the [Library of Alexandria](/newsletters/my-other-brain-is-a-library/#library-of-alexandra) torching itself.
+Perhaps a modern example? [Nicholson Baker's](/newsletters/my-other-brain-is-a-library/#the-mezzanine) [*Double Fold*](https://search.worldcat.org/title/1012692758) argues that, throughout the 1980s and 90s, libraries obsessed with microfilm and microfiche systematically and unnecessarily destroyed paper records — the [Library of Alexandria](/newsletters/my-other-brain-is-a-library/#library-of-alexandria) torching itself.
 
 I haven't [actually read](/newsletters/my-other-brain-is-a-library/#anti-library) *Double Fold*. Instead, I read [an extensive, anonymous review](https://www.astralcodexten.com/p/your-book-review-double-fold) submitted to a book review contest hosted by the Silicon-Valley-famous newsletter Astral Codex Ten.
 
