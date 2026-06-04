@@ -4,5 +4,8 @@ exclude = [
   "https://worldcat.org",
   "https://search.worldcat.org",
 ]
+exclude_path = [
+  ".claude/",
+]
 include_fragments = "full"
 index_files = ["index.html"]
