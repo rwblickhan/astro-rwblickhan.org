@@ -3,3 +3,4 @@ exclude = [
   "https://app.thestorygraph.com",
   "https://worldcat.org",
 ]
+include_fragments = "full"
