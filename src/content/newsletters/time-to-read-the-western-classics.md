@@ -1,6 +1,6 @@
 ---
 title: Time to Read the (Western) Classics
-lastUpdatedDate: 2025-07-19
+lastUpdatedDate: 2026-06-03
 publicationDate: 2025-03-29
 season: 7
 ---
