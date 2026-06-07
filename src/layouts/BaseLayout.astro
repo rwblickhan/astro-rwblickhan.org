@@ -55,7 +55,7 @@ const {
       />
     </div>
   </dialog>
-  <dialog id="map-modal" popover>
+  <dialog id="map-modal">
     <select id="map-input" autofocus aria-label="Go to category">
       <option value="" disabled selected>Go to…</option>
       <option value="Evergreen">Evergreen</option>
@@ -220,6 +220,7 @@ const {
 
 <script>
   const modal = document.getElementById("search-modal") as HTMLDialogElement;
+  const mapModal = document.getElementById("map-modal") as HTMLDialogElement;
   document.addEventListener("keydown", (e) => {
     if ((e.metaKey || e.ctrlKey) && e.key === "k") {
       e.preventDefault();
@@ -227,7 +228,7 @@ const {
     }
     if ((e.metaKey || e.ctrlKey) && e.key === "o") {
       e.preventDefault();
-      (document.getElementById("map-modal") as HTMLElement)?.showPopover();
+      mapModal?.open ? mapModal.close() : mapModal?.showModal();
     }
   });
 
@@ -239,11 +240,10 @@ const {
     "Gallery": "/gallery",
   };
   const mapInput = document.getElementById("map-input") as HTMLInputElement;
-  const mapModal = document.getElementById("map-modal") as HTMLElement;
   mapInput?.addEventListener("change", () => {
     const route = mapRoutes[mapInput.value];
     if (route) {
-      mapModal?.hidePopover();
+      mapModal?.close();
       window.location.href = route;
     }
   });
@@ -254,7 +254,9 @@ const {
       mapInput?.showPicker();
     }
   });
-  modal?.addEventListener("click", (e) => {
-    if (e.target === modal) modal.close();
-  });
+  for (const dialog of [modal, mapModal]) {
+    dialog?.addEventListener("click", (e) => {
+      if (e.target === dialog) dialog.close();
+    });
+  }
 </script>
