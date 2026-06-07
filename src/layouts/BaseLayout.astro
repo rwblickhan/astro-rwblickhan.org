@@ -251,6 +251,7 @@ const {
     if ((e as ToggleEvent).newState === "open") {
       mapInput?.focus();
       mapInput.value = "";
+      mapInput?.showPicker();
     }
   });
   modal?.addEventListener("click", (e) => {
