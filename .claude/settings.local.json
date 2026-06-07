@@ -4,7 +4,7 @@
       "Bash(sd *)",
       "Bash(grep *)",
       "Bash(fd *)",
-      "Bash(rg *):",
+      "Bash(rg *)",
       "Bash(jj *)",
       "Bash(wc *)",
       "Bash(pnpm run:*)",
