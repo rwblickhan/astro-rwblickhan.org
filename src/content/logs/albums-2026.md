@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-06-05
+lastUpdatedDate: 2026-06-08
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -122,6 +122,8 @@ lastUpdatedDate: 2026-06-05
 117. _Is This It_, The Strokes
 118. _Both Sides of the Brain_, Del the Funky Homosapien
 119. _Late Registration_, Kanye West
+120. _East and West_, Anna Domino
+121. _Hotel California_, The Eagles
 
 ## Live Shows
 
