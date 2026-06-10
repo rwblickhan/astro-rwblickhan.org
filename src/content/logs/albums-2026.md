@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-06-09
+lastUpdatedDate: 2026-06-10
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -125,6 +125,7 @@ lastUpdatedDate: 2026-06-09
 120. _East and West_, Anna Domino
 121. _Hotel California_, The Eagles
 122. _Stand!_, Sly & The Family Stone
+123. _Moondance_, Van Morrison
 
 ## Live Shows
 
