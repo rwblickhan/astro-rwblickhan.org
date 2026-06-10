@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-06-07
+lastUpdatedDate: 2026-06-10
 ---
 
 ## Movies
@@ -24,6 +24,7 @@ lastUpdatedDate: 2026-06-07
 17. 🔁 *Lake Mungo* (2008)
 18. *Fruitvale Station* (2013)
 19. 🔁 *Clue* (1985)
+20. *Backrooms* (2026)
 
 ## TV Shows
 
