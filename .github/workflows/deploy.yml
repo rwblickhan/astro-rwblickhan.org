@@ -10,7 +10,6 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
-      - uses: jdx/mise-action@v2
       - uses: pnpm/action-setup@v4
         with:
           version: 11.2.1
