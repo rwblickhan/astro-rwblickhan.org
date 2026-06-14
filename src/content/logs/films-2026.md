@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-06-10
+lastUpdatedDate: 2026-06-14
 ---
 
 ## Movies
@@ -25,6 +25,7 @@ lastUpdatedDate: 2026-06-10
 18. *Fruitvale Station* (2013)
 19. 🔁 *Clue* (1985)
 20. *Backrooms* (2026)
+21. *Brokeback Mountain* (2005)
 
 ## TV Shows
 
