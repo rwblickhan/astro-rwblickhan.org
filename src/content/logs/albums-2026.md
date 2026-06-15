@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-06-13
+lastUpdatedDate: 2026-06-15
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -128,7 +128,8 @@ lastUpdatedDate: 2026-06-13
 123. _Moondance_, Van Morrison
 124. _This Year’s Model_, Elvis Costello
 125. _The Downward Spiral_, Nine Inch Nails
-126. _you seem pretty sad for a girl so in love_, Olivia Rtodrigo
+126. _you seem pretty sad for a girl so in love_, Olivia Rodrigo
+127. _Led Zeppelin II_, Led Zeppelin
 
 ## Live Shows
 
