@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-06-15
+lastUpdatedDate: 2026-06-16
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -130,6 +130,7 @@ lastUpdatedDate: 2026-06-15
 125. _The Downward Spiral_, Nine Inch Nails
 126. _you seem pretty sad for a girl so in love_, Olivia Rodrigo
 127. _Led Zeppelin II_, Led Zeppelin
+128. _Achtung Baby_, U2
 
 ## Live Shows
 
