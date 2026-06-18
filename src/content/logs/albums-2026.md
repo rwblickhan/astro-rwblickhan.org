@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-06-16
+lastUpdatedDate: 2026-06-18
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -131,6 +131,8 @@ lastUpdatedDate: 2026-06-16
 126. _you seem pretty sad for a girl so in love_, Olivia Rodrigo
 127. _Led Zeppelin II_, Led Zeppelin
 128. _Achtung Baby_, U2
+129. _Multiforms: Ambient Transmissions, Vol. 3_, Marconi Union
+130. _My Life_, Mary J. Blige
 
 ## Live Shows
 
