@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-06-14
+lastUpdatedDate: 2026-06-18
 ---
 
 ## Movies
@@ -26,6 +26,7 @@ lastUpdatedDate: 2026-06-14
 19. 🔁 *Clue* (1985)
 20. *Backrooms* (2026)
 21. *Brokeback Mountain* (2005)
+22. *I Love Boosters* (2026)
 
 ## TV Shows
 
