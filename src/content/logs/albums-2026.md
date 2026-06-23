@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-06-18
+lastUpdatedDate: 2026-06-22
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -133,6 +133,7 @@ lastUpdatedDate: 2026-06-18
 128. _Achtung Baby_, U2
 129. _Multiforms: Ambient Transmissions, Vol. 3_, Marconi Union
 130. _My Life_, Mary J. Blige
+131. _A Night at the Opera_, Queen
 
 ## Live Shows
 
