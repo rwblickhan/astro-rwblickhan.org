@@ -7,7 +7,5 @@ allowBuilds:
 minimumReleaseAgeExclude:
   - '@astrojs/internal-helpers@0.10.0'
   - '@astrojs/markdown-remark@7.2.0'
-  - astro@6.4.2
-  - '@astrojs/markdown-satteri@0.2.1'
   - '@astrojs/markdown-satteri@0.3.1'
   - astro@7.0.0
