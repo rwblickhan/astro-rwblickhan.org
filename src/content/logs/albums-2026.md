@@ -134,6 +134,7 @@ lastUpdatedDate: 2026-06-22
 129. _Multiforms: Ambient Transmissions, Vol. 3_, Marconi Union
 130. _My Life_, Mary J. Blige
 131. _A Night at the Opera_, Queen
+132. _Modern Sounds in Country and Western Music_, Ray Charles
 
 ## Live Shows
 
