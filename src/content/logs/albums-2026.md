@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-06-22
+lastUpdatedDate: 2026-06-24
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -135,6 +135,7 @@ lastUpdatedDate: 2026-06-22
 130. _My Life_, Mary J. Blige
 131. _A Night at the Opera_, Queen
 132. _Modern Sounds in Country and Western Music_, Ray Charles
+133. _1999_, Prince
 
 ## Live Shows
 
