@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-06-26
+lastUpdatedDate: 2026-06-29
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -137,6 +137,7 @@ lastUpdatedDate: 2026-06-26
 132. _Modern Sounds in Country and Western Music_, Ray Charles
 133. _1999_, Prince
 134. _40 Greatest Hits_, Hank Williams
+135. _Hejira_, Joni Mitchell
 
 ## Live Shows
 
