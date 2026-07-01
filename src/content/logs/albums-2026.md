@@ -140,6 +140,7 @@ lastUpdatedDate: 2026-07-01
 135. _Hejira_, Joni Mitchell
 136. _The Score_, Fugees
 137. _The Joshua Tree_, U2
+138. _Victory_, Madeon
 
 ## Live Shows
 
