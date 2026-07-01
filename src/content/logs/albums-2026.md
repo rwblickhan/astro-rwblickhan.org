@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-06-30
+lastUpdatedDate: 2026-07-01
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -139,6 +139,7 @@ lastUpdatedDate: 2026-06-30
 134. _40 Greatest Hits_, Hank Williams
 135. _Hejira_, Joni Mitchell
 136. _The Score_, Fugees
+137. _The Joshua Tree_, U2
 
 ## Live Shows
 
