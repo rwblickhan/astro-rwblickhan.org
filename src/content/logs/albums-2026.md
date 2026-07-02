@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-01
+lastUpdatedDate: 2026-07-02
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -141,6 +141,7 @@ lastUpdatedDate: 2026-07-01
 136. _The Score_, Fugees
 137. _The Joshua Tree_, U2
 138. _Victory_, Madeon
+139. _Maggot Brain_, Funkadelic
 
 ## Live Shows
 
