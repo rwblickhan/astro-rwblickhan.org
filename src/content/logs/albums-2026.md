@@ -142,6 +142,7 @@ lastUpdatedDate: 2026-07-03
 137. _The Joshua Tree_, U2
 138. _Victory_, Madeon
 139. _Maggot Brain_, Funkadelic
+140. _21_, Adele
 
 ## Live Shows
 
