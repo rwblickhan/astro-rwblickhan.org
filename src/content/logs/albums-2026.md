@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-02
+lastUpdatedDate: 2026-07-03
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -148,3 +148,4 @@ lastUpdatedDate: 2026-07-02
 1. Not for Radio @ Fox Theater
 2. Gelli Haha @ Brick & Mortar Music Hall
 3. Health x Carpenter Brut @ the Warfield
+4. Lizzie Waters / Paper Straw / Silverset @ Rickshaw Stop
