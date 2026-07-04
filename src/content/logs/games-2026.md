@@ -1,6 +1,6 @@
 ---
 title: Games of 2026
-lastUpdatedDate: 2026-06-30
+lastUpdatedDate: 2026-07-03
 ---
 
 ## Video Games
@@ -9,6 +9,7 @@ lastUpdatedDate: 2026-06-30
 2. [*despelote*](https://store.steampowered.com/app/2367820/despelote/)
 3. [*Slay the Spire II*](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/)
 4. [*Consume Me*](https://store.steampowered.com/app/2359120/Consume_Me/)
+5. [*What Remains of Edith Finch*](https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/)
 
 ## Traditional Games
 
