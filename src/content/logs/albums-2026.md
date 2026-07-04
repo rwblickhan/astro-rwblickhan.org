@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-03
+lastUpdatedDate: 2026-07-04
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -143,6 +143,7 @@ lastUpdatedDate: 2026-07-03
 138. _Victory_, Madeon
 139. _Maggot Brain_, Funkadelic
 140. _21_, Adele
+141. _ATW_, All Them Witches
 
 ## Live Shows
 
