@@ -144,6 +144,7 @@ lastUpdatedDate: 2026-07-04
 139. _Maggot Brain_, Funkadelic
 140. _21_, Adele
 141. _ATW_, All Them Witches
+142. _House of Mirrors_, All Them Witches
 
 ## Live Shows
 
