@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-04
+lastUpdatedDate: 2026-07-05
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -145,6 +145,7 @@ lastUpdatedDate: 2026-07-04
 140. _21_, Adele
 141. _ATW_, All Them Witches
 142. _House of Mirrors_, All Them Witches
+143. _The Celts_, Enya
 
 ## Live Shows
 
