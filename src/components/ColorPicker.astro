@@ -2,11 +2,14 @@
 
 ---
 
-<select id="color-scheme-select" aria-label="Choose color scheme">
-  <option value="blue">🔵</option>
-  <option value="red">🔴</option>
-  <option value="green">🟢</option>
-</select>
+<div class="color-picker">
+  <label for="color-scheme-select">Theme:</label>
+  <select id="color-scheme-select" aria-label="Choose color scheme">
+    <option value="blue">🔵</option>
+    <option value="red">🔴</option>
+    <option value="green">🟢</option>
+  </select>
+</div>
 
 <script is:inline>
   document.getElementById("color-scheme-select").value =
@@ -26,6 +29,36 @@
 </script>
 
 <style>
+  .color-picker {
+    display: flex;
+  }
+
+  label {
+    display: none;
+  }
+
+  @media (min-width: 768px) {
+    label {
+      display: inline-block;
+      max-width: 0;
+      margin-right: 0;
+      overflow: hidden;
+      white-space: nowrap;
+      opacity: 0;
+      transition:
+        max-width 0.2s ease,
+        margin-right 0.2s ease,
+        opacity 0.2s ease;
+    }
+
+    .color-picker:hover label,
+    .color-picker:focus-within label {
+      max-width: 6em;
+      margin-right: 8px;
+      opacity: 1;
+    }
+  }
+
   select {
     border: none;
     background-color: var(--background);
