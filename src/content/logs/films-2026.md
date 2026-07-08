@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-06-22
+lastUpdatedDate: 2026-07-08
 ---
 
 ## Movies
@@ -28,6 +28,7 @@ lastUpdatedDate: 2026-06-22
 21. *Brokeback Mountain* (2005)
 22. *I Love Boosters* (2026)
 23. 🔁 *Donnie Darko* (2001)
+24. *Confessions* (2010)
 
 ## TV Shows
 
