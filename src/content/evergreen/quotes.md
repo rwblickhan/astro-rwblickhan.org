@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-07-09
+lastUpdatedDate: 2026-07-10
 ---
 
 ## Favorites
@@ -571,6 +571,10 @@ The ones I find myself thinking about a lot...
 > I am 100% sure I am not a genius, but at the same time, I am 100% sure I am not a fool.
 
 - Football manager Carlo Ancelotti, [as quoted by Alan Jacobs](https://social.ayjay.org/2026/07/04/i-am-sure-i-am.html)
+
+> You can philosophical thought experiment yourself into freaking anything and you should be very cautious about that. Like, go visit Akron, Ohio sometimes. Like, just reconnect. Like you need to touch grass. You also need to touch the Midwest occasionally.
+
+- ["Unfortunately, You Need to Know What the Jevons Paradox is"](https://www.youtube.com/watch?v=a6sYYrLTOjQ), Hank Green
 
 ## From Poetry
 
