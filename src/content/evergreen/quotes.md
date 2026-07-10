@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-06-02
+lastUpdatedDate: 2026-07-09
 ---
 
 ## Favorites
@@ -567,6 +567,10 @@ The ones I find myself thinking about a lot...
 > The lack of any significant connection between a person's opinions and his apprehension of reality will be even more severe, needless to say, for someone who believes it his responsibility, as a conscientious moral agent, to evaluate events and conditions in all parts of the world.
 
 - _On Bullshit_, Harry G. Frankfurt
+
+> I am 100% sure I am not a genius, but at the same time, I am 100% sure I am not a fool.
+
+- Football manager Carlo Ancelotti, [as quoted by Alan Jacobs](https://social.ayjay.org/2026/07/04/i-am-sure-i-am.html)
 
 ## From Poetry
 
