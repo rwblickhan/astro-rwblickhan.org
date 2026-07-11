@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-09
+lastUpdatedDate: 2026-07-11
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -149,6 +149,7 @@ lastUpdatedDate: 2026-07-09
 144. _The Immaculate Collection_, Madonna
 145. _Catch a Fire_, Bob Marley and the Wailers
 146. _Doolittle_, The Pixies
+147. _Born in the U.S.A._, Bruce Springsteen
 
 ## Live Shows
 
