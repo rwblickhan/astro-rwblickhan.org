@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-11
+lastUpdatedDate: 2026-07-13
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -150,6 +150,7 @@ lastUpdatedDate: 2026-07-11
 145. _Catch a Fire_, Bob Marley and the Wailers
 146. _Doolittle_, The Pixies
 147. _Born in the U.S.A._, Bruce Springsteen
+148. _The Velvet Underground_, The Velvet Underground
 
 ## Live Shows
 
