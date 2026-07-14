@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-13
+lastUpdatedDate: 2026-07-14
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -151,6 +151,7 @@ lastUpdatedDate: 2026-07-13
 146. _Doolittle_, The Pixies
 147. _Born in the U.S.A._, Bruce Springsteen
 148. _The Velvet Underground_, The Velvet Underground
+149. _Physical Graffiti_, Led Zeppelin
 
 ## Live Shows
 
