@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-06-12
+lastUpdatedDate: 2026-07-13
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -32,6 +32,7 @@ lastUpdatedDate: 2026-06-12
 
 1. _Seven Empty Houses_, Samanta Schweblin (trans. Megan McDowell)
 2. _Flow: The Psychology of Optimal Experience_, Mihaly Csikszentmihalyi
+3. _Attensity!: A Manifesto of the Attention Liberation Movement_, The Friends of Attention
 
 ## Short Stories
 
