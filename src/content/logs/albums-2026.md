@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-15
+lastUpdatedDate: 2026-07-16
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -154,6 +154,7 @@ lastUpdatedDate: 2026-07-15
 149. _Physical Graffiti_, Led Zeppelin
 150. _The Marshall Mathers LP_, Eminem
 151. _Confessions II_, Madonna
+152. _Parallel Lines_, Blondie
 
 ## Live Shows
 
