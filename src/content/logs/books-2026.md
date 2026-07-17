@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-07-13
+lastUpdatedDate: 2026-07-17
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -27,6 +27,7 @@ lastUpdatedDate: 2026-07-13
 22. _On Bullshit_, Harry G. Frankfurt
 23. _Carthage Must Be Destroyed: The Rise and Fall of an Ancient Civilization_, Richard Miles
 24. _The House in the Cerulean Sea_, TJ Klune
+25. _Infinite Jest_, David Foster Wallace
 
 ## Skimmed / DNF
 
