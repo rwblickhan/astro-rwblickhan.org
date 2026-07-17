@@ -155,6 +155,7 @@ lastUpdatedDate: 2026-07-16
 150. _The Marshall Mathers LP_, Eminem
 151. _Confessions II_, Madonna
 152. _Parallel Lines_, Blondie
+153. _Shall We Go On Sinning So That Grace May Increase_, The Soft Pink Truth
 
 ## Live Shows
 
