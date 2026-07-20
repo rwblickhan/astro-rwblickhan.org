@@ -158,6 +158,7 @@ lastUpdatedDate: 2026-07-20
 153. _Shall We Go On Sinning So That Grace May Increase_, The Soft Pink Truth
 154. _Grace_, Jeff Buckley
 155. _channel ORANGE_, Frank Ocean
+156. _wingdings_,[^wingdings] Kieran Hebden
 
 ## Live Shows
 
@@ -165,3 +166,5 @@ lastUpdatedDate: 2026-07-20
 2. Gelli Haha @ Brick & Mortar Music Hall
 3. Health x Carpenter Brut @ the Warfield
 4. Lizzie Waters / Paper Straw / Silverset @ Rickshaw Stop
+
+[^wingdings]: The album’s _actual_ title is an [unpronounceable glyph](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review), as is the alias of Kieran Hebden (aka Four Tet).
