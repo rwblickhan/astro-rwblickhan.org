@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-17
+lastUpdatedDate: 2026-07-20
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -157,6 +157,7 @@ lastUpdatedDate: 2026-07-17
 152. _Parallel Lines_, Blondie
 153. _Shall We Go On Sinning So That Grace May Increase_, The Soft Pink Truth
 154. _Grace_, Jeff Buckley
+155. _channel ORANGE_, Frank Ocean
 
 ## Live Shows
 
