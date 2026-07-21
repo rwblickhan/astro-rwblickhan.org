@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-07-08
+lastUpdatedDate: 2026-07-20
 ---
 
 ## Movies
@@ -36,6 +36,7 @@ lastUpdatedDate: 2026-07-08
 2. *Stranger Things* Season 5 (2025)
 3. *Heated Rivalry* Season 1 (2025)
 4. *Pluribus* Season 1 (2025)
+5. *Kill la Kill* (2013)
 
 ## Musicals & Plays
 
