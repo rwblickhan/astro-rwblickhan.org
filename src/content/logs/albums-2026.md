@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-20
+lastUpdatedDate: 2026-07-21
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -159,6 +159,7 @@ lastUpdatedDate: 2026-07-20
 154. _Grace_, Jeff Buckley
 155. _channel ORANGE_, Frank Ocean
 156. _wingdings_,[^wingdings] Kieran Hebden
+157. _John Prine_, John Prine
 
 ## Live Shows
 
