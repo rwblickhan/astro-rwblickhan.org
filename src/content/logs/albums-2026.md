@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-21
+lastUpdatedDate: 2026-07-22
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -160,6 +160,7 @@ lastUpdatedDate: 2026-07-21
 155. _channel ORANGE_, Frank Ocean
 156. _wingdings_,[^wingdings] Kieran Hebden
 157. _John Prine_, John Prine
+158. _Nebraska_, Bruce Springsteen
 
 ## Live Shows
 
