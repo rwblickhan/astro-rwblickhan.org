@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-07-20
+lastUpdatedDate: 2026-07-22
 ---
 
 ## Movies
@@ -29,6 +29,7 @@ lastUpdatedDate: 2026-07-20
 22. *I Love Boosters* (2026)
 23. 🔁 *Donnie Darko* (2001)
 24. *Confessions* (2010)
+25. *Schindler’s List* (1993)
 
 ## TV Shows
 
