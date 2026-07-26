@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-07-22
+lastUpdatedDate: 2026-07-26
 ---
 
 ## Movies
@@ -30,6 +30,7 @@ lastUpdatedDate: 2026-07-22
 23. 🔁 *Donnie Darko* (2001)
 24. *Confessions* (2010)
 25. *Schindler’s List* (1993)
+26. *The Odyssey* (2026)
 
 ## TV Shows
 
