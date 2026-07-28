@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-27
+lastUpdatedDate: 2026-07-28
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -165,6 +165,7 @@ lastUpdatedDate: 2026-07-27
 160. _Pretenders_, Pretenders
 161. _Reality Awaits_, The Strokes
 162. _Rid of Me_, PJ Harvey
+163. _Amazing Grace_, Aretha Franklin
 
 ## Live Shows
 
