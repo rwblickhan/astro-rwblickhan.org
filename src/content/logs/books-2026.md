@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-07-27
+lastUpdatedDate: 2026-07-28
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -29,6 +29,7 @@ lastUpdatedDate: 2026-07-27
 24. _The House in the Cerulean Sea_, TJ Klune
 25. _Infinite Jest_, David Foster Wallace
 26. _Don’t Call It Art: 10 Ways to Create Like A Kid Again_, Austin Kleon
+27. 🔁 _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
 
 ## Skimmed / DNF
 
