@@ -30,6 +30,7 @@ lastUpdatedDate: 2026-07-28
 25. _Infinite Jest_, David Foster Wallace
 26. _Don’t Call It Art: 10 Ways to Create Like A Kid Again_, Austin Kleon
 27. 🔁 _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
+28. _DIE Vol. 2: Split the Party_, Kieron Gillen and Stephanie Hans
 
 ## Skimmed / DNF
 
