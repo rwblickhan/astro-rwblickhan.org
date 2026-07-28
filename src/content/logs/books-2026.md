@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-07-17
+lastUpdatedDate: 2026-07-27
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -28,6 +28,7 @@ lastUpdatedDate: 2026-07-17
 23. _Carthage Must Be Destroyed: The Rise and Fall of an Ancient Civilization_, Richard Miles
 24. _The House in the Cerulean Sea_, TJ Klune
 25. _Infinite Jest_, David Foster Wallace
+26. _Don’t Call It Art: 10 Ways to Create Like A Kid Again_, Austin Kleon
 
 ## Skimmed / DNF
 
