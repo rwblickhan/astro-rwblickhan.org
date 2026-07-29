@@ -166,6 +166,7 @@ lastUpdatedDate: 2026-07-28
 161. _Reality Awaits_, The Strokes
 162. _Rid of Me_, PJ Harvey
 163. _Amazing Grace_, Aretha Franklin
+164. _Tweaker Poem EP_, Frost Children
 
 ## Live Shows
 
