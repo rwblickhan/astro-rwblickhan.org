@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-28
+lastUpdatedDate: 2026-07-29
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -167,6 +167,7 @@ lastUpdatedDate: 2026-07-28
 162. _Rid of Me_, PJ Harvey
 163. _Amazing Grace_, Aretha Franklin
 164. _Tweaker Poem EP_, Frost Children
+165. _The Black Album_, Jaÿ-Z
 
 ## Live Shows
 
