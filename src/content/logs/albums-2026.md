@@ -168,6 +168,7 @@ lastUpdatedDate: 2026-07-29
 163. _Amazing Grace_, Aretha Franklin
 164. _Tweaker Poem EP_, Frost Children
 165. _The Black Album_, Jaÿ-Z
+166. _Let It Be_, The Replacements
 
 ## Live Shows
 
