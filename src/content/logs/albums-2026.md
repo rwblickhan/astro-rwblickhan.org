@@ -169,6 +169,7 @@ lastUpdatedDate: 2026-07-30
 164. _Tweaker Poem EP_, Frost Children
 165. _The Black Album_, Jaÿ-Z
 166. _Let It Be_, The Replacements
+167. _Bloom_, Rüfüs du Sol
 
 ## Live Shows
 
