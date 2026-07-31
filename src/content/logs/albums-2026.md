@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-30
+lastUpdatedDate: 2026-07-31
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -171,6 +171,7 @@ lastUpdatedDate: 2026-07-30
 166. _Let It Be_, The Replacements
 167. _Bloom_, Rüfüs du Sol
 168. _Music, Fashion, Film_, Charli xcx
+169. _Inhale / Exhale_, Rüfüs du Sol
 
 ## Live Shows
 
