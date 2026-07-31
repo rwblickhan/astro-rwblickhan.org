@@ -170,6 +170,7 @@ lastUpdatedDate: 2026-07-30
 165. _The Black Album_, Jaÿ-Z
 166. _Let It Be_, The Replacements
 167. _Bloom_, Rüfüs du Sol
+168. _Music, Fashion, Film_, Charli xcx
 
 ## Live Shows
 
