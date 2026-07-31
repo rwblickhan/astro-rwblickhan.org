@@ -1,4 +1,4 @@
-root_dir = "/Users/rwblickhan/Developer/astro-rwblickhan.org/main"
+root_dir = "/Users/rwblickhan/Developer/astro-rwblickhan.org/dist"
 exclude = [
   "https://app.thestorygraph.com",
   "https://worldcat.org",
