@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-02
+lastUpdatedDate: 2026-08-03
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -175,6 +175,7 @@ lastUpdatedDate: 2026-08-02
 170. _(What’s the Story) Morning Glory?_, Oasis
 171. _Solace_, Rüfüs du Sol
 172. _Room On Fire_, The Strokes
+173. _Angles_, The Strokes
 
 ## Live Shows
 
