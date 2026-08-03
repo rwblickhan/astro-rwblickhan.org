@@ -177,6 +177,7 @@ lastUpdatedDate: 2026-08-03
 172. _Room On Fire_, The Strokes
 173. _Angles_, The Strokes
 174. _Comedown Machine_, The Strokes
+175. _Future Present Past EP_, The Strokes
 
 ## Live Shows
 
