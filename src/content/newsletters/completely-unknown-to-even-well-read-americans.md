@@ -1,5 +1,5 @@
 ---
-title: Completely Unknown To Even Well-read Americans
+title: Completely Unknown To Even Well-Read Americans
 lastUpdatedDate: 2026-08-02
 publicationDate: 2026-08-02
 season: 8
