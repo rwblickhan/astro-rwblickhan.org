@@ -173,6 +173,7 @@ lastUpdatedDate: 2026-08-02
 168. _Music, Fashion, Film_, Charli xcx
 169. _Inhale / Exhale_, Rüfüs du Sol
 170. _(What’s the Story) Morning Glory?_, Oasis
+171. _Solace_, Rüfüs du Sol
 
 ## Live Shows
 
