@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-07-31
+lastUpdatedDate: 2026-08-02
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -172,6 +172,7 @@ lastUpdatedDate: 2026-07-31
 167. _Bloom_, Rüfüs du Sol
 168. _Music, Fashion, Film_, Charli xcx
 169. _Inhale / Exhale_, Rüfüs du Sol
+170. _(What’s the Story) Morning Glory?_, Oasis
 
 ## Live Shows
 
