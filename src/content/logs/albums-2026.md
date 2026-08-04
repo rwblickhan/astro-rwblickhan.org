@@ -181,6 +181,7 @@ lastUpdatedDate: 2026-08-04
 176. _Sister_, Frost Children
 177. _Decide_, Djo
 178. _The Crux_, Djo
+179. _The Crux Deluxe_, Djo
 
 ## Live Shows
 
