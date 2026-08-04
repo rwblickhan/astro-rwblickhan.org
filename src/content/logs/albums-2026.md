@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-03
+lastUpdatedDate: 2026-08-04
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -178,6 +178,7 @@ lastUpdatedDate: 2026-08-03
 173. _Angles_, The Strokes
 174. _Comedown Machine_, The Strokes
 175. _Future Present Past EP_, The Strokes
+176. _Sister_, Frost Children
 
 ## Live Shows
 
