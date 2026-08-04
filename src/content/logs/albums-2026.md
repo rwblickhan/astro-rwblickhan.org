@@ -180,6 +180,7 @@ lastUpdatedDate: 2026-08-04
 175. _Future Present Past EP_, The Strokes
 176. _Sister_, Frost Children
 177. _Decide_, Djo
+178. _The Crux_, Djo
 
 ## Live Shows
 
