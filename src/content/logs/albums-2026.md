@@ -183,6 +183,7 @@ lastUpdatedDate: 2026-08-04
 178. _The Crux_, Djo
 179. _The Crux Deluxe_, Djo
 180. _Oi Oi Oi_, Boys Noize
+181. _Power_, Boys Noize
 
 ## Live Shows
 
