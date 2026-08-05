@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-04
+lastUpdatedDate: 2026-08-05
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -184,6 +184,7 @@ lastUpdatedDate: 2026-08-04
 179. _The Crux Deluxe_, Djo
 180. _Oi Oi Oi_, Boys Noize
 181. _Power_, Boys Noize
+182. _Out of the Black_, Boys Noize
 
 ## Live Shows
 
