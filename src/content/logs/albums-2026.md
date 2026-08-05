@@ -186,6 +186,7 @@ lastUpdatedDate: 2026-08-05
 181. _Power_, Boys Noize
 182. _Out of the Black_, Boys Noize
 183. _Lord Willin’_, Clipse
+184. _Hell Hath No Fury_, Clipse
 
 ## Live Shows
 
