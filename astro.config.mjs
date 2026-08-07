@@ -33,6 +33,9 @@ export default defineConfig({
     layout: "constrained",
     breakpoints: [640, 1080, 1280, 1920],
   },
+  experimental: {
+    incrementalBuild: true,
+  },
   markdown: {
     processor: satteri({
       features: { math: false },
