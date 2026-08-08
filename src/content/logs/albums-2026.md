@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-05
+lastUpdatedDate: 2026-08-07
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -192,9 +192,10 @@ lastUpdatedDate: 2026-08-05
 
 ## Live Shows
 
-1. Not for Radio @ Fox Theater
-2. Gelli Haha @ Brick & Mortar Music Hall
-3. Health x Carpenter Brut @ the Warfield
-4. Lizzie Waters / Paper Straw / Silverset @ Rickshaw Stop
+1. Not for Radio @ Fox Theater (1/5)
+2. Gelli Haha @ Brick & Mortar Music Hall (3/26)
+3. Health x Carpenter Brut @ the Warfield (3/31)
+4. Lizzie Waters / Paper Straw / Silverset @ Rickshaw Stop (7/2)
+5. Clipse / Turnstile / Charli xcx @ Outside Lands (8/7)
 
 [^wingdings]: The album’s _actual_ title is an [unpronounceable glyph](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review), as is the alias of Kieran Hebden (aka Four Tet).
