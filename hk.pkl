@@ -7,7 +7,6 @@ local linters = new Mapping<String, Step> {
     ["markdownlint"] = Builtins.markdown_lint
     ["lastUpdatedDate"] {
         glob = "src/**/*.md"
-        fix = #"sd 'lastUpdatedDate: \d\d\d\d-\d\d-\d\d' "lastUpdatedDate: $(date +%Y-%m-%d)" {{ files }}"#
         check = """
             TODAY=$(date +%Y-%m-%d)
             failed=0
@@ -31,10 +30,6 @@ hooks {
         steps = linters
     }
     ["pre-push"] {
-        fix = true
-        steps = linters
-    }
-    ["fix"] {
         fix = true
         steps = linters
     }
