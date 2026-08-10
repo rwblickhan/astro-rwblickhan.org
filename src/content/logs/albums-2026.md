@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-09
+lastUpdatedDate: 2026-08-10
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -189,6 +189,7 @@ lastUpdatedDate: 2026-08-09
 184. _Hell Hath No Fury_, Clipse
 185. _Till the Casket Drops_, Clipse
 186. _Let God Sort Em Out_, Clipse
+187. _Mama’s Gun_, Erykah Badu
 
 ## Live Shows
 
