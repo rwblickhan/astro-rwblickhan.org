@@ -190,6 +190,7 @@ lastUpdatedDate: 2026-08-10
 185. _Till the Casket Drops_, Clipse
 186. _Let God Sort Em Out_, Clipse
 187. _Mama’s Gun_, Erykah Badu
+188. _Synchronicity_, The Police
 
 ## Live Shows
 
