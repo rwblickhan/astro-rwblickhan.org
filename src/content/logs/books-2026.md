@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-07-28
+lastUpdatedDate: 2026-08-10
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -31,6 +31,7 @@ lastUpdatedDate: 2026-07-28
 26. _Don’t Call It Art: 10 Ways to Create Like A Kid Again_, Austin Kleon
 27. 🔁 _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
 28. _DIE Vol. 2: Split the Party_, Kieron Gillen and Stephanie Hans
+29. _The Tarot of Leonora Carrington_ (ed. Susan Aberth and Tere Arcq)
 
 ## Skimmed / DNF
 
