@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-10
+lastUpdatedDate: 2026-08-11
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -192,6 +192,7 @@ lastUpdatedDate: 2026-08-10
 187. _Mama’s Gun_, Erykah Badu
 188. _Synchronicity_, The Police
 189. _Ten_, Pearl Jam
+190. _Crosby, Stills & Nash_, Crosby, Stills & Nash
 
 ## Live Shows
 
