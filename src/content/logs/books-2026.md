@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-08-10
+lastUpdatedDate: 2026-08-13
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -32,6 +32,7 @@ lastUpdatedDate: 2026-08-10
 27. 🔁 _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
 28. _DIE Vol. 2: Split the Party_, Kieron Gillen and Stephanie Hans
 29. _The Tarot of Leonora Carrington_ (ed. Susan Aberth and Tere Arcq)
+30. _Jane Eyre: An Autobiography_, Charlotte Brontë
 
 ## Skimmed / DNF
 
