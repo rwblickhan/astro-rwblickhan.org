@@ -198,6 +198,7 @@ lastUpdatedDate: 2026-08-17
 193. _At Folsom Prison_, Johnny Cash
 194. _Murmur_, R.E.M.
 195. _20 Golden Greats_, Buddy Holly & The Crickets
+196. _DOOMED!_, Open Mike Eagle & Kenny Segal
 
 ## Live Shows
 
