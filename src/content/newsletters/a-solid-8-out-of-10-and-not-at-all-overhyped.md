@@ -1,5 +1,5 @@
 ---
-title: a-solid-8-out-of-10-and-not-at-all-overhyped
+title: A Solid 8 Out Of 10 And Not At All Overhyped
 lastUpdatedDate: 2026-08-16
 publicationDate: 2026-08-16
 season: 8
