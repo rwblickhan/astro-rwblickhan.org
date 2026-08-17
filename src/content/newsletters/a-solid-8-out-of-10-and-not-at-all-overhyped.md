@@ -1,8 +1,8 @@
 ---
-Title: a-solid-8-out-of-10-and-not-at-all-overhyped
+title: a-solid-8-out-of-10-and-not-at-all-overhyped
 lastUpdatedDate: 2026-08-16
 publicationDate: 2026-08-16
-Season: 8
+season: 8
 ---
 
 ![The sign for Beep's Burgers in San Francisco](../../assets/newsletters/beeps.jpg)
