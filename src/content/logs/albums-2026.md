@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-14
+lastUpdatedDate: 2026-08-17
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -197,6 +197,7 @@ lastUpdatedDate: 2026-08-14
 192. _Saturday Night Fever OST_, Various Artists
 193. _At Folsom Prison_, Johnny Cash
 194. _Murmur_, R.E.M.
+195. _20 Golden Greats_, Buddy Holly & The Crickets
 
 ## Live Shows
 
