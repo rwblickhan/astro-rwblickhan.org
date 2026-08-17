@@ -199,6 +199,7 @@ lastUpdatedDate: 2026-08-17
 194. _Murmur_, R.E.M.
 195. _20 Golden Greats_, Buddy Holly & The Crickets
 196. _DOOMED!_, Open Mike Eagle & Kenny Segal
+197. _Book of Pain_, Godgifu
 
 ## Live Shows
 
