@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-08-13
+lastUpdatedDate: 2026-08-19
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -33,6 +33,7 @@ lastUpdatedDate: 2026-08-13
 28. _DIE Vol. 2: Split the Party_, Kieron Gillen and Stephanie Hans
 29. _The Tarot of Leonora Carrington_ (ed. Susan Aberth and Tere Arcq)
 30. _Jane Eyre: An Autobiography_, Charlotte Brontë
+31. _The City & The City_, China Miéville
 
 ## Skimmed / DNF
 
