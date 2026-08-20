@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-17
+lastUpdatedDate: 2026-08-19
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -200,6 +200,7 @@ lastUpdatedDate: 2026-08-17
 195. _20 Golden Greats_, Buddy Holly & The Crickets
 196. _DOOMED!_, Open Mike Eagle & Kenny Segal
 197. _Book of Pain_, Godgifu
+198. _A Chance To Cut Is A Chance To Cute_, Matmos
 
 ## Live Shows
 
