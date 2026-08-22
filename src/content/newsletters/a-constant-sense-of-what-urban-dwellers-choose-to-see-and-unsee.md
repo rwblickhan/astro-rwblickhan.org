@@ -7,7 +7,7 @@ season: 8
 
 ![A sign in Oakland reading "End Road Work"](../../assets/newsletters/end-road-work.jpg)
 
-> A sign in Oakland - I can't help but reading this as a brave protestor against the ongoing onslaught of neverending road work...
+- A sign in Oakland - I can't help but reading this as a brave protestor against the ongoing onslaught of neverending road work...
 
 So this week I read China Miéville’s [_The City & The City_](https://app.thestorygraph.com/books/4410c358-1eb8-40b3-b0c5-d77ffa02d1c3), which was my first Miéville novel and a [direct inspiration](https://steamcommunity.com/games/632470/announcements/detail/3334287173823797601) for _Disco Elysium_.
 
