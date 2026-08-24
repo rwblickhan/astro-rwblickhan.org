@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-21
+lastUpdatedDate: 2026-08-24
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -203,6 +203,7 @@ lastUpdatedDate: 2026-08-21
 198. _A Chance To Cut Is A Chance To Cute_, Matmos
 199. _The Stranger_, Billy Joel
 200. _Give U Space_, K Wata
+201. _Daydream Nation_, Sonic Youth
 
 ## Live Shows
 
