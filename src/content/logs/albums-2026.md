@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-08-24
+lastUpdatedDate: 2026-08-25
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -204,6 +204,7 @@ lastUpdatedDate: 2026-08-24
 199. _The Stranger_, Billy Joel
 200. _Give U Space_, K Wata
 201. _Daydream Nation_, Sonic Youth
+202. _Bridge Over Troubled Water_, Simon & Garfunkel
 
 ## Live Shows
 
