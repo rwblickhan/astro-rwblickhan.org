@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-08-21
+lastUpdatedDate: 2026-08-25
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -34,6 +34,7 @@ lastUpdatedDate: 2026-08-21
 29. _The Tarot of Leonora Carrington_ (ed. Susan Aberth and Tere Arcq)
 30. _Jane Eyre: An Autobiography_, Charlotte Brontë
 31. _The City & The City_, China Miéville
+32. _Wide Sargasso Sea_, Jean Rhys
 
 ## Skimmed / DNF
 
