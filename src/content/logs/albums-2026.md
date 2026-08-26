@@ -206,6 +206,7 @@ lastUpdatedDate: 2026-08-25
 201. _Daydream Nation_, Sonic Youth
 202. _Bridge Over Troubled Water_, Simon & Garfunkel
 203. _Dot Dot Dot EP_, K Wata
+204. _Jolene_, Dolly Parton
 
 ## Live Shows
 
