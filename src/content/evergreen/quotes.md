@@ -460,6 +460,22 @@ The ones I find myself thinking about a lot...
 
 - _Jane Eyre_, Charlotte Brontë
 
+> This is for my mother, I would think, wherever her soul is wandering, for it has left her body.
+
+- _Wide Sargasso Sea_, Jean Rhys
+
+> "Well," I answered annoyed, "that is precisely how your beautiful island seems to me, quite unreal and like a dream."
+>
+> "But how can rivers and mountains and the sea be unreal?"
+>
+> "And how can millions of people, their houses and their streets be unreal?"
+>
+> "More easily," she said, "much more easily. Yes a big city must be like a dream."
+>
+> "No, this is unreal and like a dream," I thought.
+
+- _Wide Sargasso Sea_, Jean Rhys
+
 ## From Non-Fiction
 
 > Butler’s novel [_Parable of the Sower_] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
