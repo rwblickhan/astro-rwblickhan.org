@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-07-10
+lastUpdatedDate: 2026-08-31
 ---
 
 ## Favorites
@@ -444,9 +444,21 @@ The ones I find myself thinking about a lot...
 
 - _Little Women_, Lousia May Alcott
 
-> “ I never wanted to go away, and the hard part now is the leaving you all. I’m not afraid, but it seems as if I should be homesick for you even in heaven.”
+> “I never wanted to go away, and the hard part now is the leaving you all. I’m not afraid, but it seems as if I should be homesick for you even in heaven.”
 
 - _Little Women_, Lousia May Alcott
+
+> "She has been unkind to you, no doubt; because you see, she dislikes your cast of character, as Miss Scatcherd does mine; but how minutely you remember all she has done and said to you! What a singularly deep impression her injustice seems to have made on your heart! No ill-usage so brands its record on my feelings. Would you not be happier if you tried to forget her severity, together with the passionate emotions it excited? Life appears to me too short to be spent in nursing animosity or registering wrongs."
+
+- _Jane Eyre_, Charlotte Brontë
+
+> "Sir," I interrupted him, "you are inexorable for that unfortunate lady: you speak of her with hate with vindictive antipathy. It is cruel-she cannot help being mad."
+
+- _Jane Eyre_, Charlotte Brontë
+
+> I was a fool both times. To have yielded then would have been an error of principle; to have yielded now would have been an error of judgment.
+
+- _Jane Eyre_, Charlotte Brontë
 
 ## From Non-Fiction
 
@@ -502,7 +514,7 @@ The ones I find myself thinking about a lot...
 
 - "What Is A Novelist?", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
-> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their _agelasty_ is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
+> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their *agelasty* is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
 
 - "Aesthetics and Existence", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
