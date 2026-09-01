@@ -476,6 +476,60 @@ The ones I find myself thinking about a lot...
 
 - _Wide Sargasso Sea_, Jean Rhys
 
+> It is increasingly hard to find valid art that is about stuff that is real in this way. The older Mario gets, the more confused he gets about the fact that everyone at E.T.A. over the age of about Kent Blott finds stuff that's really real uncomfortable and they get embarrassed. It's like there's some rule that real stuff can only get mentioned if everybody rolls their eyes or laughs in a way that isn't happy. The worst-feeling thing that happened today was at lunch when Michael Pemulis told Mario he had an idea for setting up a Dial-a-Prayer telephone service for atheists in which the atheist dials the number and the line just rings and rings and no one answers. It was a joke and a good one, and Mario got it; what was unpleasant was that Mario was the only one at the big table whose laugh was a happy laugh; everybody else sort of looked down like they were laughing at somebody with a disability.
+
+- _Infinite Jest_, David Foster Wallace
+
+> For some reason now I am thinking of the sort of philanthropist who seems humanly repellent not in spite of his charity but because of it: on some level you can tell that he views the recipients of his charity not as persons so much as pieces of exercise equipment on which he can develop and demonstrate his own virtue. What's creepy and repellent is that this sort of philanthropist clearly needs privation and suffering to continue, since it is his own virtue he prizes, instead of the ends to which the virtue is ostensibly directed.
+>
+> Everything Orin's mother is about is always terribly well-ordered and multivalent. I suspect she was badly abused as a child. I have nothing concrete to back this up.
+
+- _Infinite Jest_, David Foster Wallace
+
+> "One, one is that you attain the goal and realize the shocking realization that attaining the goal does not complete or redeem you, does not make everything for your life "OK" as you are, in the culture, educated to assume it will do this, the goal. And then you face this fact that what you had thought would have the meaning does not have the meaning when you get it, and you are impaled by shock."
+
+- _Infinite Jest_, David Foster Wallace
+
+> _It_ is a level of psychic pain wholly incompatible with human life as we know it. _It_ is a sense of radical and thoroughgoing evil not just as a feature but as the essence of conscious existence. _It_ is a sense of poisoning that pervades the self at the self's most elementary levels. _It_ is a nausea of the cells and soul. _It_ is an unnumb intuition in which the world is fully rich and animate and un-map-like and also thoroughly painful and malignant and antagonistic to the self, which depressed self _It_ billows on and coagulates around and wraps in _Its_ black folds and absorbs into _Itself_, so that an almost mystical unity is achieved with a world every constituent of which means painful harm to the self. _Its_ emotional character, the feeling Gomper describes _It_ as, is probably mostly indescribable except as a sort of double bind in which any/all of the alternatives we associate with human agency-sitting or standing, doing or resting, speaking or keeping silent, living or dying - are not just unpleasant but literally horrible.
+
+- _Infinite Jest_, David Foster Wallace
+
+> The authoritative term _psychotic depression_ makes Kate Gompert feel especially lonely. Specifically the _psychotic_ part. Think of it this way. Two people are screaming in pain. One of them is being tortured with electric current. The other is not. The screamer who's being tortured with electric current is not psychotic: her screams are circumstantially appropriate. The screaming person who's not being tortured, however, is psychotic, since the outside parties making the diagnoses can see no electrodes or measurable amperage. One of the least pleasant things about being psychotically depressed on a ward full of psychotically depressed patients is coming to see that none of them is really psychotic, that their screams are entirely appro-prate to certain circumstances part of whose special charm is that they ate undetectable by any outside party. Thus the loneliness: it's a closed circuit: the current is both applied and received from within.
+
+- _Infinite Jest_, David Foster Wallace
+
+> He says Wraiths by and large exist (putting his arms out slowly and making little quotation-mark finger-wiggles as he said _exist_) in a totally different Heisenbergian dimension of rate-change and time-passage. As an example, he goes on, normal animate men's actions and motions look, to a wraith, to be occurring at about the rate a clock's hour-hand moves, and are just about as interesting to look at.
+
+- _Infinite Jest_, David Foster Wallace
+
+> Gately lets himself wonder what it would be like, able to quantum off anyplace instantly and stand on ceilings and probably burgle like no burglar'd ever dreamed of, but not able to really affect anything or interface with anybody, having nobody know you're there, having people's normal rushed daily lives look like the movements of planets and suns, having to sit patiently very still in one place for a long time even to have some poor addled son of a bitch even be willing to entertain your maybe being there. It'd be real free-seeming, but incredibly lonely, he imagines.
+
+- _Infinite Jest_, David Foster Wallace
+
+> bBy the time the final repetitive image darkens to a silhouette and the credits roll against it and the old man's face stops spasming in horror and the boy shuts up, the cartridge's real tension becomes the ques-tion: Did Himself subject us to 500 seconds of the repeated cry 'Murderer!" for some reason, i.e. is the puzzlement and then boredom and then impatience and then excruciation and then near-rage aroused in the film's audience by the static repetitive final ⅓ of the film aroused for some theoretical-aesthetic end, or is Himself simply an amazingly shitty editor of his own stuff?
+
+- _Infinite Jest_, David Foster Wallace
+
+> Each time, Anton tried to figure out exactly how this happened, but each time the pattern became so complex that he could no longer follow it.
+
+- _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
+
+> The name Anton became acceptable again ten or fifteen years after the War, which goes to show how insignificant Anton Mussert actually was. For of course the name Adolf still won't do. Not until people are called Adolf again will the Second World War be really behind us.
+
+- _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
+
+> Then Anton heard his mother, in the backyard, whisper Peter's name into the night. It was as if the cold which now streamed into the house emanated from her back. There was no further sound. Anton saw and heard everything, but somehow he was no longer quite there. One part of him was already somewhere else, or nowhere at all. He was under-nourished, and stiff now with cold, but that wasn't all. This moment-his father cut out in black against the snow, his mother outside on the terrace under the starlight-became eternal, detached itself from all that had come before and all that would follow. It became part of him and began its journey through the rest of his life, until finally it would explode like a soap bubble, after which it might as well never have happened.
+
+- _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
+
+> Beyond the horizon, Amsterdam, which he now knew better than Haarlem, but only in the way one knows someone else's face better than one's own.
+
+- _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
+
+> At a time when he still thought about such things, he had wondered what would happen if he drilled a tunnel right through the center of the earth and then jumped in, wearing a fireproof suit. After a certain amount of time that could be determined mathematically, he would arrive, feet first, at the antipode, though he would not quite reach the surface. He would come momentarily to a standstill. Then he would disappear once more, upside-down, into the depths. After many years, also mathematically calculable, he would at last stop and remain floating, weightless, at the center of the earth, where he would be able to reflect upon the state of things in eternity.
+
+- _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
+
 ## From Non-Fiction
 
 > Butler’s novel [_Parable of the Sower_] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
