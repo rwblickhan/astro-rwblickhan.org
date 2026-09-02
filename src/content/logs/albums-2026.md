@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-09-01
+lastUpdatedDate: 2026-09-02
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -212,6 +212,7 @@ lastUpdatedDate: 2026-09-01
 207. _rain music_, Duval Timothy & Carlos Niño
 208. _Piano Works 2016-2026_, John Carroll Kirby
 209. _Every Picture Tells A Story_, Rod Stewart
+210. _Otis Blue_, Otis Redding
 
 ## Live Shows
 
