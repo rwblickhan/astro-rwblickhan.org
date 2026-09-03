@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-09-02
+lastUpdatedDate: 2026-09-03
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -214,6 +214,7 @@ lastUpdatedDate: 2026-09-02
 209. _Every Picture Tells A Story_, Rod Stewart
 210. _Otis Blue_, Otis Redding
 211. _Professor Murder Rides The Subway EP_, Professor Murder
+212. _Life After Death_, The Notorious B.I.G.
 
 ## Live Shows
 
