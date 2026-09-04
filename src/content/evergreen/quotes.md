@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-08-31
+lastUpdatedDate: 2026-09-04
 ---
 
 ## Favorites
@@ -506,7 +506,7 @@ The ones I find myself thinking about a lot...
 
 - _Infinite Jest_, David Foster Wallace
 
-> bBy the time the final repetitive image darkens to a silhouette and the credits roll against it and the old man's face stops spasming in horror and the boy shuts up, the cartridge's real tension becomes the ques-tion: Did Himself subject us to 500 seconds of the repeated cry 'Murderer!" for some reason, i.e. is the puzzlement and then boredom and then impatience and then excruciation and then near-rage aroused in the film's audience by the static repetitive final ⅓ of the film aroused for some theoretical-aesthetic end, or is Himself simply an amazingly shitty editor of his own stuff?
+> By the time the final repetitive image darkens to a silhouette and the credits roll against it and the old man's face stops spasming in horror and the boy shuts up, the cartridge's real tension becomes the question: Did Himself subject us to 500 seconds of the repeated cry 'Murderer!" for some reason, i.e. is the puzzlement and then boredom and then impatience and then excruciation and then near-rage aroused in the film's audience by the static repetitive final ⅓ of the film aroused for some theoretical-aesthetic end, or is Himself simply an amazingly shitty editor of his own stuff?
 
 - _Infinite Jest_, David Foster Wallace
 
@@ -753,6 +753,10 @@ The ones I find myself thinking about a lot...
 > I love you, Scott. And I run away from the thing that I love. But what I've done in the past doesn't have to define me. Help me keep remembering that, okay?
 
 - _Scott Pilgrim Takes Off_ (2023)
+
+> Harry, I’m going to let you in on a little secret. Everyday, once a day, give yourself a present. Don’t plan it, don’t wait for it. Just let it happen. It could be a new shirt at the men’s store. A catnap in your office chair. Or two cups of good, hot black coffee. Like this.
+
+- _Twin Peaks_ Season 1
 
 ## From Games
 
