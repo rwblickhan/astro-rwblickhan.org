@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-09-04
+lastUpdatedDate: 2026-09-06
 ---
 
 ## Favorites
@@ -530,6 +530,26 @@ The ones I find myself thinking about a lot...
 
 - _The Assault_, Harry Mulisch (trans. Claire Nicolas White)
 
+> It was hardly a year since they had come to live at Tipton Grange with their uncle, a man nearly sixty, of acquiescent temper, miscellaneous opinions, and uncertain vote. He had travelled in his younger years, and was held in this part of the county to have contracted a too rambling habit of mind. Mr. Brooke's conclusions were as difficult to predict as the weather: it was only safe to say that he would act with benevolent intentions, and that he would spend as little money as possible in carrying them out. For the most glutinously indefinite minds enclose some hard grains of habit; and a man has been seen lax about all his own interests except the retention of his snuffbox, concerning which he was watchful, suspicious, and greedy of clutch.
+
+- _Middlemarch_, George Eliot
+
+> Dorothea, with all her eagerness to know the truths of life, retained very childlike ideas about marriage. She felt sure that she would have accepted the judicious Hooker, if she had been born in time to save him from that wretched mistake he made in matrimony; or John Milton when his blindness had come on; or any of the other great men whose odd habits it would have been glorious piety to endure; but an amiable handsome baronet, who said "Exactly" to her remarks even when she expressed uncertainty-how could he affect her as a lover?
+
+- _Middlemarch_, George Eliot
+
+> Since they could remember, there had been a mixture of criticism and awe in the attitude of Celia's mind towards her elder sister. The younger had always worn a yoke; but is there any yoked creature without its private opinions?
+
+- _Middlemarch_, George Eliot
+
+> "It is a misfortune, in some senses: I feed too much on the inward sources; I live too much with the dead. My mind is something like the ghost of an ancient, wandering about the world and trying mentally to construct it as it used to be, in spite of ruin and confusing changes."
+
+- _Middlemarch_, George Eliot
+
+> Sir James might not have originated this estimate; but a kind Providence furnishes the limpest personality with a little gum or starch in the form of tradition.
+
+- _Middlemarch_, George Eliot
+
 ## From Non-Fiction
 
 > Butler’s novel [_Parable of the Sower_] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
@@ -584,7 +604,7 @@ The ones I find myself thinking about a lot...
 
 - "What Is A Novelist?", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
-> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their _agelasty_ is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
+> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their *agelasty* is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
 
 - "Aesthetics and Existence", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
