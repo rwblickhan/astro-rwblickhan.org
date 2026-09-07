@@ -38,7 +38,6 @@ lastUpdatedDate: 2026-09-06
 33. _Ranma 1/2_ Vol. 3 + 4, Rumiko Takahashi (trans. Gerard Jones and Matt Thorn)
 34. _DIE Vol. 3: The Great Game_, Kieron Gillen and Stephanie Hans
 
-
 ## Skimmed / DNF
 
 1. _Seven Empty Houses_, Samanta Schweblin (trans. Megan McDowell)
