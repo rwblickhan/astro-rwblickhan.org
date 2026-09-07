@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-07-26
+lastUpdatedDate: 2026-09-07
 ---
 
 ## Movies
@@ -31,6 +31,7 @@ lastUpdatedDate: 2026-07-26
 24. *Confessions* (2010)
 25. *Schindler’s List* (1993)
 26. *The Odyssey* (2026)
+27. *I Saw The TV Glow* (2024)
 
 ## TV Shows
 
