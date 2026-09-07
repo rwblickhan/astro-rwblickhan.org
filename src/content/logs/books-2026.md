@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-09-06
+lastUpdatedDate: 2026-09-07
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -37,6 +37,7 @@ lastUpdatedDate: 2026-09-06
 32. _Wide Sargasso Sea_, Jean Rhys
 33. _Ranma 1/2_ Vol. 3 + 4, Rumiko Takahashi (trans. Gerard Jones and Matt Thorn)
 34. _DIE Vol. 3: The Great Game_, Kieron Gillen and Stephanie Hans
+35. _DIE Vol. 4: Bleed_, Kieron Gillen and Stephanie Hans
 
 ## Skimmed / DNF
 
