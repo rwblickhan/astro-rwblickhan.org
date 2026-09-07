@@ -40,6 +40,7 @@ lastUpdatedDate: 2026-09-07
 3. *Heated Rivalry* Season 1 (2025)
 4. *Pluribus* Season 1 (2025)
 5. *Kill la Kill* (2013)
+6. 🔁 *Twin Peaks* Season 1 (1990)
 
 ## Musicals & Plays
 
