@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-09-03
+lastUpdatedDate: 2026-09-07
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -215,6 +215,7 @@ lastUpdatedDate: 2026-09-03
 210. _Otis Blue_, Otis Redding
 211. _Professor Murder Rides The Subway EP_, Professor Murder
 212. _Life After Death_, The Notorious B.I.G.
+213. _Temptation To Exist_, Andrew W.K.
 
 ## Live Shows
 
