@@ -558,7 +558,6 @@ The ones I find myself thinking about a lot...
 
 - _DIE Vol. 4: Bleed_, Kieron Gillen and Stephanie Hans
 
-
 ## From Non-Fiction
 
 > Butler’s novel [_Parable of the Sower_] is brutal and soaring. I guess there’s a word people sometimes use for that combination: biblical.
