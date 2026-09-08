@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-09-06
+lastUpdatedDate: 2026-09-08
 ---
 
 ## Favorites
@@ -549,6 +549,15 @@ The ones I find myself thinking about a lot...
 > Sir James might not have originated this estimate; but a kind Providence furnishes the limpest personality with a little gum or starch in the form of tradition.
 
 - _Middlemarch_, George Eliot
+
+> Dice are a new method for discerning fortunes and fate. They are a stand-in for older methods. Before, they read the future in the guts of sacrifices. Dice are just entrails with a patina of politeness.
+
+- _DIE Vol. 4: Bleed_, Kieron Gillen and Stephanie Hans
+
+> Role-playing games are conversations in quotation marks, letting you talk about true things with a little distance, as a fantasy. But for all of that, they're still a conversation. And you should listen to what you are telling the game and what the game is telling you. You can learn a lot. I did. And when the conversation with the game ends, you can take what you learn out of it...
+
+- _DIE Vol. 4: Bleed_, Kieron Gillen and Stephanie Hans
+
 
 ## From Non-Fiction
 
