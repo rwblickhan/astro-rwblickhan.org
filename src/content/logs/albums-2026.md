@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-09-08
+lastUpdatedDate: 2026-09-09
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -217,6 +217,7 @@ lastUpdatedDate: 2026-09-08
 212. _Life After Death_, The Notorious B.I.G.
 213. _Temptation To Exist_, Andrew W.K.
 214. _Bringing It All Back Home_, Bob Dylan
+215. _Sweet Baby James_, James Taylor
 
 ## Live Shows
 
