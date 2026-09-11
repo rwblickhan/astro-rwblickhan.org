@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-09-10
+lastUpdatedDate: 2026-09-11
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -218,6 +218,7 @@ lastUpdatedDate: 2026-09-10
 213. _Temptation To Exist_, Andrew W.K.
 214. _Bringing It All Back Home_, Bob Dylan
 215. _Sweet Baby James_, James Taylor
+216. _She’s So Unusual_, Cyndi Lauper
 
 ## Live Shows
 
