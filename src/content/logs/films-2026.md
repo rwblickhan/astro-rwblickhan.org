@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-09-07
+lastUpdatedDate: 2026-09-22
 ---
 
 ## Movies
@@ -32,6 +32,8 @@ lastUpdatedDate: 2026-09-07
 25. *Schindler’s List* (1993)
 26. *The Odyssey* (2026)
 27. *I Saw The TV Glow* (2024)
+28. *Before Sunrise* (1995)
+29. 🔁 *The Grand Budapest Hotel* (2014)
 
 ## TV Shows
 
