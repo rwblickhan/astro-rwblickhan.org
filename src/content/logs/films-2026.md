@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-09-22
+lastUpdatedDate: 2026-09-26
 ---
 
 ## Movies
@@ -34,6 +34,9 @@ lastUpdatedDate: 2026-09-22
 27. *I Saw The TV Glow* (2024)
 28. *Before Sunrise* (1995)
 29. 🔁 *The Grand Budapest Hotel* (2014)
+30. *Before Sunset* (2004)
+31. *The French Dispatch of the Liberty, Kansas Evening Sun* (2021)
+32. *Before Midnight* (2013)
 
 ## TV Shows
 
