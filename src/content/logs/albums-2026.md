@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-09-17
+lastUpdatedDate: 2026-09-27
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -232,5 +232,6 @@ lastUpdatedDate: 2026-09-17
 8. Bikini Kill / Mitski / Doechii / Chappell Roan / Not for Radio / Olivia Rodrigo (feat. Sarah MacLachlan, Alanis Morissette, and Stevie Nicks) @ Daisy Chain Fields (8/29)
 9. Slayyyter @ Fox Theater (9/9)
 10. Ninajirachi w/ Mgna Crrrta @ Commodore Ballrom (9/17)
+11. Gelli Haha / Tricky / Fcukers / Tove Lo / DJ Shadow / Robyn / Dog Blood / Prospa @ Portola (9/26)
 
 [^wingdings]: The album’s _actual_ title is an [unpronounceable glyph](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review), as is the alias of Kieran Hebden (aka Four Tet).
