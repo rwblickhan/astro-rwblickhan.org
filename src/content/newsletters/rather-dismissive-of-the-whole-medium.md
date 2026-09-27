@@ -2,7 +2,7 @@
 title: Rather Dismissive of the Whole Medium
 lastUpdatedDate: 2026-09-27
 publicationDate: 2026-09-27
-Season: 8
+season: 8
 ---
 
 ![A street sign in Kensington, Toronto advertising a "Mothman Sanctuary"](../../assets/newsletters/mothman.jpg)
