@@ -219,6 +219,7 @@ lastUpdatedDate: 2026-09-28
 214. _Bringing It All Back Home_, Bob Dylan
 215. _Sweet Baby James_, James Taylor
 216. _She’s So Unusual_, Cyndi Lauper
+217. _Beggars Banquet_, The Rolling Stones
 
 ## Live Shows
 
