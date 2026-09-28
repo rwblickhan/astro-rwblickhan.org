@@ -220,6 +220,7 @@ lastUpdatedDate: 2026-09-28
 215. _Sweet Baby James_, James Taylor
 216. _She’s So Unusual_, Cyndi Lauper
 217. _Beggars Banquet_, The Rolling Stones
+218. _Blood Sugar Sex Magik_, Red Hot Chili Peppers
 
 ## Live Shows
 
