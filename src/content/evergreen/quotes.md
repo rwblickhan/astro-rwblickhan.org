@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-09-08
+lastUpdatedDate: 2026-09-28
 ---
 
 ## Favorites
@@ -612,7 +612,7 @@ The ones I find myself thinking about a lot...
 
 - "What Is A Novelist?", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
-> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their _agelasty_ is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
+> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their *agelasty* is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
 
 - "Aesthetics and Existence", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
@@ -785,6 +785,34 @@ The ones I find myself thinking about a lot...
 > Harry, I’m going to let you in on a little secret. Everyday, once a day, give yourself a present. Don’t plan it, don’t wait for it. Just let it happen. It could be a new shirt at the men’s store. A catnap in your office chair. Or two cups of good, hot black coffee. Like this.
 
 - _Twin Peaks_ Season 1
+
+> You know, I believe if there’s any kind of God, it wouldn’t be in any of us — not you or me, but just this little space in between. If there’s any kind of magic in this world, it must be in the attempt of understanding someone, sharing something. I know. It’s almost impossible to succeed, but... who cares, really? The answer must be in the attempt.
+
+- _Before Sunrise_ (1995)
+
+> Memory is a wonderful thing if you don’t have to deal with the past.
+
+- _Before Sunset_ (2004)
+
+> I always feel like a freak because I’m never able to move on like this, you know? People just have an affair or even entire relationships. They break up and they forget. They move on like they would’ve changed brand of cereals. I feel I was never able to forget anyone I’ve been with, because each person had their own... specific qualities. You can never replace anyone. What is lost is lost. \[...\] You can never replace anyone, because everyone is made of such beautiful, specific details.
+
+- _Before Sunset_ (2004)
+
+> I guess when you’re young, you just believe there will be many people with whom you’ll connect with. And later in life, you realize it only happens a few times.
+
+- _Before Sunset_ (2004)
+
+> But lately I've been forgetting little things. He's sort of fading and I'm starting to forget him and it's like losing him again. Sometimes, I make myself remember every detail of his face - the exact color of his eyes, his lips, his teeth, the texture of his skin, his hair - that was all gone by the time he went. And sometimes, not always, but sometimes I can actually see him. It is as if a cloud moves away and there he is. I could almost touch him, but then the real world rushes in, and he vanishes again. For a while, I did this every morning, when the sun was not too bright outside because the sun somehow makes him vanish. He appears and he disappears like a sunrise or sunset, anything so ephemeral. Just like our life - we appear and we disappear and we are so important to some, but, we are just passing through.
+
+- _Before Midnight_ (2013)
+
+> Still there. Still there. Still there. Still there.... Gone.
+
+- _Before Midnight_ (2013)
+
+> The toxic salts in the radishes... they had a flavor, totally unfamiliar to me. Like a bitter, moldy, peppery, spicy, oily, kind of earth. I never tasted that taste in my life. Not entirely pleasant, extremely poisonous, but still, a new flavor. That’s a rare thing at my age.
+
+- _The French Dispatch of the Liberty, Kansas Evening Sun_ (2021)
 
 ## From Games
 
