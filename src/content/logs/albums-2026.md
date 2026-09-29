@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-09-28
+lastUpdatedDate: 2026-09-29
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -222,6 +222,8 @@ lastUpdatedDate: 2026-09-28
 217. _Beggars Banquet_, The Rolling Stones
 218. _Blood Sugar Sex Magik_, Red Hot Chili Peppers
 219. _AmeriKKKa’s Most Wanted_, Ice Cube
+220. _Dig Me Out_, Sleater-Kinney
+221. _At Last!_, Etta James
 
 ## Live Shows
 
