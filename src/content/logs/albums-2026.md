@@ -221,6 +221,7 @@ lastUpdatedDate: 2026-09-28
 216. _She’s So Unusual_, Cyndi Lauper
 217. _Beggars Banquet_, The Rolling Stones
 218. _Blood Sugar Sex Magik_, Red Hot Chili Peppers
+219. _AmeriKKKa’s Most Wanted_, Ice Cube
 
 ## Live Shows
 
