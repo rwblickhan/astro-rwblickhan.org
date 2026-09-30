@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-09-29
+lastUpdatedDate: 2026-09-30
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -225,6 +225,7 @@ lastUpdatedDate: 2026-09-29
 220. _Dig Me Out_, Sleater-Kinney
 221. _At Last!_, Etta James
 222. _Tommy_, The Who
+223. _Willy and the Poor Boys_, Creedence Clearwater Revival
 
 ## Live Shows
 
