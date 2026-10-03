@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-02
+lastUpdatedDate: 2026-10-03
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -243,6 +243,7 @@ lastUpdatedDate: 2026-10-02
 11. Gelli Haha / Tricky / Fcukers / Tove Lo / DJ Shadow / Robyn / Dog Blood / Prospa @ Portola (9/26)
 12. Adéla / Ben UFO / underscores / Ninajirachi[^gelli] / horsegiirL / Swedish House Mafia @ Portola (9/27)
 13. Los Thuthanaka @ Great American Music Hall (10/1)
+14. Madeon w/ Contact Sports @ Bill Graham (10/2)
 
 [^wingdings]: The album’s _actual_ title is an [unpronounceable glyph](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review), as is the alias of Kieran Hebden (aka Four Tet).
 [^gelli]: In which Gelli was standing right behind me in the crowd lol
