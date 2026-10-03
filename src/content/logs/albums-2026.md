@@ -227,11 +227,12 @@ lastUpdatedDate: 2026-10-03
 222. _Tommy_, The Who
 223. _Willy and the Poor Boys_, Creedence Clearwater Revival
 224. _Bad_, Michael Jackson
+225. _Contact Sports_, Contact Sports
 
 ## Live Shows
 
 1. Not for Radio @ Fox Theater (1/5)
-2. Gelli Haha @ Brick & Mortar Music Hall (3/26)
+2. Gelli Haha w/ Big Sis @ Brick & Mortar Music Hall (3/26)
 3. Health x Carpenter Brut @ the Warfield (3/31)
 4. Lizzie Waters / Paper Straw / Silverset @ Rickshaw Stop (7/2)
 5. Clipse / Turnstile / Charli xcx @ Outside Lands (8/7)
