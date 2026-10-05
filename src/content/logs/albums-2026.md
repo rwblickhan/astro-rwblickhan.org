@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-04
+lastUpdatedDate: 2026-10-05
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -228,6 +228,7 @@ lastUpdatedDate: 2026-10-04
 223. _Willy and the Poor Boys_, Creedence Clearwater Revival
 224. _Bad_, Michael Jackson
 225. _Contact Sports_, Contact Sports
+226. _Songs of Leonard Cohen_, Leonard Cohen
 
 ## Live Shows
 
