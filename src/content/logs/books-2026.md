@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-10-03
+lastUpdatedDate: 2026-10-06
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -39,6 +39,7 @@ lastUpdatedDate: 2026-10-03
 34. _DIE Vol. 3: The Great Game_, Kieron Gillen and Stephanie Hans
 35. _DIE Vol. 4: Bleed_, Kieron Gillen and Stephanie Hans
 36. _Taiwan Travelogue_, Yáng Shuāng-zǐ (trans. Lin King)
+37. _Bad Blood: Secrets and Lies in a Silicon Valley Startup_, John Carreyrou
 
 ## Skimmed / DNF
 
