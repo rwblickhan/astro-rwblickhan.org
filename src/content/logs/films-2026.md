@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-10-06
+lastUpdatedDate: 2026-10-10
 ---
 
 ## Movies
@@ -38,6 +38,7 @@ lastUpdatedDate: 2026-10-06
 31. *The French Dispatch of the Liberty, Kansas Evening Sun* (2021)
 32. *Before Midnight* (2013)
 33. *Primetime* (2026)
+34. *The Thing* (1982)
 
 ## TV Shows
 
