@@ -231,6 +231,7 @@ lastUpdatedDate: 2026-10-09
 226. _Songs of Leonard Cohen_, Leonard Cohen
 227. _Body Talk_, Robyn
 228. _HomeSoon_, Cousin
+229. _Wake The Town_, Cousin
 
 ## Live Shows
 
