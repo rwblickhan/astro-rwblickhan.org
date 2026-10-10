@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-06
+lastUpdatedDate: 2026-10-09
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -230,6 +230,7 @@ lastUpdatedDate: 2026-10-06
 225. _Contact Sports_, Contact Sports
 226. _Songs of Leonard Cohen_, Leonard Cohen
 227. _Body Talk_, Robyn
+228. _HomeSoon_, Cousin
 
 ## Live Shows
 
