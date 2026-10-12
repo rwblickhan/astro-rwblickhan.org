@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-10
+lastUpdatedDate: 2026-10-12
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -233,6 +233,7 @@ lastUpdatedDate: 2026-10-10
 228. _HomeSoon_, Cousin
 229. _Wake The Town_, Cousin
 230. _Slanted & Enchanted_, Pavement
+231. _Diamond Life_, Sade
 
 ## Live Shows
 
