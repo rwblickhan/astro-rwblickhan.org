@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-12
+lastUpdatedDate: 2026-10-13
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -234,6 +234,7 @@ lastUpdatedDate: 2026-10-12
 229. _Wake The Town_, Cousin
 230. _Slanted & Enchanted_, Pavement
 231. _Diamond Life_, Sade
+232. _Midnight Marauders_, A Tribe Called Quest
 
 ## Live Shows
 
@@ -254,4 +255,5 @@ lastUpdatedDate: 2026-10-12
 15. Paper Straw / Cup Cup @ Polish Club (10/3)
 
 [^wingdings]: The album’s _actual_ title is an [unpronounceable glyph](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review), as is the alias of Kieran Hebden (aka Four Tet).
+
 [^gelli]: In which Gelli was standing right behind me in the crowd lol
