@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-15
+lastUpdatedDate: 2026-10-16
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -236,6 +236,7 @@ lastUpdatedDate: 2026-10-15
 231. _Diamond Life_, Sade
 232. _Midnight Marauders_, A Tribe Called Quest
 233. _Pink Moon_, Nick Drake
+234. _Graduation_, Kanye West
 
 ## Live Shows
 
