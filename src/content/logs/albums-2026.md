@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-18
+lastUpdatedDate: 2026-10-19
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -238,6 +238,8 @@ lastUpdatedDate: 2026-10-18
 233. _Pink Moon_, Nick Drake
 234. _Graduation_, Kanye West
 235. _Melody A.M._, Röyksopp
+236. _The Understanding_, Röyksopp
+237. _Tea for the Tillerman_, Cat Stevens
 
 ## Live Shows
 
