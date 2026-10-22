@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-10-10
+lastUpdatedDate: 2026-10-22
 ---
 
 ## Movies
@@ -39,6 +39,7 @@ lastUpdatedDate: 2026-10-10
 32. *Before Midnight* (2013)
 33. *Primetime* (2026)
 34. *The Thing* (1982)
+35. 🔁 *Digimon: The Movie* (2000)
 
 ## TV Shows
 
@@ -48,6 +49,7 @@ lastUpdatedDate: 2026-10-10
 4. *Pluribus* Season 1 (2025)
 5. *Kill la Kill* (2013)
 6. 🔁 *Twin Peaks* Season 1 (1990)
+7. 🔁 *Over the Garden Wall* (2014)
 
 ## Musicals & Plays
 
