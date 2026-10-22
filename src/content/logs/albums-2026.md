@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-19
+lastUpdatedDate: 2026-10-22
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -240,6 +240,7 @@ lastUpdatedDate: 2026-10-19
 235. _Melody A.M._, Röyksopp
 236. _The Understanding_, Röyksopp
 237. _Tea for the Tillerman_, Cat Stevens
+238. _The Eagles_, The Eagles
 
 ## Live Shows
 
