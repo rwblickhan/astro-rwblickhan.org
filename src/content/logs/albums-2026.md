@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-22
+lastUpdatedDate: 2026-10-23
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -242,6 +242,8 @@ lastUpdatedDate: 2026-10-22
 237. _Tea for the Tillerman_, Cat Stevens
 238. _The Eagles_, The Eagles
 239. _Tha Carter III_, Lil Wayne
+240. _Dancing On The Wall_, MUNA
+241. _Raising Hell_, Run-DMC
 
 ## Live Shows
 
