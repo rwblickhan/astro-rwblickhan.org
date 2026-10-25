@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-23
+lastUpdatedDate: 2026-10-24
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -244,6 +244,7 @@ lastUpdatedDate: 2026-10-23
 239. _Tha Carter III_, Lil Wayne
 240. _Dancing On The Wall_, MUNA
 241. _Raising Hell_, Run-DMC
+242. _Under Tangled Silence_, Djrum
 
 ## Live Shows
 
