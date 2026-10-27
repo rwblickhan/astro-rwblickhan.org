@@ -51,6 +51,7 @@ lastUpdatedDate: 2026-10-27
 5. *Kill la Kill* (2013)
 6. 🔁 *Twin Peaks* Season 1 (1990)
 7. 🔁 *Over the Garden Wall* (2014)
+8. *The Dropout* (2022)
 
 ## Musicals & Plays
 
