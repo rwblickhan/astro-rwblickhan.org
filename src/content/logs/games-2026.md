@@ -1,6 +1,6 @@
 ---
 title: Games of 2026
-lastUpdatedDate: 2026-09-15
+lastUpdatedDate: 2026-10-26
 ---
 
 ## Video Games
@@ -18,3 +18,4 @@ lastUpdatedDate: 2026-09-15
 2. *Flip 7*
 3. *Mistborn: The Deckbuilding Game*
 4. *Oath: Chronicles of Empire & Exile*
+5. *Tacklebox*
