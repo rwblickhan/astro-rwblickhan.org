@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-10-27
+lastUpdatedDate: 2026-10-28
 ---
 
 ## Movies
@@ -41,6 +41,7 @@ lastUpdatedDate: 2026-10-27
 34. *The Thing* (1982)
 35. 🔁 *Digimon: The Movie* (2000)
 36. 🔁 *Donnie Darko* (2001)
+37. *You Can See Everything* (2026)
 
 ## TV Shows
 
