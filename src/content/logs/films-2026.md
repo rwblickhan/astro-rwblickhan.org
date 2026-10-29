@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-10-28
+lastUpdatedDate: 2026-10-29
 ---
 
 ## Movies
@@ -42,6 +42,7 @@ lastUpdatedDate: 2026-10-28
 35. 🔁 *Digimon: The Movie* (2000)
 36. 🔁 *Donnie Darko* (2001)
 37. *You Can See Everything* (2026)
+38. *P1H: A New World Begins* (2020)
 
 ## TV Shows
 
