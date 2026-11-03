@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-10-06
+lastUpdatedDate: 2026-11-02
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -40,6 +40,7 @@ lastUpdatedDate: 2026-10-06
 35. _DIE Vol. 4: Bleed_, Kieron Gillen and Stephanie Hans
 36. _Taiwan Travelogue_, Yáng Shuāng-zǐ (trans. Lin King)
 37. _Bad Blood: Secrets and Lies in a Silicon Valley Startup_, John Carreyrou
+38. _Beloved_, Toni Morrison
 
 ## Skimmed / DNF
 
