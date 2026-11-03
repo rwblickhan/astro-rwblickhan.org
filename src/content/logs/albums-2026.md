@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-10-29
+lastUpdatedDate: 2026-11-02
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -248,6 +248,8 @@ lastUpdatedDate: 2026-10-29
 243. _Dopamine Chamber_, Fontaines D.C.
 244. _The Birth of Soul_, Ray Charles
 245. _Wild Is The Wind_, Nina Simone
+246. _Gemz_, Sakura Tsuruta
+247. _C/O_, Sakura Tsuruta
 
 ## Live Shows
 
