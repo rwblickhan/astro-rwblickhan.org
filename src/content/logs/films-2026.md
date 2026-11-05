@@ -1,6 +1,6 @@
 ---
 title: Films of 2026
-lastUpdatedDate: 2026-10-29
+lastUpdatedDate: 2026-11-04
 ---
 
 ## Movies
@@ -43,6 +43,7 @@ lastUpdatedDate: 2026-10-29
 36. 🔁 *Donnie Darko* (2001)
 37. *You Can See Everything* (2026)
 38. *P1H: A New World Begins* (2020)
+39. *Wildwood* (2026)
 
 ## TV Shows
 
