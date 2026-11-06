@@ -255,6 +255,7 @@ lastUpdatedDate: 2026-11-06
 250. _American Beauty_, Grateful Dead
 251. _Either/Or_, Elliot Smith
 252. _Modern Mandolin Quartet_, Modern Mandolin Quartet
+253. _CrazySexyCool_, TLC
 
 ## Live Shows
 
