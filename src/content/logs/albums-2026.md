@@ -253,6 +253,7 @@ lastUpdatedDate: 2026-11-05
 248. _The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do_, Fiona Apple
 249. _Wildflowers_, Tom Petty
 250. _American Beauty_, Grateful Dead
+251. _Either/Or_, Elliot Smith
 
 ## Live Shows
 
