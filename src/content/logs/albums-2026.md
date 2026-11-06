@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-11-05
+lastUpdatedDate: 2026-11-06
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -254,6 +254,7 @@ lastUpdatedDate: 2026-11-05
 249. _Wildflowers_, Tom Petty
 250. _American Beauty_, Grateful Dead
 251. _Either/Or_, Elliot Smith
+252. _Modern Mandolin Quartet_, Modern Mandolin Quartet
 
 ## Live Shows
 
