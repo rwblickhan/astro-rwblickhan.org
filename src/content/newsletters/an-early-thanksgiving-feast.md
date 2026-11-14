@@ -1,11 +1,11 @@
 ---
 title: An Early Thanksgiving Feast
-lastUpdatedDate: 2026-04-26 06:13:10.887012+00:00
+lastUpdatedDate: 2026-11-14 06:13:10.887012+00:00
 publicationDate: 2019-11-25 06:13:10.887012+00:00
 season: 1
 ---
 
-![Market St at night](../..//assets/newsletters/market_street.jpg)
+![Market St at night](../../assets/newsletters/market_street.jpg)
 
 It's almost American Thanksgiving! Which is a profoundly problematic holiday in some ways (although thank god it's not Columbus Day, which has been very wisely replaced with Indigenous People’s Day, at least here in San Francisco), but nevertheless a nice break on the way to Christmas. So, happy early Thanksgiving!
 

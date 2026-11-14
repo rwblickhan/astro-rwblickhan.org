@@ -1,6 +1,6 @@
 ---
 title: A Long-Term Target for Reading (AiD \#23)
-lastUpdatedDate: 2026-04-26 22:23:34.700545+00:00
+lastUpdatedDate: 2026-11-14 22:23:34.700545+00:00
 publicationDate: 2020-05-10 22:23:34.700545+00:00
 season: 1
 ---
@@ -29,7 +29,7 @@ On a semi-related note, for my book-buying needs (not that I… have book buying
 
 Since this year is apparently turning into a “year of classics”, I checked off a prominent member of the cinematic canon, Kurosawa’s _Rashomon_, in which four eyewitnesses tell differing, contradictory accounts of a sexual assault and murder. It is, indeed, a very good movie—it somehow manages to be a Thinky Movie that you could watch in a media studies class, while also being an enjoyable murder-mystery-ish yarn that’s done and through in just 90 minutes. On the other hand, as the comments on Kanopy pointed out[^1], it can be a bit hard to stomach a story of sexual assault[^2] that’s essentially ‘50s attitudes projected back on the Sengoku-era past, with not a little victim-blaming and obnoxious obsession with honor—this is definitely a film that would deserve a content warning in a film studies class. On the _other_ other hand, you could also read the film as a critique of those attitudes—definitely, none of the characters come out looking particularly noble, especially as the film repeatedly tells us they are _all_ lying, with one of the fight scenes in which the dueling characters are visibly shaking being especially shocking. I also found the ending, which concludes the frame story, rather disturbing; I’m not sure this was entirely the intention (Wikipedia seems to frame it as a “happy ending”), but then again, I’m not sure it’s _not_ intended either. In any case, I would tentatively recommend it.
 
-![Zdzisław Beksiński playing with discarded ordnance](../..//assets/newsletters/discarded_ordnance.jpg)
+![Zdzisław Beksiński playing with discarded ordnance](../../assets/newsletters/discarded_ordnance.jpg)
 
 In video essay land, here’s one titled [“The Nightmare Artist”](https://youtu.be/dxRB4sdbIcw), exploring the life and work of deeply influential horror painter Zdzisław Beksiński. The only thing I have to add here is that you should definitely see the above picture of him and his friend playing with discarded ordnance in 1941, [found on Wikipedia](https://commons.wikimedia.org/wiki/File:Zdzisek_1941.jpg).
 

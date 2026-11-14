@@ -1,6 +1,6 @@
 ---
 title: A Not-Particularly-Charismatic Scammer
-lastUpdatedDate: 2026-11-02
+lastUpdatedDate: 2026-11-14
 publicationDate: 2026-11-02
 season: 8
 ---
@@ -35,6 +35,6 @@ That’s not a thread the film pushes on, other than my favorite scene, in which
 
 So, anyway. It could have been a much more interesting film, and I’m worried about its long-term impacts, but in the meantime it _is_ a fascinating document and one well worth watching, if only to take part in the Discourse. I would just caution anyone considering it to _not_ go in blind, but instead take the time to read _Bad Blood_. Please. Elizabeth Holmes did actually literally harm people. Don’t let that go.
 
-[^uncanny] Fun fact: over Halloween I met a woman at a hacker house party who was, apparently, a photojournalist that often covers tech culture. She explained that she actually knows a number of the people involved in the Theranos saga, and specifically that Billy Evans ran in her social circle, so a post-Theranos-pre-prison Holmes was in her orbit as well for a while. And, she said, she genuinely doesn’t understand why anybody was taken in, because in real life Holmes really does have that utterly unnerving stare, like she’s about to go for your neck.
+[^uncanny]: Fun fact: over Halloween I met a woman at a hacker house party who was, apparently, a photojournalist that often covers tech culture. She explained that she actually knows a number of the people involved in the Theranos saga, and specifically that Billy Evans ran in her social circle, so a post-Theranos-pre-prison Holmes was in her orbit as well for a while. And, she said, she genuinely doesn’t understand why anybody was taken in, because in real life Holmes really does have that utterly unnerving stare, like she’s about to go for your neck.
 [^fake]: A bit like Orson Welles’ [_F For Fake_](https://letterboxd.com/film/f-for-fake/), which is now, I suppose, thoroughly spoiled for you. Oops. Still, _F for Fake_ is a classic and well worth watching.
 [^attorney]: One of the best scenes is when Evans casually reveals that he has power of attorney over Holmes, and Seyfriend, looking genuinely alarmed, shouts “How the FUCK do you have power of attorney?!”

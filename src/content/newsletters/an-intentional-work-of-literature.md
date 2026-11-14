@@ -1,6 +1,6 @@
 ---
 title: An Intentional Work of Literature
-lastUpdatedDate: 2026-04-26 08:29:11.405137+00:00
+lastUpdatedDate: 2026-11-14 08:29:11.405137+00:00
 publicationDate: 2019-12-23 08:29:11.405137+00:00
 season: 1
 ---
@@ -51,4 +51,4 @@ On the non-fiction front, I’ve been trundling through Michael Gomez’ _Africa
 
 Also, since I read a bit more on Pocket this week than I have in a while, I’d like to make note of [A Constructive Look At TempleOS](http://www.codersnotes.com/notes/a-constructive-look-at-templeos/), in which Richard Mitton takes a look at the _good_ parts of [TempleOS](https://en.wikipedia.org/wiki/TempleOS), an infamously Bible-themed operating system built from the ground up by Terry Davis, a sufferer of schizophrenia prone to racist outbursts and, apparently, divine revelation, who died last year. It’s probably the closest programming gets to “outsider art” or “outsider music” (like The Shaggs, above)—it’s especially fascinating to try to _appreciate_ it for what it does, genuinely, get right.
 
-![A mansion near Sutro Tower](../..//assets/newsletters/sutro_mansion.jpg)
+![A mansion near Sutro Tower](../../assets/newsletters/sutro_mansion.jpg)

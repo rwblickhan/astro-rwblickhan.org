@@ -1,6 +1,6 @@
 ---
 title: Generic High Fantasy
-lastUpdatedDate: 2024-11-20
+lastUpdatedDate: 2026-11-14
 publicationDate: 2024-11-20
 season: 7
 ---
@@ -30,7 +30,7 @@ Reactions to this dominant genre started even before canonization, especially wi
 
 But the more important thread to follow to modern fantasy is not reactions per se but extensions and reinventions.
 
-![An image from the D&D Eberron setting](../../assets//newsletters/eberron.jpg)
+![An image from the D&D Eberron setting](../../assets/newsletters/eberron.jpg)
 
 D&D has a long history of increasingly out-there settings. In particular, Eberron has always delighted me. It calls itself “dungeonpunk,” which means it extrapolates from D&D’s weird, anachronistic ruleset into completely serious worldbuilding. If wizards can use three gold pieces to magic up a portal, then *of course* they will immediately build intercontinental rail! *Magic: The Gathering* (itself a child of D&D, as it was invented to pass the time between D&D games) has Ravnica, among other settings, which introduces a planet-wide city controlled by a council of guilds. There’s also Iron Kingdoms (later adapted into Warmachine and Hordes), which stapled full-on steampunk (itself a whole subgenre with its own history) into “normal” D&D, resulting in a weird mix of “engineers building steam engines” and “wizards chanting magic spells to control the steam engines.”
 
