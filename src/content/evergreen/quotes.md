@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-09-28
+lastUpdatedDate: 2026-11-14
 ---
 
 ## Favorites
@@ -550,6 +550,46 @@ The ones I find myself thinking about a lot...
 
 - _Middlemarch_, George Eliot
 
+> This was a not infrequent procedure with Mr. Vincy, to be rash in jovial assent, and on becoming subsequently conscious that he had been rash, to employ others in making the offensive retractation. However, Mrs. Vincy, who never willingly opposed her husband, lost no time the next morning in letting Rosamond know what he had said.
+
+- _Middlemarch_, George Eliot
+
+> The part Mr. Vincy preferred playing was that of the generous host whom nobody criticises.
+
+- _Middlemarch_, George Eliot
+
+> Our sense of duty must often wait for some work which shall take the place of dilettanteism and make us feel that the quality of our action is not a matter of indifference.
+
+- _Middlemarch_, George Eliot
+
+> Will Ladislaw was stretched on the rug contemplating the curtain-pole abstractedly, and humming very low the notes of 'When first I saw thy face;" while the house spaniel, also stretched out with small choice of room, looked from between his paws at the usurper of the rug with silent but strong objection.
+
+- _Middlemarch_, George Eliot
+
+> "Why?" said Lydgate, who was much given to use that inconvenient word in a curt tone.
+
+- _Middlemarch_, George Eliot
+
+> He distrusted her affection; and what loneliness is more lonely than distrust?
+
+- _Middlemarch_, George Eliot
+
+> "Suitable directors to assist me I have no doubt of securing. Mr. Brooke of Tipton has already given me his concurrence, and a pledge to contribute yearly: he has not specified the sum-probably not a great one. But he will be a useful member of the board." A useful member was perhaps to be defined as one who would originate nothing, and always vote with Mr. Bulstrode.
+
+- _Middlemarch_, George Eliot
+
+> He willingly imagined her toiling under the fetters of a promise to erect a tomb with his name upon it. (Not that Mr. Casaubon called the future volumes a tomb; he called them the _Key to All Mythologies_.)
+
+- _Middlemarch_, George Eliot
+
+> But what we call our despair is often only the painful eagerness of unfed hope.
+
+- _Middlemarch_, George Eliot
+
+> The only way in which Mr. Brooke could be coerced into thinking of the right arguments at the right time was to be well plied with them till they took up all the room in his brain. But here there was the difficulty of finding room, so many things having been taken in beforehand.
+
+- _Middlemarch_, George Eliot
+
 > Dice are a new method for discerning fortunes and fate. They are a stand-in for older methods. Before, they read the future in the guts of sacrifices. Dice are just entrails with a patina of politeness.
 
 - _DIE Vol. 4: Bleed_, Kieron Gillen and Stephanie Hans
@@ -612,7 +652,7 @@ The ones I find myself thinking about a lot...
 
 - "What Is A Novelist?", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
-> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their _agelasty_ is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
+> There are people whose intelligence I admire, whose decency I respect, but with whom I feel ill at ease: I censor my remarks to avoid being misunderstood, to avoid seeming cynical, to avoid wounding them by some frivolous word. They do not live at peace with the comical. I do not blame them for it; their *agelasty* is deeply embedded in them, and they cannot help it. But neither can I help it and, while I do not detest them, I give them a wide berth.
 
 - "Aesthetics and Existence", _The Curtain_, Milan Kundera (trans. Linda Asher)
 
