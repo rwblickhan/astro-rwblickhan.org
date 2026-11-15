@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-11-06
+lastUpdatedDate: 2026-11-15
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -256,6 +256,8 @@ lastUpdatedDate: 2026-11-06
 251. _Either/Or_, Elliot Smith
 252. _Modern Mandolin Quartet_, Modern Mandolin Quartet
 253. _CrazySexyCool_, TLC
+254. _SMILE! :D plus+_, Porter Robinson
+255. _Journey of the Deep Sea Dweller Pt. 1_, Drexciya
 
 ## Live Shows
 
