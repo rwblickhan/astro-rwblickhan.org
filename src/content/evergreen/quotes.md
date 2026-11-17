@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-11-14
+lastUpdatedDate: 2026-11-16
 ---
 
 ## Favorites
@@ -589,6 +589,36 @@ The ones I find myself thinking about a lot...
 > The only way in which Mr. Brooke could be coerced into thinking of the right arguments at the right time was to be well plied with them till they took up all the room in his brain. But here there was the difficulty of finding room, so many things having been taken in beforehand.
 
 - _Middlemarch_, George Eliot
+
+> Often they are mistook for insects-but they are seeds in which the whole generation sleeps confident of a future. And for a moment it is easy to believe each one has one-will become all of what is contained in the spore: will live out its days as planned. This moment of certainty lasts no longer than that; longer, perhaps, than the spore itself.
+
+- _Beloved_, Toni Morrison
+
+> She did not tell them to clean up their lives or to go and sin no more. She did not tell them they were the blessed of the earth, its inheriting meek or its glorybound pure.
+>
+> She told them that the only grace they could have was the grace they could imagine. That if they could not see it, they would not have it.
+
+- _Beloved_, Toni Morrison
+
+> In Ohio seasons are theatrical. Each one enters like a prima donna, convinced its performance is the reason the world has people in it.
+
+- _Beloved_, Toni Morrison
+
+> Sad as it was that she did not know where her children were buried or what they looked like if alive, fact was she knew more about them than she knew about herself, having never had the map to discover what she was like.
+>
+> Could she sing? (Was it nice to hear when she did?) Was she pretty? Was she a good friend? Could she have been a loving mother? A faithful wife? Have I got a sister and does she favor me? If my mother knew me would she like me?
+
+- _Beloved_, Toni Morrison
+
+> He did not put his hat on right away. First he fingered it, deciding how his going would be, how to make it an exit not an escape. And it was very important not to leave without looking. He stood up, turned and looked up the white stairs. She was there all right. Standing straight as a line with her back to him. He didn't rush to the door. He moved slowly and when he got there he opened it before asking Sethe to put supper aside for him because he might be a little late getting back. Only then did he put on his hat.
+>
+> Sweet, she thought. He must think I can't bear to hear him say it. That after all I have told him and after telling me how many feet I have, "goodbye" would break me to pieces. Ain't that sweet.
+
+- _Beloved_, Toni Morrison
+
+> Something is missing from 124. Something larger than the people who lived there. Something more than Beloved or the red light. He can't put his finger on it, but it seems, for a moment, that just beyond his knowing is the glare of an outside thing that embraces while it accuses.
+
+- _Beloved_, Toni Morrison
 
 > Dice are a new method for discerning fortunes and fate. They are a stand-in for older methods. Before, they read the future in the guts of sacrifices. Dice are just entrails with a patina of politeness.
 
