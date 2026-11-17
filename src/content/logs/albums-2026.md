@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-11-16
+lastUpdatedDate: 2026-11-17
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -260,6 +260,7 @@ lastUpdatedDate: 2026-11-16
 255. _Journey of the Deep Sea Dweller Pt. 1_, Drexciya
 256. _Only Built 4 Cuban Linx..._, Raekwon
 257. _Déjà Vu_, Crosby, Stills, Nash & Young
+258. _Rage Against The Machine_, Rage Against The Machine
 
 ## Live Shows
 
