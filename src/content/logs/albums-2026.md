@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-11-15
+lastUpdatedDate: 2026-11-16
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -258,6 +258,7 @@ lastUpdatedDate: 2026-11-15
 253. _CrazySexyCool_, TLC
 254. _SMILE! :D plus+_, Porter Robinson
 255. _Journey of the Deep Sea Dweller Pt. 1_, Drexciya
+256. _Only Built 4 Cuban Linx..._, Raekwon
 
 ## Live Shows
 
