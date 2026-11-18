@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: My favorite quotes
-lastUpdatedDate: 2026-11-16
+lastUpdatedDate: 2026-11-17
 ---
 
 ## Favorites
@@ -555,6 +555,62 @@ The ones I find myself thinking about a lot...
 - _Middlemarch_, George Eliot
 
 > The part Mr. Vincy preferred playing was that of the generous host whom nobody criticises.
+
+- _Middlemarch_, George Eliot
+
+> I have often thought that I should like to talk to you again," she said, immediately. "It seems strange to me how many things I said to you."
+>
+> "I remember them all," said Will, with the unspeakable content in his soul of feeling that he was in the presence of a creature worthy to be perfectly loved. I think his own feelings at that moment were perfect, for we mortals have our divine moments, when love is satisfied in the completeness of the beloved object.
+
+- _Middlemarch_, George Eliot
+
+> Will was not without his intentions to be always generous, but our tongues are little triggers which have usually been pulled before general intentions can be brought to bear.
+
+- _Middlemarch_, George Eliot
+
+> "The fact is, I don't like to begin about it with Brooke, in our mutual position; the whole thing is so unpleasant. I do wish people would behave like gentlemen," said the good baronet, feeling that this was a simple and comprehensive programme for social well-being.
+
+- _Middlemarch_, George Eliot
+
+> "What is that?" said Will, rather jealous of the belief.
+>
+> "That by desiring what is perfectly good, even when we don't quite know what it is and cannot do what we would, we are part of the divine power against evil-widening the skirts of light and making the struggle with darkness narrower."
+>
+> "That is a beautiful mysticism-it is a-"
+>
+> "Please not to call it by any name," said Dorothea, putting out her hands entreatingly. "You will say it is Persian, or something else geographical. It is my life. I have found it out, and cannot part with it. I have always been finding out my religion since I was a little girl. I used to pray so much-now I hardly ever pray. I try not to have desires merely for myself, because they may not be good for others, and I have too much already.""
+
+- _Middlemarch_, George Eliot
+
+> "No, no; but it's a fine thing to come to a man when he's seen into the nature of business: to have the chance of getting a bit of the country into good fettle, as they say, and putting men into the right way with their farming, and getting a bit of good contriving and solid building done-that those who are living and those who come after will be the better for. I'd sooner have it than a fortune. I hold it the most honorable work that is."
+
+- _Middlemarch_, George Eliot
+
+> What could two men, so different from each other, see in this "brown patch," as Mary called herself? It was certainly not her plainness that attracted them (and let all plain young ladies be warned against the dangerous encouragement given them by Society to confide in their want of beauty). A human being in this aged nation of ours is a very wonderful whole, the slow creation of long interchanging influences: and charm is a result of two such wholes, the one loving and the one loved.
+
+- _Middlemarch_, George Eliot
+
+> Who shall tell what may be the effect of writing? If it happens to have been cut in stone, though it lie face down-most for ages on a forsaken beach, or "rest quietly under the drums and tramplings of many conquests," it may end by letting us into the secret of usurpations and other scandals gossiped about long empires ago: -this world being apparently a huge whispering-gallery. Such conditions are often minutely represented in our petty lifetimes. As the stone which has been kicked by generations of clowns may come by curious little links of effect under the eyes of a scholar, through whose labors it may at last fix the date of invasions and unlock religions, so a bit of ink and paper which has long been an innocent wrapping or stopgap may at last be laid open under the one pair of eyes which have knowledge enough to turn it into the opening of a catastrophe. To Uriel watching the progress of planetary history from the sun, the one result would be just as much of a coincidence as the other.
+
+- _Middlemarch_, George Eliot
+
+> There was no sound but the cawing of the rooks, which to the accustomed ear is a lullaby, or that last solemn lullaby, a dirge.
+
+- _Middlemarch_, George Eliot
+
+> To a mind largely instructed in the human destiny hardly anything could be more interesting than the inward conflict implied in his formal measured address, delivered with the usual singsong and motion of the head. Nay, are there many situations more sublimely tragic than the struggle of the soul with the demand to renounce a work which has been all the significance of its life-a significance which is to vanish as the waters which come and go where no man has need of them?
+
+- _Middlemarch_, George Eliot
+
+> Lydgate, who had some contempt at hand for futile scholarship, felt a little amusement mingling with his pity. He was at present too ill acquainted with disaster to enter into the pathos of a lot where everything is below the level of tragedy except the passionate egoism of the sufferer.
+
+- _Middlemarch_, George Eliot
+
+> Here was a man who now for the first time found himself looking into the eyes of death-who was passing through one of those rare moments of experience when we feel the truth of a commonplace, which is as different from what we call knowing it, as the vision of waters upon the earth is different from the delirious vision of the water which cannot be had to cool the burning tongue. When the commonplace "We must all die" transforms itself suddenly into the acute consciousness "I must die-and soon," then death grapples us, and his fingers are cruel; afterwards, he may come to fold us in his arms as our mother did, and our last moment of dim earthly discerning may be like the first. To Mr. Casaubon now, it was as if he suddenly found himself on the dark river-brink and heard the plash of the oncoming oar, not discerning the forms, but expecting the summons. In such an hour the mind does not change its lifelong bias, but carries it onward in imagination to the other side of death, gazing backward-perhaps with the divine calm of beneficence, perhaps with the petty anxieties of self-assertion.
+
+- _Middlemarch_, George Eliot
+
+> There was something horrible to Dorothea in the sensation which this unresponsive hardness inflicted on her. That is a strong word, but not too strong: it is in these acts called trivialities that the seeds of joy are forever wasted, until men and women look round with haggard faces at the devastation their own waste has made, and say, the earth bears no harvest of sweetness-calling their denial knowledge.
 
 - _Middlemarch_, George Eliot
 
