@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-11-17
+lastUpdatedDate: 2026-11-18
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -262,6 +262,7 @@ lastUpdatedDate: 2026-11-17
 257. _Déjà Vu_, Crosby, Stills, Nash & Young
 258. _Rage Against The Machine_, Rage Against The Machine
 259. _Ray of Light_, Madonna
+260. _Revengeseekerz_, Jane Remover
 
 ## Live Shows
 
