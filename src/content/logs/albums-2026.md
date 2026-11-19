@@ -263,6 +263,7 @@ lastUpdatedDate: 2026-11-18
 258. _Rage Against The Machine_, Rage Against The Machine
 259. _Ray of Light_, Madonna
 260. _Revengeseekerz_, Jane Remover
+261. _Visions_, G Jones
 
 ## Live Shows
 
