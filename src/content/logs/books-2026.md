@@ -1,6 +1,6 @@
 ---
 title: Books of 2026
-lastUpdatedDate: 2026-11-14
+lastUpdatedDate: 2026-11-18
 ---
 
 1. _Arcadia_, Tom Stoppard
@@ -42,6 +42,7 @@ lastUpdatedDate: 2026-11-14
 37. _Bad Blood: Secrets and Lies in a Silicon Valley Startup_, John Carreyrou
 38. _Beloved_, Toni Morrison
 39. _New Orleans: A Concise History of an Exceptional City_, Charles D. Chamberlain
+40. _Yesteryear_, Caro Claire Burke
 
 ## Skimmed / DNF
 
