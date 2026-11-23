@@ -1,13 +1,13 @@
 ---
 title: The Benefit Of Living In A Major Metropolitan Area Is That There’s So Many People
-lastUpdatedDate: 2026-11-14
+lastUpdatedDate: 2026-11-22
 publicationDate: 2026-11-14
 season: 8
 ---
 
 ![A plate of beignets and a cup of cafe au lait at Cafe du Monde Riverwalk in New Orleans](../../assets/newsletters/cafedumonde.jpg)
 
-- What trip to New Orleans would be complete with a cafe au lait and beignets at Café du Monde?
+- What trip to New Orleans would be complete without a cafe au lait and beignets at Café du Monde?
 
 So one thing I’ve been thinking about recently is friendship.
 
