@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-11-18
+lastUpdatedDate: 2026-11-22
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -264,6 +264,7 @@ lastUpdatedDate: 2026-11-18
 259. _Ray of Light_, Madonna
 260. _Revengeseekerz_, Jane Remover
 261. _Visions_, G Jones
+262. _7LLVSION_, Boys Noize
 
 ## Live Shows
 
