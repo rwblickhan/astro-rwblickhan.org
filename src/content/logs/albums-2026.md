@@ -1,6 +1,6 @@
 ---
 title: Albums of 2026
-lastUpdatedDate: 2026-11-22
+lastUpdatedDate: 2026-11-24
 ---
 
 1. _Blood on the Tracks_, Bob Dylan
@@ -265,6 +265,7 @@ lastUpdatedDate: 2026-11-22
 260. _Revengeseekerz_, Jane Remover
 261. _Visions_, G Jones
 262. _7LLVSION_, Boys Noize
+263. _Imagine_, John Lennon
 
 ## Live Shows
 
